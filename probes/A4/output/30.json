@@ -1,0 +1,86 @@
+[
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   190,
+   197
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   239,
+   250
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   751,
+   758
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   797,
+   808
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1324,
+   1331
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1369,
+   1380
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "trầm cảm và  rối loạn lo âu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R45.1"
+  ],
+  "assertions": [],
+  "position": [
+   108,
+   135
+  ]
+ },
+ {
+  "text": "Bệnh nhân tỉnh, tiếp xúc tốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z76.3"
+  ],
+  "assertions": [],
+  "position": [
+   505,
+   533
+  ]
+ },
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [],
+  "position": [
+   847,
+   857
+  ]
+ },
+ {
+  "text": "Dùng kháng sinh tĩnh mạch.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z79.620"
+  ],
+  "assertions": [],
+  "position": [
+   938,
+   964
+  ]
+ }
+]

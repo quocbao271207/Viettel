@@ -1,0 +1,128 @@
+[
+ {
+  "text": "aspirin 81mg",
+  "type": "THUỐC",
+  "candidates": [
+   "1191"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   760,
+   772
+  ]
+ },
+ {
+  "text": "clopidogrel",
+  "type": "THUỐC",
+  "candidates": [
+   "32968"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   787,
+   798
+  ]
+ },
+ {
+  "text": "prasugrel",
+  "type": "THUỐC",
+  "candidates": [
+   "613391"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   800,
+   809
+  ]
+ },
+ {
+  "text": "clopidogrel",
+  "type": "THUỐC",
+  "candidates": [
+   "32968"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   822,
+   833
+  ]
+ },
+ {
+  "text": "metoprolol",
+  "type": "THUỐC",
+  "candidates": [
+   "6918"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   860,
+   870
+  ]
+ },
+ {
+  "text": "lasix 40mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "313988"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   911,
+   927
+  ]
+ },
+ {
+  "text": "atorvastatin 80mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "259255"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   946,
+   969
+  ]
+ },
+ {
+  "text": "lisinopril 2.5mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "311353"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   986,
+   1008
+  ]
+ },
+ {
+  "text": "ranexa 500mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "35829"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1025,
+   1043
+  ]
+ }
+]

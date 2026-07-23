@@ -1,0 +1,16 @@
+[
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   847,
+   857
+  ]
+ }
+]

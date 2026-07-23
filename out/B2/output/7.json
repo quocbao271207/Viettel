@@ -1,0 +1,174 @@
+[
+ {
+  "text": "Các bệnh lý mạn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   21,
+   41
+  ]
+ },
+ {
+  "text": "hội chứng nghiện rượu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   129,
+   150
+  ]
+ },
+ {
+  "text": "seroquel",
+  "type": "THUỐC",
+  "candidates": [
+   "51272"
+  ],
+  "assertions": [],
+  "position": [
+   190,
+   198
+  ]
+ },
+ {
+  "text": "hội chứng nghiện rượu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   323,
+   344
+  ]
+ },
+ {
+  "text": "tự tử",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   465,
+   470
+  ]
+ },
+ {
+  "text": "Lú lẫn từng đợt gần đây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   477,
+   500
+  ]
+ },
+ {
+  "text": "cảm giác chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   507,
+   525
+  ]
+ },
+ {
+  "text": "khó khăn khi nhìn gần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   532,
+   553
+  ]
+ },
+ {
+  "text": "ảo giác thị giác (ảo giác thị giác)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   618,
+   653
+  ]
+ },
+ {
+  "text": "Ảo thanh (AH) (ảo giác thính giác)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   660,
+   694
+  ]
+ },
+ {
+  "text": "Lú lẫn: từng đợt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   817,
+   833
+  ]
+ },
+ {
+  "text": "chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   840,
+   849
+  ]
+ },
+ {
+  "text": "Khó khăn về thị lực gần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   856,
+   879
+  ]
+ },
+ {
+  "text": "các băng nhóm oligoclonal đang chờ kết quả",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1468,
+   1510
+  ]
+ },
+ {
+  "text": "các băng nhóm oligoclonal đang chờ kết quả",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2048,
+   2090
+  ]
+ },
+ {
+  "text": "Ảo giác do rượu (suy nghĩ)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2240,
+   2266
+  ]
+ },
+ {
+  "text": "Không được coi là thực sự loạn thần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2273,
+   2308
+  ]
+ }
+]

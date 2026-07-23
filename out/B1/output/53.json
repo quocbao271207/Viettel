@@ -1,0 +1,112 @@
+[
+ {
+  "text": "bệnh tim mạch do xơ vữa động mạch",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   131,
+   164
+  ]
+ },
+ {
+  "text": "bệnh thận mạn, không đặc hiệu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   233,
+   262
+  ]
+ },
+ {
+  "text": "Các đợt Cảm giác thắt chặt ngực.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   443,
+   475
+  ]
+ },
+ {
+  "text": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   679,
+   686
+  ]
+ },
+ {
+  "text": "Vị trí: Sau xương ức",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   718,
+   738
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: Nghiêm trọng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   745,
+   778
+  ]
+ },
+ {
+  "text": "Thời gian: Phút",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   785,
+   800
+  ]
+ },
+ {
+  "text": "Tần suất: Các đợt trong vài tuần qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   807,
+   843
+  ]
+ },
+ {
+  "text": "Yếu tố làm giảm: Tự khỏi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   899,
+   923
+  ]
+ },
+ {
+  "text": "Triệu chứng kèm theo: khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   930,
+   959
+  ]
+ },
+ {
+  "text": "Bệnh nhân ban đầu đến",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   998,
+   1019
+  ]
+ }
+]

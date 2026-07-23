@@ -1,0 +1,98 @@
+[
+ {
+  "text": "chỉ dùng để chống đông máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y84.7"
+  ],
+  "assertions": [],
+  "position": [
+   27,
+   53
+  ]
+ },
+ {
+  "text": "đại tiện ra máu đỏ tươi gián đoạn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K59.01"
+  ],
+  "assertions": [],
+  "position": [
+   196,
+   229
+  ]
+ },
+ {
+  "text": "chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R57.9"
+  ],
+  "assertions": [],
+  "position": [
+   232,
+   241
+  ]
+ },
+ {
+  "text": "Vị trí: qua đường hậu môn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y92.480"
+  ],
+  "assertions": [],
+  "position": [
+   265,
+   290
+  ]
+ },
+ {
+  "text": "Màu sắc: đỏ tươi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L53.9"
+  ],
+  "assertions": [],
+  "position": [
+   293,
+   309
+  ]
+ },
+ {
+  "text": "Triệu chứng kèm theo: chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T67.2XXD"
+  ],
+  "assertions": [],
+  "position": [
+   312,
+   343
+  ]
+ },
+ {
+  "text": "Bệnh nhân được khám tại phòng cấp cứu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y92.230"
+  ],
+  "assertions": [],
+  "position": [
+   378,
+   415
+  ]
+ },
+ {
+  "text": "inr là 2.0",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R29.702"
+  ],
+  "assertions": [],
+  "position": [
+   418,
+   428
+  ]
+ }
+]

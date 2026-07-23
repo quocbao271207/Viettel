@@ -1,0 +1,58 @@
+[
+ {
+  "text": "coumadin",
+  "type": "THUỐC",
+  "candidates": [
+   "11289"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   204,
+   212
+  ]
+ },
+ {
+  "text": "coumadin",
+  "type": "THUỐC",
+  "candidates": [
+   "11289"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   248,
+   256
+  ]
+ },
+ {
+  "text": "coumadin",
+  "type": "THUỐC",
+  "candidates": [
+   "11289"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   355,
+   363
+  ]
+ },
+ {
+  "text": "metoprolol",
+  "type": "THUỐC",
+  "candidates": [
+   "6918"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1298,
+   1308
+  ]
+ }
+]

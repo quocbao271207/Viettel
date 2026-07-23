@@ -1,0 +1,16 @@
+[
+ {
+  "text": "flagyl",
+  "type": "THUỐC",
+  "candidates": [
+   "6922"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   742,
+   748
+  ]
+ }
+]

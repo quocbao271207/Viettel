@@ -1,0 +1,38 @@
+[
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   273,
+   281
+  ]
+ },
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   582,
+   590
+  ]
+ },
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   1400,
+   1408
+  ]
+ }
+]

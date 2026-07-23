@@ -1,0 +1,42 @@
+[
+ {
+  "text": "Tuột sonde dẫn lưu ổ bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   346,
+   371
+  ]
+ },
+ {
+  "text": "ống dẫn lưu bị tuột ra 15,24 cm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1184,
+   1215
+  ]
+ },
+ {
+  "text": "Catheter PICC được chuyển sang tay trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1270,
+   1309
+  ]
+ },
+ {
+  "text": "PICC được chuyển sang LUE",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1412,
+   1437
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "text": "Bệnh nhân dung nạp thủ thuật tốt.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1422,
+   1455
+  ]
+ },
+ {
+  "text": "Có ống dẫn mật xuyên gan tại chỗ.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1881,
+   1914
+  ]
+ }
+]

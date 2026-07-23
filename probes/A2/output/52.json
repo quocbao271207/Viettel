@@ -1,0 +1,16 @@
+[
+ {
+  "text": "Augmentin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   630,
+   639
+  ]
+ }
+]

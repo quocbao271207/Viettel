@@ -1,0 +1,104 @@
+[
+ {
+  "text": "aspirin 81mg",
+  "type": "THUỐC",
+  "candidates": [
+   "1191"
+  ],
+  "assertions": [],
+  "position": [
+   760,
+   772
+  ]
+ },
+ {
+  "text": "metoprolol succinate 100mg daily (tăng liều)",
+  "type": "THUỐC",
+  "candidates": [
+   "6918"
+  ],
+  "assertions": [],
+  "position": [
+   860,
+   904
+  ]
+ },
+ {
+  "text": "lasix 40mg daily (tăng liều)",
+  "type": "THUỐC",
+  "candidates": [
+   "313988"
+  ],
+  "assertions": [],
+  "position": [
+   911,
+   939
+  ]
+ },
+ {
+  "text": "atorvastatin 80mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "259255"
+  ],
+  "assertions": [],
+  "position": [
+   946,
+   969
+  ]
+ },
+ {
+  "text": "lisinopril 2.5mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "311353"
+  ],
+  "assertions": [],
+  "position": [
+   986,
+   1008
+  ]
+ },
+ {
+  "text": "ranexa 500mg daily",
+  "type": "THUỐC",
+  "candidates": [
+   "35829"
+  ],
+  "assertions": [],
+  "position": [
+   1025,
+   1043
+  ]
+ },
+ {
+  "text": "đau ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1103,
+   1111
+  ]
+ },
+ {
+  "text": "đau ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1410,
+   1418
+  ]
+ },
+ {
+  "text": "tổng trạng thái ổn.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1615,
+   1634
+  ]
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "text": "Tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   48,
+   61
+  ]
+ },
+ {
+  "text": "bệnh thận mạn, không đặc hiệu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I279"
+  ],
+  "assertions": [],
+  "position": [
+   68,
+   97
+  ]
+ },
+ {
+  "text": "rung nhĩ kịch phát",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G2583"
+  ],
+  "assertions": [],
+  "position": [
+   172,
+   190
+  ]
+ },
+ {
+  "text": "tăng sản tuyến tiền liệt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E320"
+  ],
+  "assertions": [],
+  "position": [
+   197,
+   221
+  ]
+ },
+ {
+  "text": "metoprolol",
+  "type": "THUỐC",
+  "candidates": [
+   "6918"
+  ],
+  "assertions": [],
+  "position": [
+   354,
+   364
+  ]
+ },
+ {
+  "text": "desmopressin",
+  "type": "THUỐC",
+  "candidates": [
+   "3251"
+  ],
+  "assertions": [],
+  "position": [
+   405,
+   417
+  ]
+ },
+ {
+  "text": "Cựu chiến binh Thế chiến II",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y389X2D"
+  ],
+  "assertions": [],
+  "position": [
+   457,
+   484
+  ]
+ },
+ {
+  "text": "Rối loạn dáng đi với nhiều lần ngã",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R261"
+  ],
+  "assertions": [],
+  "position": [
+   491,
+   525
+  ]
+ },
+ {
+  "text": "ngã với gãy cổ xương đùi di lệch",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R294"
+  ],
+  "assertions": [],
+  "position": [
+   643,
+   675
+  ]
+ },
+ {
+  "text": "ngã hôm qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H5311"
+  ],
+  "assertions": [],
+  "position": [
+   746,
+   757
+  ]
+ },
+ {
+  "text": "Gọi xe cứu thương",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y9332"
+  ],
+  "assertions": [],
+  "position": [
+   861,
+   878
+  ]
+ },
+ {
+  "text": "Vị trí: hông phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z96621"
+  ],
+  "assertions": [],
+  "position": [
+   1032,
+   1049
+  ]
+ },
+ {
+  "text": "ngã do cơ học hôm qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T6702XA"
+  ],
+  "assertions": [],
+  "position": [
+   1145,
+   1166
+  ]
+ },
+ {
+  "text": "Chấn thương tù ở Chi dưới phải (RLE)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G5711"
+  ],
+  "assertions": [],
+  "position": [
+   1173,
+   1209
+  ]
+ },
+ {
+  "text": "vết thương hở phần khác của chi dưới",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S80879D"
+  ],
+  "assertions": [],
+  "position": [
+   1216,
+   1252
+  ]
+ },
+ {
+  "text": "Gọi xe cứu thương",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y9332"
+  ],
+  "assertions": [],
+  "position": [
+   1375,
+   1392
+  ]
+ },
+ {
+  "text": "cảm thấy khỏe trên sàn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R400"
+  ],
+  "assertions": [],
+  "position": [
+   1881,
+   1903
+  ]
+ },
+ {
+  "text": "chụp x-quang ngực: mức nước-khí",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G4732"
+  ],
+  "assertions": [],
+  "position": [
+   2023,
+   2054
+  ]
+ }
+]

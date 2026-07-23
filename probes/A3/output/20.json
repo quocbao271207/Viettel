@@ -1,0 +1,30 @@
+[
+ {
+  "text": "metoprolol",
+  "type": "THUỐC",
+  "candidates": [
+   "6918"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   354,
+   364
+  ]
+ },
+ {
+  "text": "desmopressin",
+  "type": "THUỐC",
+  "candidates": [
+   "3251"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   405,
+   417
+  ]
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   106,
+   116
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   1596,
+   1606
+  ]
+ }
+]

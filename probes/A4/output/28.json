@@ -1,0 +1,16 @@
+[
+ {
+  "text": "eliquis",
+  "type": "THUỐC",
+  "candidates": [
+   "1364430"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   358,
+   365
+  ]
+ }
+]

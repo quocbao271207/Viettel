@@ -1,0 +1,158 @@
+[
+ {
+  "text": "albuterol",
+  "type": "THUỐC",
+  "candidates": [
+   "435"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   159,
+   168
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   747,
+   757
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   771,
+   782
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   820,
+   831
+  ]
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [],
+  "position": [
+   884,
+   896
+  ]
+ },
+ {
+  "text": "prednisone 40 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   915,
+   931
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   1010,
+   1020
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1444,
+   1454
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1468,
+   1479
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1487,
+   1498
+  ]
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1539,
+   1551
+  ]
+ },
+ {
+  "text": "prednisone 40 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1561,
+   1577
+  ]
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "text": "Thuốc đã dùng trước đây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z92.29"
+  ],
+  "assertions": [],
+  "position": [
+   200,
+   223
+  ]
+ },
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "candidates": [
+   "10180"
+  ],
+  "assertions": [],
+  "position": [
+   321,
+   328
+  ]
+ },
+ {
+  "text": "sốt cao",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E87.5"
+  ],
+  "assertions": [],
+  "position": [
+   407,
+   414
+  ]
+ },
+ {
+  "text": "zosyn",
+  "type": "THUỐC",
+  "candidates": [
+   "8339"
+  ],
+  "assertions": [],
+  "position": [
+   604,
+   609
+  ]
+ },
+ {
+  "text": "Bệnh nhân tỉnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z59.01"
+  ],
+  "assertions": [],
+  "position": [
+   881,
+   895
+  ]
+ },
+ {
+  "text": "Cảm giác khát nước",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K59.00"
+  ],
+  "assertions": [],
+  "position": [
+   896,
+   914
+  ]
+ },
+ {
+  "text": "Da khô, nếp véo da mất chậm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K59.01"
+  ],
+  "assertions": [],
+  "position": [
+   915,
+   942
+  ]
+ },
+ {
+  "text": "Không ngực,  không khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R07.1"
+  ],
+  "assertions": [],
+  "position": [
+   943,
+   969
+  ]
+ },
+ {
+  "text": "Đau bụng, đau hông từng cơn-",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.84"
+  ],
+  "assertions": [],
+  "position": [
+   970,
+   998
+  ]
+ },
+ {
+  "text": "Hạ huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I95.9"
+  ],
+  "assertions": [],
+  "position": [
+   999,
+   1010
+  ]
+ },
+ {
+  "text": "Mạch nhanh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R68.81"
+  ],
+  "assertions": [],
+  "position": [
+   1011,
+   1021
+  ]
+ },
+ {
+  "text": "Tim nhịp nhanh đều",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R00.0"
+  ],
+  "assertions": [],
+  "position": [
+   1023,
+   1041
+  ]
+ },
+ {
+  "text": "Phổi thông khí đều",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G47.32"
+  ],
+  "assertions": [],
+  "position": [
+   1042,
+   1060
+  ]
+ },
+ {
+  "text": "Còn sonde tiểu, nước tiểu có cặn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R35.89"
+  ],
+  "assertions": [],
+  "position": [
+   1061,
+   1093
+  ]
+ },
+ {
+  "text": "Xquang ngực thẳng: không thấy thâm nhiễm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z67.A1"
+  ],
+  "assertions": [],
+  "position": [
+   1348,
+   1388
+  ]
+ },
+ {
+  "text": "svo2 là 82",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T31.87"
+  ],
+  "assertions": [],
+  "position": [
+   1402,
+   1412
+  ]
+ },
+ {
+  "text": "đo cvp là 6",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B10.81"
+  ],
+  "assertions": [],
+  "position": [
+   1449,
+   1460
+  ]
+ },
+ {
+  "text": "Truyền dịch : 4000 ml NS 0.9 %",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T31.40"
+  ],
+  "assertions": [],
+  "position": [
+   1550,
+   1580
+  ]
+ },
+ {
+  "text": "Vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [],
+  "position": [
+   1605,
+   1615
+  ]
+ },
+ {
+  "text": ".",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z04.9"
+  ],
+  "assertions": [],
+  "position": [
+   1634,
+   1635
+  ]
+ }
+]

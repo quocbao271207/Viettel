@@ -1,0 +1,52 @@
+[
+ {
+  "text": "đái tháo đường",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   48,
+   62
+  ]
+ },
+ {
+  "text": "tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   69,
+   82
+  ]
+ },
+ {
+  "text": "đái tháo đường",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   209,
+   223
+  ]
+ },
+ {
+  "text": "tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   230,
+   243
+  ]
+ },
+ {
+  "text": "Thủ thuật điện chọn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   292,
+   311
+  ]
+ }
+]

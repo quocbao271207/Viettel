@@ -1,0 +1,64 @@
+[
+ {
+  "text": "Tăng huyết áp.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   39,
+   53
+  ]
+ },
+ {
+  "text": "Bệnh thận mạn tính.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   176,
+   195
+  ]
+ },
+ {
+  "text": "uống 1 viên/ngày, đôi khi 2 viên/ngày.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   235,
+   273
+  ]
+ },
+ {
+  "text": "glucose là thấp, nên ngừng dùng glargine",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   911,
+   951
+  ]
+ },
+ {
+  "text": "Báo cáo bị ngã gần đây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   954,
+   976
+  ]
+ },
+ {
+  "text": "Hết isosorbide, crestor, carvedilol khoảng 3 tuần trước",
+  "type": "THUỐC",
+  "candidates": [
+   "6057"
+  ],
+  "assertions": [],
+  "position": [
+   1098,
+   1153
+  ]
+ }
+]

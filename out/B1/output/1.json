@@ -1,0 +1,148 @@
+[
+ {
+  "text": "metoprolol 25mg po bid",
+  "type": "THUỐC",
+  "candidates": [
+   "866924"
+  ],
+  "assertions": [],
+  "position": [
+   53,
+   75
+  ]
+ },
+ {
+  "text": "doxycycline cho viêm tuyến mồ hôi",
+  "type": "THUỐC",
+  "candidates": [
+   "3640"
+  ],
+  "assertions": [],
+  "position": [
+   82,
+   115
+  ]
+ },
+ {
+  "text": "atenolol (uống hôm nay)",
+  "type": "THUỐC",
+  "candidates": [
+   "1202"
+  ],
+  "assertions": [],
+  "position": [
+   122,
+   145
+  ]
+ },
+ {
+  "text": "Mất việc làm 8 ngày trước",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   266,
+   291
+  ]
+ },
+ {
+  "text": "và 1 tách cà phê không caffeine",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   372,
+   403
+  ]
+ },
+ {
+  "text": "đánh trống ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   666,
+   681
+  ]
+ },
+ {
+  "text": "Khó thở nhẹ khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   688,
+   707
+  ]
+ },
+ {
+  "text": "khó thở (khởi phát lúc 17 giờ)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   832,
+   862
+  ]
+ },
+ {
+  "text": "giảm dung nạp gắng sức:",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1423,
+   1446
+  ]
+ },
+ {
+  "text": "Không  buồn nôn, hay nôn, đổ mồ hôi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1454,
+   1489
+  ]
+ },
+ {
+  "text": "Sau đó Đến Khoa Cấp cứu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2145,
+   2168
+  ]
+ },
+ {
+  "text": "ecg bình thường",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2331,
+   2346
+  ]
+ },
+ {
+  "text": "Tiếp tục cảm thấy đánh trống ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2388,
+   2421
+  ]
+ },
+ {
+  "text": "VS98.3 12987 56 18 99RA",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2482,
+   2505
+  ]
+ }
+]

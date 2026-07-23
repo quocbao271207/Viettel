@@ -1,0 +1,16 @@
+[
+ {
+  "text": "ertapenem",
+  "type": "THUỐC",
+  "candidates": [
+   "325642"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   587,
+   596
+  ]
+ }
+]

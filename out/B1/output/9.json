@@ -1,0 +1,52 @@
+[
+ {
+  "text": "u cơ trơn tử cung, không đặc hiệu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   39,
+   72
+  ]
+ },
+ {
+  "text": "iron",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   104,
+   108
+  ]
+ },
+ {
+  "text": "lower abdominal pain",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   228,
+   248
+  ]
+ },
+ {
+  "text": "chảy máu nhiều",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   255,
+   269
+  ]
+ },
+ {
+  "text": "siêu âm được thực hiện vào [Date]",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   312,
+   345
+  ]
+ }
+]

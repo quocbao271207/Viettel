@@ -1,0 +1,134 @@
+[
+ {
+  "text": "methadone",
+  "type": "THUỐC",
+  "candidates": [
+   "6813"
+  ],
+  "assertions": [],
+  "position": [
+   162,
+   171
+  ]
+ },
+ {
+  "text": "phù hai bên",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L43.9"
+  ],
+  "assertions": [],
+  "position": [
+   321,
+   332
+  ]
+ },
+ {
+  "text": "ban đỏ, RL",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E51.12"
+  ],
+  "assertions": [],
+  "position": [
+   339,
+   349
+  ]
+ },
+ {
+  "text": "chủ quan sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R23.3"
+  ],
+  "assertions": [],
+  "position": [
+   356,
+   368
+  ]
+ },
+ {
+  "text": "ớn lạnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G91.9"
+  ],
+  "assertions": [],
+  "position": [
+   375,
+   382
+  ]
+ },
+ {
+  "text": "đau tăng dần khi đi lại",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.829"
+  ],
+  "assertions": [],
+  "position": [
+   389,
+   412
+  ]
+ },
+ {
+  "text": "Vị trí: RL (Chân phải)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M26.24"
+  ],
+  "assertions": [],
+  "position": [
+   444,
+   466
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: đau tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G89.4"
+  ],
+  "assertions": [],
+  "position": [
+   473,
+   506
+  ]
+ },
+ {
+  "text": "phủ nhận đau ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R07.9"
+  ],
+  "assertions": [],
+  "position": [
+   833,
+   850
+  ]
+ },
+ {
+  "text": "phủ nhận khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   857,
+   873
+  ]
+ },
+ {
+  "text": "phủ nhận đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.829"
+  ],
+  "assertions": [],
+  "position": [
+   880,
+   897
+  ]
+ }
+]

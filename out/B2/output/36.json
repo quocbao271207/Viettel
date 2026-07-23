@@ -1,0 +1,278 @@
+[
+ {
+  "text": "Thuốc trước khi nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   170,
+   195
+  ]
+ },
+ {
+  "text": "azathioprine",
+  "type": "THUỐC",
+  "candidates": [
+   "1256"
+  ],
+  "assertions": [],
+  "position": [
+   208,
+   220
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [],
+  "position": [
+   233,
+   240
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [],
+  "position": [
+   294,
+   302
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [],
+  "position": [
+   324,
+   332
+  ]
+ },
+ {
+  "text": "Diễn biến bệnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   487,
+   501
+  ]
+ },
+ {
+  "text": "creatinine bắt đầu tăng muộn.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   573,
+   602
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [],
+  "position": [
+   653,
+   661
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [],
+  "position": [
+   893,
+   900
+  ]
+ },
+ {
+  "text": "creatinine tiếp tục tăng.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   953,
+   978
+  ]
+ },
+ {
+  "text": "Lo ngại về đào thải.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   991,
+   1011
+  ]
+ },
+ {
+  "text": "creatinine là 5.1 hôm nay.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1179,
+   1205
+  ]
+ },
+ {
+  "text": "k là 5.8 hôm nay.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1218,
+   1235
+  ]
+ },
+ {
+  "text": "Các sự kiện trước khi nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1303,
+   1334
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [],
+  "position": [
+   1385,
+   1393
+  ]
+ },
+ {
+  "text": "pcr dương tính với virus bk vào giữa.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1419,
+   1456
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [],
+  "position": [
+   1469,
+   1476
+  ]
+ },
+ {
+  "text": "Kết quả xét nghiệm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1905,
+   1923
+  ]
+ },
+ {
+  "text": "creatinine 5.1",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1936,
+   1950
+  ]
+ },
+ {
+  "text": "k 5.8",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1963,
+   1968
+  ]
+ },
+ {
+  "text": "pcr dương tính với virus bk",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1981,
+   2008
+  ]
+ },
+ {
+  "text": "Thủ thuật đã thực hiện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2104,
+   2126
+  ]
+ },
+ {
+  "text": "Sinh thiết thận (vào chính ngày hôm đó)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2139,
+   2178
+  ]
+ },
+ {
+  "text": "Các kết quả chẩn đoán khác",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2243,
+   2269
+  ]
+ },
+ {
+  "text": "Bệnh lý thận do BK",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2282,
+   2300
+  ]
+ },
+ {
+  "text": "Lo ngại về đào thải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2313,
+   2332
+  ]
+ }
+]

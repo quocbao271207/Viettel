@@ -1,0 +1,146 @@
+[
+ {
+  "text": "hen suyễn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K50914"
+  ],
+  "assertions": [],
+  "position": [
+   54,
+   63
+  ]
+ },
+ {
+  "text": "rối loạn lo âu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N9410"
+  ],
+  "assertions": [],
+  "position": [
+   70,
+   84
+  ]
+ },
+ {
+  "text": "tăng huyết áp (tăng huyết áp)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   91,
+   120
+  ]
+ },
+ {
+  "text": "Táo bón mãn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K5904"
+  ],
+  "assertions": [],
+  "position": [
+   127,
+   143
+  ]
+ },
+ {
+  "text": "ngưng thở khi ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G4730"
+  ],
+  "assertions": [],
+  "position": [
+   151,
+   168
+  ]
+ },
+ {
+  "text": "nhịp thở nhanh và thiếu oxy",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "J9601"
+  ],
+  "assertions": [],
+  "position": [
+   211,
+   238
+  ]
+ },
+ {
+  "text": "mệt mỏi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R450"
+  ],
+  "assertions": [],
+  "position": [
+   734,
+   741
+  ]
+ },
+ {
+  "text": "ho",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R455"
+  ],
+  "assertions": [],
+  "position": [
+   748,
+   750
+  ]
+ },
+ {
+  "text": "chảy nước mũi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R065"
+  ],
+  "assertions": [],
+  "position": [
+   757,
+   770
+  ]
+ },
+ {
+  "text": "nhịp thở nhanh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R0602"
+  ],
+  "assertions": [],
+  "position": [
+   777,
+   791
+  ]
+ },
+ {
+  "text": "Thiếu oxy",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R0902"
+  ],
+  "assertions": [],
+  "position": [
+   798,
+   807
+  ]
+ },
+ {
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R52"
+  ],
+  "assertions": [],
+  "position": [
+   814,
+   817
+  ]
+ }
+]

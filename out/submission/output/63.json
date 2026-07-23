@@ -1,0 +1,80 @@
+[
+ {
+  "text": "colace",
+  "type": "THUỐC",
+  "candidates": [
+   "82003"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   175,
+   181
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   618,
+   625
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   655,
+   662
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   896,
+   903
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1018,
+   1025
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1080,
+   1087
+  ]
+ }
+]

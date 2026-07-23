@@ -1,0 +1,72 @@
+[
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   176,
+   183
+  ]
+ },
+ {
+  "text": "mucinex",
+  "type": "THUỐC",
+  "candidates": [
+   "5032"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   190,
+   197
+  ]
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1207,
+   1219
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1243,
+   1250
+  ]
+ },
+ {
+  "text": "mucinex",
+  "type": "THUỐC",
+  "candidates": [
+   "5032"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1254,
+   1261
+  ]
+ }
+]

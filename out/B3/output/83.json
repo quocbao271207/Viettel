@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Bệnh nhân tỉnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z5901"
+  ],
+  "assertions": [],
+  "position": [
+   175,
+   189
+  ]
+ },
+ {
+  "text": "Khó thở khi gắng sức",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G4484"
+  ],
+  "assertions": [],
+  "position": [
+   190,
+   210
+  ]
+ }
+]

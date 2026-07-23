@@ -1,0 +1,44 @@
+[
+ {
+  "text": "albuterol",
+  "type": "THUỐC",
+  "candidates": [
+   "435"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1465,
+   1474
+  ]
+ },
+ {
+  "text": "guaifenesin",
+  "type": "THUỐC",
+  "candidates": [
+   "5032"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1487,
+   1498
+  ]
+ },
+ {
+  "text": "furosemide 40 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "313988"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1502,
+   1518
+  ]
+ }
+]

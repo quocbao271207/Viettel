@@ -1,0 +1,122 @@
+[
+ {
+  "text": "Táo bón.Khô âm đạo.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L65.1"
+  ],
+  "assertions": [],
+  "position": [
+   715,
+   734
+  ]
+ },
+ {
+  "text": "Đau khi giao hợp.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N94.10"
+  ],
+  "assertions": [],
+  "position": [
+   735,
+   752
+  ]
+ },
+ {
+  "text": "Ra huyết âm đạo lượng ít, từng đợt.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O36.8311"
+  ],
+  "assertions": [],
+  "position": [
+   753,
+   788
+  ]
+ },
+ {
+  "text": "Vòng pessary bị rơi ra.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B51.0"
+  ],
+  "assertions": [],
+  "position": [
+   934,
+   957
+  ]
+ },
+ {
+  "text": "Không tái khám để đánh giá thêm.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z09"
+  ],
+  "assertions": [],
+  "position": [
+   960,
+   992
+  ]
+ },
+ {
+  "text": "Không sử dụng băng vệ tinh.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z99.0"
+  ],
+  "assertions": [],
+  "position": [
+   1102,
+   1129
+  ]
+ },
+ {
+  "text": "không đau khi đi tiểu.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R30.9"
+  ],
+  "assertions": [],
+  "position": [
+   1132,
+   1154
+  ]
+ },
+ {
+  "text": "Phủ nhận tiểu máu.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R04.2"
+  ],
+  "assertions": [],
+  "position": [
+   1157,
+   1175
+  ]
+ },
+ {
+  "text": "không sỏi thận",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z90.5"
+  ],
+  "assertions": [],
+  "position": [
+   1238,
+   1252
+  ]
+ },
+ {
+  "text": "không viêm bể thận.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M31.30"
+  ],
+  "assertions": [],
+  "position": [
+   1255,
+   1274
+  ]
+ }
+]

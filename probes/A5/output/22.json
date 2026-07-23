@@ -1,0 +1,16 @@
+[
+ {
+  "text": "aspirin 325mg",
+  "type": "THUỐC",
+  "candidates": [
+   "1191"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   75,
+   88
+  ]
+ }
+]

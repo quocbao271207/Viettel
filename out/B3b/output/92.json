@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z16.32"
+  ],
+  "assertions": [],
+  "position": [
+   45,
+   84
+  ]
+ },
+ {
+  "text": "theo dõi đại tràng giãn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S28.0XXD"
+  ],
+  "assertions": [],
+  "position": [
+   129,
+   152
+  ]
+ },
+ {
+  "text": "Tình trạng vào Khoa Cấp cứu.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G83.5"
+  ],
+  "assertions": [],
+  "position": [
+   373,
+   401
+  ]
+ },
+ {
+  "text": "Bệnh nhân lơ mơ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R40.0"
+  ],
+  "assertions": [],
+  "position": [
+   405,
+   420
+  ]
+ },
+ {
+  "text": "Theo dõi đại tràng giãn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S28.0XXD"
+  ],
+  "assertions": [],
+  "position": [
+   589,
+   612
+  ]
+ }
+]

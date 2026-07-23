@@ -1,0 +1,16 @@
+[
+ {
+  "text": "dobutamine",
+  "type": "THUỐC",
+  "candidates": [
+   "3616"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   649,
+   659
+  ]
+ }
+]

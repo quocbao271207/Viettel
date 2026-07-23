@@ -1,0 +1,182 @@
+[
+ {
+  "text": "tiền sử rung nhĩ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z90.02"
+  ],
+  "assertions": [],
+  "position": [
+   98,
+   114
+  ]
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực khác",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R53.81"
+  ],
+  "assertions": [],
+  "position": [
+   188,
+   219
+  ]
+ },
+ {
+  "text": "eliquis",
+  "type": "THUỐC",
+  "candidates": [
+   "1364430"
+  ],
+  "assertions": [],
+  "position": [
+   358,
+   365
+  ]
+ },
+ {
+  "text": "sốt và đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.2"
+  ],
+  "assertions": [],
+  "position": [
+   428,
+   443
+  ]
+ },
+ {
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.10"
+  ],
+  "assertions": [],
+  "position": [
+   1066,
+   1069
+  ]
+ },
+ {
+  "text": "đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.9"
+  ],
+  "assertions": [],
+  "position": [
+   1076,
+   1084
+  ]
+ },
+ {
+  "text": "đau hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.32"
+  ],
+  "assertions": [],
+  "position": [
+   1091,
+   1107
+  ]
+ },
+ {
+  "text": "sốt nhẹ đến 38.3°C",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R29.738"
+  ],
+  "assertions": [],
+  "position": [
+   1114,
+   1132
+  ]
+ },
+ {
+  "text": "đau hạ sườn phải liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.11"
+  ],
+  "assertions": [],
+  "position": [
+   1191,
+   1216
+  ]
+ },
+ {
+  "text": "Vị trí: Vùng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M91.41"
+  ],
+  "assertions": [],
+  "position": [
+   1248,
+   1273
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: ngày càng nặng hơn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G70.01"
+  ],
+  "assertions": [],
+  "position": [
+   1281,
+   1320
+  ]
+ },
+ {
+  "text": "Tính chất: liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z74.3"
+  ],
+  "assertions": [],
+  "position": [
+   1327,
+   1346
+  ]
+ },
+ {
+  "text": "Kết quả laboratory",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z37.9"
+  ],
+  "assertions": [],
+  "position": [
+   1743,
+   1761
+  ]
+ },
+ {
+  "text": "tăng men gan nhẹ (lần nhập viện trước)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O14.04"
+  ],
+  "assertions": [],
+  "position": [
+   1825,
+   1863
+  ]
+ },
+ {
+  "text": "lo ngại viêm túi mật cấp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F40.230"
+  ],
+  "assertions": [],
+  "position": [
+   2398,
+   2422
+  ]
+ }
+]

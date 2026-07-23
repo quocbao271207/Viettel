@@ -1,0 +1,58 @@
+[
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "candidates": [
+   "10180"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   382,
+   389
+  ]
+ },
+ {
+  "text": "doxycycline",
+  "type": "THUỐC",
+  "candidates": [
+   "3640"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   430,
+   441
+  ]
+ },
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "candidates": [
+   "10180"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   1887,
+   1894
+  ]
+ },
+ {
+  "text": "doxycycline",
+  "type": "THUỐC",
+  "candidates": [
+   "3640"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   1898,
+   1909
+  ]
+ }
+]

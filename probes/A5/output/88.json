@@ -1,0 +1,30 @@
+[
+ {
+  "text": "Lasix",
+  "type": "THUỐC",
+  "candidates": [
+   "4603"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   604,
+   609
+  ]
+ },
+ {
+  "text": "lasix",
+  "type": "THUỐC",
+  "candidates": [
+   "4603"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   664,
+   669
+  ]
+ }
+]

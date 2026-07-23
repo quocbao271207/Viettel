@@ -1,0 +1,158 @@
+[
+ {
+  "text": "Triệu chứng Bắt đầu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T75.3XXA"
+  ],
+  "assertions": [],
+  "position": [
+   316,
+   335
+  ]
+ },
+ {
+  "text": "sau khi xuất viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "P08.21"
+  ],
+  "assertions": [],
+  "position": [
+   342,
+   359
+  ]
+ },
+ {
+  "text": "đến khám tại phòng khám",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y92.230"
+  ],
+  "assertions": [],
+  "position": [
+   575,
+   598
+  ]
+ },
+ {
+  "text": "cephalexin",
+  "type": "THUỐC",
+  "candidates": [
+   "2231"
+  ],
+  "assertions": [],
+  "position": [
+   714,
+   724
+  ]
+ },
+ {
+  "text": "được chuyển đến Khoa Cấp cứu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y84.7"
+  ],
+  "assertions": [],
+  "position": [
+   808,
+   836
+  ]
+ },
+ {
+  "text": "đau khi sờ nắn vùng mổ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M79.11"
+  ],
+  "assertions": [],
+  "position": [
+   987,
+   1009
+  ]
+ },
+ {
+  "text": "chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R57.9"
+  ],
+  "assertions": [],
+  "position": [
+   1016,
+   1025
+  ]
+ },
+ {
+  "text": "không sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1032,
+   1041
+  ]
+ },
+ {
+  "text": "ban đỏ ở vị trí phẫu thuật",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K91.0"
+  ],
+  "assertions": [],
+  "position": [
+   1154,
+   1180
+  ]
+ },
+ {
+  "text": "đau ấn vùng mổ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N64.4"
+  ],
+  "assertions": [],
+  "position": [
+   1187,
+   1201
+  ]
+ },
+ {
+  "text": "không sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1208,
+   1217
+  ]
+ },
+ {
+  "text": "Đã khám tổn thương da, chọc hút dịch",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "W45.3XXD"
+  ],
+  "assertions": [],
+  "position": [
+   1303,
+   1339
+  ]
+ },
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [],
+  "position": [
+   1351,
+   1361
+  ]
+ }
+]

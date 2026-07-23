@@ -1,0 +1,38 @@
+[
+ {
+  "text": "fulvestrant",
+  "type": "THUỐC",
+  "candidates": [
+   "282357"
+  ],
+  "assertions": [],
+  "position": [
+   114,
+   125
+  ]
+ },
+ {
+  "text": "compazine",
+  "type": "THUỐC",
+  "candidates": [
+   "8704"
+  ],
+  "assertions": [],
+  "position": [
+   764,
+   773
+  ]
+ },
+ {
+  "text": "lorazepam",
+  "type": "THUỐC",
+  "candidates": [
+   "6470"
+  ],
+  "assertions": [],
+  "position": [
+   829,
+   838
+  ]
+ }
+]

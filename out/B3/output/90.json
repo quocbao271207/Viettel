@@ -1,0 +1,38 @@
+[
+ {
+  "text": "giọng khàn do tổn thương dây thanh quản",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T701XXD"
+  ],
+  "assertions": [],
+  "position": [
+   37,
+   76
+  ]
+ },
+ {
+  "text": "giọng khàn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R4781"
+  ],
+  "assertions": [],
+  "position": [
+   100,
+   110
+  ]
+ },
+ {
+  "text": "tổn thương dây thanh quản thật sự",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T701XXA"
+  ],
+  "assertions": [],
+  "position": [
+   113,
+   146
+  ]
+ }
+]

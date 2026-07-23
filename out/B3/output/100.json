@@ -1,0 +1,158 @@
+[
+ {
+  "text": "tiền sử tăng calci máu trước đây; 11.6",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E8352"
+  ],
+  "assertions": [],
+  "position": [
+   53,
+   91
+  ]
+ },
+ {
+  "text": "U ác của đại tràng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Q2546"
+  ],
+  "assertions": [],
+  "position": [
+   123,
+   141
+  ]
+ },
+ {
+  "text": "cường cận giáp nguyên phát",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G9001"
+  ],
+  "assertions": [],
+  "position": [
+   148,
+   174
+  ]
+ },
+ {
+  "text": "Xơ vữa động mạch",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I2541"
+  ],
+  "assertions": [],
+  "position": [
+   181,
+   197
+  ]
+ },
+ {
+  "text": "cơn đau thắt ngực ổn định",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G43D1"
+  ],
+  "assertions": [],
+  "position": [
+   204,
+   229
+  ]
+ },
+ {
+  "text": "đến khám vì tăng calci máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E8352"
+  ],
+  "assertions": [],
+  "position": [
+   263,
+   289
+  ]
+ },
+ {
+  "text": "tăng calci máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E8352"
+  ],
+  "assertions": [],
+  "position": [
+   316,
+   330
+  ]
+ },
+ {
+  "text": "Cả hai lần đều kéo dài vài giây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S0343XD"
+  ],
+  "assertions": [],
+  "position": [
+   612,
+   643
+  ]
+ },
+ {
+  "text": "Không có biểu hiện động kinh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R1911"
+  ],
+  "assertions": [],
+  "position": [
+   722,
+   750
+  ]
+ },
+ {
+  "text": "nitroglycerin",
+  "type": "THUỐC",
+  "candidates": [
+   "4917"
+  ],
+  "assertions": [],
+  "position": [
+   996,
+   1009
+  ]
+ },
+ {
+  "text": "Kết quả xétí nghiệm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z552"
+  ],
+  "assertions": [],
+  "position": [
+   1151,
+   1170
+  ]
+ },
+ {
+  "text": "canx toàn phầni là 12.3",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K08133"
+  ],
+  "assertions": [],
+  "position": [
+   1226,
+   1249
+  ]
+ },
+ {
+  "text": "cr (creatinine) 1.2",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R7982"
+  ],
+  "assertions": [],
+  "position": [
+   1256,
+   1275
+  ]
+ }
+]

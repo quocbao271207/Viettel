@@ -1,0 +1,26 @@
+[
+ {
+  "text": "levofloxacin",
+  "type": "THUỐC",
+  "candidates": [
+   "82122"
+  ],
+  "assertions": [],
+  "position": [
+   876,
+   888
+  ]
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   975,
+   982
+  ]
+ }
+]

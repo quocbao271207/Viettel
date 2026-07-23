@@ -1,0 +1,58 @@
+[
+ {
+  "text": "clonidine",
+  "type": "THUỐC",
+  "candidates": [
+   "2599"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   398,
+   407
+  ]
+ },
+ {
+  "text": "suboxone",
+  "type": "THUỐC",
+  "candidates": [
+   "1819"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   435,
+   443
+  ]
+ },
+ {
+  "text": "suboxone",
+  "type": "THUỐC",
+  "candidates": [
+   "1819"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   957,
+   965
+  ]
+ },
+ {
+  "text": "suboxone",
+  "type": "THUỐC",
+  "candidates": [
+   "1819"
+  ],
+  "assertions": [
+   "isHistorical"
+  ],
+  "position": [
+   1000,
+   1008
+  ]
+ }
+]

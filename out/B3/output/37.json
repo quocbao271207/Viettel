@@ -1,0 +1,158 @@
+[
+ {
+  "text": "Tăng huyết áp.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   39,
+   53
+  ]
+ },
+ {
+  "text": "Bệnh thận mạn tính.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I279"
+  ],
+  "assertions": [],
+  "position": [
+   176,
+   195
+  ]
+ },
+ {
+  "text": "uống 1 viên/ngày, đôi khi 2 viên/ngày.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G44051"
+  ],
+  "assertions": [],
+  "position": [
+   235,
+   273
+  ]
+ },
+ {
+  "text": "Torsemide",
+  "type": "THUỐC",
+  "candidates": [
+   "38413"
+  ],
+  "assertions": [],
+  "position": [
+   741,
+   750
+  ]
+ },
+ {
+  "text": "torsemide",
+  "type": "THUỐC",
+  "candidates": [
+   "38413"
+  ],
+  "assertions": [],
+  "position": [
+   805,
+   814
+  ]
+ },
+ {
+  "text": "glucose là thấp, nên ngừng dùng glargine",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R7301"
+  ],
+  "assertions": [],
+  "position": [
+   911,
+   951
+  ]
+ },
+ {
+  "text": "Báo cáo bị ngã gần đây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "X370XXD"
+  ],
+  "assertions": [],
+  "position": [
+   954,
+   976
+  ]
+ },
+ {
+  "text": "isosorbide",
+  "type": "THUỐC",
+  "candidates": [
+   "6057"
+  ],
+  "assertions": [],
+  "position": [
+   1040,
+   1050
+  ]
+ },
+ {
+  "text": "crestor",
+  "type": "THUỐC",
+  "candidates": [
+   "301542"
+  ],
+  "assertions": [],
+  "position": [
+   1052,
+   1059
+  ]
+ },
+ {
+  "text": "carvedilol",
+  "type": "THUỐC",
+  "candidates": [
+   "20352"
+  ],
+  "assertions": [],
+  "position": [
+   1061,
+   1071
+  ]
+ },
+ {
+  "text": "isosorbide",
+  "type": "THUỐC",
+  "candidates": [
+   "6057"
+  ],
+  "assertions": [],
+  "position": [
+   1102,
+   1112
+  ]
+ },
+ {
+  "text": "crestor",
+  "type": "THUỐC",
+  "candidates": [
+   "301542"
+  ],
+  "assertions": [],
+  "position": [
+   1114,
+   1121
+  ]
+ },
+ {
+  "text": "carvedilol",
+  "type": "THUỐC",
+  "candidates": [
+   "20352"
+  ],
+  "assertions": [],
+  "position": [
+   1123,
+   1133
+  ]
+ }
+]

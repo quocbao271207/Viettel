@@ -1,0 +1,58 @@
+[
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   99,
+   106
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   381,
+   388
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   1047,
+   1054
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   1718,
+   1725
+  ]
+ }
+]

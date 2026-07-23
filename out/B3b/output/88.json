@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Viêm gan virus C và B",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B00.2"
+  ],
+  "assertions": [],
+  "position": [
+   115,
+   136
+  ]
+ },
+ {
+  "text": "Lasix",
+  "type": "THUỐC",
+  "candidates": [
+   "4603"
+  ],
+  "assertions": [],
+  "position": [
+   604,
+   609
+  ]
+ },
+ {
+  "text": "lasix",
+  "type": "THUỐC",
+  "candidates": [
+   "4603"
+  ],
+  "assertions": [],
+  "position": [
+   664,
+   669
+  ]
+ },
+ {
+  "text": "Bệnh nhân tỉnh, tiếp xúc được",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y93.82"
+  ],
+  "assertions": [],
+  "position": [
+   804,
+   833
+  ]
+ },
+ {
+  "text": "Theo dõiLoét bàn chân nhiễm trùng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B35.3"
+  ],
+  "assertions": [],
+  "position": [
+   930,
+   963
+  ]
+ }
+]

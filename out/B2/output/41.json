@@ -1,0 +1,162 @@
+[
+ {
+  "text": "Các tập phát bệnh tương tự trước đây",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   21,
+   57
+  ]
+ },
+ {
+  "text": "Nôn ra máu trong 2 ngày qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   176,
+   203
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   625,
+   635
+  ]
+ },
+ {
+  "text": "Nôn ra máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   726,
+   736
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   1695,
+   1705
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   1753,
+   1763
+  ]
+ },
+ {
+  "text": "2 ngày qua: tiếp tục nôn ra máu.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1825,
+   1857
+  ]
+ },
+ {
+  "text": "Triệu chứng khi nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1862,
+   1887
+  ]
+ },
+ {
+  "text": "Nôn ra máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1894,
+   1904
+  ]
+ },
+ {
+  "text": "Ăn uống kém.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1911,
+   1923
+  ]
+ },
+ {
+  "text": "nausea",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1930,
+   1936
+  ]
+ },
+ {
+  "text": "diarrhea",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1943,
+   1951
+  ]
+ },
+ {
+  "text": "abdominal pain",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1958,
+   1972
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   2473,
+   2483
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   2594,
+   2604
+  ]
+ }
+]

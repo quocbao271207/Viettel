@@ -1,0 +1,50 @@
+[
+ {
+  "text": "run rẩy kèm sốt kèm theo sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R112"
+  ],
+  "assertions": [],
+  "position": [
+   401,
+   429
+  ]
+ },
+ {
+  "text": "Augmentin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   630,
+   639
+  ]
+ },
+ {
+  "text": "Kết quả chụp chẩn đoán hình ảnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y780"
+  ],
+  "assertions": [],
+  "position": [
+   760,
+   791
+  ]
+ },
+ {
+  "text": "ba stent mật kim loại đã được đặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z952"
+  ],
+  "assertions": [],
+  "position": [
+   866,
+   899
+  ]
+ }
+]

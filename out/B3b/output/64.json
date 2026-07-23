@@ -1,0 +1,242 @@
+[
+ {
+  "text": "Nhập viện trước đây bắt đầu bằng ciproflagyl",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "A50.08"
+  ],
+  "assertions": [],
+  "position": [
+   128,
+   172
+  ]
+ },
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   273,
+   281
+  ]
+ },
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   582,
+   590
+  ]
+ },
+ {
+  "text": "đổ mồ hôi qua đêm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N39.44"
+  ],
+  "assertions": [],
+  "position": [
+   919,
+   936
+  ]
+ },
+ {
+  "text": "Không ghi nhận sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   943,
+   961
+  ]
+ },
+ {
+  "text": "Không chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.11"
+  ],
+  "assertions": [],
+  "position": [
+   968,
+   983
+  ]
+ },
+ {
+  "text": "Không hoa mắt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H27.00"
+  ],
+  "assertions": [],
+  "position": [
+   990,
+   1003
+  ]
+ },
+ {
+  "text": "đi tiêu bình thường, không ra máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1010,
+   1043
+  ]
+ },
+ {
+  "text": "Vị trí: vùng bụng dưới (đau RLQLLQ)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.34"
+  ],
+  "assertions": [],
+  "position": [
+   1075,
+   1110
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: Tồi tệ hơn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G70.00"
+  ],
+  "assertions": [],
+  "position": [
+   1117,
+   1148
+  ]
+ },
+ {
+  "text": "Thời gian: 1 ngày",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O63.0"
+  ],
+  "assertions": [],
+  "position": [
+   1155,
+   1172
+  ]
+ },
+ {
+  "text": "Các triệu chứng liên quan: đổ mồ hôi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R31.9"
+  ],
+  "assertions": [],
+  "position": [
+   1179,
+   1215
+  ]
+ },
+ {
+  "text": "sử dụng ciproflagyl trong lần nhập viện trước",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T69.1XXA"
+  ],
+  "assertions": [],
+  "position": [
+   1254,
+   1299
+  ]
+ },
+ {
+  "text": "percocet",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   1400,
+   1408
+  ]
+ },
+ {
+  "text": "Không ghi nhận sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1415,
+   1433
+  ]
+ },
+ {
+  "text": "Không chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.11"
+  ],
+  "assertions": [],
+  "position": [
+   1440,
+   1455
+  ]
+ },
+ {
+  "text": "Không hoa mắt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H27.00"
+  ],
+  "assertions": [],
+  "position": [
+   1462,
+   1475
+  ]
+ },
+ {
+  "text": "đi tiêu bình thường, không ra máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1482,
+   1515
+  ]
+ },
+ {
+  "text": "đổ mồ hôi qua đêm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N39.44"
+  ],
+  "assertions": [],
+  "position": [
+   1572,
+   1589
+  ]
+ },
+ {
+  "text": "Không ghi nhận sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   1596,
+   1614
+  ]
+ }
+]

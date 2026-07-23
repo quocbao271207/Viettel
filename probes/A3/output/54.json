@@ -1,0 +1,86 @@
+[
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   298,
+   308
+  ]
+ },
+ {
+  "text": "ceftazidime",
+  "type": "THUỐC",
+  "candidates": [
+   "2191"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   311,
+   322
+  ]
+ },
+ {
+  "text": "amiodarone",
+  "type": "THUỐC",
+  "candidates": [
+   "703"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   325,
+   335
+  ]
+ },
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   728,
+   738
+  ]
+ },
+ {
+  "text": "ceftazidime",
+  "type": "THUỐC",
+  "candidates": [
+   "2191"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   776,
+   787
+  ]
+ },
+ {
+  "text": "amiodarone",
+  "type": "THUỐC",
+  "candidates": [
+   "703"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   950,
+   960
+  ]
+ }
+]

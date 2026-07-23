@@ -1,0 +1,114 @@
+[
+ {
+  "text": "methadone",
+  "type": "THUỐC",
+  "candidates": [
+   "6813"
+  ],
+  "assertions": [],
+  "position": [
+   162,
+   171
+  ]
+ },
+ {
+  "text": "phù hai bên",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   321,
+   332
+  ]
+ },
+ {
+  "text": "ban đỏ, RL",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   339,
+   349
+  ]
+ },
+ {
+  "text": "chủ quan sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   356,
+   368
+  ]
+ },
+ {
+  "text": "ớn lạnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   375,
+   382
+  ]
+ },
+ {
+  "text": "đau tăng dần khi đi lại",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   389,
+   412
+  ]
+ },
+ {
+  "text": "Vị trí: RL (Chân phải)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   444,
+   466
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: đau tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   473,
+   506
+  ]
+ },
+ {
+  "text": "phủ nhận đau ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   833,
+   850
+  ]
+ },
+ {
+  "text": "phủ nhận khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   857,
+   873
+  ]
+ },
+ {
+  "text": "phủ nhận đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   880,
+   897
+  ]
+ }
+]

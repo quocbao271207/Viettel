@@ -1,0 +1,30 @@
+[
+ {
+  "text": "cephalexin",
+  "type": "THUỐC",
+  "candidates": [
+   "2231"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   714,
+   724
+  ]
+ },
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "candidates": [
+   "11124"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   1351,
+   1361
+  ]
+ }
+]

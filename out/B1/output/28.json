@@ -1,0 +1,154 @@
+[
+ {
+  "text": "tiền sử rung nhĩ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   98,
+   114
+  ]
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực khác",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   188,
+   219
+  ]
+ },
+ {
+  "text": "đang dùng eliquis (cho rung nhĩ)",
+  "type": "THUỐC",
+  "candidates": [
+   "1364430"
+  ],
+  "assertions": [],
+  "position": [
+   348,
+   380
+  ]
+ },
+ {
+  "text": "sốt và đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   428,
+   443
+  ]
+ },
+ {
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1066,
+   1069
+  ]
+ },
+ {
+  "text": "đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1076,
+   1084
+  ]
+ },
+ {
+  "text": "đau hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1091,
+   1107
+  ]
+ },
+ {
+  "text": "sốt nhẹ đến 38.3°C",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1114,
+   1132
+  ]
+ },
+ {
+  "text": "đau hạ sườn phải liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1191,
+   1216
+  ]
+ },
+ {
+  "text": "Vị trí: Vùng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1248,
+   1273
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: ngày càng nặng hơn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1281,
+   1320
+  ]
+ },
+ {
+  "text": "Tính chất: liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1327,
+   1346
+  ]
+ },
+ {
+  "text": "Kết quả laboratory",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1743,
+   1761
+  ]
+ },
+ {
+  "text": "tăng men gan nhẹ (lần nhập viện trước)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1825,
+   1863
+  ]
+ },
+ {
+  "text": "lo ngại viêm túi mật cấp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2398,
+   2422
+  ]
+ }
+]

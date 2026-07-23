@@ -1,0 +1,14 @@
+[
+ {
+  "text": "Bệnh sử",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F44.0"
+  ],
+  "assertions": [],
+  "position": [
+   0,
+   7
+  ]
+ }
+]

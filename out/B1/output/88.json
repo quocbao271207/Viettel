@@ -1,0 +1,32 @@
+[
+ {
+  "text": "Viêm gan virus C và B",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   115,
+   136
+  ]
+ },
+ {
+  "text": "Bệnh nhân tỉnh, tiếp xúc được",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   804,
+   833
+  ]
+ },
+ {
+  "text": "Theo dõiLoét bàn chân nhiễm trùng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   930,
+   963
+  ]
+ }
+]

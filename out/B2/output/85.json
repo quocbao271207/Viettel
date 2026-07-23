@@ -1,0 +1,52 @@
+[
+ {
+  "text": "Đái tháo đường type II",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   57,
+   79
+  ]
+ },
+ {
+  "text": "suy tim",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   154,
+   161
+  ]
+ },
+ {
+  "text": "bệnh mạch máu ngoại biên",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   168,
+   192
+  ]
+ },
+ {
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   199,
+   227
+  ]
+ },
+ {
+  "text": "thở không xâm nhập BiPAP",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   536,
+   560
+  ]
+ }
+]

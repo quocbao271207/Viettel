@@ -1,0 +1,16 @@
+[
+ {
+  "text": "lasix",
+  "type": "THUỐC",
+  "candidates": [
+   "4603"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   1440,
+   1445
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "text": "Tái khám vì đau đầu gối phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R1011"
+  ],
+  "assertions": [],
+  "position": [
+   190,
+   218
+  ]
+ },
+ {
+  "text": "Tiến triển bệnh: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y999"
+  ],
+  "assertions": [],
+  "position": [
+   553,
+   582
+  ]
+ },
+ {
+  "text": "đau đầu gối phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A1"
+  ],
+  "assertions": [],
+  "position": [
+   609,
+   625
+  ]
+ },
+ {
+  "text": "Vị trí: đầu gối phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z96661"
+  ],
+  "assertions": [],
+  "position": [
+   657,
+   677
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: dữ dội",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I160"
+  ],
+  "assertions": [],
+  "position": [
+   684,
+   711
+  ]
+ },
+ {
+  "text": "Thời gian: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y929"
+  ],
+  "assertions": [],
+  "position": [
+   718,
+   741
+  ]
+ },
+ {
+  "text": "Tần suất: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H9190"
+  ],
+  "assertions": [],
+  "position": [
+   748,
+   770
+  ]
+ },
+ {
+  "text": "Chiếu xạ: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Q564"
+  ],
+  "assertions": [],
+  "position": [
+   777,
+   799
+  ]
+ },
+ {
+  "text": "Các yếu tố làm giảm: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y999"
+  ],
+  "assertions": [],
+  "position": [
+   898,
+   931
+  ]
+ },
+ {
+  "text": "Các triệu chứng liên quan: Không ghi rõ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R489"
+  ],
+  "assertions": [],
+  "position": [
+   938,
+   977
+  ]
+ }
+]

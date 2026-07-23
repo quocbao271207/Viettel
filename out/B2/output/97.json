@@ -1,0 +1,92 @@
+[
+ {
+  "text": "biến đổi ý thức",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   484,
+   499
+  ]
+ },
+ {
+  "text": "hạ thân nhiệt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   506,
+   519
+  ]
+ },
+ {
+  "text": "hạ huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   526,
+   537
+  ]
+ },
+ {
+  "text": "đau toàn thân ít",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   544,
+   560
+  ]
+ },
+ {
+  "text": "đau ngực ít",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   567,
+   578
+  ]
+ },
+ {
+  "text": "đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   586,
+   594
+  ]
+ },
+ {
+  "text": "hạ huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   646,
+   657
+  ]
+ },
+ {
+  "text": "hạ thân nhiệt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   664,
+   677
+  ]
+ },
+ {
+  "text": "lắc đầu có/không",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   684,
+   700
+  ]
+ }
+]

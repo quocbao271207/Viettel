@@ -1,0 +1,98 @@
+[
+ {
+  "text": "mệt mỏi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R450"
+  ],
+  "assertions": [],
+  "position": [
+   322,
+   329
+  ]
+ },
+ {
+  "text": "thiếu máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "D649"
+  ],
+  "assertions": [],
+  "position": [
+   336,
+   345
+  ]
+ },
+ {
+  "text": "phân có guaiac dương tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "J940"
+  ],
+  "assertions": [],
+  "position": [
+   352,
+   377
+  ]
+ },
+ {
+  "text": "khối ở chỗ uốn gan",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M67439"
+  ],
+  "assertions": [],
+  "position": [
+   824,
+   842
+  ]
+ },
+ {
+  "text": "ung thư biểu mô tuyến trên sinh thiết",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "A199"
+  ],
+  "assertions": [],
+  "position": [
+   849,
+   886
+  ]
+ },
+ {
+  "text": "tiền sử khối u thận",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N281"
+  ],
+  "assertions": [],
+  "position": [
+   893,
+   912
+  ]
+ },
+ {
+  "text": "ung thư biểu mô tế bào thận",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M3131"
+  ],
+  "assertions": [],
+  "position": [
+   919,
+   946
+  ]
+ },
+ {
+  "text": "ung thư biểu mô tuyến giật nhú",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L531"
+  ],
+  "assertions": [],
+  "position": [
+   953,
+   983
+  ]
+ }
+]

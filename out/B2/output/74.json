@@ -1,0 +1,122 @@
+[
+ {
+  "text": "cipro",
+  "type": "THUỐC",
+  "candidates": [
+   "2551"
+  ],
+  "assertions": [],
+  "position": [
+   165,
+   170
+  ]
+ },
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "candidates": [
+   "10180"
+  ],
+  "assertions": [],
+  "position": [
+   177,
+   184
+  ]
+ },
+ {
+  "text": "đau bụng dưới",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   360,
+   373
+  ]
+ },
+ {
+  "text": "Triệu chứng trở nên tồi tệ hơn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   443,
+   473
+  ]
+ },
+ {
+  "text": "morphine",
+  "type": "THUỐC",
+  "candidates": [
+   "7052"
+  ],
+  "assertions": [],
+  "position": [
+   648,
+   656
+  ]
+ },
+ {
+  "text": "đau bụng dưới",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   700,
+   713
+  ]
+ },
+ {
+  "text": "ớn lạnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   720,
+   727
+  ]
+ },
+ {
+  "text": "khó chịu khi đi tiểu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   734,
+   754
+  ]
+ },
+ {
+  "text": "khó chịu khi đại tiện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   761,
+   782
+  ]
+ },
+ {
+  "text": "cipro",
+  "type": "THUỐC",
+  "candidates": [
+   "2551"
+  ],
+  "assertions": [],
+  "position": [
+   1012,
+   1017
+  ]
+ },
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "candidates": [
+   "10180"
+  ],
+  "assertions": [],
+  "position": [
+   1021,
+   1028
+  ]
+ }
+]

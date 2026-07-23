@@ -1,0 +1,16 @@
+[
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   795,
+   807
+  ]
+ }
+]

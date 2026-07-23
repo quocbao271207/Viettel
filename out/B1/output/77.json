@@ -1,0 +1,94 @@
+[
+ {
+  "text": "Rối loạn cảm xúc",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   195,
+   211
+  ]
+ },
+ {
+  "text": "Rối loạn lưỡng cực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   219,
+   237
+  ]
+ },
+ {
+  "text": "rối loạn lo âu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   244,
+   258
+  ]
+ },
+ {
+  "text": "Thuốc kê đơn (tên không được chỉ định)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   315,
+   353
+  ]
+ },
+ {
+  "text": "klonopinclonidine (được kê đơn)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   360,
+   391
+  ]
+ },
+ {
+  "text": "clonidine (mua trên đường phố)",
+  "type": "THUỐC",
+  "candidates": [
+   "2599"
+  ],
+  "assertions": [],
+  "position": [
+   398,
+   428
+  ]
+ },
+ {
+  "text": "Triệu chứng khi vào viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1026,
+   1050
+  ]
+ },
+ {
+  "text": "lo âu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1100,
+   1105
+  ]
+ },
+ {
+  "text": "hoảng sợ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1106,
+   1114
+  ]
+ }
+]

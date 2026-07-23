@@ -1,0 +1,16 @@
+[
+ {
+  "text": "nitroglycerin",
+  "type": "THUỐC",
+  "candidates": [
+   "4917"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   996,
+   1009
+  ]
+ }
+]

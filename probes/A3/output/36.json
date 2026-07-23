@@ -1,0 +1,114 @@
+[
+ {
+  "text": "azathioprine",
+  "type": "THUỐC",
+  "candidates": [
+   "1256"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   208,
+   220
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   233,
+   240
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   294,
+   302
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   324,
+   332
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   653,
+   661
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   893,
+   900
+  ]
+ },
+ {
+  "text": "cellcept",
+  "type": "THUỐC",
+  "candidates": [
+   "68149"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   1385,
+   1393
+  ]
+ },
+ {
+  "text": "prograf",
+  "type": "THUỐC",
+  "candidates": [
+   "42316"
+  ],
+  "assertions": [
+   "isPastHistory"
+  ],
+  "position": [
+   1469,
+   1476
+  ]
+ }
+]

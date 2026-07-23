@@ -1,0 +1,92 @@
+[
+ {
+  "text": "Đái tháo đường típ 2",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   48,
+   68
+  ]
+ },
+ {
+  "text": "đau họng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   261,
+   269
+  ]
+ },
+ {
+  "text": "đau họng kèm theo nuốt vướng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   369,
+   397
+  ]
+ },
+ {
+  "text": "buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   404,
+   412
+  ]
+ },
+ {
+  "text": "Vị trí: họng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   489,
+   501
+  ]
+ },
+ {
+  "text": "Yếu tố làm nặng thêm: nuốt vướng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   508,
+   540
+  ]
+ },
+ {
+  "text": "Yếu tố làm giảm: đồ uống lạnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   547,
+   576
+  ]
+ },
+ {
+  "text": "Không có khó thở hoặc ho",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   751,
+   775
+  ]
+ },
+ {
+  "text": "Chưa kiểm tra đường huyết",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   782,
+   807
+  ]
+ }
+]

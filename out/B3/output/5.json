@@ -1,0 +1,86 @@
+[
+ {
+  "text": "Các bệnh lý mạn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F341"
+  ],
+  "assertions": [],
+  "position": [
+   30,
+   50
+  ]
+ },
+ {
+  "text": "bệnh tim mạch do xơ vữa động mạch",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I429"
+  ],
+  "assertions": [],
+  "position": [
+   57,
+   90
+  ]
+ },
+ {
+  "text": "Tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   97,
+   110
+  ]
+ },
+ {
+  "text": "tăng lipid máu, không đặc hiệu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E785"
+  ],
+  "assertions": [],
+  "position": [
+   117,
+   147
+  ]
+ },
+ {
+  "text": "đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R109"
+  ],
+  "assertions": [],
+  "position": [
+   260,
+   268
+  ]
+ },
+ {
+  "text": "sốt đến 101.4",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L740"
+  ],
+  "assertions": [],
+  "position": [
+   590,
+   603
+  ]
+ },
+ {
+  "text": "Tăng lên 101.8 trước thủ thuật",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S22070D"
+  ],
+  "assertions": [],
+  "position": [
+   610,
+   640
+  ]
+ }
+]

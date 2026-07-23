@@ -1,0 +1,30 @@
+[
+ {
+  "text": "coumadin 3.0 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "11289"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   401,
+   416
+  ]
+ },
+ {
+  "text": "heparin",
+  "type": "THUỐC",
+  "candidates": [
+   "5224"
+  ],
+  "assertions": [
+   "isNegated"
+  ],
+  "position": [
+   1130,
+   1137
+  ]
+ }
+]

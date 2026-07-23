@@ -1,0 +1,26 @@
+[
+ {
+  "text": "vàng da không đau",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L605"
+  ],
+  "assertions": [],
+  "position": [
+   118,
+   135
+  ]
+ },
+ {
+  "text": "ngứa",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R110"
+  ],
+  "assertions": [],
+  "position": [
+   138,
+   142
+  ]
+ }
+]

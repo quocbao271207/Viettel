@@ -1,0 +1,16 @@
+[
+ {
+  "text": "seroquel",
+  "type": "THUỐC",
+  "candidates": [
+   "51272"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   190,
+   198
+  ]
+ }
+]

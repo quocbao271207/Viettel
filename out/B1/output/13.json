@@ -1,0 +1,132 @@
+[
+ {
+  "text": "Thở oxy tại nhà",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   102,
+   117
+  ]
+ },
+ {
+  "text": "Hội chứng kháng enzym tổng hợp protein.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   124,
+   163
+  ]
+ },
+ {
+  "text": "béo phì",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   170,
+   177
+  ]
+ },
+ {
+  "text": "Tăng huyết áp nguyên phát.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   184,
+   210
+  ]
+ },
+ {
+  "text": "Corticoid liều cao kéo dài",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   317,
+   343
+  ]
+ },
+ {
+  "text": "Thở oxy tại nhà",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   350,
+   365
+  ]
+ },
+ {
+  "text": "Khám tại phòng khám vào ngày nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1208,
+   1246
+  ]
+ },
+ {
+  "text": "Triệu chứng khi nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1312,
+   1337
+  ]
+ },
+ {
+  "text": "Tổn thương cực kỳ đau đớn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1389,
+   1414
+  ]
+ },
+ {
+  "text": "Lan đến mông bên phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1479,
+   1500
+  ]
+ },
+ {
+  "text": "Đặc điểm của triệu chứng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1563,
+   1587
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: cực kỳ đau đớn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   1638,
+   1673
+  ]
+ },
+ {
+  "text": "Khám tại phòng khám vào ngày nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   2091,
+   2129
+  ]
+ }
+]

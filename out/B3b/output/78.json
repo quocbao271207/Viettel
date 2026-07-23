@@ -1,0 +1,110 @@
+[
+ {
+  "text": "ung thư vú",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "A18.12"
+  ],
+  "assertions": [],
+  "position": [
+   47,
+   57
+  ]
+ },
+ {
+  "text": "thở oxy 3L/p tại nhà",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O36.23X3"
+  ],
+  "assertions": [],
+  "position": [
+   133,
+   153
+  ]
+ },
+ {
+  "text": "suy nhược toàn thân",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M62.81"
+  ],
+  "assertions": [],
+  "position": [
+   197,
+   216
+  ]
+ },
+ {
+  "text": "Triệu chứng lúc vào viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K91.1"
+  ],
+  "assertions": [],
+  "position": [
+   349,
+   373
+  ]
+ },
+ {
+  "text": "suy nhược toàn thân",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M62.81"
+  ],
+  "assertions": [],
+  "position": [
+   380,
+   399
+  ]
+ },
+ {
+  "text": "khó thở liên tục, nhất là khi nằm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G44.81"
+  ],
+  "assertions": [],
+  "position": [
+   406,
+   439
+  ]
+ },
+ {
+  "text": "ho",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R45.5"
+  ],
+  "assertions": [],
+  "position": [
+   446,
+   448
+  ]
+ },
+ {
+  "text": "hồi hộp (đánh trống ngực",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I49.02"
+  ],
+  "assertions": [],
+  "position": [
+   455,
+   479
+  ]
+ },
+ {
+  "text": "Khám thấy",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R44.1"
+  ],
+  "assertions": [],
+  "position": [
+   482,
+   491
+  ]
+ }
+]

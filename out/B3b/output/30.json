@@ -1,0 +1,230 @@
+[
+ {
+  "text": "Các bệnh lý mạn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F34.1"
+  ],
+  "assertions": [],
+  "position": [
+   30,
+   50
+  ]
+ },
+ {
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L12.2"
+  ],
+  "assertions": [],
+  "position": [
+   57,
+   88
+  ]
+ },
+ {
+  "text": "tăng cholesterol máu đơn thuần",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E78.00"
+  ],
+  "assertions": [],
+  "position": [
+   95,
+   125
+  ]
+ },
+ {
+  "text": "tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I95.9"
+  ],
+  "assertions": [],
+  "position": [
+   132,
+   145
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [],
+  "position": [
+   190,
+   197
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [],
+  "position": [
+   239,
+   250
+  ]
+ },
+ {
+  "text": "cách nhập viện 5 ngày)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O69.3XX5"
+  ],
+  "assertions": [],
+  "position": [
+   264,
+   286
+  ]
+ },
+ {
+  "text": "Thuốc giảm đau (ngừng)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R07.0"
+  ],
+  "assertions": [],
+  "position": [
+   293,
+   315
+  ]
+ },
+ {
+  "text": "ảo giác",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R44.3"
+  ],
+  "assertions": [],
+  "position": [
+   363,
+   370
+  ]
+ },
+ {
+  "text": "ảo giácxuất hiện khoảng một tháng trước.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "S06.0X1A"
+  ],
+  "assertions": [],
+  "position": [
+   451,
+   491
+  ]
+ },
+ {
+  "text": "Thuốc giảm đau đã ngừng.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F16.91"
+  ],
+  "assertions": [],
+  "position": [
+   573,
+   597
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [],
+  "position": [
+   751,
+   758
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [],
+  "position": [
+   797,
+   808
+  ]
+ },
+ {
+  "text": "ảo giác",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R44.3"
+  ],
+  "assertions": [],
+  "position": [
+   919,
+   926
+  ]
+ },
+ {
+  "text": "Ảo giác không mang tính chất ra lệnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H52.229"
+  ],
+  "assertions": [],
+  "position": [
+   1076,
+   1112
+  ]
+ },
+ {
+  "text": "Diễn biên  trước khi nhập viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O62.3"
+  ],
+  "assertions": [],
+  "position": [
+   1186,
+   1216
+  ]
+ },
+ {
+  "text": "Thuốc giảm đau đã ngừng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F16.91"
+  ],
+  "assertions": [],
+  "position": [
+   1289,
+   1312
+  ]
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "candidates": [
+   "282388"
+  ],
+  "assertions": [],
+  "position": [
+   1324,
+   1331
+  ]
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "candidates": [
+   "519"
+  ],
+  "assertions": [],
+  "position": [
+   1369,
+   1380
+  ]
+ }
+]

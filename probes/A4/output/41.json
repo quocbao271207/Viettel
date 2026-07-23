@@ -1,0 +1,86 @@
+[
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   625,
+   635
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1168,
+   1178
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1695,
+   1705
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   1753,
+   1763
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   2473,
+   2483
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [
+   "historical"
+  ],
+  "position": [
+   2594,
+   2604
+  ]
+ }
+]

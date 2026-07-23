@@ -1,0 +1,44 @@
+[
+ {
+  "text": "nitroglycerin",
+  "type": "THUỐC",
+  "candidates": [
+   "4917"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   631,
+   644
+  ]
+ },
+ {
+  "text": "heparin",
+  "type": "THUỐC",
+  "candidates": [
+   "5224"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   1006,
+   1013
+  ]
+ },
+ {
+  "text": "dilaudid 3mg",
+  "type": "THUỐC",
+  "candidates": [
+   "3423"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   1050,
+   1062
+  ]
+ }
+]

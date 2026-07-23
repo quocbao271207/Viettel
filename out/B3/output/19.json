@@ -1,0 +1,122 @@
+[
+ {
+  "text": "Các bệnh lý nội khoa mạn tính",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "P729"
+  ],
+  "assertions": [],
+  "position": [
+   30,
+   59
+  ]
+ },
+ {
+  "text": "Tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   251,
+   264
+  ]
+ },
+ {
+  "text": "Sa van hai lá",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L439"
+  ],
+  "assertions": [],
+  "position": [
+   271,
+   284
+  ]
+ },
+ {
+  "text": "vicodin (uống không thấy giảm đau)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N3941"
+  ],
+  "assertions": [],
+  "position": [
+   382,
+   416
+  ]
+ },
+ {
+  "text": "đau bẹn trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A2"
+  ],
+  "assertions": [],
+  "position": [
+   464,
+   476
+  ]
+ },
+ {
+  "text": "đau cản trở việc đi lại của bà.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R1012"
+  ],
+  "assertions": [],
+  "position": [
+   650,
+   681
+  ]
+ },
+ {
+  "text": "đau bẹn trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A2"
+  ],
+  "assertions": [],
+  "position": [
+   708,
+   720
+  ]
+ },
+ {
+  "text": "Vị trí: bẹn trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H04201"
+  ],
+  "assertions": [],
+  "position": [
+   752,
+   768
+  ]
+ },
+ {
+  "text": "Yếu tố làm nặng thêm: đi lại",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R39191"
+  ],
+  "assertions": [],
+  "position": [
+   854,
+   882
+  ]
+ },
+ {
+  "text": "Uống vicodin không thấy giảm đau.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F1121"
+  ],
+  "assertions": [],
+  "position": [
+   1076,
+   1109
+  ]
+ }
+]

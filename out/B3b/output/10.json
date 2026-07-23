@@ -1,0 +1,98 @@
+[
+ {
+  "text": "Chưa phát hiện bệnh lý bất thường",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R78.9"
+  ],
+  "assertions": [],
+  "position": [
+   25,
+   58
+  ]
+ },
+ {
+  "text": "Đờm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R05.9"
+  ],
+  "assertions": [],
+  "position": [
+   107,
+   110
+  ]
+ },
+ {
+  "text": "ho",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R45.5"
+  ],
+  "assertions": [],
+  "position": [
+   113,
+   115
+  ]
+ },
+ {
+  "text": "đôi khi đau bụng quặn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.829"
+  ],
+  "assertions": [],
+  "position": [
+   118,
+   139
+  ]
+ },
+ {
+  "text": "tiêu chảy",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.7"
+  ],
+  "assertions": [],
+  "position": [
+   142,
+   151
+  ]
+ },
+ {
+  "text": "đôi khi đi ngoài ra máu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R04.2"
+  ],
+  "assertions": [],
+  "position": [
+   154,
+   177
+  ]
+ },
+ {
+  "text": "không tăng cân nhiều",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R63.6"
+  ],
+  "assertions": [],
+  "position": [
+   180,
+   200
+  ]
+ },
+ {
+  "text": "sinh thiết chỉ cho thấy một u tuyến",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N36.5"
+  ],
+  "assertions": [],
+  "position": [
+   690,
+   725
+  ]
+ }
+]

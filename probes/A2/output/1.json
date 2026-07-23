@@ -1,0 +1,72 @@
+[
+ {
+  "text": "metoprolol 25mg po bid",
+  "type": "THUỐC",
+  "candidates": [
+   "866924"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   53,
+   75
+  ]
+ },
+ {
+  "text": "doxycycline",
+  "type": "THUỐC",
+  "candidates": [
+   "3640"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   82,
+   93
+  ]
+ },
+ {
+  "text": "atenolol",
+  "type": "THUỐC",
+  "candidates": [
+   "1202"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   122,
+   130
+  ]
+ },
+ {
+  "text": "metoprolol 25mg po bid",
+  "type": "THUỐC",
+  "candidates": [
+   "866924"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   1772,
+   1794
+  ]
+ },
+ {
+  "text": "aspirin 325mg x 1",
+  "type": "THUỐC",
+  "candidates": [
+   "1191"
+  ],
+  "assertions": [
+   "PAST_HISTORY"
+  ],
+  "position": [
+   2199,
+   2216
+  ]
+ }
+]

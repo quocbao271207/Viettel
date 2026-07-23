@@ -1,0 +1,302 @@
+[
+ {
+  "text": "hen suyễn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K50.914"
+  ],
+  "assertions": [],
+  "position": [
+   113,
+   122
+  ]
+ },
+ {
+  "text": "albuterol",
+  "type": "THUỐC",
+  "candidates": [
+   "435"
+  ],
+  "assertions": [],
+  "position": [
+   159,
+   168
+  ]
+ },
+ {
+  "text": "z-pack",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B02.7"
+  ],
+  "assertions": [],
+  "position": [
+   192,
+   198
+  ]
+ },
+ {
+  "text": "khó thở và tiếng rít",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R42"
+  ],
+  "assertions": [],
+  "position": [
+   246,
+   266
+  ]
+ },
+ {
+  "text": "tiếng rít vào ban đêm",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G47.63"
+  ],
+  "assertions": [],
+  "position": [
+   559,
+   580
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   747,
+   757
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   771,
+   782
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   820,
+   831
+  ]
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [],
+  "position": [
+   884,
+   896
+  ]
+ },
+ {
+  "text": "prednisone 40 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   915,
+   931
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   1010,
+   1020
+  ]
+ },
+ {
+  "text": "Khó thở.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R06.02"
+  ],
+  "assertions": [],
+  "position": [
+   1251,
+   1259
+  ]
+ },
+ {
+  "text": "Khò khè.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "A81.81"
+  ],
+  "assertions": [],
+  "position": [
+   1260,
+   1268
+  ]
+ },
+ {
+  "text": "Tiếng rít về đêm.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "F51.4"
+  ],
+  "assertions": [],
+  "position": [
+   1269,
+   1286
+  ]
+ },
+ {
+  "text": "Đau vùng xoang.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N50.82"
+  ],
+  "assertions": [],
+  "position": [
+   1287,
+   1302
+  ]
+ },
+ {
+  "text": "Ho nhẹ.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "L94.6"
+  ],
+  "assertions": [],
+  "position": [
+   1303,
+   1310
+  ]
+ },
+ {
+  "text": "Đau đầu dữ dội.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R51.9"
+  ],
+  "assertions": [],
+  "position": [
+   1311,
+   1326
+  ]
+ },
+ {
+  "text": "Đau hạ vị.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R52"
+  ],
+  "assertions": [],
+  "position": [
+   1327,
+   1337
+  ]
+ },
+ {
+  "text": "prednisone",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   1444,
+   1454
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   1468,
+   1479
+  ]
+ },
+ {
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "candidates": [
+   "723"
+  ],
+  "assertions": [],
+  "position": [
+   1487,
+   1498
+  ]
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "candidates": [
+   "18631"
+  ],
+  "assertions": [],
+  "position": [
+   1539,
+   1551
+  ]
+ },
+ {
+  "text": "prednisone 40 mg",
+  "type": "THUỐC",
+  "candidates": [
+   "8640"
+  ],
+  "assertions": [],
+  "position": [
+   1561,
+   1577
+  ]
+ },
+ {
+  "text": "Mất ngủ.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z72.820"
+  ],
+  "assertions": [],
+  "position": [
+   1720,
+   1728
+  ]
+ },
+ {
+  "text": "Đau hạ vị.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R52"
+  ],
+  "assertions": [],
+  "position": [
+   1729,
+   1739
+  ]
+ }
+]

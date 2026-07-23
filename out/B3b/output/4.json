@@ -1,0 +1,146 @@
+[
+ {
+  "text": "Bệnh nhân có tiền sử dụng thuốc",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z92.29"
+  ],
+  "assertions": [],
+  "position": [
+   21,
+   52
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   106,
+   116
+  ]
+ },
+ {
+  "text": "đau bụng vùng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.32"
+  ],
+  "assertions": [],
+  "position": [
+   871,
+   897
+  ]
+ },
+ {
+  "text": "đau bụng vùng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.32"
+  ],
+  "assertions": [],
+  "position": [
+   979,
+   1005
+  ]
+ },
+ {
+  "text": "chướng bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.30"
+  ],
+  "assertions": [],
+  "position": [
+   1012,
+   1023
+  ]
+ },
+ {
+  "text": "buồn nôn thoáng qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K59.01"
+  ],
+  "assertions": [],
+  "position": [
+   1031,
+   1050
+  ]
+ },
+ {
+  "text": "Nôn mửa",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "B26.83"
+  ],
+  "assertions": [],
+  "position": [
+   1057,
+   1064
+  ]
+ },
+ {
+  "text": "Bệnh nhân có  đau lưng âm ỉ",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M54.50"
+  ],
+  "assertions": [],
+  "position": [
+   1071,
+   1098
+  ]
+ },
+ {
+  "text": "Đã ngừng sử dụng thuốc NSAIDs.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z79.1"
+  ],
+  "assertions": [],
+  "position": [
+   1546,
+   1576
+  ]
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "candidates": [
+   "7646"
+  ],
+  "assertions": [],
+  "position": [
+   1596,
+   1606
+  ]
+ },
+ {
+  "text": ".Đánh giá tại bệnh viện",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Y92.230"
+  ],
+  "assertions": [],
+  "position": [
+   1788,
+   1811
+  ]
+ },
+ {
+  "text": "sỏi đoạn cuối ống mật chủ.",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Q21.11"
+  ],
+  "assertions": [],
+  "position": [
+   1977,
+   2003
+  ]
+ }
+]

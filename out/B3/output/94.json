@@ -1,0 +1,158 @@
+[
+ {
+  "text": "Ung thư vú di căn ER+/HER2−",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K641"
+  ],
+  "assertions": [],
+  "position": [
+   49,
+   76
+  ]
+ },
+ {
+  "text": "đang dùng thuốc  weekly taxol",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z79630"
+  ],
+  "assertions": [],
+  "position": [
+   81,
+   110
+  ]
+ },
+ {
+  "text": "fulvestrant",
+  "type": "THUỐC",
+  "candidates": [
+   "282357"
+  ],
+  "assertions": [],
+  "position": [
+   114,
+   125
+  ]
+ },
+ {
+  "text": "Người bệnh tỉnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Z5901"
+  ],
+  "assertions": [],
+  "position": [
+   524,
+   539
+  ]
+ },
+ {
+  "text": "Da niêm mạc hồngi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O019"
+  ],
+  "assertions": [],
+  "position": [
+   540,
+   557
+  ]
+ },
+ {
+  "text": "Đau bụng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R1012"
+  ],
+  "assertions": [],
+  "position": [
+   559,
+   580
+  ]
+ },
+ {
+  "text": "Khám thấy",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R441"
+  ],
+  "assertions": [],
+  "position": [
+   637,
+   646
+  ]
+ },
+ {
+  "text": "130/76 mmHg",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K644"
+  ],
+  "assertions": [],
+  "position": [
+   656,
+   667
+  ]
+ },
+ {
+  "text": "93 l/p",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "P0503"
+  ],
+  "assertions": [],
+  "position": [
+   674,
+   680
+  ]
+ },
+ {
+  "text": "14 l/p",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R29714"
+  ],
+  "assertions": [],
+  "position": [
+   712,
+   718
+  ]
+ },
+ {
+  "text": "99 %",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R29709"
+  ],
+  "assertions": [],
+  "position": [
+   726,
+   730
+  ]
+ },
+ {
+  "text": "compazine",
+  "type": "THUỐC",
+  "candidates": [
+   "8704"
+  ],
+  "assertions": [],
+  "position": [
+   764,
+   773
+  ]
+ },
+ {
+  "text": "lorazepam",
+  "type": "THUỐC",
+  "candidates": [
+   "6470"
+  ],
+  "assertions": [],
+  "position": [
+   829,
+   838
+  ]
+ }
+]

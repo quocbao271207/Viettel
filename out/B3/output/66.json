@@ -1,0 +1,230 @@
+[
+ {
+  "text": "Tiểu đường loại 1 đái tháo đường",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "K903"
+  ],
+  "assertions": [],
+  "position": [
+   54,
+   86
+  ]
+ },
+ {
+  "text": "tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "I959"
+  ],
+  "assertions": [],
+  "position": [
+   93,
+   106
+  ]
+ },
+ {
+  "text": "tăng lipid máu, không đặc hiệu",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E785"
+  ],
+  "assertions": [],
+  "position": [
+   113,
+   143
+  ]
+ },
+ {
+  "text": "béo phì",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E663"
+  ],
+  "assertions": [],
+  "position": [
+   150,
+   157
+  ]
+ },
+ {
+  "text": "đau bàn chân phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A1"
+  ],
+  "assertions": [],
+  "position": [
+   307,
+   324
+  ]
+ },
+ {
+  "text": "đau bàn chân phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A1"
+  ],
+  "assertions": [],
+  "position": [
+   360,
+   377
+  ]
+ },
+ {
+  "text": "mất thăng bằng khi đi lại",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R2681"
+  ],
+  "assertions": [],
+  "position": [
+   384,
+   409
+  ]
+ },
+ {
+  "text": "Xuất viện về nhà ngày hôm qua",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "H5311"
+  ],
+  "assertions": [],
+  "position": [
+   509,
+   538
+  ]
+ },
+ {
+  "text": "ertapenem",
+  "type": "THUỐC",
+  "candidates": [
+   "325642"
+  ],
+  "assertions": [],
+  "position": [
+   587,
+   596
+  ]
+ },
+ {
+  "text": "đau bàn chân phải đã hoàn toàn hết",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G8221"
+  ],
+  "assertions": [],
+  "position": [
+   643,
+   677
+  ]
+ },
+ {
+  "text": "cảm thấy tốt hơn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R203"
+  ],
+  "assertions": [],
+  "position": [
+   684,
+   700
+  ]
+ },
+ {
+  "text": "Vẫn cảm thấy không vững khi đứng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R2681"
+  ],
+  "assertions": [],
+  "position": [
+   707,
+   739
+  ]
+ },
+ {
+  "text": "hct (hematocrit) 8.126.3",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "D565"
+  ],
+  "assertions": [],
+  "position": [
+   808,
+   832
+  ]
+ },
+ {
+  "text": "tiểu cầu (platelets) 478",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "Q970"
+  ],
+  "assertions": [],
+  "position": [
+   839,
+   863
+  ]
+ },
+ {
+  "text": "hco3- (bicarbonate) 20",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "T5813XD"
+  ],
+  "assertions": [],
+  "position": [
+   870,
+   892
+  ]
+ },
+ {
+  "text": "ag (anion gap) 13",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R29713"
+  ],
+  "assertions": [],
+  "position": [
+   899,
+   916
+  ]
+ },
+ {
+  "text": "bun/creatinine (ure/creatinine)",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "N202"
+  ],
+  "assertions": [],
+  "position": [
+   923,
+   954
+  ]
+ },
+ {
+  "text": "glucose (đường huyết) 316",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R7301"
+  ],
+  "assertions": [],
+  "position": [
+   961,
+   986
+  ]
+ },
+ {
+  "text": "lactate (acid lactat) 1.3",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "E731"
+  ],
+  "assertions": [],
+  "position": [
+   993,
+   1018
+  ]
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "text": "Lúc vào viện khám",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   213,
+   230
+  ]
+ },
+ {
+  "text": "Bệnh nhân tỉnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   231,
+   245
+  ]
+ },
+ {
+  "text": "mệt mỏi",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   248,
+   255
+  ]
+ },
+ {
+  "text": "Khó thở tăng khi vận động gắng sức",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [],
+  "assertions": [],
+  "position": [
+   258,
+   292
+  ]
+ }
+]

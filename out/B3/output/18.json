@@ -1,0 +1,50 @@
+[
+ {
+  "text": "đau ngực trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A2"
+  ],
+  "assertions": [],
+  "position": [
+   292,
+   305
+  ]
+ },
+ {
+  "text": "đau sau xương ức",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M797"
+  ],
+  "assertions": [],
+  "position": [
+   312,
+   328
+  ]
+ },
+ {
+  "text": "đau lan ra sau lưng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "M5450"
+  ],
+  "assertions": [],
+  "position": [
+   335,
+   354
+  ]
+ },
+ {
+  "text": "bóc tách động mạch chủ loại B",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G2583"
+  ],
+  "assertions": [],
+  "position": [
+   804,
+   833
+  ]
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "text": "đau bụng dữ dội",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.0"
+  ],
+  "assertions": [],
+  "position": [
+   37,
+   52
+  ]
+ },
+ {
+  "text": "đau bụng dữ dội",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.0"
+  ],
+  "assertions": [],
+  "position": [
+   118,
+   133
+  ]
+ },
+ {
+  "text": "chướng bụng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R19.30"
+  ],
+  "assertions": [],
+  "position": [
+   136,
+   147
+  ]
+ },
+ {
+  "text": "ớn lạnh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "G91.9"
+  ],
+  "assertions": [],
+  "position": [
+   150,
+   157
+  ]
+ },
+ {
+  "text": "mất ăn ngon",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R13.10"
+  ],
+  "assertions": [],
+  "position": [
+   160,
+   171
+  ]
+ },
+ {
+  "text": "Mức độ nghiêm trọng: nghiêm trọng",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "O14.10"
+  ],
+  "assertions": [],
+  "position": [
+   244,
+   277
+  ]
+ },
+ {
+  "text": "Không có buồn nôn hoặc nôn",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.11"
+  ],
+  "assertions": [],
+  "position": [
+   338,
+   364
+  ]
+ },
+ {
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R11.10"
+  ],
+  "assertions": [],
+  "position": [
+   412,
+   415
+  ]
+ },
+ {
+  "text": "nhịp tim nhanh",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R00.0"
+  ],
+  "assertions": [],
+  "position": [
+   418,
+   432
+  ]
+ }
+]

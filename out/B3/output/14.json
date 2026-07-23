@@ -1,0 +1,50 @@
+[
+ {
+  "text": "đau ngực tráikèm theo  khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R071"
+  ],
+  "assertions": [],
+  "position": [
+   69,
+   99
+  ]
+ },
+ {
+  "text": "đau ngực trái",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10A2"
+  ],
+  "assertions": [],
+  "position": [
+   123,
+   136
+  ]
+ },
+ {
+  "text": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R0602"
+  ],
+  "assertions": [],
+  "position": [
+   139,
+   146
+  ]
+ },
+ {
+  "text": "chóng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R579"
+  ],
+  "assertions": [],
+  "position": [
+   149,
+   158
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "candidates": [
+   "161"
+  ],
+  "assertions": [],
+  "position": [
+   367,
+   374
+  ]
+ },
+ {
+  "text": "advil",
+  "type": "THUỐC",
+  "candidates": [
+   "5640"
+  ],
+  "assertions": [],
+  "position": [
+   378,
+   383
+  ]
+ }
+]

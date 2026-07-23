@@ -1,0 +1,26 @@
+[
+ {
+  "text": "đau vùng hạ sườn phải",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "R10.A1"
+  ],
+  "assertions": [],
+  "position": [
+   156,
+   177
+  ]
+ },
+ {
+  "text": "siêu âm cho thấy sỏi mật",
+  "type": "TRIỆU_CHỨNG",
+  "candidates": [
+   "J94.0"
+  ],
+  "assertions": [],
+  "position": [
+   220,
+   244
+  ]
+ }
+]
