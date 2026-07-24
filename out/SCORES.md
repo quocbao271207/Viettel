@@ -22,6 +22,10 @@ candidates (14.80→22.29). Text/assert giữ nguyên vì NER không đổi ⇒ 
 Phân rã 8.98 = text 3.21 + assert 2.96 + cand 2.82. Thêm 269 concept bệnh (chưa mã) ăn điểm
 CẢ 3 trục ⇒ **NER chính xác là chìa khoá**. Ngân sách từ gold ≈ 4171; mới trích ~918 (22%).
 
+## Lượt nộp: HẾT (24/07). Lần cuối = `submitted/07_merged3_29.7798.zip`. Reset mai.
+Thứ tự nộp KHUYẾN NGHỊ mai (5 lượt): (1) `curated.zip` (filled + assertion duyệt tay — bản tốt nhất),
+(2) `dedupe.zip` (test full vs dedupe, biến số 24%), (3) tuỳ kết quả.
+
 ## Ứng viên CHỜ NỘP
 - `candidates/dedupe.zip` — **THÍ NGHIỆM full vs dedupe** (chưa từng test). Nền 30.26 nhưng mỗi (text,type)
   chỉ giữ 1 lần/file → 1526 concept (bỏ 480 bản lặp = 24%). Mã giống hệt full ⇒ so sánh sạch.
