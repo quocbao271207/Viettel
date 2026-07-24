@@ -54,11 +54,18 @@ def load_json(p):
 
 
 class Handler(BaseHTTPRequestHandler):
-    gold = {}
     voters = {}
 
     def log_message(self, *a):
         pass
+
+    @staticmethod
+    def read_gold():
+        return load_json(GOLD_PATH)
+
+    @staticmethod
+    def write_gold(g):
+        GOLD_PATH.write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def _send(self, code, body, ctype="application/json"):
         b = body.encode("utf-8") if isinstance(body, str) else body
@@ -78,12 +85,12 @@ class Handler(BaseHTTPRequestHandler):
             votes = {v: locate(raw, self.voters.get(v, {}).get(fid, [])) for v in self.voters}
             self._send(200, json.dumps({
                 "file": fid, "raw": raw,
-                "concepts": self.gold.get(fid, []),
+                "concepts": self.read_gold().get(fid, []),
                 "votes": votes,
                 "counts": {v: sum(len(d) for d in self.voters.get(v, {}).values()) for v in self.voters},
             }, ensure_ascii=False))
         elif u.path == "/api/progress":
-            tot = sum(len(v) for v in self.gold.values())
+            tot = sum(len(v) for v in self.read_gold().values())
             self._send(200, json.dumps({"total": tot, "voters": list(self.voters)}))
         else:
             self._send(404, "{}")
@@ -95,17 +102,19 @@ class Handler(BaseHTTPRequestHandler):
         if u.path == "/api/save":
             fid = str(body["file"])
             ents = sorted(body["concepts"], key=lambda x: x["position"][0])
-            self.gold[fid] = ents
-            GOLD_PATH.write_text(json.dumps(self.gold, ensure_ascii=False, indent=1), encoding="utf-8")
+            g = self.read_gold()               # đọc tươi -> chỉ ghi đè file này, giữ sửa ngoài ở file khác
+            g[fid] = ents
+            self.write_gold(g)
             self._send(200, json.dumps({"ok": True, "n": len(ents),
-                                        "total": sum(len(v) for v in self.gold.values())}))
+                                        "total": sum(len(v) for v in g.values())}))
         elif u.path == "/api/export":
+            g = self.read_gold()
             out = ROOT / "out/candidates/curated/output"
             shutil.rmtree(out.parent, ignore_errors=True)
             out.mkdir(parents=True)
             for i in range(1, 101):
                 (out / f"{i}.json").write_text(
-                    json.dumps(self.gold.get(str(i), []), ensure_ascii=False, indent=1), encoding="utf-8")
+                    json.dumps(g.get(str(i), []), ensure_ascii=False, indent=1), encoding="utf-8")
             shutil.make_archive(str(ROOT / "out/candidates/curated"), "zip",
                                 root_dir=out.parent, base_dir="output")
             self._send(200, json.dumps({"ok": True, "path": "out/candidates/curated.zip"}))
@@ -301,10 +310,9 @@ def main():
     global GOLD_PATH
     GOLD_PATH = Path(args.gold) if Path(args.gold).is_absolute() else ROOT / args.gold
 
-    Handler.gold = load_json(GOLD_PATH)
     Handler.voters = {v: load_json(ROOT / f"dev/votes/{v}.json") for v in VOTER_FILES
                       if (ROOT / f"dev/votes/{v}.json").exists()}
-    tot = sum(len(v) for v in Handler.gold.values())
+    tot = sum(len(v) for v in load_json(GOLD_PATH).values())
     print(f"Gold: {GOLD_PATH.name} ({tot} concept) | voter tham chiếu: {list(Handler.voters)}")
     print(f"\n  ➜  Mở trình duyệt:  http://localhost:{args.port}\n\n  (Ctrl+C để dừng)")
     ThreadingHTTPServer(("127.0.0.1", args.port), Handler).serve_forever()
