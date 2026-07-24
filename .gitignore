@@ -44,3 +44,5 @@ data/icd10_sapbert.pt
 # Gold curate (ghi liên tục khi user chỉnh; nền tái tạo được từ claude_filled.zip)
 dev/gold_curated.json
 dev/gold_merged.json
+
+dev/votes/sol.json

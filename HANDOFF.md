@@ -5,13 +5,19 @@
 
 ## 1. Đang ở đâu — điểm leaderboard (điểm hiển thị = raw×100, %)
 
-Tiến trình (data MỚI 21/07): **rỗng 0.08 → thuốc 3.98 → +chẩn đoán 8.98 → +triệu chứng(rule) 15.47
-→ NER Claude LLM 24.19 → +ICD CÓ CHẤM 27.26 → +re-rank ICD 30.2557** ✅ (bản tốt nhất, nộp 24/07 16:22).
+Tiến trình (data MỚI 21/07): **rỗng 0.08 → ... → re-rank ICD 30.2557 → +assertion duyệt tay 30.4607** ✅
+(bản tốt nhất, nộp 24/07 21:26).
 
-- Top leaderboard **39.76**, top-15 ~**35**. Ta 30.26 (~76% top).
-- Phân rã 30.26: **text 10.28 + assert 11.06 + candidates 8.92** (J_cand 14.80→22.29 nhờ re-rank).
-  Công thức: `0.3(1−WER)+0.3·J_assert+0.4·J_cand`.
-- Bản nộp tốt nhất: `out/submitted/06_claude_rerank_30.2557.zip`. Lịch sử điểm đầy đủ: `out/SCORES.md`.
+- Top leaderboard **39.76**, top-15 ~**35**. Ta 30.46 (~77% top).
+- Phân rã 30.46: **text 10.28 + assert 11.26 + candidates 8.92**. Công thức: `0.3(1−WER)+0.3·J_assert+0.4·J_cand`.
+- Bản nộp tốt nhất: `out/submitted/08_rerank_assert_30.4607.zip`. Lịch sử đầy đủ: `out/SCORES.md`.
+
+### ĐÒN BẨY CÒN LẠI (nghiên cứu 24/07 tối)
+1. **WER (lớn nhất, ~20đ headroom):** gold ~5800 concept / ~18,600 từ, ta mới 2006/6374 → **thiếu 66% (D)**.
+   Giảm WER = tăng recall ~3x. NHƯNG thêm concept SAI ranh giới → WER TĂNG (merged đã dính). Cần khớp gold.
+   API OpenAI/Gemini HẾT QUOTA → chỉ Fable 5 trích tay. VERIFY trước bằng `claude_plus_sol10.zip`.
+2. **Candidates (8.92/40):** mã ICD/RxNorm. Điền mã thuốc rỗng ĐÃ THỬ → HẠI (gold để rỗng, J_cand giảm). Bỏ.
+3. **Assertion (11.26/30):** đã duyệt 100 file xong, +0.68. Còn ít headroom.
 
 ## 2. Phát hiện CỨNG (đã trả giá bằng lượt nộp — đừng phân tích lại)
 

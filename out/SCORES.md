@@ -30,11 +30,15 @@ CẢ 3 trục ⇒ **NER chính xác là chìa khoá**. Ngân sách từ gold ≈
   ta điền mã → J rớt 1→0. BỎ 37 mã thuốc.
 - Hai hiệu ứng triệt tiêu (+0.007). ⇒ Bản `rerank_assert` = 30.2557 + assertion, BỎ mã thuốc → kỳ vọng ~30.46.
 
+| 24/07 21:26 | `submitted/08_rerank_assert_30.4607.zip` | nền 30.2557 + 128 assertion duyệt tay | **30.4607** ✅ | 65.7299 | **37.5484** | 22.2878 |
+
+**BẢN TỐT NHẤT = 30.4607.** Duyệt assertion 100 file (Fable 5) → +0.205 điểm thực. WER & J_cand bất biến.
+Phân rã: text 10.28 + assert **11.26** + cand 8.92. Đòn bẩy còn: **WER (giảm D, cần +recall ~3x)** > candidates.
+
 ## Ứng viên CHỜ NỘP (ưu tiên)
-- **`candidates/rerank_assert.zip`** — nền 30.2557 + 128 assertion duyệt tay, KHÔNG mã thuốc.
-  Diff vs 30.2557 = CHỈ assertion (offset 0). WER & J_cand bất biến, J_assert +0.68 ⇒ **kỳ vọng ~30.46**. NỘP ĐẦU TIÊN.
-- `dedupe.zip` — test full vs dedupe (biến số 24% concept lặp).
-- (bỏ `curated.zip`/`claude_filled.zip`: mã thuốc làm giảm J_cand.)
+- **`candidates/claude_plus_sol10.zip`** — VERIFY WER: +196 concept sol ở 10 file. Nếu WER < 65.73 ⇒ mật độ
+  cao đúng hướng, đáng trích dày 100 file (gold ~5800 concept, ta mới 2006). Nếu WER tăng ⇒ dừng hướng này.
+- `dedupe.zip` — test full vs dedupe (góc nhìn ngược: dedupe thấp hơn ⇒ gold trích dày).
 
 ## Ứng viên CHỜ NỘP
 - `candidates/dedupe.zip` — **THÍ NGHIỆM full vs dedupe** (chưa từng test). Nền 30.26 nhưng mỗi (text,type)
