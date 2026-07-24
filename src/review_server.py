@@ -118,16 +118,20 @@ PAGE = r"""<!doctype html><html lang="vi"><head><meta charset="utf-8">
 <title>Chỉnh Gold — Viettel</title>
 <style>
 :root{--drug:#0a7d3c;--dx:#c2410c;--sym:#7c3aed;--bg:#f7f7f8;--line:#e3e3e6;}
-*{box-sizing:border-box}body{margin:0;font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:#1a1a1a}
-header{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);padding:8px 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;z-index:10}
+*{box-sizing:border-box}html,body{height:100%}
+body{margin:0;font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:#1a1a1a;display:flex;flex-direction:column;overflow:hidden}
+header{flex-shrink:0;background:#fff;border-bottom:1px solid var(--line);padding:8px 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;z-index:10}
 header b{font-size:15px}button{font:inherit;padding:5px 11px;border:1px solid var(--line);background:#fff;border-radius:7px;cursor:pointer}
 button:hover{background:#f0f0f2}button.pri{background:#2563eb;color:#fff;border-color:#2563eb}button.pri:hover{filter:brightness(.94)}
 #nav input{width:52px;padding:4px;text-align:center;border:1px solid var(--line);border-radius:6px}
 #status{color:#059669;font-weight:600}.muted{color:#888}
-main{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:12px;align-items:start}
+main{flex:1;min-height:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:minmax(0,1fr);gap:12px;padding:12px;overflow:hidden}
 @media(max-width:900px){main{grid-template-columns:1fr}}
+.col{min-height:0;overflow-y:auto;display:flex;flex-direction:column;gap:12px;padding-right:4px}
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px}
-#raw{white-space:pre-wrap;word-break:break-word;font-size:14.5px;max-height:78vh;overflow:auto;user-select:text}
+.col.left .card{flex:1;min-height:0;display:flex;flex-direction:column}
+.card h3{position:sticky;top:-12px;background:#fff;padding-top:2px;margin:-2px 0 8px;z-index:2}
+#raw{white-space:pre-wrap;word-break:break-word;font-size:14.5px;flex:1;overflow:auto;user-select:text}
 ::highlight(drug){background:#c9f2d8}::highlight(dx){background:#ffe0cc}::highlight(sym){background:#e9dcff}
 ::highlight(focus){background:#fde68a}
 .ent{border:1px solid var(--line);border-radius:9px;padding:8px 10px;margin-bottom:9px}
@@ -157,12 +161,14 @@ kbd{background:#eee;border-radius:4px;padding:0 4px;font-size:11px}
   <button onclick="exportZip()">📦 Xuất ZIP nộp</button>
 </header>
 <main>
-  <div class="card"><h3>Văn bản gốc — bôi đen để thêm concept</h3><div id="raw"></div></div>
-  <div>
+  <div class="col left">
+    <div class="card"><h3>Văn bản gốc — bôi đen để thêm concept</h3><div id="raw"></div></div>
+  </div>
+  <div class="col right">
     <div class="card"><h3>Concept trong gold (<span id="ecount">0</span>)</h3><div id="ents"></div>
       <div id="addbar" class="muted">Bôi đen 1 đoạn ở bên trái rồi bấm <button onclick="addFromSel()">＋ Thêm concept</button></div>
     </div>
-    <div class="card" style="margin-top:12px"><h3>Model đề xuất THÊM (chưa có trong gold)</h3><div id="suggest"></div></div>
+    <div class="card"><h3>Model đề xuất THÊM (chưa có trong gold)</h3><div id="suggest"></div></div>
   </div>
 </main>
 <script>
