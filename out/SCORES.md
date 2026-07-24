@@ -22,9 +22,19 @@ candidates (14.80→22.29). Text/assert giữ nguyên vì NER không đổi ⇒ 
 Phân rã 8.98 = text 3.21 + assert 2.96 + cand 2.82. Thêm 269 concept bệnh (chưa mã) ăn điểm
 CẢ 3 trục ⇒ **NER chính xác là chìa khoá**. Ngân sách từ gold ≈ 4171; mới trích ~918 (22%).
 
-## Lượt nộp: HẾT (24/07). Lần cuối = `submitted/07_merged3_29.7798.zip`. Reset mai.
-Thứ tự nộp KHUYẾN NGHỊ mai (5 lượt): (1) `curated.zip` (filled + assertion duyệt tay — bản tốt nhất),
-(2) `dedupe.zip` (test full vs dedupe, biến số 24%), (3) tuỳ kết quả.
+| 24/07 20:49 | `curated.zip` (filled+assertion) | +37 mã thuốc +126 assertion | **30.2627** | 65.7299 | **37.5484** | 21.793 |
+
+**BÀI HỌC bản curated:** tách bạch 2 hiệu ứng so 30.2557:
+- **Assertion ĐÚNG**: J_assert 36.87→**37.55 (+0.68)** — xác nhận "bệnh nền→isHistorical" đúng. GIỮ.
+- **Điền mã thuốc SAI**: J_cand 22.29→21.79 (**−0.49**) — gold để RỖNG cho paracetamol/insulin/Vastarel...
+  ta điền mã → J rớt 1→0. BỎ 37 mã thuốc.
+- Hai hiệu ứng triệt tiêu (+0.007). ⇒ Bản `rerank_assert` = 30.2557 + assertion, BỎ mã thuốc → kỳ vọng ~30.46.
+
+## Ứng viên CHỜ NỘP (ưu tiên)
+- **`candidates/rerank_assert.zip`** — nền 30.2557 + 128 assertion duyệt tay, KHÔNG mã thuốc.
+  Diff vs 30.2557 = CHỈ assertion (offset 0). WER & J_cand bất biến, J_assert +0.68 ⇒ **kỳ vọng ~30.46**. NỘP ĐẦU TIÊN.
+- `dedupe.zip` — test full vs dedupe (biến số 24% concept lặp).
+- (bỏ `curated.zip`/`claude_filled.zip`: mã thuốc làm giảm J_cand.)
 
 ## Ứng viên CHỜ NỘP
 - `candidates/dedupe.zip` — **THÍ NGHIỆM full vs dedupe** (chưa từng test). Nền 30.26 nhưng mỗi (text,type)
