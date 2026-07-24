@@ -2,5 +2,6 @@
  {"name": "gpt",      "provider": "openai", "model": "gpt-4o",           "base_url": "https://api.openai.com/v1",                              "key_env": "OPENAI_API_KEY"},
  {"name": "gemini",   "provider": "openai", "model": "gemini-2.0-flash", "base_url": "https://generativelanguage.googleapis.com/v1beta/openai", "key_env": "GEMINI_API_KEY"},
  {"name": "gpt41",    "provider": "openai", "model": "gpt-4.1",          "base_url": "https://api.openai.com/v1",                              "key_env": "OPENAI_API_KEY"},
+ {"name": "sol",      "provider": "openai", "model": "gpt-5.6-sol",      "base_url": "https://api.openai.com/v1",                              "key_env": "OPENAI_API_KEY", "no_temp": true, "timeout": 240},
  {"name": "deepseek", "provider": "openai", "model": "deepseek-chat",    "base_url": "https://api.deepseek.com/v1",                            "key_env": "DEEPSEEK_API_KEY"}
 ]

@@ -71,10 +71,13 @@ def call_llm(cfg: dict, key: str, text: str) -> str:
         r.raise_for_status()
         return r.json()["content"][0]["text"]
     # OpenAI-compatible (OpenAI, DeepSeek)
-    r = requests.post(f'{cfg["base_url"]}/chat/completions', timeout=120,
-        headers={"Authorization": f"Bearer {key}", "content-type": "application/json"},
-        json={"model": cfg["model"], "temperature": 0,
-              "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}]})
+    body = {"model": cfg["model"],
+            "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}]}
+    if not cfg.get("no_temp"):        # model GPT-5 series chỉ nhận temperature mặc định
+        body["temperature"] = 0
+    timeout = cfg.get("timeout", 120)  # model reasoning mạnh cần lâu hơn
+    r = requests.post(f'{cfg["base_url"]}/chat/completions', timeout=timeout,
+        headers={"Authorization": f"Bearer {key}", "content-type": "application/json"}, json=body)
     r.raise_for_status()
     return r.json()["choices"][0]["message"]["content"]
 

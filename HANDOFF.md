@@ -29,6 +29,20 @@ Tiến trình (data MỚI 21/07): **rỗng 0.08 → thuốc 3.98 → +chẩn đo
 - **Track 1 — Phase 1 (leo NGAY):** submission = **NER bằng LLM** (Claude in-session free + Codex/Gemini) → gán mã (RxNorm + ICD re-rank, CÓ CHẤM). Đang ở 27.26, nhắm top-15 (~35).
 - **Track 2 — Phase 2 (bắt buộc cho top-15):** dựng lại bằng pipeline **≤9B self-host** (Qwen3-8B) tune theo GOLD. GOLD = triangulate 3 LLM. Cần Colab GPU cho việc này.
 
+## 3b. CÔNG CỤ CHỈNH GOLD (human-in-the-loop) — thêm 24/07 chiều
+
+Chiến lược mới (user chốt): **gold là TRẦN TRÊN của model ≤9B** — train self-host trên gold yếu là vô ích.
+Phải nâng gold vượt top-15 (nhắm ≥40đ) TRƯỚC, rồi mới distill Qwen. Kết hợp nhiều model mạnh + user chỉnh tay.
+
+- **Voter mạnh nhất:** `sol` = **gpt-5.6-sol** (OpenAI, reasoning). Chạy: `python3 src/gold_vote.py --voter sol`.
+  Lưu ý: GPT-5 series KHÔNG nhận `temperature` (voters.json có `"no_temp":true,"timeout":240`).
+- **Công cụ chỉnh:** `python3 src/review_server.py` → mở http://localhost:8000. Python thuần, không cài gì.
+  Trái: text tô màu theo type. Phải: sửa type/assertion/candidates, xoá, hoặc bôi đen text để THÊM concept.
+  Mỗi concept hiện phiếu 4 model (claude/gpt/gpt41/sol) để quyết nhanh. Panel "Model đề xuất THÊM" = concept
+  voter có mà gold thiếu (1 nút thêm). Lưu → ghi `dev/gold_curated.json`. Nút "Xuất ZIP" → `out/candidates/curated.zip`.
+- **Nền curate:** `dev/gold_curated.json` khởi tạo từ bản 30.26+37 mã thuốc (`claude_filled`). User sửa dần trên đó.
+- **Fable 5 (model phiên chat) = trọng tài:** khi user gặp ca khó trong lúc chỉnh, hỏi trực tiếp để phân xử.
+
 ## 4. Tài sản (scripts trong src/)
 
 | File | Vai trò |

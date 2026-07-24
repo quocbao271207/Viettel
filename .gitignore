@@ -40,3 +40,7 @@ out/candidates/*/
 data/icd10_sapbert.pt
 # === Phiếu LLM: GIỮ trong git (claude.json không tái tạo được, nền điểm 30.26).
 # Chỉ JSON thuần {text,type,assertion,before} — không chứa key. ===
+
+# Gold curate (ghi liên tục khi user chỉnh; nền tái tạo được từ claude_filled.zip)
+dev/gold_curated.json
+dev/gold_merged.json
