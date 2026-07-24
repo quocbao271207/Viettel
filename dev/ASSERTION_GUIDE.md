@@ -18,5 +18,6 @@ Chỉ gán assertion đặc biệt khi có tín hiệu RÕ về CHÍNH bệnh nh
 - **amyloidosis** khi bệnh nhân có "đã lâu": mọi cụm (kể cả câu định nghĩa) → `isHistorical` (file 73, 32).
 - Đoạn Q&A CHÈN về người khác (bé/bạn/chồng) hoặc định nghĩa bệnh → `∅`, KHÔNG isFamily.
 
-## Đã duyệt (file)
-5 6 10 11 12 14 32 54 63 68 70 73 82 84 85 89 91 92 97 98 99 100
+## Đã duyệt: TOÀN BỘ 100/100 file (24/07)
+Thống kê: ∅ 1294 | isHistorical 426 | isNegated 133 | isHypothetical 73 | isUncertain 57 | isFamily 23
+Chủ yếu sửa: bệnh nền trong mục "Tiền sử/bệnh mạn tính" ∅→isHistorical (+96). Claude vốn đúng isNegated/isUncertain/isHypothetical/∅.
