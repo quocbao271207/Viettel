@@ -17,6 +17,12 @@ candidates (14.80→22.29). Text/assert giữ nguyên vì NER không đổi ⇒ 
 Phân rã 8.98 = text 3.21 + assert 2.96 + cand 2.82. Thêm 269 concept bệnh (chưa mã) ăn điểm
 CẢ 3 trục ⇒ **NER chính xác là chìa khoá**. Ngân sách từ gold ≈ 4171; mới trích ~918 (22%).
 
+## Ứng viên CHỜ NỘP
+- `candidates/merged3_rerank.zip` — gộp 3 voter (claude+gpt+gpt41, trust=claude, k=2) + re-rank ICD.
+  **2216 concept (+210 so với bản 30.26)**, offset lệch 0, ICD có chấm, 651 assertion. Kỳ vọng ↑ cả 3 trục
+  nhờ recall NER cao hơn (thêm 223 cụm gpt+gpt41 đồng thuận + khôi phục ~105 cụm claude bị drop trước đây).
+  Rủi ro: 210 concept mới có thể kéo WER nếu precision kém — đo bằng điểm thực khi nộp.
+
 ## Quy ước thư mục
 - `submitted/NN_tên_điểm.zip` = bản ĐÃ NỘP, đánh số theo thứ tự nộp, đuôi = điểm nhận được.
 - `candidates/` = bản CHƯA NỘP đang chờ (hiện trống — bản kế: `merged3_rerank.zip` từ gộp 3 voter).

@@ -75,13 +75,19 @@ Nếu bỏ re-rank: đóng gói dev/gold_resolved.json thành zip nhớ **thêm 
   chỉ chứa bản CHƯA nộp. Đồ cũ (probe, olddata, nhãn tay, rerank_batches, votes/parts) → `archive/`.
   Bản đồ script active/legacy: `src/README.md`.
 
-### Pipeline bản nộp KẾ TIẾP (khi 2 voter xong)
+### Bản nộp KẾ TIẾP — `out/candidates/merged3_rerank.zip` ĐÃ DỰNG XONG, CHỜ NỘP
+3 voter đã chạy: claude 2119, gpt 1957, gpt41 2755 concept (định vị 97-99.6%, 0 lỗi type thuốc).
+Bộ gộp `dev/gold_merged.json` = **2216 concept** (claude giữ nguyên + 223 cụm gpt&gpt41 đồng thuận).
+Bản nộp: **+210 concept vs bản 30.26**, offset lệch 0. **VIỆC NGAY: nộp, ghi điểm vào SCORES.md.**
+- Nếu điểm TĂNG: mở rộng — thêm voter thứ 4 (Gemini khi có key) hoặc hạ `--k` cho cụm mới.
+- Nếu điểm GIẢM (210 concept mới precision kém): thử `--k 3` (chỉ cụm cả 3 đồng thuận) hoặc bỏ trust.
+
+Tái lập (đã chạy, để tham chiếu):
 ```bash
 python3 src/gold_triangulate.py --k 2 --sapbert --trust claude --out dev/gold_merged.json
 python3 src/rerank_prepare.py --gold dev/gold_merged.json --out dev/rerank_input_new.json --skip-done
 python3 src/rerank_llm.py --input dev/rerank_input_new.json --name auto_gpt
 python3 src/rerank_apply.py --gold dev/gold_merged.json --out merged3_rerank
-# -> nộp out/candidates/merged3_rerank.zip
 ```
 
 ## 7. Việc tiếp theo (đòn bẩy còn lại)
