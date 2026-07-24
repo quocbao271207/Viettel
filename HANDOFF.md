@@ -119,6 +119,18 @@ Nếu J_cand tăng: đòn bẩy tiếp = cải thiện ĐỘ CHÍNH XÁC mã ICD
 3. **KHÔNG cần mua:** OpenAI API (Codex lo GPT), Anthropic (phiên chat lo Claude). Chỉ Gemini (free) hoặc DeepSeek (~$2) nếu muốn voter thêm.
 4. **Phase 2:** distill gold → fine-tune/prompt Qwen3-8B trên Colab để pipeline ≤9B tái lập được.
 
+## 8b. FAQ CHÍNH THỨC BTC (ảnh 24/07 tối) — QUAN TRỌNG
+
+1. **Chấm điểm ĐẶC BIỆT chú trọng khả năng TÌM ĐỦ (recall).** → XÁC NHẬN hướng WER/giảm D đúng.
+   Đầu tư tăng recall (thêm concept đúng) là ưu tiên BTC muốn.
+2. **LLM tạo gold/synthetic data để TRAIN & fine-tune = ĐƯỢC PHÉP.** Quy định "không dùng API Agent/LLM
+   bên thứ ba" CHỈ áp cho HỆ THỐNG NỘP BÀI (inference private test = self-host ≤9B). → Track 2 (LLM→gold→Qwen)
+   HỢP LỆ hoàn toàn; có thể dùng LLM sinh thêm synthetic data để train. Xoá lo ngại "gian lận".
+3. **RxNorm: dùng bản MỚI NHẤT 2026.** ICD-10-CM đã 2026 ✓. RxNorm (rx_*.json) CẦN verify/cập nhật bản 2026.
+4. **Được dùng dataset NER y tế công khai để train** (tuân thủ license): i2b2/n2c2, BC5CDR, MedMentions... → tài nguyên Track 2.
+5. **(người khác gợi ý) Candidates KHÔNG rõ → ĐỂ RỖNG là ổn nhất.** XÁC NHẬN: bản filled điền mã thuốc rỗng
+   làm J_cand GIẢM (gold để rỗng). Nguyên tắc: chỉ gán mã khi CHẮC (curated), đoán mò → rỗng.
+
 ## 8. Ràng buộc đề
 
 Deadline Phase 1: **04/08/2026**. Top-15 phải nộp source + data + weights, BTC dựng lại trên private test bằng model self-host **≤9B**, cấm hard-code output. Timeout 600s (chỉ Phase 2/3). 5 lượt nộp/ngày.
