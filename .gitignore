@@ -32,3 +32,11 @@ serviceAccount*.json
 .idea/
 .vscode/
 *.log
+
+# === Output: giữ .zip có ý nghĩa, bỏ thư mục giải nén trung gian ===
+out/*/output/
+out/candidates/*/
+# === Index/model tái tạo được, quá lớn cho git ===
+data/icd10_sapbert.pt
+# === Phiếu LLM: GIỮ trong git (claude.json không tái tạo được, nền điểm 30.26).
+# Chỉ JSON thuần {text,type,assertion,before} — không chứa key. ===

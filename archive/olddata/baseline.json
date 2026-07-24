@@ -1,0 +1,1970 @@
+{
+ "1": [
+  {
+   "text": "Vitamin K",
+   "type": "THUỐC",
+   "candidates": [
+    "11258"
+   ],
+   "assertions": [],
+   "position": [
+    3583,
+    3592
+   ],
+   "_ingredient": "vitamin k"
+  }
+ ],
+ "2": [],
+ "3": [],
+ "4": [
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    625,
+    635
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [],
+   "position": [
+    1695,
+    1705
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [],
+   "position": [
+    1753,
+    1763
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    2473,
+    2483
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    2594,
+    2604
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "levothyroxine",
+   "type": "THUỐC",
+   "candidates": [
+    "10582"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    2704,
+    2717
+   ],
+   "_ingredient": "levothyroxine"
+  },
+  {
+   "text": "levothyroxine",
+   "type": "THUỐC",
+   "candidates": [
+    "10582"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    3091,
+    3104
+   ],
+   "_ingredient": "levothyroxine"
+  }
+ ],
+ "5": [],
+ "6": [],
+ "7": [
+  {
+   "text": "metoclopramide 10mg",
+   "type": "THUỐC",
+   "candidates": [
+    "6915"
+   ],
+   "assertions": [],
+   "position": [
+    2145,
+    2164
+   ],
+   "_ingredient": "metoclopramide"
+  }
+ ],
+ "8": [
+  {
+   "text": "seroquel",
+   "type": "THUỐC",
+   "candidates": [
+    "51272"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    190,
+    198
+   ],
+   "_ingredient": "quetiapine"
+  }
+ ],
+ "9": [
+  {
+   "text": "metoclopramide 10mg",
+   "type": "THUỐC",
+   "candidates": [
+    "6915"
+   ],
+   "assertions": [],
+   "position": [
+    2145,
+    2164
+   ],
+   "_ingredient": "metoclopramide"
+  }
+ ],
+ "10": [
+  {
+   "text": "metoprolol 25mg po bid",
+   "type": "THUỐC",
+   "candidates": [
+    "866924"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    53,
+    75
+   ],
+   "_ingredient": "metoprolol"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "candidates": [
+    "3640"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    82,
+    93
+   ],
+   "_ingredient": "doxycycline"
+  },
+  {
+   "text": "atenolol",
+   "type": "THUỐC",
+   "candidates": [
+    "1202"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    122,
+    130
+   ],
+   "_ingredient": "atenolol"
+  },
+  {
+   "text": "metoprolol 25mg po bid",
+   "type": "THUỐC",
+   "candidates": [
+    "866924"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1772,
+    1794
+   ],
+   "_ingredient": "metoprolol"
+  },
+  {
+   "text": "aspirin 325mg x 1",
+   "type": "THUỐC",
+   "candidates": [
+    "1191"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    2199,
+    2216
+   ],
+   "_ingredient": "aspirin"
+  }
+ ],
+ "11": [],
+ "12": [
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "candidates": [
+    "10180"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    382,
+    389
+   ],
+   "_ingredient": "sulfamethoxazole / trimethoprim"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "candidates": [
+    "3640"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    430,
+    441
+   ],
+   "_ingredient": "doxycycline"
+  }
+ ],
+ "13": [],
+ "14": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    684,
+    691
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    966,
+    973
+   ],
+   "_ingredient": "imatinib"
+  }
+ ],
+ "15": [
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "candidates": [
+    "10180"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    382,
+    389
+   ],
+   "_ingredient": "sulfamethoxazole / trimethoprim"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "candidates": [
+    "3640"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    430,
+    441
+   ],
+   "_ingredient": "doxycycline"
+  },
+  {
+   "text": "metoclopramide",
+   "type": "THUỐC",
+   "candidates": [
+    "6915"
+   ],
+   "assertions": [],
+   "position": [
+    1528,
+    1542
+   ],
+   "_ingredient": "metoclopramide"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "candidates": [
+    "10180"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1984,
+    1991
+   ],
+   "_ingredient": "sulfamethoxazole / trimethoprim"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "candidates": [
+    "3640"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1995,
+    2006
+   ],
+   "_ingredient": "doxycycline"
+  }
+ ],
+ "16": [
+  {
+   "text": "bumetanide 2mg iv",
+   "type": "THUỐC",
+   "candidates": [
+    "197419"
+   ],
+   "assertions": [],
+   "position": [
+    2178,
+    2195
+   ],
+   "_ingredient": "bumetanide"
+  },
+  {
+   "text": "vancomycin",
+   "type": "THUỐC",
+   "candidates": [
+    "11124"
+   ],
+   "assertions": [],
+   "position": [
+    2211,
+    2221
+   ],
+   "_ingredient": "vancomycin"
+  },
+  {
+   "text": "levofloxacin 750mg iv",
+   "type": "THUỐC",
+   "candidates": [
+    "311296"
+   ],
+   "assertions": [],
+   "position": [
+    2244,
+    2265
+   ],
+   "_ingredient": "levofloxacin"
+  }
+ ],
+ "17": [
+  {
+   "text": "vitamin K",
+   "type": "THUỐC",
+   "candidates": [
+    "11258"
+   ],
+   "assertions": [],
+   "position": [
+    1160,
+    1169
+   ],
+   "_ingredient": "vitamin k"
+  }
+ ],
+ "18": [],
+ "19": [
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [],
+   "position": [
+    684,
+    691
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [],
+   "position": [
+    721,
+    728
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [],
+   "position": [
+    962,
+    969
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1084,
+    1091
+   ],
+   "_ingredient": "acetaminophen"
+  }
+ ],
+ "20": [
+  {
+   "text": "compazine",
+   "type": "THUỐC",
+   "candidates": [
+    "8704"
+   ],
+   "assertions": [],
+   "position": [
+    1287,
+    1296
+   ],
+   "_ingredient": "prochlorperazine"
+  },
+  {
+   "text": "lorazepam",
+   "type": "THUỐC",
+   "candidates": [
+    "6470"
+   ],
+   "assertions": [],
+   "position": [
+    1352,
+    1361
+   ],
+   "_ingredient": "lorazepam"
+  }
+ ],
+ "21": [
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    2222,
+    2232
+   ],
+   "_ingredient": "omeprazole"
+  }
+ ],
+ "22": [
+  {
+   "text": "acetaminophen 500mg",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    171,
+    190
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "acetaminophen 500mg",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1183,
+    1202
+   ],
+   "_ingredient": "acetaminophen"
+  }
+ ],
+ "23": [],
+ "24": [],
+ "25": [
+  {
+   "text": "cephalexin",
+   "type": "THUỐC",
+   "candidates": [
+    "2231"
+   ],
+   "assertions": [],
+   "position": [
+    1930,
+    1940
+   ],
+   "_ingredient": "cephalexin"
+  }
+ ],
+ "26": [
+  {
+   "text": "nitroglycerin",
+   "type": "THUỐC",
+   "candidates": [
+    "4917"
+   ],
+   "assertions": [],
+   "position": [
+    1029,
+    1042
+   ],
+   "_ingredient": "nitroglycerin"
+  },
+  {
+   "text": "eliquis",
+   "type": "THUỐC",
+   "candidates": [
+    "1364430"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1813,
+    1820
+   ],
+   "_ingredient": "apixaban"
+  }
+ ],
+ "27": [],
+ "28": [],
+ "29": [],
+ "30": [
+  {
+   "text": "methadone",
+   "type": "THUỐC",
+   "candidates": [
+    "6813"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    136,
+    145
+   ],
+   "_ingredient": "methadone"
+  }
+ ],
+ "31": [
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    106,
+    116
+   ],
+   "_ingredient": "omeprazole"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1575,
+    1585
+   ],
+   "_ingredient": "omeprazole"
+  }
+ ],
+ "32": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    807,
+    814
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1089,
+    1096
+   ],
+   "_ingredient": "imatinib"
+  }
+ ],
+ "33": [
+  {
+   "text": "lasix",
+   "type": "THUỐC",
+   "candidates": [
+    "4603"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1659,
+    1664
+   ],
+   "_ingredient": "furosemide"
+  }
+ ],
+ "34": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    1389,
+    1396
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    1438,
+    1449
+   ],
+   "_ingredient": "allopurinol"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    1950,
+    1957
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    1996,
+    2007
+   ],
+   "_ingredient": "allopurinol"
+  }
+ ],
+ "35": [],
+ "36": [],
+ "37": [
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "candidates": [
+    "10180"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1211,
+    1218
+   ],
+   "_ingredient": "sulfamethoxazole / trimethoprim"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "candidates": [
+    "3640"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1222,
+    1233
+   ],
+   "_ingredient": "doxycycline"
+  }
+ ],
+ "38": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    99,
+    106
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    381,
+    388
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1047,
+    1054
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    1993,
+    2000
+   ],
+   "_ingredient": "imatinib"
+  }
+ ],
+ "39": [],
+ "40": [
+  {
+   "text": "vitamin K",
+   "type": "THUỐC",
+   "candidates": [
+    "11258"
+   ],
+   "assertions": [],
+   "position": [
+    277,
+    286
+   ],
+   "_ingredient": "vitamin k"
+  },
+  {
+   "text": "vitamin K",
+   "type": "THUỐC",
+   "candidates": [
+    "11258"
+   ],
+   "assertions": [],
+   "position": [
+    856,
+    865
+   ],
+   "_ingredient": "vitamin k"
+  }
+ ],
+ "41": [
+  {
+   "text": "Tretinoin",
+   "type": "THUỐC",
+   "candidates": [
+    "10753"
+   ],
+   "assertions": [],
+   "position": [
+    962,
+    971
+   ],
+   "_ingredient": "tretinoin"
+  }
+ ],
+ "42": [
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    176,
+    183
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "mucinex",
+   "type": "THUỐC",
+   "candidates": [
+    "5032"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    190,
+    197
+   ],
+   "_ingredient": "guaifenesin"
+  },
+  {
+   "text": "azithromycin",
+   "type": "THUỐC",
+   "candidates": [
+    "18631"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1413,
+    1425
+   ],
+   "_ingredient": "azithromycin"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1449,
+    1456
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "mucinex",
+   "type": "THUỐC",
+   "candidates": [
+    "5032"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1460,
+    1467
+   ],
+   "_ingredient": "guaifenesin"
+  }
+ ],
+ "43": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    190,
+    197
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    239,
+    250
+   ],
+   "_ingredient": "allopurinol"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    751,
+    758
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    797,
+    808
+   ],
+   "_ingredient": "allopurinol"
+  },
+  {
+   "text": "Bacillus clausii",
+   "type": "THUỐC",
+   "candidates": [
+    "2600050"
+   ],
+   "assertions": [],
+   "position": [
+    1635,
+    1651
+   ],
+   "_ingredient": "bacillus clausii"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    1743,
+    1750
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    1788,
+    1799
+   ],
+   "_ingredient": "allopurinol"
+  }
+ ],
+ "44": [
+  {
+   "text": "acetaminophen",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [],
+   "position": [
+    204,
+    217
+   ],
+   "_ingredient": "acetaminophen"
+  }
+ ],
+ "45": [],
+ "46": [],
+ "47": [],
+ "48": [],
+ "49": [],
+ "50": [],
+ "51": [
+  {
+   "text": "furosemide",
+   "type": "THUỐC",
+   "candidates": [
+    "4603"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    197,
+    207
+   ],
+   "_ingredient": "furosemide"
+  },
+  {
+   "text": "aspirin 325mg",
+   "type": "THUỐC",
+   "candidates": [
+    "1191"
+   ],
+   "assertions": [],
+   "position": [
+    1708,
+    1721
+   ],
+   "_ingredient": "aspirin"
+  },
+  {
+   "text": "methylprednisolone 125mg iv",
+   "type": "THUỐC",
+   "candidates": [
+    "1743704"
+   ],
+   "assertions": [],
+   "position": [
+    1783,
+    1810
+   ],
+   "_ingredient": "methylprednisolone"
+  }
+ ],
+ "52": [],
+ "53": [
+  {
+   "text": "Torsemide",
+   "type": "THUỐC",
+   "candidates": [
+    "38413"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1071,
+    1080
+   ],
+   "_ingredient": "torsemide"
+  },
+  {
+   "text": "torsemide",
+   "type": "THUỐC",
+   "candidates": [
+    "38413"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1135,
+    1144
+   ],
+   "_ingredient": "torsemide"
+  }
+ ],
+ "54": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    343,
+    350
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    625,
+    632
+   ],
+   "_ingredient": "imatinib"
+  }
+ ],
+ "55": [],
+ "56": [],
+ "57": [
+  {
+   "text": "Torsemide",
+   "type": "THUỐC",
+   "candidates": [
+    "38413"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    741,
+    750
+   ],
+   "_ingredient": "torsemide"
+  },
+  {
+   "text": "torsemide",
+   "type": "THUỐC",
+   "candidates": [
+    "38413"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    805,
+    814
+   ],
+   "_ingredient": "torsemide"
+  },
+  {
+   "text": "isosorbide",
+   "type": "THUỐC",
+   "candidates": [
+    "6057"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1040,
+    1050
+   ],
+   "_ingredient": "isosorbide"
+  },
+  {
+   "text": "crestor",
+   "type": "THUỐC",
+   "candidates": [
+    "301542"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1052,
+    1059
+   ],
+   "_ingredient": "rosuvastatin calcium"
+  },
+  {
+   "text": "carvedilol",
+   "type": "THUỐC",
+   "candidates": [
+    "20352"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1061,
+    1071
+   ],
+   "_ingredient": "carvedilol"
+  },
+  {
+   "text": "isosorbide",
+   "type": "THUỐC",
+   "candidates": [
+    "6057"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1102,
+    1112
+   ],
+   "_ingredient": "isosorbide"
+  },
+  {
+   "text": "crestor",
+   "type": "THUỐC",
+   "candidates": [
+    "301542"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1114,
+    1121
+   ],
+   "_ingredient": "rosuvastatin calcium"
+  },
+  {
+   "text": "carvedilol",
+   "type": "THUỐC",
+   "candidates": [
+    "20352"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1123,
+    1133
+   ],
+   "_ingredient": "carvedilol"
+  }
+ ],
+ "58": [
+  {
+   "text": "isosorbide",
+   "type": "THUỐC",
+   "candidates": [
+    "6057"
+   ],
+   "assertions": [],
+   "position": [
+    1014,
+    1024
+   ],
+   "_ingredient": "isosorbide"
+  },
+  {
+   "text": "crestor",
+   "type": "THUỐC",
+   "candidates": [
+    "301542"
+   ],
+   "assertions": [],
+   "position": [
+    1026,
+    1033
+   ],
+   "_ingredient": "rosuvastatin calcium"
+  },
+  {
+   "text": "carvedilol",
+   "type": "THUỐC",
+   "candidates": [
+    "20352"
+   ],
+   "assertions": [],
+   "position": [
+    1035,
+    1045
+   ],
+   "_ingredient": "carvedilol"
+  },
+  {
+   "text": "isosorbide",
+   "type": "THUỐC",
+   "candidates": [
+    "6057"
+   ],
+   "assertions": [],
+   "position": [
+    1076,
+    1086
+   ],
+   "_ingredient": "isosorbide"
+  },
+  {
+   "text": "crestor",
+   "type": "THUỐC",
+   "candidates": [
+    "301542"
+   ],
+   "assertions": [],
+   "position": [
+    1088,
+    1095
+   ],
+   "_ingredient": "rosuvastatin calcium"
+  },
+  {
+   "text": "carvedilol",
+   "type": "THUỐC",
+   "candidates": [
+    "20352"
+   ],
+   "assertions": [],
+   "position": [
+    1097,
+    1107
+   ],
+   "_ingredient": "carvedilol"
+  }
+ ],
+ "59": [],
+ "60": [
+  {
+   "text": "coumadin 3.0 mg",
+   "type": "THUỐC",
+   "candidates": [
+    "11289"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    805,
+    820
+   ],
+   "_ingredient": "warfarin sodium"
+  }
+ ],
+ "61": [],
+ "62": [
+  {
+   "text": "azithromycin",
+   "type": "THUỐC",
+   "candidates": [
+    "18631"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1153,
+    1165
+   ],
+   "_ingredient": "azithromycin"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1189,
+    1196
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "mucinex",
+   "type": "THUỐC",
+   "candidates": [
+    "5032"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1200,
+    1207
+   ],
+   "_ingredient": "guaifenesin"
+  }
+ ],
+ "63": [
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    368,
+    375
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    417,
+    428
+   ],
+   "_ingredient": "allopurinol"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    929,
+    936
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    975,
+    986
+   ],
+   "_ingredient": "allopurinol"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "candidates": [
+    "282388"
+   ],
+   "assertions": [],
+   "position": [
+    1502,
+    1509
+   ],
+   "_ingredient": "imatinib"
+  },
+  {
+   "text": "allopurinol",
+   "type": "THUỐC",
+   "candidates": [
+    "519"
+   ],
+   "assertions": [],
+   "position": [
+    1547,
+    1558
+   ],
+   "_ingredient": "allopurinol"
+  }
+ ],
+ "64": [
+  {
+   "text": "nitroglycerin",
+   "type": "THUỐC",
+   "candidates": [
+    "4917"
+   ],
+   "assertions": [],
+   "position": [
+    832,
+    845
+   ],
+   "_ingredient": "nitroglycerin"
+  }
+ ],
+ "65": [],
+ "66": [],
+ "67": [],
+ "68": [],
+ "69": [
+  {
+   "text": "vancomycin",
+   "type": "THUỐC",
+   "candidates": [
+    "11124"
+   ],
+   "assertions": [],
+   "position": [
+    847,
+    857
+   ],
+   "_ingredient": "vancomycin"
+  }
+ ],
+ "70": [
+  {
+   "text": "furosemide",
+   "type": "THUỐC",
+   "candidates": [
+    "4603"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    197,
+    207
+   ],
+   "_ingredient": "furosemide"
+  },
+  {
+   "text": "aspirin 325mg",
+   "type": "THUỐC",
+   "candidates": [
+    "1191"
+   ],
+   "assertions": [],
+   "position": [
+    1522,
+    1535
+   ],
+   "_ingredient": "aspirin"
+  },
+  {
+   "text": "methylprednisolone 125mg iv",
+   "type": "THUỐC",
+   "candidates": [
+    "1743704"
+   ],
+   "assertions": [],
+   "position": [
+    1597,
+    1624
+   ],
+   "_ingredient": "methylprednisolone"
+  }
+ ],
+ "71": [
+  {
+   "text": "vancomycin",
+   "type": "THUỐC",
+   "candidates": [
+    "11124"
+   ],
+   "assertions": [],
+   "position": [
+    398,
+    408
+   ],
+   "_ingredient": "vancomycin"
+  }
+ ],
+ "72": [
+  {
+   "text": "clonidine",
+   "type": "THUỐC",
+   "candidates": [
+    "2599"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    784,
+    793
+   ],
+   "_ingredient": "clonidine"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    821,
+    829
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [],
+   "position": [
+    1343,
+    1351
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [],
+   "position": [
+    1386,
+    1394
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  }
+ ],
+ "73": [],
+ "74": [],
+ "75": [],
+ "76": [],
+ "77": [],
+ "78": [],
+ "79": [],
+ "80": [],
+ "81": [],
+ "82": [
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "candidates": [
+    "7646"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    106,
+    116
+   ],
+   "_ingredient": "omeprazole"
+  }
+ ],
+ "83": [],
+ "84": [],
+ "85": [],
+ "86": [],
+ "87": [],
+ "88": [
+  {
+   "text": "Augmentin",
+   "type": "THUỐC",
+   "candidates": [
+    "723"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    630,
+    639
+   ],
+   "_ingredient": "amoxicillin / clavulanate"
+  }
+ ],
+ "89": [],
+ "90": [],
+ "91": [
+  {
+   "text": "coumadin",
+   "type": "THUỐC",
+   "candidates": [
+    "11289"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    204,
+    212
+   ],
+   "_ingredient": "warfarin sodium"
+  },
+  {
+   "text": "coumadin",
+   "type": "THUỐC",
+   "candidates": [
+    "11289"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    248,
+    256
+   ],
+   "_ingredient": "warfarin sodium"
+  },
+  {
+   "text": "coumadin",
+   "type": "THUỐC",
+   "candidates": [
+    "11289"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    355,
+    363
+   ],
+   "_ingredient": "warfarin sodium"
+  }
+ ],
+ "92": [
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "candidates": [
+    "10180"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    321,
+    328
+   ],
+   "_ingredient": "sulfamethoxazole / trimethoprim"
+  },
+  {
+   "text": "zosyn",
+   "type": "THUỐC",
+   "candidates": [
+    "8339"
+   ],
+   "assertions": [],
+   "position": [
+    604,
+    609
+   ],
+   "_ingredient": "piperacillin / tazobactam"
+  },
+  {
+   "text": "Vancomycin",
+   "type": "THUỐC",
+   "candidates": [
+    "11124"
+   ],
+   "assertions": [],
+   "position": [
+    1365,
+    1375
+   ],
+   "_ingredient": "vancomycin"
+  }
+ ],
+ "93": [],
+ "94": [],
+ "95": [
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "candidates": [
+    "161"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1287,
+    1294
+   ],
+   "_ingredient": "acetaminophen"
+  },
+  {
+   "text": "mucinex",
+   "type": "THUỐC",
+   "candidates": [
+    "5032"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    1301,
+    1308
+   ],
+   "_ingredient": "guaifenesin"
+  }
+ ],
+ "96": [],
+ "97": [],
+ "98": [
+  {
+   "text": "clonidine",
+   "type": "THUỐC",
+   "candidates": [
+    "2599"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    480,
+    489
+   ],
+   "_ingredient": "clonidine"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [
+    "isHistorical"
+   ],
+   "position": [
+    517,
+    525
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [],
+   "position": [
+    1039,
+    1047
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  },
+  {
+   "text": "suboxone",
+   "type": "THUỐC",
+   "candidates": [
+    "1819"
+   ],
+   "assertions": [],
+   "position": [
+    1082,
+    1090
+   ],
+   "_ingredient": "buprenorphine / naloxone"
+  }
+ ],
+ "99": [],
+ "100": [
+  {
+   "text": "aspirin",
+   "type": "THUỐC",
+   "candidates": [
+    "1191"
+   ],
+   "assertions": [],
+   "position": [
+    1114,
+    1121
+   ],
+   "_ingredient": "aspirin"
+  }
+ ]
+}

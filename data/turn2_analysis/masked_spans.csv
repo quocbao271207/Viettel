@@ -1,0 +1,100 @@
+file,start,end,mask_len,drug_class,paren_hint,left,right
+1,3455,3462,7,giảm đau/hạ sốt,,"ễm khuẩn, nhiễm virus ⏎  • Thuốc giảm đau, hạ sốt chứa","hoặc ********** ⏎  • Kháng sinh nhóm ***********, *"
+1,3468,3478,10,giảm đau/hạ sốt,,"ễm virus ⏎  • Thuốc giảm đau, hạ sốt chứa ******* hoặc","⏎  • Kháng sinh nhóm ***********, ******** ⏎  • Thuốc"
+1,3498,3509,11,giảm đau/hạ sốt,,sốt chứa ******* hoặc ********** ⏎  • Kháng sinh nhóm,", ******** ⏎  • Thuốc kháng sốt rét như *******, ***"
+1,3511,3519,8,giảm đau/hạ sốt,,"**** hoặc ********** ⏎  • Kháng sinh nhóm ***********,","⏎  • Thuốc kháng sốt rét như *******, ***********,"
+1,3547,3554,7,kháng sinh,,"hóm ***********, ******** ⏎  • Thuốc kháng sốt rét như",", ***********, ********** ⏎  • Vitamin K dùng trong"
+1,3556,3567,11,kháng sốt rét,,"******, ******** ⏎  • Thuốc kháng sốt rét như *******,",", ********** ⏎  • Vitamin K dùng trong điều trị nhiễ"
+1,3569,3579,10,kháng sốt rét,,"*** ⏎  • Thuốc kháng sốt rét như *******, ***********,",⏎  • Vitamin K dùng trong điều trị nhiễm khuẩn tiết
+2,2350,2371,21,,,ặc biệt là bệnh viện có chuyên khoa tim mạch nhi. ⏎ 1.,– Điều trị quan trọng nhất ⏎  • Dùng liều cao truyề
+2,2534,2541,7,,ASA,bệnh. ⏎  • Giảm biến chứng động mạch vành rõ rệt. ⏎ 2.,(ASA) ⏎  • Dùng liều cao giai đoạn cấp tính để giảm
+2,2699,2703,4,,,3. Điều trị lặp lại nếu cần ⏎  • Một số trẻ cần truyền,lần 2 hoặc sử dụng thuốc ức chế miễn dịch khác ⏎ 7.
+2,2954,2958,4,vắc xin,thường phải hoãn 9–11 tháng,định. ⏎  • Tránh tiêm vắc xin sống ngay sau khi truyền,(thường phải hoãn 9–11 tháng). ⏎  ⏎ 8. Chế độ dinh dư
+2,3666,3670,4,,,"nứt, lưỡi đỏ dâu tây hoặc sưng hạch cổ. Điều trị bằng",trong 10 ngày đầu là yếu tố then chốt giúp giảm b
+4,3226,3239,13,,200-300 microgam/ngày,"ng độ khoảng 4 nanogam/mL), thậm chí khi dùng liều cao","(200-300 microgam/ngày), và do đó không gây hại c"
+7,1713,1719,6,,,ốc BS kê có ảnh hưởng đến em bé trong bụng em không: -,"(trong HDSD có ghi ""An toàn của ****** trên phụ n"
+7,1752,1758,6,,,"ụng em không: - ****** (trong HDSD có ghi ""An toàn của","trên phụ nữ có thai chưa được thiết lập"") - *****"
+7,1803,1810,7,,"*******************, ****************","của ****** trên phụ nữ có thai chưa được thiết lập"") -","(*******************, ****************) - *******"
+7,1812,1831,19,,,"* trên phụ nữ có thai chưa được thiết lập"") - ******* (",", ****************) - ************** 2. Các xét ng"
+7,1833,1849,16,,,"chưa được thiết lập"") - ******* (*******************,",) - ************** 2. Các xét nghiệm/siêu âm/nội s
+7,1853,1867,14,,,""") - ******* (*******************, ****************) -",2. Các xét nghiệm/siêu âm/nội soi cần thiết nào c
+7,2073,2083,10,,,"ng như sau: ⏎ Aquima: nhôm hydroxid, magie hydroxid và",. ⏎ Simenic: Alverin citrate 40mg và Simethicon 100m
+7,2475,2485,10,,,cáo. ⏎ Hiện tại chưa có đủ nghiên cứu về việc sử dụng,trên phụ nữ mang thai. Mặc dù chưa khẳng định đượ
+7,2588,2598,10,,,ược thuốc có qua nhau thai hay không nhưng hấp thu của,"qua ruột bị hạn chế, do đó làm giảm khả năng phơi"
+9,1713,1719,6,,,ốc BS kê có ảnh hưởng đến em bé trong bụng em không: -,"(trong HDSD có ghi ""An toàn của ****** trên phụ n"
+9,1752,1758,6,,,"ụng em không: - ****** (trong HDSD có ghi ""An toàn của","trên phụ nữ có thai chưa được thiết lập"") - *****"
+9,1803,1810,7,,"*******************, ****************","của ****** trên phụ nữ có thai chưa được thiết lập"") -","(*******************, ****************) - *******"
+9,1812,1831,19,,,"* trên phụ nữ có thai chưa được thiết lập"") - ******* (",", ****************) - ************** 2. Các xét ng"
+9,1833,1849,16,,,"chưa được thiết lập"") - ******* (*******************,",) - ************** 2. Các xét nghiệm/siêu âm/nội s
+9,1853,1867,14,,,""") - ******* (*******************, ****************) -",2. Các xét nghiệm/siêu âm/nội soi cần thiết nào c
+9,2073,2083,10,,,"ng như sau: ⏎ Aquima: nhôm hydroxid, magie hydroxid và",. ⏎ Simenic: Alverin citrate 40mg và Simethicon 100m
+9,2475,2485,10,,,cáo. ⏎ Hiện tại chưa có đủ nghiên cứu về việc sử dụng,trên phụ nữ mang thai. Mặc dù chưa khẳng định đượ
+9,2588,2598,10,,,ược thuốc có qua nhau thai hay không nhưng hấp thu của,"qua ruột bị hạn chế, do đó làm giảm khả năng phơi"
+14,2307,2323,16,,,hững tác dụng gây độc của liệu pháp điều trị.,thể hệ sau không gây buồn ngủ là lựa chọn
+14,2397,2413,16,,,gây buồn ngủ là lựa chọn hàng đầu sau đó đến,"thể hệ 1, corticoid liều thấp cách ngày hoă"
+15,1354,1361,7,,,ị tiếp ⏎ Theo thông tin hướng dẫn sử dụng của sản phẩm,", phụ nữ có thai chỉ được sử dụng khi có chỉ định"
+16,1325,1342,17,,,huốc điều trị khi lên cơn dại.  ⏎ Phòng bệnh bằng tiêm,. Bệnh dại thường gia tăng vào mùa hè. ⏎ Bệnh dại gâ
+18,505,512,7,,,ử vong ⏎  ⏎  ⏎ Điều trị nội khoa ⏎ Thuốc nền tảng ⏎  •,/ ***********  ⏎  • ******  (ổn định mảng xơ vữa) ⏎
+18,515,526,11,,,⏎  ⏎ Điều trị nội khoa ⏎ Thuốc nền tảng ⏎  • ******* /,⏎  • ******  (ổn định mảng xơ vữa) ⏎  • *********  ⏎
+18,531,537,6,,ổn định mảng xơ vữa,khoa ⏎ Thuốc nền tảng ⏎  • ******* / ***********  ⏎  •,(ổn định mảng xơ vữa) ⏎  • *********  ⏎  • *********
+18,564,573,9,hạ mỡ/statin,,/ ***********  ⏎  • ******  (ổn định mảng xơ vữa) ⏎  •,⏎  • *************  ⏎  • ***************** / *** ⏎  ⏎  ⏎ C
+18,578,591,13,hạ mỡ/statin,,• ******  (ổn định mảng xơ vữa) ⏎  • *********  ⏎  •,⏎  • ***************** / *** ⏎  ⏎  ⏎ Can thiệp – phẫu th
+18,596,613,17,hạ mỡ/statin,,mảng xơ vữa) ⏎  • *********  ⏎  • *************  ⏎  •,/ *** ⏎  ⏎  ⏎ Can thiệp – phẫu thuật ⏎ Can thiệp mạch vàn
+18,616,619,3,hạ mỡ/statin,,********  ⏎  • *************  ⏎  • ***************** /,⏎  ⏎  ⏎ Can thiệp – phẫu thuật ⏎ Can thiệp mạch vành qua
+19,2274,2290,16,,,hững tác dụng gây độc của liệu pháp điều trị.,thể hệ sau không gây buồn ngủ là lựa chọn
+19,2364,2380,16,,,gây buồn ngủ là lựa chọn hàng đầu sau đó đến,"thể hệ 1, corticoid liều thấp cách ngày hoă"
+24,2138,2148,10,,,"ớc tiểu trong  ⏎         Philpovin 5g x 2 ống, pha vào",", truyền tĩnh mạch L giọt/phút, dùng đến khi ALT,"
+25,58,68,10,,,": Bác sĩ ơi ơi, bác sĩ cho em hỏi là nếu mình sd nhiều",thì liệu có sao k anh? Tính từ năm ngoái tới năm
+25,138,148,10,,,o k anh? Tính từ năm ngoái tới năm nay em có sd 6 vien,"ạ. Có một dạo em uống 4 viên trong 4 tuần, nguyên"
+25,328,338,10,,,test nên em có sd ạ. Trong 6 vien đó thì có 1 vien là,loại 12h ạ. Em thấy sau mỗi lần uống thì em có đa
+25,519,544,25,,,có những tác dụng phụ gì k ạ? ⏎ Trả lời :  ⏎ Chào bạn!,được đánh giá là phương pháp tránh thai hữu hiệu
+25,962,987,25,,,cung do dùng thuốc quá nhiều. ⏎ -        Sử dụng nhiều,khiến chị em tăng nguy cơ mang thai ngoài tử cung
+28,1846,1862,16,,,hững tác dụng gây độc của liệu pháp điều trị.,thể hệ sau không gây buồn ngủ là lựa chọn
+28,1936,1952,16,,,gây buồn ngủ là lựa chọn hàng đầu sau đó đến,"thể hệ 1, corticoid liều thấp cách ngày hoă"
+30,1891,1906,15,,,chứng và những tác hại gây độc của liệu pháp điều trị.,có thể hệ sau không gây buồn ngủ là đơn hàng đầu
+30,1967,1982,15,,,ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến,"có thể hệ 1, ********* bậc thấp cách ngày hoặc hà"
+30,1996,2005,9,,,"à đơn hàng đầu sau đó đến *************** có thể hệ 1,",bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ
+40,307,317,10,,,"HTH quá liều thuốc kháng vitamin K (INR 15), được dùng",", ********** => Chuyển viện ⏎ Tiền sử bệnh:  ⏎ Bản thâ"
+40,319,329,10,,,"thuốc kháng vitamin K (INR 15), được dùng **********,",=> Chuyển viện ⏎ Tiền sử bệnh:  ⏎ Bản thân: Van động
+41,1001,1009,8,,,⏎ - Nhân mụn: Tretinoin tại chỗ ⏎ - Trứng cá viêm nhẹ:,tại chỗ đơn độc hoặc phối hợp với kháng sinh tại
+41,1064,1080,16,kháng sinh,,"tại chỗ đơn độc hoặc phối hợp với kháng sinh tại chỗ,",", hoặc cả hai ⏎     Lý do nhập viện: đau ngực trái c"
+44,1591,1606,15,,,chứng và những tác hại gây độc của liệu pháp điều trị.,có thể hệ sau không gây buồn ngủ là đơn hàng đầu
+44,1667,1682,15,,,ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến,"có thể hệ 1, ********* bậc thấp cách ngày hoặc hà"
+44,1696,1705,9,,,"à đơn hàng đầu sau đó đến *************** có thể hệ 1,",bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ
+45,1707,1730,23,,,Chẩn đoán :  Dị tật còn ống động mạch ⏎ Điều trị :  ⏎,⏎ ************************ ⏎ ********* ⏎     - Tăng nhã
+45,1731,1755,24,,,ng động mạch ⏎ Điều trị :  ⏎ *********************** ⏎,⏎ ********* ⏎     - Tăng nhãn áp so với chụp cắt lớp
+45,1756,1765,9,,,⏎ *********************** ⏎ ************************ ⏎,⏎     - Tăng nhãn áp so với chụp cắt lớp vi tính (c
+46,1847,1868,21,,,i gắng sức  ⏎     - buồn nôn và nôn  ⏎ Cận lâm sàng ⏎,"x 1,0 Viên ⏎ Ngày uống 1 viên buổi tối"
+49,569,583,14,,,số phương pháp điều trị dưới đây ⏎ 1.        Liệu pháp,⏎ Tiêm ************** nội thương tổn được chỉ định
+49,589,603,14,,,ị dưới đây ⏎ 1.        Liệu pháp ************** ⏎ Tiêm,nội thương tổn được chỉ định trong rụng tóc từng
+49,828,855,27,,,ng được chỉ định cho trẻ em. Các thuốc hay dùng là kem,hai lần một ngày hoặc ***************************
+49,878,914,36,,corticoid mức độ mạnh,kem *************************** hai lần một ngày hoặc,(corticoid mức độ mạnh). ⏎ Đối với rụng tóc toàn bộ
+49,1021,1041,20,,,"oặc rụng tóc toàn thể khó điều trị có thể sử dụng 2,5g",e có bao phim che phủ 6 ngày/tuần trong 6 tháng. ⏎ T
+53,1528,1545,17,,,ngừa biến chứng ⏎ 5. Đơn thuốc cho 1 ngày. ⏎ 1.,"x 2 viên, uống sáng trước ăn  ⏎ 2.        *********"
+53,1586,1603,17,,,"************ x 2 viên, uống sáng trước ăn  ⏎ 2.","x 2 viên, uống chiều sau ăn  ⏎ 3.        **********"
+53,1643,1655,12,,,"************* x 2 viên, uống chiều sau ăn  ⏎ 3.","x 1 viên, uống chiều.  ⏎ 4.        ********* x 2 vi"
+53,1689,1698,9,,,"************ x 1 viên, uống chiều.  ⏎ 4.","x 2 viên, uống sáng 1 viên, chiều 1 viên  ⏎ 5."
+53,1751,1760,9,,,"x 2 viên, uống sáng 1 viên, chiều 1 viên  ⏎ 5.","x 2 viên, uống sáng 1 viên, chiều 1 viên."
+54,136,148,12,,,uần rồi. Nhưng trước đó khoảng 2 tuần e có uống thuốc,này. Liệu có bị ảnh hưởng gì đến thai nhi không a
+64,141,150,9,,,hiều năm. Đi khám bệnh Bác sĩ kê cho thuốc Vastarel và,. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em
+65,334,348,14,,,số phương pháp điều trị dưới đây ⏎ 1.        Liệu pháp,⏎ Tiêm ************** nội thương tổn được chỉ định
+65,354,368,14,,,ị dưới đây ⏎ 1.        Liệu pháp ************** ⏎ Tiêm,nội thương tổn được chỉ định trong rụng tóc từng
+65,593,620,27,,,ng được chỉ định cho trẻ em. Các thuốc hay dùng là kem,hai lần một ngày hoặc ***************************
+65,643,679,36,,corticoid mức độ mạnh,kem *************************** hai lần một ngày hoặc,(corticoid mức độ mạnh). ⏎ Đối với rụng tóc toàn bộ
+65,786,806,20,,,"oặc rụng tóc toàn thể khó điều trị có thể sử dụng 2,5g",e có bao phim che phủ 6 ngày/tuần trong 6 tháng. ⏎ T
+72,213,229,16,,,hững tác dụng gây độc của liệu pháp điều trị.,thể hệ sau không gây buồn ngủ là lựa chọn
+72,303,319,16,,,gây buồn ngủ là lựa chọn hàng đầu sau đó đến,"thể hệ 1, corticoid liều thấp cách ngày hoă"
+76,1240,1255,15,,,chứng và những tác hại gây độc của liệu pháp điều trị.,có thể hệ sau không gây buồn ngủ là đơn hàng đầu
+76,1316,1331,15,,,ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến,"có thể hệ 1, ********* bậc thấp cách ngày hoặc hà"
+76,1345,1354,9,,,"à đơn hàng đầu sau đó đến *************** có thể hệ 1,",bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ
+83,1143,1158,15,,,chứng và những tác hại gây độc của liệu pháp điều trị.,có thể hệ sau không gây buồn ngủ là đơn hàng đầu
+83,1219,1234,15,,,ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến,"có thể hệ 1, ********* bậc thấp cách ngày hoặc hà"
+83,1248,1257,9,,,"à đơn hàng đầu sau đó đến *************** có thể hệ 1,",bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ
+87,985,1014,29,,,ăng HA vô căn(nguyên phát) ⏎  ⏎ Thuốc điều trị :  ⏎  ⏎,"x 1,0 Viên ⏎ Ngày uống 1 viên buổi sáng sau ăn  ⏎ 2."
+87,1389,1412,23,,,ng cân trở lại ⏎ Ngày uống 1 viên buổi sáng sau ăn  ⏎,"⏎ ************** ⏎ x 2,0 Viên ⏎ Ngày uống 2 viên buổi t"
+87,1413,1427,14,,,1 viên buổi sáng sau ăn  ⏎  *********************** ⏎,"⏎ x 2,0 Viên ⏎ Ngày uống 2 viên buổi tối"
+97,910,922,12,,,hai cách nội khoa và ngoại khoa ⏎ Nội khoa dùng thuốc,uống 1-2 viên x2 sáng chiều ⏎   Ure tăng từ 69 lên
+100,202,214,12,,,"̉ nguy cơ tiền sản giật cao, Bác sĩ kê đơn thuốc","sử dụng mỗi tối.Từ đó đến giờ, mũi em th"
+100,522,534,12,,,"ơn! ⏎  ⏎ Câu trả lời của bác sĩ:  ⏎  ⏎ Chào bạn,  ⏎  ⏎",được khuyến cáo đối với những sản phụ có nguy cơ
+100,690,697,7,,,"ững biến chứng liên quan đến tiền sản giật. Tuy nhiên,",là thuốc có tác dụng chống đông máu do đó tác dụn
+100,838,845,7,,,áu. Các triệu chứng của bạn có thể là tác dụng phụ của,tuy nhiên bạn cũng đừng nên quá lo lắng vì dựa tr

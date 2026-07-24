@@ -98,15 +98,18 @@ class Line:
 
 
 def read_raw(path: str | Path) -> str:
-    """Đọc đúng như BTC: NFC, không strip. position là chỉ số trên chuỗi này.
+    """Đọc đúng như BTC giao: position là chỉ số codepoint trên chuỗi RAW này.
 
-    Đã kiểm: cả 100 file input/ đều NFC thuần, không BOM/CRLF/tab. normalize() ở đây
-    là lưới an toàn cho private test, KHÔNG được đổi độ dài với dữ liệu hiện tại.
+    Data vòng 1-turn2 (21/07) có ~20/100 file ở dạng Unicode PHÂN RÃ (decomposed):
+    NFC gộp base+dấu tổ hợp làm ĐỔI độ dài -> nếu normalize thì offset lệch so với gold
+    (gold đánh trên file raw như được giao). Vì vậy KHÔNG normalize toàn văn: giữ raw để
+    offset khớp gold. Chỉ normalize an toàn khi độ dài không đổi (80 file NFC thuần -> raw≡NFC).
+    Tên thuốc là ASCII nên matching không bị ảnh hưởng; matching tiếng Việt ở 20 file phân rã
+    xử lý riêng ở tầng trên nếu cần (TODO), không đụng tới offset.
     """
     raw = Path(path).read_text(encoding="utf-8")
     nfc = unicodedata.normalize("NFC", raw)
-    assert len(nfc) == len(raw), "NFC đổi độ dài -> offset sẽ lệch, phải xử lý riêng"
-    return nfc
+    return nfc if len(nfc) == len(raw) else raw
 
 
 def _add(out: list[Line], line_start: int, body: str, off_in_body: int, content: str,

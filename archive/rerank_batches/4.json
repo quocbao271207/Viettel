@@ -1,0 +1,7256 @@
+[
+ {
+  "text": "Mất ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Z72820",
+    "Sleep deprivation"
+   ],
+   [
+    "R400",
+    "Somnolence"
+   ],
+   [
+    "G4700",
+    "Insomnia, unspecified"
+   ],
+   [
+    "F513",
+    "Sleepwalking [somnambulism]"
+   ],
+   [
+    "F5112",
+    "Insufficient sleep syndrome"
+   ],
+   [
+    "G479",
+    "Sleep disorder, unspecified"
+   ],
+   [
+    "Y9384",
+    "Activity, sleeping"
+   ],
+   [
+    "G4710",
+    "Hypersomnia, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "sốt nóng liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K5901",
+    "Slow transit constipation"
+   ],
+   [
+    "T676XXD",
+    "Heat fatigue, transient, subsequent encounter"
+   ],
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "N3945",
+    "Continuous leakage"
+   ],
+   [
+    "T677XXD",
+    "Heat edema, subsequent encounter"
+   ],
+   [
+    "T673XXD",
+    "Heat exhaustion, anhydrotic, subsequent encounter"
+   ],
+   [
+    "T672XXD",
+    "Heat cramp, subsequent encounter"
+   ],
+   [
+    "O210",
+    "Mild hyperemesis gravidarum"
+   ]
+  ]
+ },
+ {
+  "text": "gai rét",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H35079",
+    "Retinal telangiectasis, unspecified eye"
+   ],
+   [
+    "F842",
+    "Rett's syndrome"
+   ],
+   [
+    "M5431",
+    "Sciatica, right side"
+   ],
+   [
+    "K027",
+    "Dental root caries"
+   ],
+   [
+    "L415",
+    "Retiform parapsoriasis"
+   ],
+   [
+    "K06023",
+    "Generalized gingival recession, severe"
+   ],
+   [
+    "Y9285",
+    "Railroad track as the place of occurrence of the external cause"
+   ],
+   [
+    "M5430",
+    "Sciatica, unspecified side"
+   ]
+  ]
+ },
+ {
+  "text": "cơn rét run",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H50649",
+    "Lateral rectus muscle entrapment, unspecified eye"
+   ],
+   [
+    "K623",
+    "Rectal prolapse"
+   ],
+   [
+    "G2583",
+    "Benign shuddering attacks"
+   ],
+   [
+    "H50679",
+    "Superior rectus muscle entrapment, unspecified eye"
+   ],
+   [
+    "H50639",
+    "Inferior rectus muscle entrapment, unspecified eye"
+   ],
+   [
+    "H50659",
+    "Medial rectus muscle entrapment, unspecified eye"
+   ],
+   [
+    "H3560",
+    "Retinal hemorrhage, unspecified eye"
+   ],
+   [
+    "N5314",
+    "Retrograde ejaculation"
+   ]
+  ]
+ },
+ {
+  "text": "paracetamol",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "T391X6D",
+    "Underdosing of 4-Aminophenol derivatives, subsequent encounter"
+   ],
+   [
+    "M247",
+    "Protrusio acetabuli"
+   ],
+   [
+    "E509",
+    "Vitamin A deficiency, unspecified"
+   ],
+   [
+    "D560",
+    "Alpha thalassemia"
+   ],
+   [
+    "T391X5D",
+    "Adverse effect of 4-Aminophenol derivatives, subsequent encounter"
+   ],
+   [
+    "D561",
+    "Beta thalassemia"
+   ],
+   [
+    "A011",
+    "Paratyphoid fever A"
+   ],
+   [
+    "G803",
+    "Athetoid cerebral palsy"
+   ]
+  ]
+ },
+ {
+  "text": "vàng niêm mạc",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q135",
+    "Blue sclera"
+   ],
+   [
+    "B362",
+    "White piedra"
+   ],
+   [
+    "L740",
+    "Miliaria rubra"
+   ],
+   [
+    "B363",
+    "Black piedra"
+   ],
+   [
+    "E5112",
+    "Wet beriberi"
+   ],
+   [
+    "L946",
+    "Ainhum"
+   ],
+   [
+    "B361",
+    "Tinea nigra"
+   ],
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ]
+  ]
+ },
+ {
+  "text": "viêm gan vàng da ứ mật",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B0231",
+    "Zoster conjunctivitis"
+   ],
+   [
+    "G511",
+    "Geniculate ganglionitis"
+   ],
+   [
+    "B0233",
+    "Zoster keratitis"
+   ],
+   [
+    "H40829",
+    "Hypersecretion glaucoma, unspecified eye"
+   ],
+   [
+    "L950",
+    "Livedoid vasculitis"
+   ],
+   [
+    "H10829",
+    "Rosacea conjunctivitis, unspecified eye"
+   ],
+   [
+    "H04319",
+    "Phlegmonous dacryocystitis of unspecified lacrimal passage"
+   ],
+   [
+    "N3030",
+    "Trigonitis without hematuria"
+   ]
+  ]
+ },
+ {
+  "text": "da niêm mạc vàng",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q135",
+    "Blue sclera"
+   ],
+   [
+    "L605",
+    "Yellow nail syndrome"
+   ],
+   [
+    "H18029",
+    "Argentous corneal deposits, unspecified eye"
+   ],
+   [
+    "G232",
+    "Striatonigral degeneration"
+   ],
+   [
+    "L081",
+    "Erythrasma"
+   ],
+   [
+    "L104",
+    "Pemphigus erythematosus"
+   ],
+   [
+    "R9082",
+    "White matter disease, unspecified"
+   ],
+   [
+    "O010",
+    "Classical hydatidiform mole"
+   ]
+  ]
+ },
+ {
+  "text": "nước tiểu ít hơn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R8281",
+    "Pyuria"
+   ],
+   [
+    "R822",
+    "Biliuria"
+   ],
+   [
+    "R300",
+    "Dysuria"
+   ],
+   [
+    "R3912",
+    "Poor urinary stream"
+   ],
+   [
+    "R3589",
+    "Other polyuria"
+   ],
+   [
+    "R3915",
+    "Urgency of urination"
+   ],
+   [
+    "R82993",
+    "Hyperuricosuria"
+   ],
+   [
+    "R820",
+    "Chyluria"
+   ]
+  ]
+ },
+ {
+  "text": "Gan to",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A665",
+    "Gangosa"
+   ],
+   [
+    "M2635",
+    "Rotation of fully erupted tooth or teeth"
+   ],
+   [
+    "Q213",
+    "Tetralogy of Fallot"
+   ],
+   [
+    "L946",
+    "Ainhum"
+   ],
+   [
+    "A921",
+    "O'nyong-nyong fever"
+   ],
+   [
+    "E40",
+    "Kwashiorkor"
+   ],
+   [
+    "A8181",
+    "Kuru"
+   ],
+   [
+    "Q5523",
+    "Scrotal transposition"
+   ]
+  ]
+ },
+ {
+  "text": "viêm gan B",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "D5704",
+    "Hb-SS disease with dactylitis"
+   ],
+   [
+    "M352",
+    "Behcet's disease"
+   ],
+   [
+    "A012",
+    "Paratyphoid fever B"
+   ],
+   [
+    "B2702",
+    "Gammaherpesviral mononucleosis with meningitis"
+   ],
+   [
+    "B251",
+    "Cytomegaloviral hepatitis"
+   ],
+   [
+    "N150",
+    "Balkan nephropathy"
+   ],
+   [
+    "B0221",
+    "Postherpetic geniculate ganglionitis"
+   ],
+   [
+    "D5703",
+    "Hb-SS disease with cerebral vascular involvement"
+   ]
+  ]
+ },
+ {
+  "text": "khó chịu vùng ngực",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R079",
+    "Chest pain, unspecified"
+   ],
+   [
+    "R10819",
+    "Abdominal tenderness, unspecified site"
+   ],
+   [
+    "R109",
+    "Unspecified abdominal pain"
+   ],
+   [
+    "M542",
+    "Cervicalgia"
+   ],
+   [
+    "M546",
+    "Pain in thoracic spine"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R070",
+    "Pain in throat"
+   ],
+   [
+    "O750",
+    "Maternal distress during labor and delivery"
+   ]
+  ]
+ },
+ {
+  "text": "Philpovin 5g",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A802",
+    "Acute paralytic poliomyelitis, wild virus, indigenous"
+   ],
+   [
+    "U071",
+    "COVID-19"
+   ],
+   [
+    "A801",
+    "Acute paralytic poliomyelitis, wild virus, imported"
+   ],
+   [
+    "G71035",
+    "Limb girdle muscular dystrophy due to anoctamin-5 dysfunction"
+   ],
+   [
+    "Z2912",
+    "Encounter for prophylactic antivenin"
+   ],
+   [
+    "L80",
+    "Vitiligo"
+   ],
+   [
+    "E530",
+    "Riboflavin deficiency"
+   ],
+   [
+    "Z2914",
+    "Encounter for prophylactic rabies immune globin"
+   ]
+  ]
+ },
+ {
+  "text": "Fortex 25mg",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "J941",
+    "Fibrothorax"
+   ],
+   [
+    "R29725",
+    "NIHSS score 25"
+   ],
+   [
+    "S02412D",
+    "LeFort II fracture, subsequent encounter for fracture with routine healing"
+   ],
+   [
+    "J942",
+    "Hemothorax"
+   ],
+   [
+    "Q833",
+    "Accessory nipple"
+   ],
+   [
+    "R971",
+    "Elevated cancer antigen 125 [CA 125]"
+   ],
+   [
+    "S02412G",
+    "LeFort II fracture, subsequent encounter for fracture with delayed healing"
+   ],
+   [
+    "M247",
+    "Protrusio acetabuli"
+   ]
+  ]
+ },
+ {
+  "text": "Vitamin 3B",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E539",
+    "Vitamin B deficiency, unspecified"
+   ],
+   [
+    "E509",
+    "Vitamin A deficiency, unspecified"
+   ],
+   [
+    "E569",
+    "Vitamin deficiency, unspecified"
+   ],
+   [
+    "E560",
+    "Deficiency of vitamin E"
+   ],
+   [
+    "E568",
+    "Deficiency of other vitamins"
+   ],
+   [
+    "E561",
+    "Deficiency of vitamin K"
+   ],
+   [
+    "E670",
+    "Hypervitaminosis A"
+   ],
+   [
+    "T452X6D",
+    "Underdosing of vitamins, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "virus B",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Z22330",
+    "Carrier of Group B streptococcus"
+   ],
+   [
+    "B03",
+    "Smallpox"
+   ],
+   [
+    "A012",
+    "Paratyphoid fever B"
+   ],
+   [
+    "B951",
+    "Streptococcus, group B, as the cause of diseases classified elsewhere"
+   ],
+   [
+    "A200",
+    "Bubonic plague"
+   ],
+   [
+    "Z3685",
+    "Encounter for antenatal screening for Streptococcus B"
+   ],
+   [
+    "C8510",
+    "Unspecified B-cell lymphoma, unspecified site"
+   ],
+   [
+    "C8330",
+    "Diffuse large B-cell lymphoma, unspecified site"
+   ]
+  ]
+ },
+ {
+  "text": "trễ kinh",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q793",
+    "Gastroschisis"
+   ],
+   [
+    "Q059",
+    "Spina bifida, unspecified"
+   ],
+   [
+    "Q6581",
+    "Congenital coxa valga"
+   ],
+   [
+    "R252",
+    "Cramp and spasm"
+   ],
+   [
+    "N2883",
+    "Nephroptosis"
+   ],
+   [
+    "N262",
+    "Page kidney"
+   ],
+   [
+    "R140",
+    "Abdominal distension (gaseous)"
+   ],
+   [
+    "M7620",
+    "Iliac crest spur, unspecified hip"
+   ]
+  ]
+ },
+ {
+  "text": "tắc ống dẫn trứng",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N46123",
+    "Oligospermia due to obstruction of efferent ducts"
+   ],
+   [
+    "Q2112",
+    "Patent foramen ovale"
+   ],
+   [
+    "H68109",
+    "Unspecified obstruction of Eustachian tube, unspecified ear"
+   ],
+   [
+    "N46023",
+    "Azoospermia due to obstruction of efferent ducts"
+   ],
+   [
+    "N4402",
+    "Intravaginal torsion of spermatic cord"
+   ],
+   [
+    "H68119",
+    "Osseous obstruction of Eustachian tube, unspecified ear"
+   ],
+   [
+    "N453",
+    "Epididymo-orchitis"
+   ],
+   [
+    "Q162",
+    "Absence of eustachian tube"
+   ]
+  ]
+ },
+ {
+  "text": "teo niêm mạc tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N80B6",
+    "Endometriosis of cardiothoracic space"
+   ],
+   [
+    "N80532",
+    "Deep endometriosis of the cecum"
+   ],
+   [
+    "N80B32",
+    "Deep endometriosis of diaphragm"
+   ],
+   [
+    "N8002",
+    "Deep endometriosis of the uterus"
+   ],
+   [
+    "N80B1",
+    "Endometriosis of pleura"
+   ],
+   [
+    "N80539",
+    "Endometriosis of the cecum, unspecified depth"
+   ],
+   [
+    "N80B31",
+    "Superficial endometriosis of diaphragm"
+   ],
+   [
+    "Q676",
+    "Pectus excavatum"
+   ]
+  ]
+ },
+ {
+  "text": "ung thư cổ tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A1816",
+    "Tuberculosis of cervix"
+   ],
+   [
+    "N72",
+    "Inflammatory disease of cervix uteri"
+   ],
+   [
+    "I209",
+    "Angina pectoris, unspecified"
+   ],
+   [
+    "N880",
+    "Leukoplakia of cervix uteri"
+   ],
+   [
+    "N889",
+    "Noninflammatory disorder of cervix uteri, unspecified"
+   ],
+   [
+    "I720",
+    "Aneurysm of carotid artery"
+   ],
+   [
+    "I63139",
+    "Cerebral infarction due to embolism of unspecified carotid artery"
+   ],
+   [
+    "L89309",
+    "Pressure ulcer of unspecified buttock, unspecified stage"
+   ]
+  ]
+ },
+ {
+  "text": "mang thai ngoài tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "O0090",
+    "Unspecified ectopic pregnancy without intrauterine pregnancy"
+   ],
+   [
+    "O0091",
+    "Unspecified ectopic pregnancy with intrauterine pregnancy"
+   ],
+   [
+    "P014",
+    "Newborn affected by ectopic pregnancy"
+   ],
+   [
+    "O480",
+    "Post-term pregnancy"
+   ],
+   [
+    "O0000",
+    "Abdominal pregnancy without intrauterine pregnancy"
+   ],
+   [
+    "P95",
+    "Stillbirth"
+   ],
+   [
+    "O0080",
+    "Other ectopic pregnancy without intrauterine pregnancy"
+   ],
+   [
+    "O0001",
+    "Abdominal pregnancy with intrauterine pregnancy"
+   ]
+  ]
+ },
+ {
+  "text": "đau khi sờ nắn ở vết mổ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "M7911",
+    "Myalgia of mastication muscle"
+   ],
+   [
+    "R10826",
+    "Epigastric rebound abdominal tenderness"
+   ],
+   [
+    "N5082",
+    "Scrotal pain"
+   ],
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "R10829",
+    "Rebound abdominal tenderness, unspecified site"
+   ],
+   [
+    "R108A3",
+    "Suprapubic tenderness"
+   ],
+   [
+    "R1024",
+    "Suprapubic pain"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ]
+  ]
+ },
+ {
+  "text": "levafloxacin",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R482",
+    "Apraxia"
+   ],
+   [
+    "A962",
+    "Lassa fever"
+   ],
+   [
+    "E7841",
+    "Elevated Lipoprotein(a)"
+   ],
+   [
+    "P0702",
+    "Extremely low birth weight newborn, 500-749 grams"
+   ],
+   [
+    "G1111",
+    "Friedreich ataxia"
+   ],
+   [
+    "Z5331",
+    "Laparoscopic surgical procedure converted to open procedure"
+   ],
+   [
+    "E754",
+    "Neuronal ceroid lipofuscinosis"
+   ],
+   [
+    "G9342",
+    "Megalencephalic leukoencephalopathy with subcortical cysts"
+   ]
+  ]
+ },
+ {
+  "text": "cephalexin",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G113",
+    "Cerebellar ataxia with defective DNA repair"
+   ],
+   [
+    "G1110",
+    "Early-onset cerebellar ataxia, unspecified"
+   ],
+   [
+    "G110",
+    "Congenital nonprogressive ataxia"
+   ],
+   [
+    "G112",
+    "Late-onset cerebellar ataxia"
+   ],
+   [
+    "R519",
+    "Headache, unspecified"
+   ],
+   [
+    "E754",
+    "Neuronal ceroid lipofuscinosis"
+   ],
+   [
+    "A835",
+    "California encephalitis"
+   ],
+   [
+    "G4486",
+    "Cervicogenic headache"
+   ]
+  ]
+ },
+ {
+  "text": "ban đỏ lan rộng",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E5112",
+    "Wet beriberi"
+   ],
+   [
+    "E5111",
+    "Dry beriberi"
+   ],
+   [
+    "L740",
+    "Miliaria rubra"
+   ],
+   [
+    "P963",
+    "Wide cranial sutures of newborn"
+   ],
+   [
+    "L742",
+    "Miliaria profunda"
+   ],
+   [
+    "L532",
+    "Erythema marginatum"
+   ],
+   [
+    "A668",
+    "Latent yaws"
+   ],
+   [
+    "L951",
+    "Erythema elevatum diutinum"
+   ]
+  ]
+ },
+ {
+  "text": "BỆNH MẠCH VÀNH",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R9082",
+    "White matter disease, unspecified"
+   ],
+   [
+    "N150",
+    "Balkan nephropathy"
+   ],
+   [
+    "E7528",
+    "Canavan disease"
+   ],
+   [
+    "J676",
+    "Maple-bark-stripper's lung"
+   ],
+   [
+    "N262",
+    "Page kidney"
+   ],
+   [
+    "N279",
+    "Small kidney, unspecified"
+   ],
+   [
+    "D1800",
+    "Hemangioma unspecified site"
+   ],
+   [
+    "J939",
+    "Pneumothorax, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "xơ vữa động mạch",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I2541",
+    "Coronary artery aneurysm"
+   ],
+   [
+    "H3533",
+    "Angioid streaks of macula"
+   ],
+   [
+    "I253",
+    "Aneurysm of heart"
+   ],
+   [
+    "Q250",
+    "Patent ductus arteriosus"
+   ],
+   [
+    "Q200",
+    "Common arterial trunk"
+   ],
+   [
+    "H16419",
+    "Ghost vessels (corneal), unspecified eye"
+   ],
+   [
+    "I726",
+    "Aneurysm of vertebral artery"
+   ],
+   [
+    "Q2730",
+    "Arteriovenous malformation, site unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "thiếu oxy cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I5083",
+    "High output heart failure"
+   ],
+   [
+    "I256",
+    "Silent myocardial ischemia"
+   ],
+   [
+    "I110",
+    "Hypertensive heart disease with heart failure"
+   ],
+   [
+    "H9102",
+    "Ototoxic hearing loss, left ear"
+   ],
+   [
+    "I255",
+    "Ischemic cardiomyopathy"
+   ],
+   [
+    "H9109",
+    "Ototoxic hearing loss, unspecified ear"
+   ],
+   [
+    "Q206",
+    "Isomerism of atrial appendages"
+   ],
+   [
+    "I5030",
+    "Unspecified diastolic (congestive) heart failure"
+   ]
+  ]
+ },
+ {
+  "text": "đau thắt ngực",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R079",
+    "Chest pain, unspecified"
+   ],
+   [
+    "M542",
+    "Cervicalgia"
+   ],
+   [
+    "M546",
+    "Pain in thoracic spine"
+   ],
+   [
+    "R070",
+    "Pain in throat"
+   ],
+   [
+    "R1010",
+    "Upper abdominal pain, unspecified"
+   ],
+   [
+    "R109",
+    "Unspecified abdominal pain"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R0789",
+    "Other chest pain"
+   ]
+  ]
+ },
+ {
+  "text": "Xơ vữa động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H3533",
+    "Angioid streaks of macula"
+   ],
+   [
+    "I2541",
+    "Coronary artery aneurysm"
+   ],
+   [
+    "Q250",
+    "Patent ductus arteriosus"
+   ],
+   [
+    "H16419",
+    "Ghost vessels (corneal), unspecified eye"
+   ],
+   [
+    "Q200",
+    "Common arterial trunk"
+   ],
+   [
+    "I720",
+    "Aneurysm of carotid artery"
+   ],
+   [
+    "I726",
+    "Aneurysm of vertebral artery"
+   ],
+   [
+    "Q2730",
+    "Arteriovenous malformation, site unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "Béo phì",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "R140",
+    "Abdominal distension (gaseous)"
+   ],
+   [
+    "E5111",
+    "Dry beriberi"
+   ],
+   [
+    "B0861",
+    "Bovine stomatitis"
+   ],
+   [
+    "E40",
+    "Kwashiorkor"
+   ],
+   [
+    "B08010",
+    "Cowpox"
+   ],
+   [
+    "E5112",
+    "Wet beriberi"
+   ],
+   [
+    "E66813",
+    "Obesity, class 3"
+   ]
+  ]
+ },
+ {
+  "text": "Đau thắt ngực",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R079",
+    "Chest pain, unspecified"
+   ],
+   [
+    "M542",
+    "Cervicalgia"
+   ],
+   [
+    "R070",
+    "Pain in throat"
+   ],
+   [
+    "M546",
+    "Pain in thoracic spine"
+   ],
+   [
+    "R1010",
+    "Upper abdominal pain, unspecified"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R109",
+    "Unspecified abdominal pain"
+   ],
+   [
+    "M25559",
+    "Pain in unspecified hip"
+   ]
+  ]
+ },
+ {
+  "text": "Đau thắt ngực ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G43D1",
+    "Abdominal migraine, intractable"
+   ],
+   [
+    "G43D0",
+    "Abdominal migraine, not intractable"
+   ],
+   [
+    "G44201",
+    "Tension-type headache, unspecified, intractable"
+   ],
+   [
+    "R079",
+    "Chest pain, unspecified"
+   ],
+   [
+    "G44221",
+    "Chronic tension-type headache, intractable"
+   ],
+   [
+    "G44209",
+    "Tension-type headache, unspecified, not intractable"
+   ],
+   [
+    "R10829",
+    "Rebound abdominal tenderness, unspecified site"
+   ],
+   [
+    "G44229",
+    "Chronic tension-type headache, not intractable"
+   ]
+  ]
+ },
+ {
+  "text": "Hội chứng vành cấp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "M9420",
+    "Chondromalacia, unspecified site"
+   ],
+   [
+    "M4830",
+    "Traumatic spondylopathy, site unspecified"
+   ],
+   [
+    "A303",
+    "Borderline leprosy"
+   ],
+   [
+    "M1218",
+    "Kaschin-Beck disease, vertebrae"
+   ],
+   [
+    "M4600",
+    "Spinal enthesopathy, site unspecified"
+   ],
+   [
+    "C8410",
+    "Sezary disease, unspecified site"
+   ],
+   [
+    "M94259",
+    "Chondromalacia, unspecified hip"
+   ],
+   [
+    "K769",
+    "Liver disease, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "Nhồi máu cơ tim ST chênh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I213",
+    "ST elevation (STEMI) myocardial infarction of unspecified site"
+   ],
+   [
+    "I256",
+    "Silent myocardial ischemia"
+   ],
+   [
+    "Z953",
+    "Presence of xenogenic heart valve"
+   ],
+   [
+    "Q240",
+    "Dextrocardia"
+   ],
+   [
+    "I4720",
+    "Ventricular tachycardia, unspecified"
+   ],
+   [
+    "R001",
+    "Bradycardia, unspecified"
+   ],
+   [
+    "Q241",
+    "Levocardia"
+   ],
+   [
+    "I483",
+    "Typical atrial flutter"
+   ]
+  ]
+ },
+ {
+  "text": "Nhồi máu không ST chênh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A4150",
+    "Gram-negative sepsis, unspecified"
+   ],
+   [
+    "D5740",
+    "Sickle-cell thalassemia without crisis"
+   ],
+   [
+    "O730",
+    "Retained placenta without hemorrhage"
+   ],
+   [
+    "Z6711",
+    "Type A blood, Rh negative"
+   ],
+   [
+    "I214",
+    "Non-ST elevation (NSTEMI) myocardial infarction"
+   ],
+   [
+    "A4159",
+    "Other Gram-negative sepsis"
+   ],
+   [
+    "Z6791",
+    "Unspecified blood type, Rh negative"
+   ],
+   [
+    "I200",
+    "Unstable angina"
+   ]
+  ]
+ },
+ {
+  "text": "Đau thắt ngực không ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G43D1",
+    "Abdominal migraine, intractable"
+   ],
+   [
+    "G43D0",
+    "Abdominal migraine, not intractable"
+   ],
+   [
+    "G44201",
+    "Tension-type headache, unspecified, intractable"
+   ],
+   [
+    "G44209",
+    "Tension-type headache, unspecified, not intractable"
+   ],
+   [
+    "I200",
+    "Unstable angina"
+   ],
+   [
+    "G44001",
+    "Cluster headache syndrome, unspecified, intractable"
+   ],
+   [
+    "G44009",
+    "Cluster headache syndrome, unspecified, not intractable"
+   ],
+   [
+    "G44301",
+    "Post-traumatic headache, unspecified, intractable"
+   ]
+  ]
+ },
+ {
+  "text": "Mệt",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K921",
+    "Melena"
+   ],
+   [
+    "M109",
+    "Gout, unspecified"
+   ],
+   [
+    "L703",
+    "Acne tropica"
+   ],
+   [
+    "N644",
+    "Mastodynia"
+   ],
+   [
+    "G702",
+    "Congenital and developmental myasthenia"
+   ],
+   [
+    "F650",
+    "Fetishism"
+   ],
+   [
+    "A8181",
+    "Kuru"
+   ],
+   [
+    "R231",
+    "Pallor"
+   ]
+  ]
+ },
+ {
+  "text": "Đau thượng vị",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "N5082",
+    "Scrotal pain"
+   ],
+   [
+    "R141",
+    "Gas pain"
+   ],
+   [
+    "R070",
+    "Pain in throat"
+   ],
+   [
+    "R1010",
+    "Upper abdominal pain, unspecified"
+   ],
+   [
+    "R079",
+    "Chest pain, unspecified"
+   ],
+   [
+    "H9209",
+    "Otalgia, unspecified ear"
+   ]
+  ]
+ },
+ {
+  "text": "viêm tụy",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E069",
+    "Thyroiditis, unspecified"
+   ],
+   [
+    "K91850",
+    "Pouchitis"
+   ],
+   [
+    "N7092",
+    "Oophoritis, unspecified"
+   ],
+   [
+    "L03319",
+    "Cellulitis of trunk, unspecified"
+   ],
+   [
+    "L0390",
+    "Cellulitis, unspecified"
+   ],
+   [
+    "N7091",
+    "Salpingitis, unspecified"
+   ],
+   [
+    "N452",
+    "Orchitis"
+   ],
+   [
+    "K37",
+    "Unspecified appendicitis"
+   ]
+  ]
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Z7382",
+    "Dual sensory impairment"
+   ],
+   [
+    "F3481",
+    "Disruptive mood dysregulation disorder"
+   ],
+   [
+    "G890",
+    "Central pain syndrome"
+   ],
+   [
+    "R432",
+    "Parageusia"
+   ],
+   [
+    "G5710",
+    "Meralgia paresthetica, unspecified lower limb"
+   ],
+   [
+    "H9325",
+    "Central auditory processing disorder"
+   ],
+   [
+    "G466",
+    "Pure sensory lacunar syndrome"
+   ],
+   [
+    "G520",
+    "Disorders of olfactory nerve"
+   ]
+  ]
+ },
+ {
+  "text": "eliquis",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K567",
+    "Ileus, unspecified"
+   ],
+   [
+    "R066",
+    "Hiccough"
+   ],
+   [
+    "R1083",
+    "Colic"
+   ],
+   [
+    "A7740",
+    "Ehrlichiosis, unspecified"
+   ],
+   [
+    "L80",
+    "Vitiligo"
+   ],
+   [
+    "L441",
+    "Lichen nitidus"
+   ],
+   [
+    "K602",
+    "Anal fissure, unspecified"
+   ],
+   [
+    "R196",
+    "Halitosis"
+   ]
+  ]
+ },
+ {
+  "text": "viêm phổi hoại tử",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B2681",
+    "Mumps hepatitis"
+   ],
+   [
+    "B0861",
+    "Bovine stomatitis"
+   ],
+   [
+    "K653",
+    "Choleperitonitis"
+   ],
+   [
+    "N481",
+    "Balanitis"
+   ],
+   [
+    "B263",
+    "Mumps pancreatitis"
+   ],
+   [
+    "O411491",
+    "Placentitis, unspecified trimester, fetus 1"
+   ],
+   [
+    "K91850",
+    "Pouchitis"
+   ],
+   [
+    "O411494",
+    "Placentitis, unspecified trimester, fetus 4"
+   ]
+  ]
+ },
+ {
+  "text": "Viêm phổi tiến triển nặng",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "J4551",
+    "Severe persistent asthma with (acute) exacerbation"
+   ],
+   [
+    "A881",
+    "Epidemic vertigo"
+   ],
+   [
+    "K310",
+    "Acute dilatation of stomach"
+   ],
+   [
+    "K061",
+    "Gingival enlargement"
+   ],
+   [
+    "L430",
+    "Hypertrophic lichen planus"
+   ],
+   [
+    "F50812",
+    "Binge eating disorder, severe"
+   ],
+   [
+    "G7001",
+    "Myasthenia gravis with (acute) exacerbation"
+   ],
+   [
+    "D732",
+    "Chronic congestive splenomegaly"
+   ]
+  ]
+ },
+ {
+  "text": "nhiễm vi khuẩn nặng",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B349",
+    "Viral infection, unspecified"
+   ],
+   [
+    "A207",
+    "Septicemic plague"
+   ],
+   [
+    "A499",
+    "Bacterial infection, unspecified"
+   ],
+   [
+    "B081",
+    "Molluscum contagiosum"
+   ],
+   [
+    "A084",
+    "Viral intestinal infection, unspecified"
+   ],
+   [
+    "A289",
+    "Zoonotic bacterial disease, unspecified"
+   ],
+   [
+    "B669",
+    "Fluke infection, unspecified"
+   ],
+   [
+    "A042",
+    "Enteroinvasive Escherichia coli infection"
+   ]
+  ]
+ },
+ {
+  "text": "suy giảm miễn dịch",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "D849",
+    "Immunodeficiency, unspecified"
+   ],
+   [
+    "D893",
+    "Immune reconstitution syndrome"
+   ],
+   [
+    "D819",
+    "Combined immunodeficiency, unspecified"
+   ],
+   [
+    "D8489",
+    "Other immunodeficiencies"
+   ],
+   [
+    "D899",
+    "Disorder involving the immune mechanism, unspecified"
+   ],
+   [
+    "D730",
+    "Hyposplenism"
+   ],
+   [
+    "H5111",
+    "Convergence insufficiency"
+   ],
+   [
+    "D8481",
+    "Immunodeficiency due to conditions classified elsewhere"
+   ]
+  ]
+ },
+ {
+  "text": "hoại tử nhu mô phổi",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q451",
+    "Annular pancreas"
+   ],
+   [
+    "K563",
+    "Gallstone ileus"
+   ],
+   [
+    "Q351",
+    "Cleft hard palate"
+   ],
+   [
+    "K6381",
+    "Dieulafoy lesion of intestine"
+   ],
+   [
+    "R1912",
+    "Hyperactive bowel sounds"
+   ],
+   [
+    "K903",
+    "Pancreatic steatorrhea"
+   ],
+   [
+    "E8411",
+    "Meconium ileus in cystic fibrosis"
+   ],
+   [
+    "Q394",
+    "Esophageal web"
+   ]
+  ]
+ },
+ {
+  "text": "Viêm phổi hoại tử",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "Q204",
+    "Double inlet ventricle"
+   ],
+   [
+    "M9510",
+    "Cauliflower ear, unspecified ear"
+   ],
+   [
+    "Q351",
+    "Cleft hard palate"
+   ],
+   [
+    "H81319",
+    "Aural vertigo, unspecified ear"
+   ],
+   [
+    "Q2112",
+    "Patent foramen ovale"
+   ],
+   [
+    "H60339",
+    "Swimmer's ear, unspecified ear"
+   ],
+   [
+    "Q310",
+    "Web of larynx"
+   ]
+  ]
+ },
+ {
+  "text": "áp-xe nhỏ",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R9720",
+    "Elevated prostate specific antigen [PSA]"
+   ],
+   [
+    "Q985",
+    "Karyotype 47, XYY"
+   ],
+   [
+    "N4232",
+    "Atypical small acinar proliferation of prostate"
+   ],
+   [
+    "B03",
+    "Smallpox"
+   ],
+   [
+    "Q990",
+    "Chimera 46, XX/46, XY"
+   ],
+   [
+    "Q960",
+    "Karyotype 45, X"
+   ],
+   [
+    "K3532",
+    "Acute appendicitis with perforation, localized peritonitis, and gangrene, without abscess"
+   ],
+   [
+    "E7841",
+    "Elevated Lipoprotein(a)"
+   ]
+  ]
+ },
+ {
+  "text": "tổn thương màng phổi",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "P151",
+    "Birth injury to spleen"
+   ],
+   [
+    "P150",
+    "Birth injury to liver"
+   ],
+   [
+    "K6381",
+    "Dieulafoy lesion of intestine"
+   ],
+   [
+    "K5641",
+    "Fecal impaction"
+   ],
+   [
+    "S27809D",
+    "Unspecified injury of diaphragm, subsequent encounter"
+   ],
+   [
+    "K633",
+    "Ulcer of intestine"
+   ],
+   [
+    "P159",
+    "Birth injury, unspecified"
+   ],
+   [
+    "K1370",
+    "Unspecified lesions of oral mucosa"
+   ]
+  ]
+ },
+ {
+  "text": "Áp xe phổi",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N262",
+    "Page kidney"
+   ],
+   [
+    "Q630",
+    "Accessory kidney"
+   ],
+   [
+    "R880",
+    "Cloudy (hemodialysis) (peritoneal) dialysis effluent"
+   ],
+   [
+    "Z953",
+    "Presence of xenogenic heart valve"
+   ],
+   [
+    "R970",
+    "Elevated carcinoembryonic antigen [CEA]"
+   ],
+   [
+    "R180",
+    "Malignant ascites"
+   ],
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "Q351",
+    "Cleft hard palate"
+   ]
+  ]
+ },
+ {
+  "text": "khạc ra mủ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R151",
+    "Fecal smearing"
+   ],
+   [
+    "K5641",
+    "Fecal impaction"
+   ],
+   [
+    "N46024",
+    "Azoospermia due to radiation"
+   ],
+   [
+    "P0382",
+    "Meconium passage during delivery"
+   ],
+   [
+    "O926",
+    "Galactorrhea"
+   ],
+   [
+    "N6452",
+    "Nipple discharge"
+   ],
+   [
+    "W5551XD",
+    "Bitten by raccoon, subsequent encounter"
+   ],
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ]
+  ]
+ },
+ {
+  "text": "áp-xe phổi",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N262",
+    "Page kidney"
+   ],
+   [
+    "Q351",
+    "Cleft hard palate"
+   ],
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "Q353",
+    "Cleft soft palate"
+   ],
+   [
+    "R1912",
+    "Hyperactive bowel sounds"
+   ],
+   [
+    "M96A4",
+    "Flail chest associated with chest compression and cardiopulmonary resuscitation"
+   ],
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "Q631",
+    "Lobulated, fused and horseshoe kidney"
+   ]
+  ]
+ },
+ {
+  "text": "dị ứng",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "T7840XD",
+    "Allergy, unspecified, subsequent encounter"
+   ],
+   [
+    "H5372",
+    "Impaired contrast sensitivity"
+   ],
+   [
+    "F4320",
+    "Adjustment disorder, unspecified"
+   ],
+   [
+    "R410",
+    "Disorientation, unspecified"
+   ],
+   [
+    "R292",
+    "Abnormal reflex"
+   ],
+   [
+    "F446",
+    "Conversion disorder with sensory symptom or deficit"
+   ],
+   [
+    "R203",
+    "Hyperesthesia"
+   ],
+   [
+    "R454",
+    "Irritability and anger"
+   ]
+  ]
+ },
+ {
+  "text": "hẹp lỗ liên hợp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H33329",
+    "Round hole, unspecified eye"
+   ],
+   [
+    "Q205",
+    "Discordant atrioventricular connection"
+   ],
+   [
+    "Q523",
+    "Imperforate hymen"
+   ],
+   [
+    "M9978",
+    "Connective tissue and disc stenosis of intervertebral foramina of rib cage"
+   ],
+   [
+    "M249",
+    "Joint derangement, unspecified"
+   ],
+   [
+    "N896",
+    "Tight hymenal ring"
+   ],
+   [
+    "M259",
+    "Joint disorder, unspecified"
+   ],
+   [
+    "M9948",
+    "Connective tissue stenosis of neural canal of rib cage"
+   ]
+  ]
+ },
+ {
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R464",
+    "Slowness and poor responsiveness"
+   ],
+   [
+    "T80410S",
+    "Rh incompatibility with acute hemolytic transfusion reaction, sequela"
+   ],
+   [
+    "T80411S",
+    "Rh incompatibility with delayed hemolytic transfusion reaction, sequela"
+   ],
+   [
+    "B054",
+    "Measles with intestinal complications"
+   ],
+   [
+    "W5641XS",
+    "Bitten by shark, sequela"
+   ],
+   [
+    "F50812",
+    "Binge eating disorder, severe"
+   ],
+   [
+    "T80411D",
+    "Rh incompatibility with delayed hemolytic transfusion reaction, subsequent encounter"
+   ],
+   [
+    "T80410D",
+    "Rh incompatibility with acute hemolytic transfusion reaction, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "Khó thở tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "R1912",
+    "Hyperactive bowel sounds"
+   ],
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "R063",
+    "Periodic breathing"
+   ],
+   [
+    "H93239",
+    "Hyperacusis, unspecified ear"
+   ],
+   [
+    "P221",
+    "Transient tachypnea of newborn"
+   ],
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "R1912",
+    "Hyperactive bowel sounds"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R063",
+    "Periodic breathing"
+   ],
+   [
+    "P221",
+    "Transient tachypnea of newborn"
+   ],
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "G4451",
+    "Hemicrania continua"
+   ]
+  ]
+ },
+ {
+  "text": "phù ngoại vi",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B883",
+    "External hirudiniasis"
+   ],
+   [
+    "Q792",
+    "Exomphalos"
+   ],
+   [
+    "Q640",
+    "Epispadias"
+   ],
+   [
+    "B834",
+    "Internal hirudiniasis"
+   ],
+   [
+    "Y92832",
+    "Beach as the place of occurrence of the external cause"
+   ],
+   [
+    "L80",
+    "Vitiligo"
+   ],
+   [
+    "H5052",
+    "Exophoria"
+   ],
+   [
+    "Z3764",
+    "Sextuplets, some liveborn"
+   ]
+  ]
+ },
+ {
+  "text": "đau vai",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R52",
+    "Pain, unspecified"
+   ],
+   [
+    "R141",
+    "Gas pain"
+   ],
+   [
+    "N5082",
+    "Scrotal pain"
+   ],
+   [
+    "R1010",
+    "Upper abdominal pain, unspecified"
+   ],
+   [
+    "M79673",
+    "Pain in unspecified foot"
+   ],
+   [
+    "M549",
+    "Dorsalgia, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "suy hô hấp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K7681",
+    "Hepatopulmonary syndrome"
+   ],
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "J989",
+    "Respiratory disorder, unspecified"
+   ],
+   [
+    "R1110",
+    "Vomiting, unspecified"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ],
+   [
+    "J705",
+    "Respiratory conditions due to smoke inhalation"
+   ],
+   [
+    "R092",
+    "Respiratory arrest"
+   ],
+   [
+    "K920",
+    "Hematemesis"
+   ]
+  ]
+ },
+ {
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A4101",
+    "Sepsis due to Methicillin susceptible Staphylococcus aureus"
+   ],
+   [
+    "A4901",
+    "Methicillin susceptible Staphylococcus aureus infection, unspecified site"
+   ],
+   [
+    "A4102",
+    "Sepsis due to Methicillin resistant Staphylococcus aureus"
+   ],
+   [
+    "Z22321",
+    "Carrier or suspected carrier of Methicillin susceptible Staphylococcus aureus"
+   ],
+   [
+    "B9561",
+    "Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere"
+   ],
+   [
+    "J15211",
+    "Pneumonia due to Methicillin susceptible Staphylococcus aureus"
+   ],
+   [
+    "Z22322",
+    "Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus"
+   ],
+   [
+    "A4902",
+    "Methicillin resistant Staphylococcus aureus infection, unspecified site"
+   ]
+  ]
+ },
+ {
+  "text": "huyết khối",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N857",
+    "Hematometra"
+   ],
+   [
+    "J942",
+    "Hemothorax"
+   ],
+   [
+    "D699",
+    "Hemorrhagic condition, unspecified"
+   ],
+   [
+    "N897",
+    "Hematocolpos"
+   ],
+   [
+    "R042",
+    "Hemoptysis"
+   ],
+   [
+    "K649",
+    "Unspecified hemorrhoids"
+   ],
+   [
+    "E83119",
+    "Hemochromatosis, unspecified"
+   ],
+   [
+    "M2500",
+    "Hemarthrosis, unspecified joint"
+   ]
+  ]
+ },
+ {
+  "text": "hội chứng bàn chân bẹt bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "M2030",
+    "Hallux varus (acquired), unspecified foot"
+   ],
+   [
+    "M85379",
+    "Osteitis condensans, unspecified ankle and foot"
+   ],
+   [
+    "M7630",
+    "Iliotibial band syndrome, unspecified leg"
+   ],
+   [
+    "M2020",
+    "Hallux rigidus, unspecified foot"
+   ],
+   [
+    "M12159",
+    "Kaschin-Beck disease, unspecified hip"
+   ],
+   [
+    "M85369",
+    "Osteitis condensans, unspecified lower leg"
+   ],
+   [
+    "M2010",
+    "Hallux valgus (acquired), unspecified foot"
+   ],
+   [
+    "M7620",
+    "Iliac crest spur, unspecified hip"
+   ]
+  ]
+ },
+ {
+  "text": "thận bệnh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I519",
+    "Heart disease, unspecified"
+   ],
+   [
+    "I279",
+    "Pulmonary heart disease, unspecified"
+   ],
+   [
+    "I289",
+    "Disease of pulmonary vessels, unspecified"
+   ],
+   [
+    "K7682",
+    "Hepatic encephalopathy"
+   ],
+   [
+    "N189",
+    "Chronic kidney disease, unspecified"
+   ],
+   [
+    "N289",
+    "Disorder of kidney and ureter, unspecified"
+   ],
+   [
+    "J989",
+    "Respiratory disorder, unspecified"
+   ],
+   [
+    "K7681",
+    "Hepatopulmonary syndrome"
+   ]
+  ]
+ },
+ {
+  "text": "methadone",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "T403X5D",
+    "Adverse effect of methadone, subsequent encounter"
+   ],
+   [
+    "T403X6D",
+    "Underdosing of methadone, subsequent encounter"
+   ],
+   [
+    "T403X3D",
+    "Poisoning by methadone, assault, subsequent encounter"
+   ],
+   [
+    "T403X5A",
+    "Adverse effect of methadone, initial encounter"
+   ],
+   [
+    "T403X6A",
+    "Underdosing of methadone, initial encounter"
+   ],
+   [
+    "T403X4D",
+    "Poisoning by methadone, undetermined, subsequent encounter"
+   ],
+   [
+    "T403X2D",
+    "Poisoning by methadone, intentional self-harm, subsequent encounter"
+   ],
+   [
+    "T403X5S",
+    "Adverse effect of methadone, sequela"
+   ]
+  ]
+ },
+ {
+  "text": "đau tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R52",
+    "Pain, unspecified"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "R1084",
+    "Generalized abdominal pain"
+   ],
+   [
+    "G894",
+    "Chronic pain syndrome"
+   ],
+   [
+    "M7910",
+    "Myalgia, unspecified site"
+   ],
+   [
+    "G893",
+    "Neoplasm related pain (acute) (chronic)"
+   ],
+   [
+    "G8929",
+    "Other chronic pain"
+   ],
+   [
+    "G8921",
+    "Chronic pain due to trauma"
+   ]
+  ]
+ },
+ {
+  "text": "đau nhẹ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R52",
+    "Pain, unspecified"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "M79609",
+    "Pain in unspecified limb"
+   ],
+   [
+    "M7910",
+    "Myalgia, unspecified site"
+   ],
+   [
+    "M79603",
+    "Pain in arm, unspecified"
+   ],
+   [
+    "M79606",
+    "Pain in leg, unspecified"
+   ],
+   [
+    "R109",
+    "Unspecified abdominal pain"
+   ],
+   [
+    "R1030",
+    "Lower abdominal pain, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "nóng phần tinh hoàn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L751",
+    "Chromhidrosis"
+   ],
+   [
+    "L750",
+    "Bromhidrosis"
+   ],
+   [
+    "L732",
+    "Hidradenitis suppurativa"
+   ],
+   [
+    "H57059",
+    "Tonic pupil, unspecified eye"
+   ],
+   [
+    "Z1883",
+    "Retained stone or crystalline fragments"
+   ],
+   [
+    "I495",
+    "Sick sinus syndrome"
+   ],
+   [
+    "L551",
+    "Sunburn of second degree"
+   ],
+   [
+    "T675XXA",
+    "Heat exhaustion, unspecified, initial encounter"
+   ]
+  ]
+ },
+ {
+  "text": "Giãn thừng tinh",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "M6740",
+    "Ganglion, unspecified site"
+   ],
+   [
+    "Q75051",
+    "Cloverleaf skull"
+   ],
+   [
+    "A665",
+    "Gangosa"
+   ],
+   [
+    "E40",
+    "Kwashiorkor"
+   ],
+   [
+    "A240",
+    "Glanders"
+   ],
+   [
+    "B08010",
+    "Cowpox"
+   ],
+   [
+    "Z3764",
+    "Sextuplets, some liveborn"
+   ],
+   [
+    "B361",
+    "Tinea nigra"
+   ]
+  ]
+ },
+ {
+  "text": "vô sinh thứ phát",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "O021",
+    "Missed abortion"
+   ],
+   [
+    "N96",
+    "Recurrent pregnancy loss"
+   ],
+   [
+    "N911",
+    "Secondary amenorrhea"
+   ],
+   [
+    "I5084",
+    "End stage heart failure"
+   ],
+   [
+    "F940",
+    "Selective mutism"
+   ],
+   [
+    "Z371",
+    "Single stillbirth"
+   ],
+   [
+    "T730XXA",
+    "Starvation, initial encounter"
+   ],
+   [
+    "Z331",
+    "Pregnant state, incidental"
+   ]
+  ]
+ },
+ {
+  "text": "sỏi tại đoạn cuối ống mật chủ",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N8111",
+    "Cystocele, midline"
+   ],
+   [
+    "Q2116",
+    "Sinus venosus atrial septal defect, unspecified"
+   ],
+   [
+    "Z1801",
+    "Retained depleted uranium fragments"
+   ],
+   [
+    "K083",
+    "Retained dental root"
+   ],
+   [
+    "N8112",
+    "Cystocele, lateral"
+   ],
+   [
+    "Z1883",
+    "Retained stone or crystalline fragments"
+   ],
+   [
+    "Z1881",
+    "Retained glass fragments"
+   ],
+   [
+    "Z1833",
+    "Retained wood fragments"
+   ]
+  ]
+ },
+ {
+  "text": "mụn cám",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R17",
+    "Unspecified jaundice"
+   ],
+   [
+    "L709",
+    "Acne, unspecified"
+   ],
+   [
+    "B54",
+    "Unspecified malaria"
+   ],
+   [
+    "R059",
+    "Cough, unspecified"
+   ],
+   [
+    "B479",
+    "Mycetoma, unspecified"
+   ],
+   [
+    "B79",
+    "Trichuriasis"
+   ],
+   [
+    "B079",
+    "Viral wart, unspecified"
+   ],
+   [
+    "L700",
+    "Acne vulgaris"
+   ]
+  ]
+ },
+ {
+  "text": "mụn đầu trắng",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L605",
+    "Yellow nail syndrome"
+   ],
+   [
+    "L081",
+    "Erythrasma"
+   ],
+   [
+    "D229",
+    "Melanocytic nevi, unspecified"
+   ],
+   [
+    "H44539",
+    "Leucocoria, unspecified eye"
+   ],
+   [
+    "Q844",
+    "Congenital leukonychia"
+   ],
+   [
+    "L944",
+    "Gottron's papules"
+   ],
+   [
+    "L83",
+    "Acanthosis nigricans"
+   ],
+   [
+    "Q130",
+    "Coloboma of iris"
+   ]
+  ]
+ },
+ {
+  "text": "weak",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R531",
+    "Weakness"
+   ],
+   [
+    "M6281",
+    "Muscle weakness (generalized)"
+   ],
+   [
+    "R69",
+    "Illness, unspecified"
+   ],
+   [
+    "R636",
+    "Underweight"
+   ],
+   [
+    "Z723",
+    "Lack of physical exercise"
+   ],
+   [
+    "Z730",
+    "Burn-out"
+   ],
+   [
+    "R452",
+    "Unhappiness"
+   ],
+   [
+    "R29810",
+    "Facial weakness"
+   ]
+  ]
+ },
+ {
+  "text": "ngủ quên",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R400",
+    "Somnolence"
+   ],
+   [
+    "G4700",
+    "Insomnia, unspecified"
+   ],
+   [
+    "F513",
+    "Sleepwalking [somnambulism]"
+   ],
+   [
+    "Z72820",
+    "Sleep deprivation"
+   ],
+   [
+    "R450",
+    "Nervousness"
+   ],
+   [
+    "F5101",
+    "Primary insomnia"
+   ],
+   [
+    "F5112",
+    "Insufficient sleep syndrome"
+   ],
+   [
+    "Y9384",
+    "Activity, sleeping"
+   ]
+  ]
+ },
+ {
+  "text": "ngất xỉu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R112",
+    "Nausea with vomiting, unspecified"
+   ],
+   [
+    "M109",
+    "Gout, unspecified"
+   ],
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "R1110",
+    "Vomiting, unspecified"
+   ],
+   [
+    "R1111",
+    "Vomiting without nausea"
+   ],
+   [
+    "L299",
+    "Pruritus, unspecified"
+   ],
+   [
+    "R110",
+    "Nausea"
+   ],
+   [
+    "L504",
+    "Vibratory urticaria"
+   ]
+  ]
+ },
+ {
+  "text": "giảm khả năng quan hệ tình dục",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R6882",
+    "Decreased libido"
+   ],
+   [
+    "F520",
+    "Hypoactive sexual desire disorder"
+   ],
+   [
+    "R37",
+    "Sexual dysfunction, unspecified"
+   ],
+   [
+    "N5311",
+    "Retarded ejaculation"
+   ],
+   [
+    "F521",
+    "Sexual aversion disorder"
+   ],
+   [
+    "E300",
+    "Delayed puberty"
+   ],
+   [
+    "E291",
+    "Testicular hypofunction"
+   ],
+   [
+    "N9410",
+    "Unspecified dyspareunia"
+   ]
+  ]
+ },
+ {
+  "text": "Đau buốt khi đi tiểu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R309",
+    "Painful micturition, unspecified"
+   ],
+   [
+    "N3941",
+    "Urge incontinence"
+   ],
+   [
+    "N5312",
+    "Painful ejaculation"
+   ],
+   [
+    "R3915",
+    "Urgency of urination"
+   ],
+   [
+    "R3911",
+    "Hesitancy of micturition"
+   ],
+   [
+    "M7911",
+    "Myalgia of mastication muscle"
+   ],
+   [
+    "K5901",
+    "Slow transit constipation"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ]
+  ]
+ },
+ {
+  "text": "nôn từng đợt sau khi ăn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K910",
+    "Vomiting following gastrointestinal surgery"
+   ],
+   [
+    "R112",
+    "Nausea with vomiting, unspecified"
+   ],
+   [
+    "K5901",
+    "Slow transit constipation"
+   ],
+   [
+    "O212",
+    "Late vomiting of pregnancy"
+   ],
+   [
+    "R1112",
+    "Projectile vomiting"
+   ],
+   [
+    "R0982",
+    "Postnasal drip"
+   ],
+   [
+    "R1113",
+    "Vomiting of fecal matter"
+   ],
+   [
+    "T281XXD",
+    "Burn of esophagus, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "tê bì ở cánh tay trái trên",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q7161",
+    "Lobster-claw right hand"
+   ],
+   [
+    "M21521",
+    "Acquired clubhand, right hand"
+   ],
+   [
+    "L02531",
+    "Carbuncle of right hand"
+   ],
+   [
+    "M10141",
+    "Lead-induced gout, right hand"
+   ],
+   [
+    "M02341",
+    "Reiter's disease, right hand"
+   ],
+   [
+    "M24641",
+    "Ankylosis, right hand"
+   ],
+   [
+    "H6121",
+    "Impacted cerumen, right ear"
+   ],
+   [
+    "M10041",
+    "Idiopathic gout, right hand"
+   ]
+  ]
+ },
+ {
+  "text": "đau ở cánh tay trái dưới và bàn tay",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1012",
+    "Left upper quadrant pain"
+   ],
+   [
+    "M79645",
+    "Pain in left finger(s)"
+   ],
+   [
+    "M79642",
+    "Pain in left hand"
+   ],
+   [
+    "R10A2",
+    "Flank pain, left side"
+   ],
+   [
+    "R10A3",
+    "Flank pain, bilateral"
+   ],
+   [
+    "R1032",
+    "Left lower quadrant pain"
+   ],
+   [
+    "M79602",
+    "Pain in left arm"
+   ],
+   [
+    "M79622",
+    "Pain in left upper arm"
+   ]
+  ]
+ },
+ {
+  "text": "shortness of breath",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "R092",
+    "Respiratory arrest"
+   ],
+   [
+    "R0600",
+    "Dyspnea, unspecified"
+   ],
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ],
+   [
+    "R0601",
+    "Orthopnea"
+   ],
+   [
+    "R069",
+    "Unspecified abnormalities of breathing"
+   ],
+   [
+    "R0689",
+    "Other abnormalities of breathing"
+   ]
+  ]
+ },
+ {
+  "text": "yếu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R531",
+    "Weakness"
+   ],
+   [
+    "Z723",
+    "Lack of physical exercise"
+   ],
+   [
+    "M6281",
+    "Muscle weakness (generalized)"
+   ],
+   [
+    "R452",
+    "Unhappiness"
+   ],
+   [
+    "R636",
+    "Underweight"
+   ],
+   [
+    "R69",
+    "Illness, unspecified"
+   ],
+   [
+    "R270",
+    "Ataxia, unspecified"
+   ],
+   [
+    "E639",
+    "Nutritional deficiency, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "đau rát khi đi tiểu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R309",
+    "Painful micturition, unspecified"
+   ],
+   [
+    "N5312",
+    "Painful ejaculation"
+   ],
+   [
+    "R3915",
+    "Urgency of urination"
+   ],
+   [
+    "N3941",
+    "Urge incontinence"
+   ],
+   [
+    "R3911",
+    "Hesitancy of micturition"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R1024",
+    "Suprapubic pain"
+   ]
+  ]
+ },
+ {
+  "text": "cơn ngất xỉu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R112",
+    "Nausea with vomiting, unspecified"
+   ],
+   [
+    "M109",
+    "Gout, unspecified"
+   ],
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "R1110",
+    "Vomiting, unspecified"
+   ],
+   [
+    "R1111",
+    "Vomiting without nausea"
+   ],
+   [
+    "R052",
+    "Subacute cough"
+   ],
+   [
+    "L504",
+    "Vibratory urticaria"
+   ],
+   [
+    "R1112",
+    "Projectile vomiting"
+   ]
+  ]
+ },
+ {
+  "text": "80mg po lasix",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L498",
+    "Exfoliation due to erythematous condition involving 80-89 percent of body surface"
+   ],
+   [
+    "T3180",
+    "Burns involving 80-89% of body surface with 0% to 9% third degree burns"
+   ],
+   [
+    "T3288",
+    "Corrosions involving 80-89% of body surface with 80-89% third degree corrosion"
+   ],
+   [
+    "T3280",
+    "Corrosions involving 80-89% of body surface with 0% to 9% third degree corrosion"
+   ],
+   [
+    "T3188",
+    "Burns involving 80-89% of body surface with 80-89% third degree burns"
+   ],
+   [
+    "T3284",
+    "Corrosions involving 80-89% of body surface with 40-49% third degree corrosion"
+   ],
+   [
+    "T3184",
+    "Burns involving 80-89% of body surface with 40-49% third degree burns"
+   ],
+   [
+    "G44031",
+    "Episodic paroxysmal hemicrania, intractable"
+   ]
+  ]
+ },
+ {
+  "text": "asa",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Z1341",
+    "Encounter for autism screening"
+   ],
+   [
+    "F845",
+    "Asperger's syndrome"
+   ],
+   [
+    "B810",
+    "Anisakiasis"
+   ],
+   [
+    "Z7982",
+    "Long term (current) use of aspirin"
+   ],
+   [
+    "Z0282",
+    "Encounter for adoption services"
+   ],
+   [
+    "Q422",
+    "Congenital absence, atresia and stenosis of anus with fistula"
+   ],
+   [
+    "E7222",
+    "Arginosuccinic aciduria"
+   ],
+   [
+    "Q4471",
+    "Alagille syndrome"
+   ]
+  ]
+ },
+ {
+  "text": "80mg lasix iv",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A962",
+    "Lassa fever"
+   ],
+   [
+    "L498",
+    "Exfoliation due to erythematous condition involving 80-89 percent of body surface"
+   ],
+   [
+    "I70422",
+    "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg"
+   ],
+   [
+    "I70428",
+    "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity"
+   ],
+   [
+    "I70423",
+    "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs"
+   ],
+   [
+    "T3284",
+    "Corrosions involving 80-89% of body surface with 40-49% third degree corrosion"
+   ],
+   [
+    "I70528",
+    "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity"
+   ],
+   [
+    "T3280",
+    "Corrosions involving 80-89% of body surface with 0% to 9% third degree corrosion"
+   ]
+  ]
+ },
+ {
+  "text": "8mg morphine",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "T3288",
+    "Corrosions involving 80-89% of body surface with 80-89% third degree corrosion"
+   ],
+   [
+    "Z3A01",
+    "Less than 8 weeks gestation of pregnancy"
+   ],
+   [
+    "Z3A08",
+    "8 weeks gestation of pregnancy"
+   ],
+   [
+    "R29708",
+    "NIHSS score 8"
+   ],
+   [
+    "T3280",
+    "Corrosions involving 80-89% of body surface with 0% to 9% third degree corrosion"
+   ],
+   [
+    "T3298",
+    "Corrosions involving 90% or more of body surface with 80-89% third degree corrosion"
+   ],
+   [
+    "T3188",
+    "Burns involving 80-89% of body surface with 80-89% third degree burns"
+   ],
+   [
+    "G43831",
+    "Menstrual migraine, intractable, with status migrainosus"
+   ]
+  ]
+ },
+ {
+  "text": "1mg dilaudid",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R880",
+    "Cloudy (hemodialysis) (peritoneal) dialysis effluent"
+   ],
+   [
+    "T501X6A",
+    "Underdosing of loop [high-ceiling] diuretics, initial encounter"
+   ],
+   [
+    "T476X6A",
+    "Underdosing of antidiarrheal drugs, initial encounter"
+   ],
+   [
+    "T501X5A",
+    "Adverse effect of loop [high-ceiling] diuretics, initial encounter"
+   ],
+   [
+    "K55042",
+    "Diffuse acute infarction of large intestine"
+   ],
+   [
+    "G901",
+    "Familial dysautonomia [Riley-Day]"
+   ],
+   [
+    "S52372E",
+    "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with routine healing"
+   ],
+   [
+    "K55022",
+    "Diffuse acute infarction of small intestine"
+   ]
+  ]
+ },
+ {
+  "text": "po metoprolol",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A801",
+    "Acute paralytic poliomyelitis, wild virus, imported"
+   ],
+   [
+    "N924",
+    "Excessive bleeding in the premenopausal period"
+   ],
+   [
+    "P381",
+    "Omphalitis with mild hemorrhage"
+   ],
+   [
+    "H30149",
+    "Acute posterior multifocal placoid pigment epitheliopathy, unspecified eye"
+   ],
+   [
+    "G14",
+    "Postpolio syndrome"
+   ],
+   [
+    "Q042",
+    "Holoprosencephaly"
+   ],
+   [
+    "H7440",
+    "Polyp of middle ear, unspecified ear"
+   ],
+   [
+    "K622",
+    "Anal prolapse"
+   ]
+  ]
+ },
+ {
+  "text": "10mg iv diltiazem",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "S52379E",
+    "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with routine healing"
+   ],
+   [
+    "S52379Q",
+    "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with malunion"
+   ],
+   [
+    "S52371Q",
+    "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with malunion"
+   ],
+   [
+    "S52371H",
+    "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with delayed healing"
+   ],
+   [
+    "S52371E",
+    "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with routine healing"
+   ],
+   [
+    "S52372E",
+    "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with routine healing"
+   ],
+   [
+    "S52379H",
+    "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with delayed healing"
+   ],
+   [
+    "S52372Q",
+    "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with malunion"
+   ]
+  ]
+ },
+ {
+  "text": "Bệnh lý đau nửa đầu",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "R10A0",
+    "Flank pain, unspecified side"
+   ],
+   [
+    "M549",
+    "Dorsalgia, unspecified"
+   ],
+   [
+    "R1033",
+    "Periumbilical pain"
+   ],
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "R519",
+    "Headache, unspecified"
+   ],
+   [
+    "R10A3",
+    "Flank pain, bilateral"
+   ],
+   [
+    "G890",
+    "Central pain syndrome"
+   ]
+  ]
+ },
+ {
+  "text": "đau nửa đầu Migraine",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "R519",
+    "Headache, unspecified"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "G4481",
+    "Hypnic headache"
+   ],
+   [
+    "G4483",
+    "Primary cough headache"
+   ],
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "R070",
+    "Pain in throat"
+   ],
+   [
+    "R10A0",
+    "Flank pain, unspecified side"
+   ]
+  ]
+ },
+ {
+  "text": "thị giác bị nhòe",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R483",
+    "Visual agnosia"
+   ],
+   [
+    "H5351",
+    "Achromatopsia"
+   ],
+   [
+    "R41842",
+    "Visuospatial deficit"
+   ],
+   [
+    "H53149",
+    "Visual discomfort, unspecified"
+   ],
+   [
+    "H905",
+    "Unspecified sensorineural hearing loss"
+   ],
+   [
+    "H547",
+    "Unspecified visual loss"
+   ],
+   [
+    "R203",
+    "Hyperesthesia"
+   ],
+   [
+    "R430",
+    "Anosmia"
+   ]
+  ]
+ },
+ {
+  "text": "ruồi bay",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "J632",
+    "Berylliosis"
+   ],
+   [
+    "E5112",
+    "Wet beriberi"
+   ],
+   [
+    "B874",
+    "Aural myiasis"
+   ],
+   [
+    "A668",
+    "Latent yaws"
+   ],
+   [
+    "L604",
+    "Beau's lines"
+   ],
+   [
+    "F653",
+    "Voyeurism"
+   ],
+   [
+    "A829",
+    "Rabies, unspecified"
+   ],
+   [
+    "H6120",
+    "Impacted cerumen, unspecified ear"
+   ]
+  ]
+ },
+ {
+  "text": "sợ ánh sáng",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "F40210",
+    "Arachnophobia"
+   ],
+   [
+    "F40220",
+    "Fear of thunderstorms"
+   ],
+   [
+    "F40241",
+    "Acrophobia"
+   ],
+   [
+    "F40290",
+    "Androphobia"
+   ],
+   [
+    "F40240",
+    "Claustrophobia"
+   ],
+   [
+    "F4000",
+    "Agoraphobia, unspecified"
+   ],
+   [
+    "F40243",
+    "Fear of flying"
+   ],
+   [
+    "F40242",
+    "Fear of bridges"
+   ]
+  ]
+ },
+ {
+  "text": "sợ tiếng động",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R491",
+    "Aphonia"
+   ],
+   [
+    "F40220",
+    "Fear of thunderstorms"
+   ],
+   [
+    "F40291",
+    "Gynephobia"
+   ],
+   [
+    "F40241",
+    "Acrophobia"
+   ],
+   [
+    "F40242",
+    "Fear of bridges"
+   ],
+   [
+    "F40230",
+    "Fear of blood"
+   ],
+   [
+    "F40290",
+    "Androphobia"
+   ],
+   [
+    "F4000",
+    "Agoraphobia, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "đau nửa đầu bên trái",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R10A2",
+    "Flank pain, left side"
+   ],
+   [
+    "R10A1",
+    "Flank pain, right side"
+   ],
+   [
+    "R10A3",
+    "Flank pain, bilateral"
+   ],
+   [
+    "R1012",
+    "Left upper quadrant pain"
+   ],
+   [
+    "R10A0",
+    "Flank pain, unspecified side"
+   ],
+   [
+    "R1032",
+    "Left lower quadrant pain"
+   ],
+   [
+    "N50812",
+    "Left testicular pain"
+   ],
+   [
+    "M79672",
+    "Pain in left foot"
+   ]
+  ]
+ },
+ {
+  "text": "viêm xoang",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K140",
+    "Glossitis"
+   ],
+   [
+    "G039",
+    "Meningitis, unspecified"
+   ],
+   [
+    "M273",
+    "Alveolitis of jaws"
+   ],
+   [
+    "N481",
+    "Balanitis"
+   ],
+   [
+    "M719",
+    "Bursopathy, unspecified"
+   ],
+   [
+    "K659",
+    "Peritonitis, unspecified"
+   ],
+   [
+    "K1120",
+    "Sialoadenitis, unspecified"
+   ],
+   [
+    "K91850",
+    "Pouchitis"
+   ]
+  ]
+ },
+ {
+  "text": "đau nửa đầu trái",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R10A2",
+    "Flank pain, left side"
+   ],
+   [
+    "R10A1",
+    "Flank pain, right side"
+   ],
+   [
+    "R10A3",
+    "Flank pain, bilateral"
+   ],
+   [
+    "R1012",
+    "Left upper quadrant pain"
+   ],
+   [
+    "R10A0",
+    "Flank pain, unspecified side"
+   ],
+   [
+    "R1032",
+    "Left lower quadrant pain"
+   ],
+   [
+    "N50812",
+    "Left testicular pain"
+   ],
+   [
+    "M79672",
+    "Pain in left foot"
+   ]
+  ]
+ },
+ {
+  "text": "suy giảm trí nhớ",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R4181",
+    "Age-related cognitive decline"
+   ],
+   [
+    "R412",
+    "Retrograde amnesia"
+   ],
+   [
+    "R4581",
+    "Low self-esteem"
+   ],
+   [
+    "R413",
+    "Other amnesia"
+   ],
+   [
+    "R404",
+    "Transient alteration of awareness"
+   ],
+   [
+    "R481",
+    "Agnosia"
+   ],
+   [
+    "R450",
+    "Nervousness"
+   ],
+   [
+    "I69311",
+    "Memory deficit following cerebral infarction"
+   ]
+  ]
+ },
+ {
+  "text": "khó tập trung",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R41840",
+    "Attention and concentration deficit"
+   ],
+   [
+    "R270",
+    "Ataxia, unspecified"
+   ],
+   [
+    "Z723",
+    "Lack of physical exercise"
+   ],
+   [
+    "R531",
+    "Weakness"
+   ],
+   [
+    "R452",
+    "Unhappiness"
+   ],
+   [
+    "H5232",
+    "Aniseikonia"
+   ],
+   [
+    "R279",
+    "Unspecified lack of coordination"
+   ],
+   [
+    "R482",
+    "Apraxia"
+   ]
+  ]
+ },
+ {
+  "text": "suy thoái võng mạc",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N8184",
+    "Pelvic muscle wasting"
+   ],
+   [
+    "R29890",
+    "Loss of height"
+   ],
+   [
+    "M89559",
+    "Osteolysis, unspecified thigh"
+   ],
+   [
+    "M439",
+    "Deforming dorsopathy, unspecified"
+   ],
+   [
+    "M4316",
+    "Spondylolisthesis, lumbar region"
+   ],
+   [
+    "M94359",
+    "Chondrolysis, unspecified hip"
+   ],
+   [
+    "M4310",
+    "Spondylolisthesis, site unspecified"
+   ],
+   [
+    "M94259",
+    "Chondromalacia, unspecified hip"
+   ]
+  ]
+ },
+ {
+  "text": "mất thị lực",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R270",
+    "Ataxia, unspecified"
+   ],
+   [
+    "R531",
+    "Weakness"
+   ],
+   [
+    "R6882",
+    "Decreased libido"
+   ],
+   [
+    "R630",
+    "Anorexia"
+   ],
+   [
+    "R279",
+    "Unspecified lack of coordination"
+   ],
+   [
+    "F32A",
+    "Depression, unspecified"
+   ],
+   [
+    "R41843",
+    "Psychomotor deficit"
+   ],
+   [
+    "H5232",
+    "Aniseikonia"
+   ]
+  ]
+ },
+ {
+  "text": "mù vĩnh viễn",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R053",
+    "Chronic cough"
+   ],
+   [
+    "Q175",
+    "Prominent ear"
+   ],
+   [
+    "M1A9XX0",
+    "Chronic gout, unspecified, without tophus (tophi)"
+   ],
+   [
+    "H9319",
+    "Tinnitus, unspecified ear"
+   ],
+   [
+    "M1A9XX1",
+    "Chronic gout, unspecified, with tophus (tophi)"
+   ],
+   [
+    "H7310",
+    "Chronic myringitis, unspecified ear"
+   ],
+   [
+    "H93249",
+    "Temporary auditory threshold shift, unspecified ear"
+   ],
+   [
+    "L280",
+    "Lichen simplex chronicus"
+   ]
+  ]
+ },
+ {
+  "text": "thuốc giảm đau",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R52",
+    "Pain, unspecified"
+   ],
+   [
+    "G2571",
+    "Drug induced akathisia"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "T40995D",
+    "Adverse effect of other psychodysleptics [hallucinogens], subsequent encounter"
+   ],
+   [
+    "T40905D",
+    "Adverse effect of unspecified psychodysleptics [hallucinogens], subsequent encounter"
+   ],
+   [
+    "Z886",
+    "Allergy status to analgesic agent"
+   ],
+   [
+    "G251",
+    "Drug-induced tremor"
+   ],
+   [
+    "G254",
+    "Drug-induced chorea"
+   ]
+  ]
+ },
+ {
+  "text": "nặng mặt",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R29810",
+    "Facial weakness"
+   ],
+   [
+    "E663",
+    "Overweight"
+   ],
+   [
+    "Q671",
+    "Congenital compression facies"
+   ],
+   [
+    "R461",
+    "Bizarre personal appearance"
+   ],
+   [
+    "L74511",
+    "Primary focal hyperhidrosis, face"
+   ],
+   [
+    "S070XXD",
+    "Crushing injury of face, subsequent encounter"
+   ],
+   [
+    "L0203",
+    "Carbuncle of face"
+   ],
+   [
+    "Q753",
+    "Macrocephaly"
+   ]
+  ]
+ },
+ {
+  "text": "tức nặng 2 chi dưới",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K641",
+    "Second degree hemorrhoids"
+   ],
+   [
+    "T2023XD",
+    "Burn of second degree of chin, subsequent encounter"
+   ],
+   [
+    "T2121XD",
+    "Burn of second degree of chest wall, subsequent encounter"
+   ],
+   [
+    "E16A2",
+    "Hypoglycemia level 2"
+   ],
+   [
+    "O2652",
+    "Maternal hypotension syndrome, second trimester"
+   ],
+   [
+    "O2602",
+    "Excessive weight gain in pregnancy, second trimester"
+   ],
+   [
+    "O2612",
+    "Low weight gain in pregnancy, second trimester"
+   ],
+   [
+    "T2122XD",
+    "Burn of second degree of abdominal wall, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "tiểu ít",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N279",
+    "Small kidney, unspecified"
+   ],
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "Q172",
+    "Microtia"
+   ],
+   [
+    "Q187",
+    "Microcheilia"
+   ],
+   [
+    "R8281",
+    "Pyuria"
+   ],
+   [
+    "Q185",
+    "Microstomia"
+   ],
+   [
+    "R3912",
+    "Poor urinary stream"
+   ],
+   [
+    "M2606",
+    "Microgenia"
+   ]
+  ]
+ },
+ {
+  "text": "Phù",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R059",
+    "Cough, unspecified"
+   ],
+   [
+    "A8181",
+    "Kuru"
+   ],
+   [
+    "R231",
+    "Pallor"
+   ],
+   [
+    "A669",
+    "Yaws, unspecified"
+   ],
+   [
+    "L632",
+    "Ophiasis"
+   ],
+   [
+    "A829",
+    "Rabies, unspecified"
+   ],
+   [
+    "E8020",
+    "Unspecified porphyria"
+   ],
+   [
+    "R401",
+    "Stupor"
+   ]
+  ]
+ },
+ {
+  "text": "phù 2 chi dưới",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "O3102X2",
+    "Papyraceous fetus, second trimester, fetus 2"
+   ],
+   [
+    "F3181",
+    "Bipolar II disorder"
+   ],
+   [
+    "O3102X0",
+    "Papyraceous fetus, second trimester, not applicable or unspecified"
+   ],
+   [
+    "H20053",
+    "Hypopyon, bilateral"
+   ],
+   [
+    "K641",
+    "Second degree hemorrhoids"
+   ],
+   [
+    "O402XX2",
+    "Polyhydramnios, second trimester, fetus 2"
+   ],
+   [
+    "O4102X2",
+    "Oligohydramnios, second trimester, fetus 2"
+   ],
+   [
+    "O3102X1",
+    "Papyraceous fetus, second trimester, fetus 1"
+   ]
+  ]
+ },
+ {
+  "text": "phù mặt",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R29810",
+    "Facial weakness"
+   ],
+   [
+    "L0203",
+    "Carbuncle of face"
+   ],
+   [
+    "L74511",
+    "Primary focal hyperhidrosis, face"
+   ],
+   [
+    "L0202",
+    "Furuncle of face"
+   ],
+   [
+    "L632",
+    "Ophiasis"
+   ],
+   [
+    "Q671",
+    "Congenital compression facies"
+   ],
+   [
+    "R431",
+    "Parosmia"
+   ],
+   [
+    "Q673",
+    "Plagiocephaly"
+   ]
+  ]
+ },
+ {
+  "text": "phù nhẹ 2 chi dưới",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "F3181",
+    "Bipolar II disorder"
+   ],
+   [
+    "F3131",
+    "Bipolar disorder, current episode depressed, mild"
+   ],
+   [
+    "K0823",
+    "Severe atrophy of the mandible"
+   ],
+   [
+    "K0821",
+    "Minimal atrophy of the mandible"
+   ],
+   [
+    "K0822",
+    "Moderate atrophy of the mandible"
+   ],
+   [
+    "A5142",
+    "Secondary syphilitic female pelvic disease"
+   ],
+   [
+    "L413",
+    "Small plaque parapsoriasis"
+   ],
+   [
+    "K641",
+    "Second degree hemorrhoids"
+   ]
+  ]
+ },
+ {
+  "text": "Tổn thương cầu thận mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K023",
+    "Arrested dental caries"
+   ],
+   [
+    "J9584",
+    "Transfusion-related acute lung injury (TRALI)"
+   ],
+   [
+    "I2584",
+    "Coronary atherosclerosis due to calcified coronary lesion"
+   ],
+   [
+    "H16019",
+    "Central corneal ulcer, unspecified eye"
+   ],
+   [
+    "T701XXD",
+    "Sinus barotrauma, subsequent encounter"
+   ],
+   [
+    "P800",
+    "Cold injury syndrome"
+   ],
+   [
+    "I720",
+    "Aneurysm of carotid artery"
+   ],
+   [
+    "I4581",
+    "Long QT syndrome"
+   ]
+  ]
+ },
+ {
+  "text": "sỏi đài bể thận",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A221",
+    "Pulmonary anthrax"
+   ],
+   [
+    "A227",
+    "Anthrax sepsis"
+   ],
+   [
+    "J940",
+    "Chylous effusion"
+   ],
+   [
+    "K750",
+    "Abscess of liver"
+   ],
+   [
+    "N430",
+    "Encysted hydrocele"
+   ],
+   [
+    "K764",
+    "Peliosis hepatis"
+   ],
+   [
+    "D734",
+    "Cyst of spleen"
+   ],
+   [
+    "K821",
+    "Hydrops of gallbladder"
+   ]
+  ]
+ },
+ {
+  "text": "viêm cầu thận",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K819",
+    "Cholecystitis, unspecified"
+   ],
+   [
+    "A0225",
+    "Salmonella pyelonephritis"
+   ],
+   [
+    "K8309",
+    "Other cholangitis"
+   ],
+   [
+    "J180",
+    "Bronchopneumonia, unspecified organism"
+   ],
+   [
+    "K759",
+    "Inflammatory liver disease, unspecified"
+   ],
+   [
+    "N7091",
+    "Salpingitis, unspecified"
+   ],
+   [
+    "E069",
+    "Thyroiditis, unspecified"
+   ],
+   [
+    "K653",
+    "Choleperitonitis"
+   ]
+  ]
+ },
+ {
+  "text": "suy thận",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N23",
+    "Unspecified renal colic"
+   ],
+   [
+    "N19",
+    "Unspecified kidney failure"
+   ],
+   [
+    "N189",
+    "Chronic kidney disease, unspecified"
+   ],
+   [
+    "Q619",
+    "Cystic kidney disease, unspecified"
+   ],
+   [
+    "I729",
+    "Aneurysm of unspecified site"
+   ],
+   [
+    "N1330",
+    "Unspecified hydronephrosis"
+   ],
+   [
+    "N279",
+    "Small kidney, unspecified"
+   ],
+   [
+    "R197",
+    "Diarrhea, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "viêm họng cấp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "J370",
+    "Chronic laryngitis"
+   ],
+   [
+    "K140",
+    "Glossitis"
+   ],
+   [
+    "J040",
+    "Acute laryngitis"
+   ],
+   [
+    "J312",
+    "Chronic pharyngitis"
+   ],
+   [
+    "J050",
+    "Acute obstructive laryngitis [croup]"
+   ],
+   [
+    "G039",
+    "Meningitis, unspecified"
+   ],
+   [
+    "A564",
+    "Chlamydial infection of pharynx"
+   ],
+   [
+    "J371",
+    "Chronic laryngotracheitis"
+   ]
+  ]
+ },
+ {
+  "text": "viêm nhiễm ngoài da",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L303",
+    "Infective dermatitis"
+   ],
+   [
+    "L309",
+    "Dermatitis, unspecified"
+   ],
+   [
+    "L089",
+    "Local infection of the skin and subcutaneous tissue, unspecified"
+   ],
+   [
+    "L279",
+    "Dermatitis due to unspecified substance taken internally"
+   ],
+   [
+    "L2084",
+    "Intrinsic (allergic) eczema"
+   ],
+   [
+    "L26",
+    "Exfoliative dermatitis"
+   ],
+   [
+    "L710",
+    "Perioral dermatitis"
+   ],
+   [
+    "L981",
+    "Factitial dermatitis"
+   ]
+  ]
+ },
+ {
+  "text": "Viêm cầu thận mạn",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I4581",
+    "Long QT syndrome"
+   ],
+   [
+    "G9001",
+    "Carotid sinus syncope"
+   ],
+   [
+    "A221",
+    "Pulmonary anthrax"
+   ],
+   [
+    "Q2116",
+    "Sinus venosus atrial septal defect, unspecified"
+   ],
+   [
+    "I2541",
+    "Coronary artery aneurysm"
+   ],
+   [
+    "K766",
+    "Portal hypertension"
+   ],
+   [
+    "M940",
+    "Chondrocostal junction syndrome [Tietze]"
+   ],
+   [
+    "G5139",
+    "Clonic hemifacial spasm, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "Medrol 16mg",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Y07521",
+    "Mental health provider, perpetrator of maltreatment and neglect"
+   ],
+   [
+    "Q8785",
+    "MED13L syndrome"
+   ],
+   [
+    "R29716",
+    "NIHSS score 16"
+   ],
+   [
+    "Z6981",
+    "Encounter for mental health services for victim of other abuse"
+   ],
+   [
+    "Z69020",
+    "Encounter for mental health services for victim of non-parental child abuse"
+   ],
+   [
+    "Q991",
+    "46, XX true hermaphrodite"
+   ],
+   [
+    "G40C11",
+    "Lafora progressive myoclonus epilepsy, intractable, with status epilepticus"
+   ],
+   [
+    "Z6982",
+    "Encounter for mental health services for perpetrator of other abuse"
+   ]
+  ]
+ },
+ {
+  "text": "Omez 20mg",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R29720",
+    "NIHSS score 20"
+   ],
+   [
+    "P250",
+    "Interstitial emphysema originating in the perinatal period"
+   ],
+   [
+    "J982",
+    "Interstitial emphysema"
+   ],
+   [
+    "G40209",
+    "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+   ],
+   [
+    "G40201",
+    "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus"
+   ],
+   [
+    "G40219",
+    "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus"
+   ],
+   [
+    "G40211",
+    "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus"
+   ],
+   [
+    "B027",
+    "Disseminated zoster"
+   ]
+  ]
+ },
+ {
+  "text": "Furosemid 40 mg",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ],
+   [
+    "E035",
+    "Myxedema coma"
+   ],
+   [
+    "Q99818",
+    "Other Usher syndrome"
+   ],
+   [
+    "O364XX4",
+    "Maternal care for intrauterine death, fetus 4"
+   ],
+   [
+    "R29740",
+    "NIHSS score 40"
+   ],
+   [
+    "O35GXX4",
+    "Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 4"
+   ],
+   [
+    "O35AXX4",
+    "Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 4"
+   ],
+   [
+    "S061X7A",
+    "Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+   ]
+  ]
+ },
+ {
+  "text": "nốt sần tuyến giáp phải",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G5131",
+    "Clonic hemifacial spasm, right"
+   ],
+   [
+    "G5132",
+    "Clonic hemifacial spasm, left"
+   ],
+   [
+    "Q261",
+    "Persistent left superior vena cava"
+   ],
+   [
+    "H6121",
+    "Impacted cerumen, right ear"
+   ],
+   [
+    "S36520D",
+    "Contusion of ascending [right] colon, subsequent encounter"
+   ],
+   [
+    "G9001",
+    "Carotid sinus syncope"
+   ],
+   [
+    "Q205",
+    "Discordant atrioventricular connection"
+   ],
+   [
+    "Q001",
+    "Craniorachischisis"
+   ]
+  ]
+ },
+ {
+  "text": "Zestril 10mg",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B0234",
+    "Zoster scleritis"
+   ],
+   [
+    "O3422",
+    "Maternal care for cesarean scar defect (isthmocele)"
+   ],
+   [
+    "S32132D",
+    "Severely displaced Zone III fracture of sacrum, subsequent encounter for fracture with routine healing"
+   ],
+   [
+    "S32112D",
+    "Severely displaced Zone I fracture of sacrum, subsequent encounter for fracture with routine healing"
+   ],
+   [
+    "O2641",
+    "Herpes gestationis, first trimester"
+   ],
+   [
+    "C8412",
+    "Sezary disease, intrathoracic lymph nodes"
+   ],
+   [
+    "S23161D",
+    "Dislocation of T10/T11 thoracic vertebra, subsequent encounter"
+   ],
+   [
+    "S32132B",
+    "Severely displaced Zone III fracture of sacrum, initial encounter for open fracture"
+   ]
+  ]
+ },
+ {
+  "text": "không có lỗ tai",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q160",
+    "Congenital absence of (ear) auricle"
+   ],
+   [
+    "Z67A1",
+    "Duffy null"
+   ],
+   [
+    "Q162",
+    "Absence of eustachian tube"
+   ],
+   [
+    "H9210",
+    "Otorrhea, unspecified ear"
+   ],
+   [
+    "Q843",
+    "Anonychia"
+   ],
+   [
+    "R491",
+    "Aphonia"
+   ],
+   [
+    "M9510",
+    "Cauliflower ear, unspecified ear"
+   ],
+   [
+    "R1911",
+    "Absent bowel sounds"
+   ]
+  ]
+ },
+ {
+  "text": "trượt ngã xuống sàn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "W133XXD",
+    "Fall through floor, subsequent encounter"
+   ],
+   [
+    "W133XXA",
+    "Fall through floor, initial encounter"
+   ],
+   [
+    "W11XXXD",
+    "Fall on and from ladder, subsequent encounter"
+   ],
+   [
+    "W100XXD",
+    "Fall (on)(from) escalator, subsequent encounter"
+   ],
+   [
+    "W1781XD",
+    "Fall down embankment (hill), subsequent encounter"
+   ],
+   [
+    "W102XXD",
+    "Fall (on)(from) incline, subsequent encounter"
+   ],
+   [
+    "W132XXD",
+    "Fall from, out of or through roof, subsequent encounter"
+   ],
+   [
+    "W15XXXD",
+    "Fall from cliff, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "cml",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G372",
+    "Central pontine myelinolysis"
+   ],
+   [
+    "G371",
+    "Central demyelination of corpus callosum"
+   ],
+   [
+    "G9342",
+    "Megalencephalic leukoencephalopathy with subcortical cysts"
+   ],
+   [
+    "E71541",
+    "Zellweger-like syndrome"
+   ],
+   [
+    "D471",
+    "Chronic myeloproliferative disease"
+   ],
+   [
+    "Q761",
+    "Klippel-Feil syndrome"
+   ],
+   [
+    "R402323",
+    "Coma scale, best motor response, extension, at hospital admission"
+   ],
+   [
+    "Q7961",
+    "Classical Ehlers-Danlos syndrome"
+   ]
+  ]
+ },
+ {
+  "text": "tụt huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I959",
+    "Hypotension, unspecified"
+   ],
+   [
+    "I771",
+    "Stricture of artery"
+   ],
+   [
+    "I951",
+    "Orthostatic hypotension"
+   ],
+   [
+    "I159",
+    "Secondary hypertension, unspecified"
+   ],
+   [
+    "R000",
+    "Tachycardia, unspecified"
+   ],
+   [
+    "I950",
+    "Idiopathic hypotension"
+   ],
+   [
+    "I2720",
+    "Pulmonary hypertension, unspecified"
+   ],
+   [
+    "K766",
+    "Portal hypertension"
+   ]
+  ]
+ },
+ {
+  "text": "mệt mỏi kéo dài",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R5382",
+    "Chronic fatigue, unspecified"
+   ],
+   [
+    "T676XXD",
+    "Heat fatigue, transient, subsequent encounter"
+   ],
+   [
+    "X501XXD",
+    "Overexertion from prolonged static or awkward postures, subsequent encounter"
+   ],
+   [
+    "X500XXD",
+    "Overexertion from strenuous movement or load, subsequent encounter"
+   ],
+   [
+    "X503XXD",
+    "Overexertion from repetitive movements, subsequent encounter"
+   ],
+   [
+    "T733XXD",
+    "Exhaustion due to excessive exertion, subsequent encounter"
+   ],
+   [
+    "G4451",
+    "Hemicrania continua"
+   ],
+   [
+    "T672XXD",
+    "Heat cramp, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "đau bụng gián đoạn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "R1030",
+    "Lower abdominal pain, unspecified"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R10829",
+    "Rebound abdominal tenderness, unspecified site"
+   ],
+   [
+    "G43D1",
+    "Abdominal migraine, intractable"
+   ],
+   [
+    "R10826",
+    "Epigastric rebound abdominal tenderness"
+   ],
+   [
+    "R1084",
+    "Generalized abdominal pain"
+   ],
+   [
+    "G44011",
+    "Episodic cluster headache, intractable"
+   ]
+  ]
+ },
+ {
+  "text": "ran",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Y92815",
+    "Train as the place of occurrence of the external cause"
+   ],
+   [
+    "Y9285",
+    "Railroad track as the place of occurrence of the external cause"
+   ],
+   [
+    "E7528",
+    "Canavan disease"
+   ],
+   [
+    "I27849",
+    "Fontan related circulation, unspecified"
+   ],
+   [
+    "N0621",
+    "Primary membranous nephropathy with isolated proteinuria"
+   ],
+   [
+    "D4622",
+    "Refractory anemia with excess of blasts 2"
+   ],
+   [
+    "Z153",
+    "Genetic susceptibility to kidney disease"
+   ],
+   [
+    "B331",
+    "Ross River disease"
+   ]
+  ]
+ },
+ {
+  "text": "dịch thanh dịch lẫn máu từ vết mổ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H31419",
+    "Hemorrhagic choroidal detachment, unspecified eye"
+   ],
+   [
+    "D7801",
+    "Intraoperative hemorrhage and hematoma of the spleen complicating a procedure on the spleen"
+   ],
+   [
+    "Y650",
+    "Mismatched blood in transfusion"
+   ],
+   [
+    "N836",
+    "Hematosalpinx"
+   ],
+   [
+    "P526",
+    "Cerebellar (nontraumatic) and posterior fossa hemorrhage of newborn"
+   ],
+   [
+    "P782",
+    "Neonatal hematemesis and melena due to swallowed maternal blood"
+   ],
+   [
+    "K649",
+    "Unspecified hemorrhoids"
+   ],
+   [
+    "T82531S",
+    "Leakage of surgically created arteriovenous shunt, sequela"
+   ]
+  ]
+ },
+ {
+  "text": "phân nâu dương tính guaiac",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G453",
+    "Amaurosis fugax"
+   ],
+   [
+    "M1A1591",
+    "Lead-induced chronic gout, unspecified hip, with tophus (tophi)"
+   ],
+   [
+    "M1A10X1",
+    "Lead-induced chronic gout, unspecified site, with tophus (tophi)"
+   ],
+   [
+    "O010",
+    "Classical hydatidiform mole"
+   ],
+   [
+    "M1A9XX1",
+    "Chronic gout, unspecified, with tophus (tophi)"
+   ],
+   [
+    "Z1801",
+    "Retained depleted uranium fragments"
+   ],
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ],
+   [
+    "M1A0591",
+    "Idiopathic chronic gout, unspecified hip, with tophus (tophi)"
+   ]
+  ]
+ },
+ {
+  "text": "Rung nhĩ kèm nhịp nhanh trên thất",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I201",
+    "Angina pectoris with documented spasm"
+   ],
+   [
+    "R001",
+    "Bradycardia, unspecified"
+   ],
+   [
+    "I483",
+    "Typical atrial flutter"
+   ],
+   [
+    "R010",
+    "Benign and innocent cardiac murmurs"
+   ],
+   [
+    "I020",
+    "Rheumatic chorea with heart involvement"
+   ],
+   [
+    "I209",
+    "Angina pectoris, unspecified"
+   ],
+   [
+    "X3742XD",
+    "Tidal wave due to storm, subsequent encounter"
+   ],
+   [
+    "R054",
+    "Cough syncope"
+   ]
+  ]
+ },
+ {
+  "text": "Đi ngoài phân đen",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B363",
+    "Black piedra"
+   ],
+   [
+    "B362",
+    "White piedra"
+   ],
+   [
+    "H5052",
+    "Exophoria"
+   ],
+   [
+    "B883",
+    "External hirudiniasis"
+   ],
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "Z595",
+    "Extreme poverty"
+   ],
+   [
+    "H5010",
+    "Unspecified exotropia"
+   ],
+   [
+    "K634",
+    "Enteroptosis"
+   ]
+  ]
+ },
+ {
+  "text": "đau bụng quanh rốn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1033",
+    "Periumbilical pain"
+   ],
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R1024",
+    "Suprapubic pain"
+   ],
+   [
+    "R0782",
+    "Intercostal pain"
+   ],
+   [
+    "R10826",
+    "Epigastric rebound abdominal tenderness"
+   ],
+   [
+    "R10815",
+    "Periumbilic abdominal tenderness"
+   ],
+   [
+    "R6884",
+    "Jaw pain"
+   ],
+   [
+    "N5082",
+    "Scrotal pain"
+   ]
+  ]
+ },
+ {
+  "text": "nôn thức ăn lẫn máu",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "K2091",
+    "Esophagitis, unspecified with bleeding"
+   ],
+   [
+    "R112",
+    "Nausea with vomiting, unspecified"
+   ],
+   [
+    "K920",
+    "Hematemesis"
+   ],
+   [
+    "R1110",
+    "Vomiting, unspecified"
+   ],
+   [
+    "R1113",
+    "Vomiting of fecal matter"
+   ],
+   [
+    "K2090",
+    "Esophagitis, unspecified without bleeding"
+   ],
+   [
+    "R042",
+    "Hemoptysis"
+   ],
+   [
+    "K922",
+    "Gastrointestinal hemorrhage, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "đi ngoài phân đen",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B363",
+    "Black piedra"
+   ],
+   [
+    "B362",
+    "White piedra"
+   ],
+   [
+    "R9082",
+    "White matter disease, unspecified"
+   ],
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "M7140",
+    "Calcium deposit in bursa, unspecified site"
+   ],
+   [
+    "Z595",
+    "Extreme poverty"
+   ],
+   [
+    "L305",
+    "Pityriasis alba"
+   ],
+   [
+    "H5052",
+    "Exophoria"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G4451",
+    "Hemicrania continua"
+   ],
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "R063",
+    "Periodic breathing"
+   ],
+   [
+    "G4452",
+    "New daily persistent headache (NDPH)"
+   ],
+   [
+    "N3941",
+    "Urge incontinence"
+   ],
+   [
+    "G4731",
+    "Primary central sleep apnea"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R309",
+    "Painful micturition, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "XHTH",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E78011",
+    "Heterozygous familial hypercholesterolemia [HeFH]"
+   ],
+   [
+    "D564",
+    "Hereditary persistence of fetal hemoglobin [HPFH]"
+   ],
+   [
+    "D89813",
+    "Graft-versus-host disease, unspecified"
+   ],
+   [
+    "E78010",
+    "Homozygous familial hypercholesterolemia [HoFH]"
+   ],
+   [
+    "E7041",
+    "Histidinemia"
+   ],
+   [
+    "Q752",
+    "Hypertelorism"
+   ],
+   [
+    "E83110",
+    "Hereditary hemochromatosis"
+   ],
+   [
+    "K644",
+    "Residual hemorrhoidal skin tags"
+   ]
+  ]
+ },
+ {
+  "text": "thuốc kháng vitamin K",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E561",
+    "Deficiency of vitamin K"
+   ],
+   [
+    "T457X5D",
+    "Adverse effect of anticoagulant antagonists, vitamin K and other coagulants, subsequent encounter"
+   ],
+   [
+    "T457X6D",
+    "Underdosing of anticoagulant antagonist, vitamin K and other coagulants, subsequent encounter"
+   ],
+   [
+    "T457X3D",
+    "Poisoning by anticoagulant antagonists, vitamin K and other coagulants, assault, subsequent encounter"
+   ],
+   [
+    "G2571",
+    "Drug induced akathisia"
+   ],
+   [
+    "T457X4D",
+    "Poisoning by anticoagulant antagonists, vitamin K and other coagulants, undetermined, subsequent encounter"
+   ],
+   [
+    "T457X2D",
+    "Poisoning by anticoagulant antagonists, vitamin K and other coagulants, intentional self-harm, subsequent encounter"
+   ],
+   [
+    "E670",
+    "Hypervitaminosis A"
+   ]
+  ]
+ },
+ {
+  "text": "Van động mạch chủ cơ học",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q250",
+    "Patent ductus arteriosus"
+   ],
+   [
+    "Q557",
+    "Congenital vasocutaneous fistula"
+   ],
+   [
+    "G2583",
+    "Benign shuddering attacks"
+   ],
+   [
+    "J348202",
+    "Internal nasal valve collapse, dynamic"
+   ],
+   [
+    "Q282",
+    "Arteriovenous malformation of cerebral vessels"
+   ],
+   [
+    "I27849",
+    "Fontan related circulation, unspecified"
+   ],
+   [
+    "G4751",
+    "Confusional arousals"
+   ],
+   [
+    "E550",
+    "Rickets, active"
+   ]
+  ]
+ },
+ {
+  "text": "Da niêm mạc nhợt",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R9230",
+    "Dense breasts, unspecified"
+   ],
+   [
+    "I495",
+    "Sick sinus syndrome"
+   ],
+   [
+    "H73819",
+    "Atrophic flaccid tympanic membrane, unspecified ear"
+   ],
+   [
+    "R682",
+    "Dry mouth, unspecified"
+   ],
+   [
+    "H04129",
+    "Dry eye syndrome of unspecified lacrimal gland"
+   ],
+   [
+    "G9611",
+    "Dural tear"
+   ],
+   [
+    "Q523",
+    "Imperforate hymen"
+   ],
+   [
+    "H18329",
+    "Folds in Descemet's membrane, unspecified eye"
+   ]
+  ]
+ },
+ {
+  "text": "xuất huyết dưới da",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I6200",
+    "Nontraumatic subdural hemorrhage, unspecified"
+   ],
+   [
+    "I6202",
+    "Nontraumatic subacute subdural hemorrhage"
+   ],
+   [
+    "I609",
+    "Nontraumatic subarachnoid hemorrhage, unspecified"
+   ],
+   [
+    "I6201",
+    "Nontraumatic acute subdural hemorrhage"
+   ],
+   [
+    "P525",
+    "Subarachnoid (nontraumatic) hemorrhage of newborn"
+   ],
+   [
+    "M25469",
+    "Effusion, unspecified knee"
+   ],
+   [
+    "R233",
+    "Spontaneous ecchymoses"
+   ],
+   [
+    "P100",
+    "Subdural hemorrhage due to birth injury"
+   ]
+  ]
+ },
+ {
+  "text": "Xuất huyết tiêu hóa",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R042",
+    "Hemoptysis"
+   ],
+   [
+    "K922",
+    "Gastrointestinal hemorrhage, unspecified"
+   ],
+   [
+    "K9431",
+    "Esophagostomy hemorrhage"
+   ],
+   [
+    "K920",
+    "Hematemesis"
+   ],
+   [
+    "K634",
+    "Enteroptosis"
+   ],
+   [
+    "K2091",
+    "Esophagitis, unspecified with bleeding"
+   ],
+   [
+    "K2211",
+    "Ulcer of esophagus with bleeding"
+   ],
+   [
+    "K9421",
+    "Gastrostomy hemorrhage"
+   ]
+  ]
+ },
+ {
+  "text": "kháng vitamin K",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E561",
+    "Deficiency of vitamin K"
+   ],
+   [
+    "E504",
+    "Vitamin A deficiency with keratomalacia"
+   ],
+   [
+    "E670",
+    "Hypervitaminosis A"
+   ],
+   [
+    "E509",
+    "Vitamin A deficiency, unspecified"
+   ],
+   [
+    "E539",
+    "Vitamin B deficiency, unspecified"
+   ],
+   [
+    "Z1623",
+    "Resistance to quinolones and fluoroquinolones"
+   ],
+   [
+    "E672",
+    "Megavitamin-B6 syndrome"
+   ],
+   [
+    "T457X6D",
+    "Underdosing of anticoagulant antagonist, vitamin K and other coagulants, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "dày thành một số quai ruột non",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "P963",
+    "Wide cranial sutures of newborn"
+   ],
+   [
+    "R1906",
+    "Epigastric swelling, mass or lump"
+   ],
+   [
+    "H73829",
+    "Atrophic nonflaccid tympanic membrane, unspecified ear"
+   ],
+   [
+    "J929",
+    "Pleural plaque without asbestos"
+   ],
+   [
+    "O26879",
+    "Cervical shortening, unspecified trimester"
+   ],
+   [
+    "A439",
+    "Nocardiosis, unspecified"
+   ],
+   [
+    "H73819",
+    "Atrophic flaccid tympanic membrane, unspecified ear"
+   ],
+   [
+    "O693XX0",
+    "Labor and delivery complicated by short cord, not applicable or unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "Ceftriaxone 1g",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "O326XX1",
+    "Maternal care for compound presentation, fetus 1"
+   ],
+   [
+    "O326XX5",
+    "Maternal care for compound presentation, fetus 5"
+   ],
+   [
+    "O326XX4",
+    "Maternal care for compound presentation, fetus 4"
+   ],
+   [
+    "O323XX1",
+    "Maternal care for face, brow and chin presentation, fetus 1"
+   ],
+   [
+    "R970",
+    "Elevated carcinoembryonic antigen [CEA]"
+   ],
+   [
+    "O326XX3",
+    "Maternal care for compound presentation, fetus 3"
+   ],
+   [
+    "Z317",
+    "Encounter for procreative management and counseling for gestational carrier"
+   ],
+   [
+    "C7A021",
+    "Malignant carcinoid tumor of the cecum"
+   ]
+  ]
+ },
+ {
+  "text": "nang",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "A665",
+    "Gangosa"
+   ],
+   [
+    "A8181",
+    "Kuru"
+   ],
+   [
+    "M6740",
+    "Ganglion, unspecified site"
+   ],
+   [
+    "QA00149",
+    "Neurodevelopmental disorder, related to pathogenic variant in other synapse related gene"
+   ],
+   [
+    "QA00109",
+    "Neurodevelopmental disorder related to pathogenic variant in other ion channel gene"
+   ],
+   [
+    "A669",
+    "Yaws, unspecified"
+   ],
+   [
+    "L946",
+    "Ainhum"
+   ],
+   [
+    "B351",
+    "Tinea unguium"
+   ]
+  ]
+ },
+ {
+  "text": "nhân mụn",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "D229",
+    "Melanocytic nevi, unspecified"
+   ],
+   [
+    "L709",
+    "Acne, unspecified"
+   ],
+   [
+    "M6740",
+    "Ganglion, unspecified site"
+   ],
+   [
+    "L652",
+    "Alopecia mucinosa"
+   ],
+   [
+    "D220",
+    "Melanocytic nevi of lip"
+   ],
+   [
+    "L985",
+    "Mucinosis of the skin"
+   ],
+   [
+    "O019",
+    "Hydatidiform mole, unspecified"
+   ],
+   [
+    "B479",
+    "Mycetoma, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "sẹo",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L709",
+    "Acne, unspecified"
+   ],
+   [
+    "L409",
+    "Psoriasis, unspecified"
+   ],
+   [
+    "L080",
+    "Pyoderma"
+   ],
+   [
+    "A209",
+    "Plague, unspecified"
+   ],
+   [
+    "L299",
+    "Pruritus, unspecified"
+   ],
+   [
+    "L910",
+    "Hypertrophic scar"
+   ],
+   [
+    "R231",
+    "Pallor"
+   ],
+   [
+    "L0291",
+    "Cutaneous abscess, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "mụn mủ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B479",
+    "Mycetoma, unspecified"
+   ],
+   [
+    "L652",
+    "Alopecia mucinosa"
+   ],
+   [
+    "P541",
+    "Neonatal melena"
+   ],
+   [
+    "B079",
+    "Viral wart, unspecified"
+   ],
+   [
+    "B530",
+    "Plasmodium ovale malaria"
+   ],
+   [
+    "P8381",
+    "Umbilical granuloma"
+   ],
+   [
+    "L709",
+    "Acne, unspecified"
+   ],
+   [
+    "L02224",
+    "Furuncle of groin"
+   ]
+  ]
+ },
+ {
+  "text": "nốt sần",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "F514",
+    "Sleep terrors [night terrors]"
+   ],
+   [
+    "R351",
+    "Nocturia"
+   ],
+   [
+    "F513",
+    "Sleepwalking [somnambulism]"
+   ],
+   [
+    "R400",
+    "Somnolence"
+   ],
+   [
+    "G4763",
+    "Sleep related bruxism"
+   ],
+   [
+    "A668",
+    "Latent yaws"
+   ],
+   [
+    "F5101",
+    "Primary insomnia"
+   ],
+   [
+    "G4700",
+    "Insomnia, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "Tretinoin tại chỗ",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L571",
+    "Actinic reticuloid"
+   ],
+   [
+    "Y92254",
+    "Theater (live) as the place of occurrence of the external cause"
+   ],
+   [
+    "G9081",
+    "Serotonin syndrome"
+   ],
+   [
+    "L682",
+    "Localized hypertrichosis"
+   ],
+   [
+    "E65",
+    "Localized adiposity"
+   ],
+   [
+    "E7251",
+    "Non-ketotic hyperglycinemia"
+   ],
+   [
+    "R290",
+    "Tetany"
+   ],
+   [
+    "A5053",
+    "Hutchinson's triad"
+   ]
+  ]
+ },
+ {
+  "text": "đau bụng vùng thượng vị",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1013",
+    "Epigastric pain"
+   ],
+   [
+    "R10816",
+    "Epigastric abdominal tenderness"
+   ],
+   [
+    "R10826",
+    "Epigastric rebound abdominal tenderness"
+   ],
+   [
+    "R1030",
+    "Lower abdominal pain, unspecified"
+   ],
+   [
+    "R1024",
+    "Suprapubic pain"
+   ],
+   [
+    "R10A0",
+    "Flank pain, unspecified side"
+   ],
+   [
+    "R1010",
+    "Upper abdominal pain, unspecified"
+   ],
+   [
+    "R0782",
+    "Intercostal pain"
+   ]
+  ]
+ },
+ {
+  "text": "ợ hơi",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1110",
+    "Vomiting, unspecified"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ],
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "R197",
+    "Diarrhea, unspecified"
+   ],
+   [
+    "R063",
+    "Periodic breathing"
+   ],
+   [
+    "R509",
+    "Fever, unspecified"
+   ],
+   [
+    "L744",
+    "Anhidrosis"
+   ]
+  ]
+ },
+ {
+  "text": "ợ chua",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "M109",
+    "Gout, unspecified"
+   ],
+   [
+    "R17",
+    "Unspecified jaundice"
+   ],
+   [
+    "R820",
+    "Chyluria"
+   ],
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "R6881",
+    "Early satiety"
+   ],
+   [
+    "J940",
+    "Chylous effusion"
+   ],
+   [
+    "R110",
+    "Nausea"
+   ],
+   [
+    "A8181",
+    "Kuru"
+   ]
+  ]
+ },
+ {
+  "text": "sốt lên đến 101",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E663",
+    "Overweight"
+   ],
+   [
+    "R632",
+    "Polyphagia"
+   ],
+   [
+    "D72829",
+    "Elevated white blood cell count, unspecified"
+   ],
+   [
+    "R310",
+    "Gross hematuria"
+   ],
+   [
+    "L743",
+    "Miliaria, unspecified"
+   ],
+   [
+    "R042",
+    "Hemoptysis"
+   ],
+   [
+    "Z595",
+    "Extreme poverty"
+   ],
+   [
+    "R739",
+    "Hyperglycemia, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "đi tiểu nhiều lần vào ban đêm",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R3581",
+    "Nocturnal polyuria"
+   ],
+   [
+    "N3944",
+    "Nocturnal enuresis"
+   ],
+   [
+    "N39490",
+    "Overflow incontinence"
+   ],
+   [
+    "Q6475",
+    "Double urinary meatus"
+   ],
+   [
+    "N3941",
+    "Urge incontinence"
+   ],
+   [
+    "R8281",
+    "Pyuria"
+   ],
+   [
+    "N920",
+    "Excessive and frequent menstruation with regular cycle"
+   ],
+   [
+    "F513",
+    "Sleepwalking [somnambulism]"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở sau khi đi bộ vài khối",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R10825",
+    "Periumbilic rebound abdominal tenderness"
+   ],
+   [
+    "T753XXS",
+    "Motion sickness, sequela"
+   ],
+   [
+    "T753XXD",
+    "Motion sickness, subsequent encounter"
+   ],
+   [
+    "I69022",
+    "Dysarthria following nontraumatic subarachnoid hemorrhage"
+   ],
+   [
+    "T753XXA",
+    "Motion sickness, initial encounter"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "O894",
+    "Spinal and epidural anesthesia-induced headache during the puerperium"
+   ],
+   [
+    "M5451",
+    "Vertebrogenic low back pain"
+   ]
+  ]
+ },
+ {
+  "text": "ho đặc như bã",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R1114",
+    "Bilious vomiting"
+   ],
+   [
+    "O210",
+    "Mild hyperemesis gravidarum"
+   ],
+   [
+    "M10119",
+    "Lead-induced gout, unspecified shoulder"
+   ],
+   [
+    "J45991",
+    "Cough variant asthma"
+   ],
+   [
+    "M109",
+    "Gout, unspecified"
+   ],
+   [
+    "P9201",
+    "Bilious vomiting of newborn"
+   ],
+   [
+    "M10019",
+    "Idiopathic gout, unspecified shoulder"
+   ],
+   [
+    "R1112",
+    "Projectile vomiting"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở khi nằm",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G4481",
+    "Hypnic headache"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "G4730",
+    "Sleep apnea, unspecified"
+   ],
+   [
+    "R0601",
+    "Orthopnea"
+   ],
+   [
+    "G4762",
+    "Sleep related leg cramps"
+   ],
+   [
+    "M549",
+    "Dorsalgia, unspecified"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ],
+   [
+    "M5450",
+    "Low back pain, unspecified"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở khi nằm đột ngột",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "G4481",
+    "Hypnic headache"
+   ],
+   [
+    "G44211",
+    "Episodic tension-type headache, intractable"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "G44011",
+    "Episodic cluster headache, intractable"
+   ],
+   [
+    "G44019",
+    "Episodic cluster headache, not intractable"
+   ],
+   [
+    "G4731",
+    "Primary central sleep apnea"
+   ],
+   [
+    "G44219",
+    "Episodic tension-type headache, not intractable"
+   ],
+   [
+    "G4484",
+    "Primary exertional headache"
+   ]
+  ]
+ },
+ {
+  "text": "viêm phổi thùy dưới phải",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "H8122",
+    "Vestibular neuronitis, left ear"
+   ],
+   [
+    "H8302",
+    "Labyrinthitis, left ear"
+   ],
+   [
+    "K51512",
+    "Left sided colitis with intestinal obstruction"
+   ],
+   [
+    "H70202",
+    "Unspecified petrositis, left ear"
+   ],
+   [
+    "H6692",
+    "Otitis media, unspecified, left ear"
+   ],
+   [
+    "K51513",
+    "Left sided colitis with fistula"
+   ],
+   [
+    "M85312",
+    "Osteitis condensans, left shoulder"
+   ],
+   [
+    "H8102",
+    "Meniere's disease, left ear"
+   ]
+  ]
+ },
+ {
+  "text": "tăng cholesterol máu đơn thuần",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E7800",
+    "Pure hypercholesterolemia, unspecified"
+   ],
+   [
+    "E78019",
+    "Familial hypercholesterolemia, unspecified"
+   ],
+   [
+    "E78010",
+    "Homozygous familial hypercholesterolemia [HoFH]"
+   ],
+   [
+    "E78011",
+    "Heterozygous familial hypercholesterolemia [HeFH]"
+   ],
+   [
+    "K824",
+    "Cholesterolosis of gallbladder"
+   ],
+   [
+    "E781",
+    "Pure hyperglyceridemia"
+   ],
+   [
+    "Z8342",
+    "Family history of familial hypercholesterolemia"
+   ],
+   [
+    "I10",
+    "Essential (primary) hypertension"
+   ]
+  ]
+ },
+ {
+  "text": "lo sợ",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R4582",
+    "Worries"
+   ],
+   [
+    "F40230",
+    "Fear of blood"
+   ],
+   [
+    "F40233",
+    "Fear of injury"
+   ],
+   [
+    "F40291",
+    "Gynephobia"
+   ],
+   [
+    "F4000",
+    "Agoraphobia, unspecified"
+   ],
+   [
+    "F40290",
+    "Androphobia"
+   ],
+   [
+    "F40210",
+    "Arachnophobia"
+   ],
+   [
+    "F40241",
+    "Acrophobia"
+   ]
+  ]
+ },
+ {
+  "text": "men Bacillus clausii 2 tỷ bào tử/5ml/ ống uống 1-2 ống/ ngày",
+  "type": "THUỐC",
+  "n_mentions": 1,
+  "options": [
+   [
+    "T50A22D",
+    "Poisoning by mixed bacterial vaccines without a pertussis component, intentional self-harm, subsequent encounter"
+   ],
+   [
+    "T50A26S",
+    "Underdosing of mixed bacterial vaccines without a pertussis component, sequela"
+   ],
+   [
+    "T50A26D",
+    "Underdosing of mixed bacterial vaccines without a pertussis component, subsequent encounter"
+   ],
+   [
+    "T50A22S",
+    "Poisoning by mixed bacterial vaccines without a pertussis component, intentional self-harm, sequela"
+   ],
+   [
+    "H04423",
+    "Chronic lacrimal canaliculitis of bilateral lacrimal passages"
+   ],
+   [
+    "T50A25D",
+    "Adverse effect of mixed bacterial vaccines without a pertussis component, subsequent encounter"
+   ],
+   [
+    "T50A23S",
+    "Poisoning by mixed bacterial vaccines without a pertussis component, assault, sequela"
+   ],
+   [
+    "T50A23D",
+    "Poisoning by mixed bacterial vaccines without a pertussis component, assault, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E8341",
+    "Hypermagnesemia"
+   ],
+   [
+    "N922",
+    "Excessive menstruation at puberty"
+   ],
+   [
+    "F308",
+    "Other manic episodes"
+   ],
+   [
+    "K061",
+    "Gingival enlargement"
+   ],
+   [
+    "B5742",
+    "Meningoencephalitis in Chagas' disease"
+   ],
+   [
+    "R291",
+    "Meningismus"
+   ],
+   [
+    "E8342",
+    "Hypomagnesemia"
+   ],
+   [
+    "E612",
+    "Magnesium deficiency"
+   ]
+  ]
+ },
+ {
+  "text": "tăng men gan kéo dài",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "N486",
+    "Induration penis plastica"
+   ],
+   [
+    "K061",
+    "Gingival enlargement"
+   ],
+   [
+    "J351",
+    "Hypertrophy of tonsils"
+   ],
+   [
+    "M2632",
+    "Excessive spacing of fully erupted teeth"
+   ],
+   [
+    "N922",
+    "Excessive menstruation at puberty"
+   ],
+   [
+    "D732",
+    "Chronic congestive splenomegaly"
+   ],
+   [
+    "P0822",
+    "Prolonged gestation of newborn"
+   ],
+   [
+    "X52XXXD",
+    "Prolonged stay in weightless environment, subsequent encounter"
+   ]
+  ]
+ },
+ {
+  "text": "Dị tật còn ống động mạch",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I779",
+    "Disorder of arteries and arterioles, unspecified"
+   ],
+   [
+    "H4743",
+    "Disorders of optic chiasm in (due to) vascular disorders"
+   ],
+   [
+    "O695XX0",
+    "Labor and delivery complicated by vascular lesion of cord, not applicable or unspecified"
+   ],
+   [
+    "Q245",
+    "Malformation of coronary vessels"
+   ],
+   [
+    "I999",
+    "Unspecified disorder of circulatory system"
+   ],
+   [
+    "D689",
+    "Coagulation defect, unspecified"
+   ],
+   [
+    "I789",
+    "Disease of capillaries, unspecified"
+   ],
+   [
+    "Q2113",
+    "Coronary sinus atrial septal defect"
+   ]
+  ]
+ },
+ {
+  "text": "HoHL",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E78010",
+    "Homozygous familial hypercholesterolemia [HoFH]"
+   ],
+   [
+    "D72111",
+    "Lymphocytic Variant Hypereosinophilic Syndrome [LHES]"
+   ],
+   [
+    "E72530",
+    "Primary hyperoxaluria, type 1"
+   ],
+   [
+    "Q8787",
+    "Hao-Fountain Syndrome"
+   ],
+   [
+    "C8149",
+    "Lymphocyte-rich Hodgkin lymphoma, extranodal and solid organ sites"
+   ],
+   [
+    "Q8583",
+    "Von Hippel-Lindau syndrome"
+   ],
+   [
+    "R1083",
+    "Colic"
+   ],
+   [
+    "C8143",
+    "Lymphocyte-rich Hodgkin lymphoma, intra-abdominal lymph nodes"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở tăng lên",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R064",
+    "Hyperventilation"
+   ],
+   [
+    "R1912",
+    "Hyperactive bowel sounds"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "H93239",
+    "Hyperacusis, unspecified ear"
+   ],
+   [
+    "G4732",
+    "High altitude periodic breathing"
+   ],
+   [
+    "R051",
+    "Acute cough"
+   ],
+   [
+    "R052",
+    "Subacute cough"
+   ],
+   [
+    "R0682",
+    "Tachypnea, not elsewhere classified"
+   ]
+  ]
+ },
+ {
+  "text": "phù phổi cấp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q540",
+    "Hypospadias, balanic"
+   ],
+   [
+    "Q640",
+    "Epispadias"
+   ],
+   [
+    "Q549",
+    "Hypospadias, unspecified"
+   ],
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "Q2112",
+    "Patent foramen ovale"
+   ],
+   [
+    "Q437",
+    "Persistent cloaca"
+   ],
+   [
+    "Q357",
+    "Cleft uvula"
+   ],
+   [
+    "K061",
+    "Gingival enlargement"
+   ]
+  ]
+ },
+ {
+  "text": "khó thở vừa",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "R0602",
+    "Shortness of breath"
+   ],
+   [
+    "R071",
+    "Chest pain on breathing"
+   ],
+   [
+    "R065",
+    "Mouth breathing"
+   ],
+   [
+    "J45991",
+    "Cough variant asthma"
+   ],
+   [
+    "N940",
+    "Mittelschmerz"
+   ],
+   [
+    "G4481",
+    "Hypnic headache"
+   ],
+   [
+    "R491",
+    "Aphonia"
+   ],
+   [
+    "K146",
+    "Glossodynia"
+   ]
+  ]
+ },
+ {
+  "text": "rale ẩm",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ],
+   [
+    "R231",
+    "Pallor"
+   ],
+   [
+    "A829",
+    "Rabies, unspecified"
+   ],
+   [
+    "G937",
+    "Reye's syndrome"
+   ],
+   [
+    "L719",
+    "Rosacea, unspecified"
+   ],
+   [
+    "J940",
+    "Chylous effusion"
+   ],
+   [
+    "A680",
+    "Louse-borne relapsing fever"
+   ],
+   [
+    "E550",
+    "Rickets, active"
+   ]
+  ]
+ },
+ {
+  "text": "Hở hai lá nhiều",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L683",
+    "Polytrichia"
+   ],
+   [
+    "Q242",
+    "Cor triatriatum"
+   ],
+   [
+    "Q699",
+    "Polydactyly, unspecified"
+   ],
+   [
+    "R196",
+    "Halitosis"
+   ],
+   [
+    "K133",
+    "Hairy leukoplakia"
+   ],
+   [
+    "E311",
+    "Polyglandular hyperfunction"
+   ],
+   [
+    "L722",
+    "Steatocystoma multiplex"
+   ],
+   [
+    "R631",
+    "Polydipsia"
+   ]
+  ]
+ },
+ {
+  "text": "Hở chủ vừa",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q353",
+    "Cleft soft palate"
+   ],
+   [
+    "Q351",
+    "Cleft hard palate"
+   ],
+   [
+    "F653",
+    "Voyeurism"
+   ],
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "R491",
+    "Aphonia"
+   ],
+   [
+    "Q672",
+    "Dolichocephaly"
+   ],
+   [
+    "Q6582",
+    "Congenital coxa vara"
+   ],
+   [
+    "Q355",
+    "Cleft hard palate with cleft soft palate"
+   ]
+  ]
+ },
+ {
+  "text": "Tăng áp lực động mạch phổi nhẹ",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I2481",
+    "Acute coronary microvascular dysfunction"
+   ],
+   [
+    "I774",
+    "Celiac artery compression syndrome"
+   ],
+   [
+    "I2081",
+    "Angina pectoris with coronary microvascular dysfunction"
+   ],
+   [
+    "I4811",
+    "Longstanding persistent atrial fibrillation"
+   ],
+   [
+    "I2721",
+    "Secondary pulmonary arterial hypertension"
+   ],
+   [
+    "K766",
+    "Portal hypertension"
+   ],
+   [
+    "I480",
+    "Paroxysmal atrial fibrillation"
+   ],
+   [
+    "I4821",
+    "Permanent atrial fibrillation"
+   ]
+  ]
+ },
+ {
+  "text": "Phù phổi cấp",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "Q359",
+    "Cleft palate, unspecified"
+   ],
+   [
+    "Q540",
+    "Hypospadias, balanic"
+   ],
+   [
+    "K061",
+    "Gingival enlargement"
+   ],
+   [
+    "Q640",
+    "Epispadias"
+   ],
+   [
+    "H93229",
+    "Diplacusis, unspecified ear"
+   ],
+   [
+    "Q437",
+    "Persistent cloaca"
+   ],
+   [
+    "A362",
+    "Laryngeal diphtheria"
+   ],
+   [
+    "Q2112",
+    "Patent foramen ovale"
+   ]
+  ]
+ },
+ {
+  "text": "Suy tim",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "B680",
+    "Taenia solium taeniasis"
+   ],
+   [
+    "B351",
+    "Tinea unguium"
+   ],
+   [
+    "B470",
+    "Eumycetoma"
+   ],
+   [
+    "W5611XD",
+    "Bitten by sea lion, subsequent encounter"
+   ],
+   [
+    "Q802",
+    "Lamellar ichthyosis"
+   ],
+   [
+    "B681",
+    "Taenia saginata taeniasis"
+   ],
+   [
+    "B742",
+    "Filariasis due to Brugia timori"
+   ],
+   [
+    "A33",
+    "Tetanus neonatorum"
+   ]
+  ]
+ },
+ {
+  "text": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+  "type": "CHẨN_ĐOÁN",
+  "n_mentions": 1,
+  "options": [
+   [
+    "J449",
+    "Chronic obstructive pulmonary disease, unspecified"
+   ],
+   [
+    "I5020",
+    "Unspecified systolic (congestive) heart failure"
+   ],
+   [
+    "I469",
+    "Cardiac arrest, cause unspecified"
+   ],
+   [
+    "I5030",
+    "Unspecified diastolic (congestive) heart failure"
+   ],
+   [
+    "K50912",
+    "Crohn's disease, unspecified, with intestinal obstruction"
+   ],
+   [
+    "I200",
+    "Unstable angina"
+   ],
+   [
+    "I4581",
+    "Long QT syndrome"
+   ],
+   [
+    "K56601",
+    "Complete intestinal obstruction, unspecified as to cause"
+   ]
+  ]
+ },
+ {
+  "text": "tụt huyết áp không rõ nguyên nhân",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "I959",
+    "Hypotension, unspecified"
+   ],
+   [
+    "I469",
+    "Cardiac arrest, cause unspecified"
+   ],
+   [
+    "I159",
+    "Secondary hypertension, unspecified"
+   ],
+   [
+    "R031",
+    "Nonspecific low blood-pressure reading"
+   ],
+   [
+    "I950",
+    "Idiopathic hypotension"
+   ],
+   [
+    "I951",
+    "Orthostatic hypotension"
+   ],
+   [
+    "I10",
+    "Essential (primary) hypertension"
+   ],
+   [
+    "H44449",
+    "Primary hypotony of unspecified eye"
+   ]
+  ]
+ },
+ {
+  "text": "đỏ da",
+  "type": "TRIỆU_CHỨNG",
+  "n_mentions": 1,
+  "options": [
+   [
+    "L081",
+    "Erythrasma"
+   ],
+   [
+    "L740",
+    "Miliaria rubra"
+   ],
+   [
+    "L719",
+    "Rosacea, unspecified"
+   ],
+   [
+    "L951",
+    "Erythema elevatum diutinum"
+   ],
+   [
+    "Q991",
+    "46, XX true hermaphrodite"
+   ],
+   [
+    "L532",
+    "Erythema marginatum"
+   ],
+   [
+    "L718",
+    "Other rosacea"
+   ],
+   [
+    "E42",
+    "Marasmic kwashiorkor"
+   ]
+  ]
+ }
+]

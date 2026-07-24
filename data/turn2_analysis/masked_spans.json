@@ -1,0 +1,992 @@
+[
+ {
+  "file": 1,
+  "start": 3455,
+  "end": 3462,
+  "mask_len": 7,
+  "drug_class": "giảm đau/hạ sốt",
+  "left": "ễm khuẩn, nhiễm virus ⏎  • Thuốc giảm đau, hạ sốt chứa",
+  "right": "hoặc ********** ⏎  • Kháng sinh nhóm ***********, *",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3468,
+  "end": 3478,
+  "mask_len": 10,
+  "drug_class": "giảm đau/hạ sốt",
+  "left": "ễm virus ⏎  • Thuốc giảm đau, hạ sốt chứa ******* hoặc",
+  "right": "⏎  • Kháng sinh nhóm ***********, ******** ⏎  • Thuốc",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3498,
+  "end": 3509,
+  "mask_len": 11,
+  "drug_class": "giảm đau/hạ sốt",
+  "left": "sốt chứa ******* hoặc ********** ⏎  • Kháng sinh nhóm",
+  "right": ", ******** ⏎  • Thuốc kháng sốt rét như *******, ***",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3511,
+  "end": 3519,
+  "mask_len": 8,
+  "drug_class": "giảm đau/hạ sốt",
+  "left": "**** hoặc ********** ⏎  • Kháng sinh nhóm ***********,",
+  "right": "⏎  • Thuốc kháng sốt rét như *******, ***********,",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3547,
+  "end": 3554,
+  "mask_len": 7,
+  "drug_class": "kháng sinh",
+  "left": "hóm ***********, ******** ⏎  • Thuốc kháng sốt rét như",
+  "right": ", ***********, ********** ⏎  • Vitamin K dùng trong",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3556,
+  "end": 3567,
+  "mask_len": 11,
+  "drug_class": "kháng sốt rét",
+  "left": "******, ******** ⏎  • Thuốc kháng sốt rét như *******,",
+  "right": ", ********** ⏎  • Vitamin K dùng trong điều trị nhiễ",
+  "paren_hint": null
+ },
+ {
+  "file": 1,
+  "start": 3569,
+  "end": 3579,
+  "mask_len": 10,
+  "drug_class": "kháng sốt rét",
+  "left": "*** ⏎  • Thuốc kháng sốt rét như *******, ***********,",
+  "right": "⏎  • Vitamin K dùng trong điều trị nhiễm khuẩn tiết",
+  "paren_hint": null
+ },
+ {
+  "file": 2,
+  "start": 2350,
+  "end": 2371,
+  "mask_len": 21,
+  "drug_class": "",
+  "left": "ặc biệt là bệnh viện có chuyên khoa tim mạch nhi. ⏎ 1.",
+  "right": "– Điều trị quan trọng nhất ⏎  • Dùng liều cao truyề",
+  "paren_hint": null
+ },
+ {
+  "file": 2,
+  "start": 2534,
+  "end": 2541,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "bệnh. ⏎  • Giảm biến chứng động mạch vành rõ rệt. ⏎ 2.",
+  "right": "(ASA) ⏎  • Dùng liều cao giai đoạn cấp tính để giảm",
+  "paren_hint": "ASA"
+ },
+ {
+  "file": 2,
+  "start": 2699,
+  "end": 2703,
+  "mask_len": 4,
+  "drug_class": "",
+  "left": "3. Điều trị lặp lại nếu cần ⏎  • Một số trẻ cần truyền",
+  "right": "lần 2 hoặc sử dụng thuốc ức chế miễn dịch khác ⏎ 7.",
+  "paren_hint": null
+ },
+ {
+  "file": 2,
+  "start": 2954,
+  "end": 2958,
+  "mask_len": 4,
+  "drug_class": "vắc xin",
+  "left": "định. ⏎  • Tránh tiêm vắc xin sống ngay sau khi truyền",
+  "right": "(thường phải hoãn 9–11 tháng). ⏎  ⏎ 8. Chế độ dinh dư",
+  "paren_hint": "thường phải hoãn 9–11 tháng"
+ },
+ {
+  "file": 2,
+  "start": 3666,
+  "end": 3670,
+  "mask_len": 4,
+  "drug_class": "",
+  "left": "nứt, lưỡi đỏ dâu tây hoặc sưng hạch cổ. Điều trị bằng",
+  "right": "trong 10 ngày đầu là yếu tố then chốt giúp giảm b",
+  "paren_hint": null
+ },
+ {
+  "file": 4,
+  "start": 3226,
+  "end": 3239,
+  "mask_len": 13,
+  "drug_class": "",
+  "left": "ng độ khoảng 4 nanogam/mL), thậm chí khi dùng liều cao",
+  "right": "(200-300 microgam/ngày), và do đó không gây hại c",
+  "paren_hint": "200-300 microgam/ngày"
+ },
+ {
+  "file": 7,
+  "start": 1713,
+  "end": 1719,
+  "mask_len": 6,
+  "drug_class": "",
+  "left": "ốc BS kê có ảnh hưởng đến em bé trong bụng em không: -",
+  "right": "(trong HDSD có ghi \"An toàn của ****** trên phụ n",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 1752,
+  "end": 1758,
+  "mask_len": 6,
+  "drug_class": "",
+  "left": "ụng em không: - ****** (trong HDSD có ghi \"An toàn của",
+  "right": "trên phụ nữ có thai chưa được thiết lập\") - *****",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 1803,
+  "end": 1810,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "của ****** trên phụ nữ có thai chưa được thiết lập\") -",
+  "right": "(*******************, ****************) - *******",
+  "paren_hint": "*******************, ****************"
+ },
+ {
+  "file": 7,
+  "start": 1812,
+  "end": 1831,
+  "mask_len": 19,
+  "drug_class": "",
+  "left": "* trên phụ nữ có thai chưa được thiết lập\") - ******* (",
+  "right": ", ****************) - ************** 2. Các xét ng",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 1833,
+  "end": 1849,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "chưa được thiết lập\") - ******* (*******************,",
+  "right": ") - ************** 2. Các xét nghiệm/siêu âm/nội s",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 1853,
+  "end": 1867,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "\") - ******* (*******************, ****************) -",
+  "right": "2. Các xét nghiệm/siêu âm/nội soi cần thiết nào c",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 2073,
+  "end": 2083,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "ng như sau: ⏎ Aquima: nhôm hydroxid, magie hydroxid và",
+  "right": ". ⏎ Simenic: Alverin citrate 40mg và Simethicon 100m",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 2475,
+  "end": 2485,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "cáo. ⏎ Hiện tại chưa có đủ nghiên cứu về việc sử dụng",
+  "right": "trên phụ nữ mang thai. Mặc dù chưa khẳng định đượ",
+  "paren_hint": null
+ },
+ {
+  "file": 7,
+  "start": 2588,
+  "end": 2598,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "ược thuốc có qua nhau thai hay không nhưng hấp thu của",
+  "right": "qua ruột bị hạn chế, do đó làm giảm khả năng phơi",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 1713,
+  "end": 1719,
+  "mask_len": 6,
+  "drug_class": "",
+  "left": "ốc BS kê có ảnh hưởng đến em bé trong bụng em không: -",
+  "right": "(trong HDSD có ghi \"An toàn của ****** trên phụ n",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 1752,
+  "end": 1758,
+  "mask_len": 6,
+  "drug_class": "",
+  "left": "ụng em không: - ****** (trong HDSD có ghi \"An toàn của",
+  "right": "trên phụ nữ có thai chưa được thiết lập\") - *****",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 1803,
+  "end": 1810,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "của ****** trên phụ nữ có thai chưa được thiết lập\") -",
+  "right": "(*******************, ****************) - *******",
+  "paren_hint": "*******************, ****************"
+ },
+ {
+  "file": 9,
+  "start": 1812,
+  "end": 1831,
+  "mask_len": 19,
+  "drug_class": "",
+  "left": "* trên phụ nữ có thai chưa được thiết lập\") - ******* (",
+  "right": ", ****************) - ************** 2. Các xét ng",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 1833,
+  "end": 1849,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "chưa được thiết lập\") - ******* (*******************,",
+  "right": ") - ************** 2. Các xét nghiệm/siêu âm/nội s",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 1853,
+  "end": 1867,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "\") - ******* (*******************, ****************) -",
+  "right": "2. Các xét nghiệm/siêu âm/nội soi cần thiết nào c",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 2073,
+  "end": 2083,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "ng như sau: ⏎ Aquima: nhôm hydroxid, magie hydroxid và",
+  "right": ". ⏎ Simenic: Alverin citrate 40mg và Simethicon 100m",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 2475,
+  "end": 2485,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "cáo. ⏎ Hiện tại chưa có đủ nghiên cứu về việc sử dụng",
+  "right": "trên phụ nữ mang thai. Mặc dù chưa khẳng định đượ",
+  "paren_hint": null
+ },
+ {
+  "file": 9,
+  "start": 2588,
+  "end": 2598,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "ược thuốc có qua nhau thai hay không nhưng hấp thu của",
+  "right": "qua ruột bị hạn chế, do đó làm giảm khả năng phơi",
+  "paren_hint": null
+ },
+ {
+  "file": 14,
+  "start": 2307,
+  "end": 2323,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "hững tác dụng gây độc của liệu pháp điều trị.",
+  "right": "thể hệ sau không gây buồn ngủ là lựa chọn",
+  "paren_hint": null
+ },
+ {
+  "file": 14,
+  "start": 2397,
+  "end": 2413,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "gây buồn ngủ là lựa chọn hàng đầu sau đó đến",
+  "right": "thể hệ 1, corticoid liều thấp cách ngày hoă",
+  "paren_hint": null
+ },
+ {
+  "file": 15,
+  "start": 1354,
+  "end": 1361,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "ị tiếp ⏎ Theo thông tin hướng dẫn sử dụng của sản phẩm",
+  "right": ", phụ nữ có thai chỉ được sử dụng khi có chỉ định",
+  "paren_hint": null
+ },
+ {
+  "file": 16,
+  "start": 1325,
+  "end": 1342,
+  "mask_len": 17,
+  "drug_class": "",
+  "left": "huốc điều trị khi lên cơn dại.  ⏎ Phòng bệnh bằng tiêm",
+  "right": ". Bệnh dại thường gia tăng vào mùa hè. ⏎ Bệnh dại gâ",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 505,
+  "end": 512,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "ử vong ⏎  ⏎  ⏎ Điều trị nội khoa ⏎ Thuốc nền tảng ⏎  •",
+  "right": "/ ***********  ⏎  • ******  (ổn định mảng xơ vữa) ⏎",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 515,
+  "end": 526,
+  "mask_len": 11,
+  "drug_class": "",
+  "left": "⏎  ⏎ Điều trị nội khoa ⏎ Thuốc nền tảng ⏎  • ******* /",
+  "right": "⏎  • ******  (ổn định mảng xơ vữa) ⏎  • *********  ⏎",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 531,
+  "end": 537,
+  "mask_len": 6,
+  "drug_class": "",
+  "left": "khoa ⏎ Thuốc nền tảng ⏎  • ******* / ***********  ⏎  •",
+  "right": "(ổn định mảng xơ vữa) ⏎  • *********  ⏎  • *********",
+  "paren_hint": "ổn định mảng xơ vữa"
+ },
+ {
+  "file": 18,
+  "start": 564,
+  "end": 573,
+  "mask_len": 9,
+  "drug_class": "hạ mỡ/statin",
+  "left": "/ ***********  ⏎  • ******  (ổn định mảng xơ vữa) ⏎  •",
+  "right": "⏎  • *************  ⏎  • ***************** / *** ⏎  ⏎  ⏎ C",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 578,
+  "end": 591,
+  "mask_len": 13,
+  "drug_class": "hạ mỡ/statin",
+  "left": "• ******  (ổn định mảng xơ vữa) ⏎  • *********  ⏎  •",
+  "right": "⏎  • ***************** / *** ⏎  ⏎  ⏎ Can thiệp – phẫu th",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 596,
+  "end": 613,
+  "mask_len": 17,
+  "drug_class": "hạ mỡ/statin",
+  "left": "mảng xơ vữa) ⏎  • *********  ⏎  • *************  ⏎  •",
+  "right": "/ *** ⏎  ⏎  ⏎ Can thiệp – phẫu thuật ⏎ Can thiệp mạch vàn",
+  "paren_hint": null
+ },
+ {
+  "file": 18,
+  "start": 616,
+  "end": 619,
+  "mask_len": 3,
+  "drug_class": "hạ mỡ/statin",
+  "left": "********  ⏎  • *************  ⏎  • ***************** /",
+  "right": "⏎  ⏎  ⏎ Can thiệp – phẫu thuật ⏎ Can thiệp mạch vành qua",
+  "paren_hint": null
+ },
+ {
+  "file": 19,
+  "start": 2274,
+  "end": 2290,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "hững tác dụng gây độc của liệu pháp điều trị.",
+  "right": "thể hệ sau không gây buồn ngủ là lựa chọn",
+  "paren_hint": null
+ },
+ {
+  "file": 19,
+  "start": 2364,
+  "end": 2380,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "gây buồn ngủ là lựa chọn hàng đầu sau đó đến",
+  "right": "thể hệ 1, corticoid liều thấp cách ngày hoă",
+  "paren_hint": null
+ },
+ {
+  "file": 24,
+  "start": 2138,
+  "end": 2148,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "ớc tiểu trong  ⏎         Philpovin 5g x 2 ống, pha vào",
+  "right": ", truyền tĩnh mạch L giọt/phút, dùng đến khi ALT,",
+  "paren_hint": null
+ },
+ {
+  "file": 25,
+  "start": 58,
+  "end": 68,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": ": Bác sĩ ơi ơi, bác sĩ cho em hỏi là nếu mình sd nhiều",
+  "right": "thì liệu có sao k anh? Tính từ năm ngoái tới năm",
+  "paren_hint": null
+ },
+ {
+  "file": 25,
+  "start": 138,
+  "end": 148,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "o k anh? Tính từ năm ngoái tới năm nay em có sd 6 vien",
+  "right": "ạ. Có một dạo em uống 4 viên trong 4 tuần, nguyên",
+  "paren_hint": null
+ },
+ {
+  "file": 25,
+  "start": 328,
+  "end": 338,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "test nên em có sd ạ. Trong 6 vien đó thì có 1 vien là",
+  "right": "loại 12h ạ. Em thấy sau mỗi lần uống thì em có đa",
+  "paren_hint": null
+ },
+ {
+  "file": 25,
+  "start": 519,
+  "end": 544,
+  "mask_len": 25,
+  "drug_class": "",
+  "left": "có những tác dụng phụ gì k ạ? ⏎ Trả lời :  ⏎ Chào bạn!",
+  "right": "được đánh giá là phương pháp tránh thai hữu hiệu",
+  "paren_hint": null
+ },
+ {
+  "file": 25,
+  "start": 962,
+  "end": 987,
+  "mask_len": 25,
+  "drug_class": "",
+  "left": "cung do dùng thuốc quá nhiều. ⏎ -        Sử dụng nhiều",
+  "right": "khiến chị em tăng nguy cơ mang thai ngoài tử cung",
+  "paren_hint": null
+ },
+ {
+  "file": 28,
+  "start": 1846,
+  "end": 1862,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "hững tác dụng gây độc của liệu pháp điều trị.",
+  "right": "thể hệ sau không gây buồn ngủ là lựa chọn",
+  "paren_hint": null
+ },
+ {
+  "file": 28,
+  "start": 1936,
+  "end": 1952,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "gây buồn ngủ là lựa chọn hàng đầu sau đó đến",
+  "right": "thể hệ 1, corticoid liều thấp cách ngày hoă",
+  "paren_hint": null
+ },
+ {
+  "file": 30,
+  "start": 1891,
+  "end": 1906,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "chứng và những tác hại gây độc của liệu pháp điều trị.",
+  "right": "có thể hệ sau không gây buồn ngủ là đơn hàng đầu",
+  "paren_hint": null
+ },
+ {
+  "file": 30,
+  "start": 1967,
+  "end": 1982,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến",
+  "right": "có thể hệ 1, ********* bậc thấp cách ngày hoặc hà",
+  "paren_hint": null
+ },
+ {
+  "file": 30,
+  "start": 1996,
+  "end": 2005,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "à đơn hàng đầu sau đó đến *************** có thể hệ 1,",
+  "right": "bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ",
+  "paren_hint": null
+ },
+ {
+  "file": 40,
+  "start": 307,
+  "end": 317,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "HTH quá liều thuốc kháng vitamin K (INR 15), được dùng",
+  "right": ", ********** => Chuyển viện ⏎ Tiền sử bệnh:  ⏎ Bản thâ",
+  "paren_hint": null
+ },
+ {
+  "file": 40,
+  "start": 319,
+  "end": 329,
+  "mask_len": 10,
+  "drug_class": "",
+  "left": "thuốc kháng vitamin K (INR 15), được dùng **********,",
+  "right": "=> Chuyển viện ⏎ Tiền sử bệnh:  ⏎ Bản thân: Van động",
+  "paren_hint": null
+ },
+ {
+  "file": 41,
+  "start": 1001,
+  "end": 1009,
+  "mask_len": 8,
+  "drug_class": "",
+  "left": "⏎ - Nhân mụn: Tretinoin tại chỗ ⏎ - Trứng cá viêm nhẹ:",
+  "right": "tại chỗ đơn độc hoặc phối hợp với kháng sinh tại",
+  "paren_hint": null
+ },
+ {
+  "file": 41,
+  "start": 1064,
+  "end": 1080,
+  "mask_len": 16,
+  "drug_class": "kháng sinh",
+  "left": "tại chỗ đơn độc hoặc phối hợp với kháng sinh tại chỗ,",
+  "right": ", hoặc cả hai ⏎     Lý do nhập viện: đau ngực trái c",
+  "paren_hint": null
+ },
+ {
+  "file": 44,
+  "start": 1591,
+  "end": 1606,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "chứng và những tác hại gây độc của liệu pháp điều trị.",
+  "right": "có thể hệ sau không gây buồn ngủ là đơn hàng đầu",
+  "paren_hint": null
+ },
+ {
+  "file": 44,
+  "start": 1667,
+  "end": 1682,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến",
+  "right": "có thể hệ 1, ********* bậc thấp cách ngày hoặc hà",
+  "paren_hint": null
+ },
+ {
+  "file": 44,
+  "start": 1696,
+  "end": 1705,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "à đơn hàng đầu sau đó đến *************** có thể hệ 1,",
+  "right": "bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ",
+  "paren_hint": null
+ },
+ {
+  "file": 45,
+  "start": 1707,
+  "end": 1730,
+  "mask_len": 23,
+  "drug_class": "",
+  "left": "Chẩn đoán :  Dị tật còn ống động mạch ⏎ Điều trị :  ⏎",
+  "right": "⏎ ************************ ⏎ ********* ⏎     - Tăng nhã",
+  "paren_hint": null
+ },
+ {
+  "file": 45,
+  "start": 1731,
+  "end": 1755,
+  "mask_len": 24,
+  "drug_class": "",
+  "left": "ng động mạch ⏎ Điều trị :  ⏎ *********************** ⏎",
+  "right": "⏎ ********* ⏎     - Tăng nhãn áp so với chụp cắt lớp",
+  "paren_hint": null
+ },
+ {
+  "file": 45,
+  "start": 1756,
+  "end": 1765,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "⏎ *********************** ⏎ ************************ ⏎",
+  "right": "⏎     - Tăng nhãn áp so với chụp cắt lớp vi tính (c",
+  "paren_hint": null
+ },
+ {
+  "file": 46,
+  "start": 1847,
+  "end": 1868,
+  "mask_len": 21,
+  "drug_class": "",
+  "left": "i gắng sức  ⏎     - buồn nôn và nôn  ⏎ Cận lâm sàng ⏎",
+  "right": "x 1,0 Viên ⏎ Ngày uống 1 viên buổi tối",
+  "paren_hint": null
+ },
+ {
+  "file": 49,
+  "start": 569,
+  "end": 583,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "số phương pháp điều trị dưới đây ⏎ 1.        Liệu pháp",
+  "right": "⏎ Tiêm ************** nội thương tổn được chỉ định",
+  "paren_hint": null
+ },
+ {
+  "file": 49,
+  "start": 589,
+  "end": 603,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "ị dưới đây ⏎ 1.        Liệu pháp ************** ⏎ Tiêm",
+  "right": "nội thương tổn được chỉ định trong rụng tóc từng",
+  "paren_hint": null
+ },
+ {
+  "file": 49,
+  "start": 828,
+  "end": 855,
+  "mask_len": 27,
+  "drug_class": "",
+  "left": "ng được chỉ định cho trẻ em. Các thuốc hay dùng là kem",
+  "right": "hai lần một ngày hoặc ***************************",
+  "paren_hint": null
+ },
+ {
+  "file": 49,
+  "start": 878,
+  "end": 914,
+  "mask_len": 36,
+  "drug_class": "",
+  "left": "kem *************************** hai lần một ngày hoặc",
+  "right": "(corticoid mức độ mạnh). ⏎ Đối với rụng tóc toàn bộ",
+  "paren_hint": "corticoid mức độ mạnh"
+ },
+ {
+  "file": 49,
+  "start": 1021,
+  "end": 1041,
+  "mask_len": 20,
+  "drug_class": "",
+  "left": "oặc rụng tóc toàn thể khó điều trị có thể sử dụng 2,5g",
+  "right": "e có bao phim che phủ 6 ngày/tuần trong 6 tháng. ⏎ T",
+  "paren_hint": null
+ },
+ {
+  "file": 53,
+  "start": 1528,
+  "end": 1545,
+  "mask_len": 17,
+  "drug_class": "",
+  "left": "ngừa biến chứng ⏎ 5. Đơn thuốc cho 1 ngày. ⏎ 1.",
+  "right": "x 2 viên, uống sáng trước ăn  ⏎ 2.        *********",
+  "paren_hint": null
+ },
+ {
+  "file": 53,
+  "start": 1586,
+  "end": 1603,
+  "mask_len": 17,
+  "drug_class": "",
+  "left": "************ x 2 viên, uống sáng trước ăn  ⏎ 2.",
+  "right": "x 2 viên, uống chiều sau ăn  ⏎ 3.        **********",
+  "paren_hint": null
+ },
+ {
+  "file": 53,
+  "start": 1643,
+  "end": 1655,
+  "mask_len": 12,
+  "drug_class": "",
+  "left": "************* x 2 viên, uống chiều sau ăn  ⏎ 3.",
+  "right": "x 1 viên, uống chiều.  ⏎ 4.        ********* x 2 vi",
+  "paren_hint": null
+ },
+ {
+  "file": 53,
+  "start": 1689,
+  "end": 1698,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "************ x 1 viên, uống chiều.  ⏎ 4.",
+  "right": "x 2 viên, uống sáng 1 viên, chiều 1 viên  ⏎ 5.",
+  "paren_hint": null
+ },
+ {
+  "file": 53,
+  "start": 1751,
+  "end": 1760,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "x 2 viên, uống sáng 1 viên, chiều 1 viên  ⏎ 5.",
+  "right": "x 2 viên, uống sáng 1 viên, chiều 1 viên.",
+  "paren_hint": null
+ },
+ {
+  "file": 54,
+  "start": 136,
+  "end": 148,
+  "mask_len": 12,
+  "drug_class": "",
+  "left": "uần rồi. Nhưng trước đó khoảng 2 tuần e có uống thuốc",
+  "right": "này. Liệu có bị ảnh hưởng gì đến thai nhi không a",
+  "paren_hint": null
+ },
+ {
+  "file": 64,
+  "start": 141,
+  "end": 150,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "hiều năm. Đi khám bệnh Bác sĩ kê cho thuốc Vastarel và",
+  "right": ". Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em",
+  "paren_hint": null
+ },
+ {
+  "file": 65,
+  "start": 334,
+  "end": 348,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "số phương pháp điều trị dưới đây ⏎ 1.        Liệu pháp",
+  "right": "⏎ Tiêm ************** nội thương tổn được chỉ định",
+  "paren_hint": null
+ },
+ {
+  "file": 65,
+  "start": 354,
+  "end": 368,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "ị dưới đây ⏎ 1.        Liệu pháp ************** ⏎ Tiêm",
+  "right": "nội thương tổn được chỉ định trong rụng tóc từng",
+  "paren_hint": null
+ },
+ {
+  "file": 65,
+  "start": 593,
+  "end": 620,
+  "mask_len": 27,
+  "drug_class": "",
+  "left": "ng được chỉ định cho trẻ em. Các thuốc hay dùng là kem",
+  "right": "hai lần một ngày hoặc ***************************",
+  "paren_hint": null
+ },
+ {
+  "file": 65,
+  "start": 643,
+  "end": 679,
+  "mask_len": 36,
+  "drug_class": "",
+  "left": "kem *************************** hai lần một ngày hoặc",
+  "right": "(corticoid mức độ mạnh). ⏎ Đối với rụng tóc toàn bộ",
+  "paren_hint": "corticoid mức độ mạnh"
+ },
+ {
+  "file": 65,
+  "start": 786,
+  "end": 806,
+  "mask_len": 20,
+  "drug_class": "",
+  "left": "oặc rụng tóc toàn thể khó điều trị có thể sử dụng 2,5g",
+  "right": "e có bao phim che phủ 6 ngày/tuần trong 6 tháng. ⏎ T",
+  "paren_hint": null
+ },
+ {
+  "file": 72,
+  "start": 213,
+  "end": 229,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "hững tác dụng gây độc của liệu pháp điều trị.",
+  "right": "thể hệ sau không gây buồn ngủ là lựa chọn",
+  "paren_hint": null
+ },
+ {
+  "file": 72,
+  "start": 303,
+  "end": 319,
+  "mask_len": 16,
+  "drug_class": "",
+  "left": "gây buồn ngủ là lựa chọn hàng đầu sau đó đến",
+  "right": "thể hệ 1, corticoid liều thấp cách ngày hoă",
+  "paren_hint": null
+ },
+ {
+  "file": 76,
+  "start": 1240,
+  "end": 1255,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "chứng và những tác hại gây độc của liệu pháp điều trị.",
+  "right": "có thể hệ sau không gây buồn ngủ là đơn hàng đầu",
+  "paren_hint": null
+ },
+ {
+  "file": 76,
+  "start": 1316,
+  "end": 1331,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến",
+  "right": "có thể hệ 1, ********* bậc thấp cách ngày hoặc hà",
+  "paren_hint": null
+ },
+ {
+  "file": 76,
+  "start": 1345,
+  "end": 1354,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "à đơn hàng đầu sau đó đến *************** có thể hệ 1,",
+  "right": "bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ",
+  "paren_hint": null
+ },
+ {
+  "file": 83,
+  "start": 1143,
+  "end": 1158,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "chứng và những tác hại gây độc của liệu pháp điều trị.",
+  "right": "có thể hệ sau không gây buồn ngủ là đơn hàng đầu",
+  "paren_hint": null
+ },
+ {
+  "file": 83,
+  "start": 1219,
+  "end": 1234,
+  "mask_len": 15,
+  "drug_class": "",
+  "left": "ể hệ sau không gây buồn ngủ là đơn hàng đầu sau đó đến",
+  "right": "có thể hệ 1, ********* bậc thấp cách ngày hoặc hà",
+  "paren_hint": null
+ },
+ {
+  "file": 83,
+  "start": 1248,
+  "end": 1257,
+  "mask_len": 9,
+  "drug_class": "",
+  "left": "à đơn hàng đầu sau đó đến *************** có thể hệ 1,",
+  "right": "bậc thấp cách ngày hoặc hàng ngày và giảm dần chậ",
+  "paren_hint": null
+ },
+ {
+  "file": 87,
+  "start": 985,
+  "end": 1014,
+  "mask_len": 29,
+  "drug_class": "",
+  "left": "ăng HA vô căn(nguyên phát) ⏎  ⏎ Thuốc điều trị :  ⏎  ⏎",
+  "right": "x 1,0 Viên ⏎ Ngày uống 1 viên buổi sáng sau ăn  ⏎ 2.",
+  "paren_hint": null
+ },
+ {
+  "file": 87,
+  "start": 1389,
+  "end": 1412,
+  "mask_len": 23,
+  "drug_class": "",
+  "left": "ng cân trở lại ⏎ Ngày uống 1 viên buổi sáng sau ăn  ⏎",
+  "right": "⏎ ************** ⏎ x 2,0 Viên ⏎ Ngày uống 2 viên buổi t",
+  "paren_hint": null
+ },
+ {
+  "file": 87,
+  "start": 1413,
+  "end": 1427,
+  "mask_len": 14,
+  "drug_class": "",
+  "left": "1 viên buổi sáng sau ăn  ⏎  *********************** ⏎",
+  "right": "⏎ x 2,0 Viên ⏎ Ngày uống 2 viên buổi tối",
+  "paren_hint": null
+ },
+ {
+  "file": 97,
+  "start": 910,
+  "end": 922,
+  "mask_len": 12,
+  "drug_class": "",
+  "left": "hai cách nội khoa và ngoại khoa ⏎ Nội khoa dùng thuốc",
+  "right": "uống 1-2 viên x2 sáng chiều ⏎   Ure tăng từ 69 lên",
+  "paren_hint": null
+ },
+ {
+  "file": 100,
+  "start": 202,
+  "end": 214,
+  "mask_len": 12,
+  "drug_class": "",
+  "left": "̉ nguy cơ tiền sản giật cao, Bác sĩ kê đơn thuốc",
+  "right": "sử dụng mỗi tối.Từ đó đến giờ, mũi em th",
+  "paren_hint": null
+ },
+ {
+  "file": 100,
+  "start": 522,
+  "end": 534,
+  "mask_len": 12,
+  "drug_class": "",
+  "left": "ơn! ⏎  ⏎ Câu trả lời của bác sĩ:  ⏎  ⏎ Chào bạn,  ⏎  ⏎",
+  "right": "được khuyến cáo đối với những sản phụ có nguy cơ",
+  "paren_hint": null
+ },
+ {
+  "file": 100,
+  "start": 690,
+  "end": 697,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "ững biến chứng liên quan đến tiền sản giật. Tuy nhiên,",
+  "right": "là thuốc có tác dụng chống đông máu do đó tác dụn",
+  "paren_hint": null
+ },
+ {
+  "file": 100,
+  "start": 838,
+  "end": 845,
+  "mask_len": 7,
+  "drug_class": "",
+  "left": "áu. Các triệu chứng của bạn có thể là tác dụng phụ của",
+  "right": "tuy nhiên bạn cũng đừng nên quá lo lắng vì dựa tr",
+  "paren_hint": null
+ }
+]
