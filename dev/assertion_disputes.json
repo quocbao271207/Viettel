@@ -1,0 +1,1154 @@
+[
+ {
+  "fid": "1",
+  "text": "vàng da nặng",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ng da vàng mắt và thậm chí suy thận cấp. Đặc biệt, nếu trẻ sơ sinh bị vàng da nặng sau khoảng 2 tuần tuổi, các tổn thương "
+ },
+ {
+  "fid": "1",
+  "text": "thiếu máu tan huyết",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "n vận động  Nếu không được điều trị và theo dõi đúng cách, tình trạng thiếu máu tan huyết kéo dài kèm vàng da sơ sinh sẽ trở thàn"
+ },
+ {
+  "fid": "5",
+  "text": "rậm lông",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isUncertain",
+  "gpt_vote": "∅",
+  "ctx": "h lý cụ thể. Rất có thể bạn bị Hội chứng buồng trứng đa nang (bao gồm rậm lông, béo phì, siêu âm buồng trứng có nhiều "
+ },
+ {
+  "fid": "6",
+  "text": "đau đầu kéo dài",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "oại thần kinh. Sau xuất viện, bệnh nhân từng quay lại khoa Cấp cứu vì đau đầu kéo dài.  Chụp kiểm tra ghi nhận tụ máu ngoài m"
+ },
+ {
+  "fid": "6",
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ừng quay lại khoa Cấp cứu vì đau đầu kéo dài.  Chụp kiểm tra ghi nhận tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn tính.  Bệnh nhâ"
+ },
+ {
+  "fid": "8",
+  "text": "hội chứng nghiện rượu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": " cảm xúc (trầm cảm) (tiền sử giai đoạn trầm cảm không đặc hiệu)     - hội chứng nghiện rượu     Thuốc trước khi nhập viện lần này: "
+ },
+ {
+  "fid": "8",
+  "text": "sốt cao 3–4 ngày",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": " Kawasaki dễ nhầm với sốt siêu vi, sốt phát ban, nhiễm trùng. Nếu trẻ sốt cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi "
+ },
+ {
+  "fid": "8",
+  "text": "đỏ mắt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ới sốt siêu vi, sốt phát ban, nhiễm trùng. Nếu trẻ sốt cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi đỏ → cần "
+ },
+ {
+  "fid": "8",
+  "text": "phát ban",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "êu vi, sốt phát ban, nhiễm trùng. Nếu trẻ sốt cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi đỏ → cần nghĩ đến Ka"
+ },
+ {
+  "fid": "8",
+  "text": "môi đỏ",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "phát ban, nhiễm trùng. Nếu trẻ sốt cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi đỏ → cần nghĩ đến Kawasaki và"
+ },
+ {
+  "fid": "8",
+  "text": "lưỡi đỏ",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "iễm trùng. Nếu trẻ sốt cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi đỏ → cần nghĩ đến Kawasaki và đưa trẻ đi k"
+ },
+ {
+  "fid": "8",
+  "text": "Kawasaki",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isUncertain",
+  "gpt_vote": "∅",
+  "ctx": "cao 3–4 ngày + đỏ mắt + phát ban + môi đỏ hoặc lưỡi đỏ → cần nghĩ đến Kawasaki và đưa trẻ đi khám sớm. 4. Biến chứng n"
+ },
+ {
+  "fid": "8",
+  "text": "Phình giãn động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ị kịp thời, bệnh có thể gây: Biến chứng tim mạch (nguy hiểm nhất):  • Phình giãn động mạch vành  • Hẹp – tắc động mạch vành  • Thiếu má"
+ },
+ {
+  "fid": "8",
+  "text": "Hẹp – tắc động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "Biến chứng tim mạch (nguy hiểm nhất):  • Phình giãn động mạch vành  • Hẹp – tắc động mạch vành  • Thiếu máu cơ tim  • Nhồi máu cơ tim "
+ },
+ {
+  "fid": "8",
+  "text": "Thiếu máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ểm nhất):  • Phình giãn động mạch vành  • Hẹp – tắc động mạch vành  • Thiếu máu cơ tim  • Nhồi máu cơ tim  • Suy vành mạn tính"
+ },
+ {
+  "fid": "8",
+  "text": "Nhồi máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "iãn động mạch vành  • Hẹp – tắc động mạch vành  • Thiếu máu cơ tim  • Nhồi máu cơ tim  • Suy vành mạn tính Khoảng 25–30% trẻ "
+ },
+ {
+  "fid": "8",
+  "text": "Suy vành mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": " • Hẹp – tắc động mạch vành  • Thiếu máu cơ tim  • Nhồi máu cơ tim  • Suy vành mạn tính Khoảng 25–30% trẻ không điều trị đúng c"
+ },
+ {
+  "fid": "8",
+  "text": "Viêm cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "rẻ không điều trị đúng cách sẽ bị biến chứng này. Biến chứng khác:  • Viêm cơ tim  • Tràn dịch màng tim  • Tăng men gan  "
+ },
+ {
+  "fid": "8",
+  "text": "Tràn dịch màng tim",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "rị đúng cách sẽ bị biến chứng này. Biến chứng khác:  • Viêm cơ tim  • Tràn dịch màng tim  • Tăng men gan  • Rối loạn tiêu hóa 5."
+ },
+ {
+  "fid": "8",
+  "text": "Tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "n chứng này. Biến chứng khác:  • Viêm cơ tim  • Tràn dịch màng tim  • Tăng men gan  • Rối loạn tiêu hóa 5. Chẩn đoán bệnh "
+ },
+ {
+  "fid": "8",
+  "text": "Rối loạn tiêu hóa",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "n chứng khác:  • Viêm cơ tim  • Tràn dịch màng tim  • Tăng men gan  • Rối loạn tiêu hóa 5. Chẩn đoán bệnh Kawasaki  Tiêu chuẩn "
+ },
+ {
+  "fid": "10",
+  "text": "viêm tuyến mồ hôi",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "rước khi nhập viện     - metoprolol 25mg po bid     - doxycycline cho viêm tuyến mồ hôi     - atenolol (uống hôm nay)     Các y"
+ },
+ {
+  "fid": "10",
+  "text": "đánh trống ngực",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ứng:  - Cách 10 ngày trước khi vào việc  bệnh nhân xuất hiện cảm giác đánh trống ngực     Các triệu chứng hiện tại     - đánh"
+ },
+ {
+  "fid": "11",
+  "text": "xuất huyết dưới nhện vùng trán phải",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " đoán xuất huyết dưới nhện. Chụp cắt lớp vi tính sọ não cho hình ảnh  xuất huyết dưới nhện vùng trán phải, bầm dập nhu mô vùng trán phải và trán "
+ },
+ {
+  "fid": "11",
+  "text": "bầm dập nhu mô vùng trán phải và trán - thái dương phải",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "lớp vi tính sọ não cho hình ảnh  xuất huyết dưới nhện vùng trán phải, bầm dập nhu mô vùng trán phải và trán - thái dương phải, kèm một lớp dịch dưới màng cứng mỏng v"
+ },
+ {
+  "fid": "14",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "a cho bạn không ạ. Em cảm ơn rất nhiều     Các bệnh lý mạn tính     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp  "
+ },
+ {
+  "fid": "14",
+  "text": "gleevec",
+  "type": "THUỐC",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": " Các bệnh lý mạn tính     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid má"
+ },
+ {
+  "fid": "14",
+  "text": "Tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ạn tính     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu   "
+ },
+ {
+  "fid": "14",
+  "text": "tăng lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu     - Đái tháo đường tí"
+ },
+ {
+  "fid": "14",
+  "text": "Đái tháo đường típ 2",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "leevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     -"
+ },
+ {
+  "fid": "14",
+  "text": "hẹp ống sống",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "    - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, khô"
+ },
+ {
+  "fid": "14",
+  "text": "Giả gout",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "u, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, không đặc hiệu Gia"
+ },
+ {
+  "fid": "14",
+  "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, không đặc hiệu Giai đoạn 4     - tăng sản tuyến tiền liệt     - Nh"
+ },
+ {
+  "fid": "14",
+  "text": "tăng sản tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "     - Giả gout     - bệnh thận mạn, không đặc hiệu Giai đoạn 4     - tăng sản tuyến tiền liệt     - Nhiều lần ngã gần đây Ngã     - ả"
+ },
+ {
+  "fid": "14",
+  "text": "ảo giác",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "     - tăng sản tuyến tiền liệt     - Nhiều lần ngã gần đây Ngã     - ảo giác     Thuốc trước khi nhập viện: gleevec "
+ },
+ {
+  "fid": "17",
+  "text": "viêm khớp dạng thấp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": " kéo dài, chân răng có thể bị hư hại dẫn đến tình trạng mất răng hoặc viêm khớp dạng thấp, các bệnh hô hấp, đột quỵ,... - Thiếu c"
+ },
+ {
+  "fid": "17",
+  "text": "đột quỵ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ẫn đến tình trạng mất răng hoặc viêm khớp dạng thấp, các bệnh hô hấp, đột quỵ,... - Thiếu canxi và vitamin: Thiếu hụt"
+ },
+ {
+  "fid": "17",
+  "text": "sâu răng",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "quỵ,... - Thiếu canxi và vitamin: Thiếu hụt canxi dễ gây loãng xương, sâu răng và có nguy cơ bị viêm nha chu. Hôi miện"
+ },
+ {
+  "fid": "17",
+  "text": "viêm nha chu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "itamin: Thiếu hụt canxi dễ gây loãng xương, sâu răng và có nguy cơ bị viêm nha chu. Hôi miệng và chảy máu chân răng còn có"
+ },
+ {
+  "fid": "19",
+  "text": "tylenol",
+  "type": "THUỐC",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " chậu     - Mức độ nghiêm trọng: cơn đau vẫn tiếp diễn mặc dù đã dùng tylenol     - Triệu chứng liên quan: buồn nôn  "
+ },
+ {
+  "fid": "22",
+  "text": "đau bụng ngày càng nặng",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " bụng ngày càng nặng Thời điểm khởi phát triệu chứng - Tiền sử 2 ngày đau bụng ngày càng nặng - Tiền sử 2 tháng đau bụng liên tục Diễ"
+ },
+ {
+  "fid": "22",
+  "text": "đau bụng liên tục",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "riệu chứng - Tiền sử 2 ngày đau bụng ngày càng nặng - Tiền sử 2 tháng đau bụng liên tục Diễn biến bệnh - Tiền sử 2 tháng đau bụ"
+ },
+ {
+  "fid": "23",
+  "text": "não úng tuỷ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": " mờ tiến triển trong 2 tuần qua     Diễn biến bệnh     - Bệnh nhân bị não úng tuỷ từ thời kỳ sơ sinh, được điều trị bằng "
+ },
+ {
+  "fid": "24",
+  "text": "viêm gan B",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isFamily",
+  "gpt_vote": "isNegated",
+  "ctx": "không thường xuyên          Tiền sử gia đình: không ai bị nhiễm virus viêm gan B, C          Tiền sử dịch tễ: Trong đơn "
+ },
+ {
+  "fid": "25",
+  "text": "trễ kinh",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isNegated",
+  "gpt_vote": "∅",
+  "ctx": "h ạ. Em thấy sau mỗi lần uống thì em có đau bụng nhưng k chảy máu với trễ kinh ạ, kinh tới rất đều ạ. V thì sau này nó"
+ },
+ {
+  "fid": "32",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ác triệu chứng và suy các cơ quan, thậm chí có thể gây tử vong.     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp  "
+ },
+ {
+  "fid": "32",
+  "text": "Tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ử vong.     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu   "
+ },
+ {
+  "fid": "32",
+  "text": "tăng lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu     - Đái tháo đường tí"
+ },
+ {
+  "fid": "32",
+  "text": "Đái tháo đường típ 2",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "leevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     -"
+ },
+ {
+  "fid": "32",
+  "text": "hẹp ống sống",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "    - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, khô"
+ },
+ {
+  "fid": "32",
+  "text": "Giả gout",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "u, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, không đặc hiệu Gia"
+ },
+ {
+  "fid": "32",
+  "text": "bệnh thận mạn",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, không đặc hiệu Giai đoạn 4     - tăng "
+ },
+ {
+  "fid": "32",
+  "text": "tăng sản tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "     - Giả gout     - bệnh thận mạn, không đặc hiệu Giai đoạn 4     - tăng sản tuyến tiền liệt     - Nhiều lần ngã gần đây Ngã     - ả"
+ },
+ {
+  "fid": "33",
+  "text": "mụn trứng cá",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "không đặc hiệu - béo phì  Cháu năm nay 18 tuổi da rất nhiều dầu và bị mụn trứng cá từ năm lớp 8. Đến năm lớp 11 cháu đi kh"
+ },
+ {
+  "fid": "34",
+  "text": "viêm xoang",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "rạng đau kéo dài, thường xuyên dễ bị chẩn đoán nguyên nhân đau đầu do viêm xoang và có thể dẫn đến điều trị không đúng b"
+ },
+ {
+  "fid": "34",
+  "text": "khó tập trung",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "âu sẽ gây ra các hậu quả nguy hiểm cho sức khỏe như suy giảm trí nhớ, khó tập trung, trầm cảm thậm chí là đột quỵ. Một số t"
+ },
+ {
+  "fid": "34",
+  "text": "trầm cảm",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "c hậu quả nguy hiểm cho sức khỏe như suy giảm trí nhớ, khó tập trung, trầm cảm thậm chí là đột quỵ. Một số trường hợp "
+ },
+ {
+  "fid": "34",
+  "text": "đột quỵ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ho sức khỏe như suy giảm trí nhớ, khó tập trung, trầm cảm thậm chí là đột quỵ. Một số trường hợp còn có biến chứng su"
+ },
+ {
+  "fid": "39",
+  "text": "Viêm phổi bệnh viện",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ễn biến bệnh - Bệnh nhân nhập viện, quá trình điều trị biến chứng bởi Viêm phổi bệnh viện và rung nhĩ và nhịp nhanh trên thất, sa"
+ },
+ {
+  "fid": "39",
+  "text": "rung nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "n nhập viện, quá trình điều trị biến chứng bởi Viêm phổi bệnh viện và rung nhĩ và nhịp nhanh trên thất, sau đó xuất vi"
+ },
+ {
+  "fid": "39",
+  "text": "bệnh bàn chân bẹt",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isFamily",
+  "ctx": " không đặc hiệu - mệt mỏi - mệt mỏi Theo như mô tả của Bạn cháu bé bị bệnh bàn chân bẹt, đây là tật bẩm sinh không ảnh hưởng nh"
+ },
+ {
+  "fid": "41",
+  "text": "nhân mụn",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isNegated",
+  "ctx": "y viêm Trứng cá có thể được phân loại là  - Không viêm: Đặc trưng bởi nhân mụn - Viêm: Đặc trưng bởi sẹo, mụn mủ, nốt "
+ },
+ {
+  "fid": "45",
+  "text": "tăng đau đầu",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ới thông não so với chụp cắt lớp vi tính (ct) đầu từ [Date].     - Bị tăng đau đầu cải thiện khi nằm ngửa.     - Nhập viện"
+ },
+ {
+  "fid": "45",
+  "text": "não úng tuỷ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": " mờ tiến triển trong 2 tuần qua     Diễn biến bệnh     - Bệnh nhân bị não úng tuỷ từ thời kỳ sơ sinh, được điều trị bằng "
+ },
+ {
+  "fid": "47",
+  "text": "Viêm phổi bệnh viện",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ễn biến bệnh - Bệnh nhân nhập viện, quá trình điều trị biến chứng bởi Viêm phổi bệnh viện và rung nhĩ và nhịp nhanh trên thất, sa"
+ },
+ {
+  "fid": "47",
+  "text": "rung nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "n nhập viện, quá trình điều trị biến chứng bởi Viêm phổi bệnh viện và rung nhĩ và nhịp nhanh trên thất, sau đó xuất vi"
+ },
+ {
+  "fid": "50",
+  "text": "não úng tuỷ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": " mờ tiến triển trong 2 tuần qua     Diễn biến bệnh     - Bệnh nhân bị não úng tuỷ từ thời kỳ sơ sinh, được điều trị bằng "
+ },
+ {
+  "fid": "50",
+  "text": "VPHT",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "  CT ngực là phương pháp hữu ích, nhạy cảm để giúp chẩn đoán xác định VPHT, đánh giá độ lan rộng của bệnh, và còn "
+ },
+ {
+  "fid": "51",
+  "text": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "u chứng     - tiền sử trước vào viện  ba ngày     - bắt đầu nhận thấy khó thở khi xem TV lúc 11:00 sáng ba ngày trước"
+ },
+ {
+  "fid": "51",
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "ỗi ngày, kéo dài 5 phút)     - tiền sử ho có đờm trắng     - chủ quan sốt     - phù chi dưới (ổn định)     Đặc đi"
+ },
+ {
+  "fid": "51",
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "uan: khó nằm vào ban đêm để ngủ vì khó thở, ho có đờm trắng, chủ quan sốt, phù chi dưới     Các sự kiện trước khi"
+ },
+ {
+  "fid": "54",
+  "text": "Tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "ông ah?     - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu   "
+ },
+ {
+  "fid": "54",
+  "text": "Đái tháo đường típ 2",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "leevec     - Tăng huyết áp     - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     -"
+ },
+ {
+  "fid": "54",
+  "text": "hẹp ống sống",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "    - tăng lipid máu, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, khô"
+ },
+ {
+  "fid": "54",
+  "text": "Giả gout",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "u, không đặc hiệu     - Đái tháo đường típ 2     - hẹp ống sống     - Giả gout     - bệnh thận mạn, không đặc hiệu Gia"
+ },
+ {
+  "fid": "54",
+  "text": "tăng sản tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "     - Giả gout     - bệnh thận mạn, không đặc hiệu Giai đoạn 4     - tăng sản tuyến tiền liệt     - Nhiều lần ngã gần đây Ngã     - ả"
+ },
+ {
+  "fid": "54",
+  "text": "ảo giác",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "     - tăng sản tuyến tiền liệt     - Nhiều lần ngã gần đây Ngã     - ảo giác     Thuốc trước khi nhập viện: gleevec "
+ },
+ {
+  "fid": "56",
+  "text": "buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "hủ yếu là đau bụng cồn cào kèm theo ợ hơi, ợ chua, có thể có cảm giác buồn nôn hoặc nôn. Trước kia bệnh dạ dày được co"
+ },
+ {
+  "fid": "59",
+  "text": "viêm xương tủy",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isNegated",
+  "ctx": "có xu hướng tăng  chẩn đoán hình ảnh:   - MRI:  không thấy tình trạng viêm xương tủy nặng hơn Sừng hóa nang lông bất thường "
+ },
+ {
+  "fid": "63",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh lý mạn tính     - Bệnh bạch cầu dòng tủy mãn tính     - tăng cholesterol máu đơn thuần E "
+ },
+ {
+  "fid": "63",
+  "text": "tăng cholesterol máu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "     Các bệnh lý mạn tính     - Bệnh bạch cầu dòng tủy mãn tính     - tăng cholesterol máu đơn thuần E có uống thuốc kháng B-hista"
+ },
+ {
+  "fid": "63",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "    - ảo giácxuất hiện khoảng một tháng trước.     - Đã được điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định.     - Thuốc giả"
+ },
+ {
+  "fid": "64",
+  "text": "Vastarel",
+  "type": "THUỐC",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "bị bệnh động mạch vành đã nhiều năm. Đi khám bệnh Bác sĩ kê cho thuốc Vastarel và *********. Tuy nhiên sau nhiều năm s"
+ },
+ {
+  "fid": "64",
+  "text": "run",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "arel và *********. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vas"
+ },
+ {
+  "fid": "64",
+  "text": "Vastarel",
+  "type": "THUỐC",
+  "claude": "isFamily",
+  "gpt_vote": "isHistorical",
+  "ctx": "ăm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel     Các bệnh lý mạn tính     - bệnh Gra"
+ },
+ {
+  "fid": "64",
+  "text": "run",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "mạn tính     - bệnh Graves     - tăng lipid máu, không đặc hiệu  hoặc run rẩy tay chân, mất thăng bằng khi đi đứn"
+ },
+ {
+  "fid": "67",
+  "text": "buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "hủ yếu là đau bụng cồn cào kèm theo ợ hơi, ợ chua, có thể có cảm giác buồn nôn hoặc nôn. Trước kia bệnh dạ dày được co"
+ },
+ {
+  "fid": "67",
+  "text": "nôn",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "bụng cồn cào kèm theo ợ hơi, ợ chua, có thể có cảm giác buồn nôn hoặc nôn. Trước kia bệnh dạ dày được coi là bệnh"
+ },
+ {
+  "fid": "68",
+  "text": "bệnh động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1. Tiền sử bệnh Bệnh lý mãn tính: bệnh động mạch vành, bệnh lý thần kinh ngoại biên  2. Bệnh "
+ },
+ {
+  "fid": "68",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1. Tiền sử bệnh Bệnh lý mãn tính: bệnh động mạch vành, bệnh lý thần kinh ngoại biên  2. Bệnh sử hiện tại  Trong vòng một nă"
+ },
+ {
+  "fid": "70",
+  "text": "béo phì",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh     Các bệnh lý mãn tính     - béo phì     - đái tháo đường được kiểm soát bằn"
+ },
+ {
+  "fid": "70",
+  "text": "đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh     Các bệnh lý mãn tính     - béo phì     - đái tháo đường được kiểm soát bằng chế độ ăn     - ngừ"
+ },
+ {
+  "fid": "70",
+  "text": "ngừng thở khi ngủ",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "   - béo phì     - đái tháo đường được kiểm soát bằng chế độ ăn     - ngừng thở khi ngủ     - tiền sử lâm sàng suy tim, không đ"
+ },
+ {
+  "fid": "70",
+  "text": "suy tim",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ểm soát bằng chế độ ăn     - ngừng thở khi ngủ     - tiền sử lâm sàng suy tim, không đặc hiệu     Dị ứng: Dị ứng furo"
+ },
+ {
+  "fid": "70",
+  "text": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "u chứng     - tiền sử trước vào viện  ba ngày     - bắt đầu nhận thấy khó thở khi xem TV lúc 11:00 sáng ba ngày trước"
+ },
+ {
+  "fid": "70",
+  "text": "ho",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "i (ngắt quãng, xảy ra vài lần mỗi ngày, kéo dài 5 phút)     - tiền sử ho có đờm trắng     - chủ quan sốt     - p"
+ },
+ {
+  "fid": "70",
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "ỗi ngày, kéo dài 5 phút)     - tiền sử ho có đờm trắng     - chủ quan sốt     - phù chi dưới (ổn định)     Đặc đi"
+ },
+ {
+  "fid": "71",
+  "text": "suy giảm chức năng gan",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isUncertain",
+  "gpt_vote": "isHypothetical",
+  "ctx": "nh thành do một số bệnh lý, vấn đề liên quan đến sức khỏe. Cụ thể như suy giảm chức năng gan, nổi mề đay, bệnh vảy nến, tác dụng phụ"
+ },
+ {
+  "fid": "71",
+  "text": "mề đay",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isUncertain",
+  "gpt_vote": "isHypothetical",
+  "ctx": "vấn đề liên quan đến sức khỏe. Cụ thể như suy giảm chức năng gan, nổi mề đay, bệnh vảy nến, tác dụng phụ của một số "
+ },
+ {
+  "fid": "71",
+  "text": "vảy nến",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isUncertain",
+  "gpt_vote": "isHypothetical",
+  "ctx": "uan đến sức khỏe. Cụ thể như suy giảm chức năng gan, nổi mề đay, bệnh vảy nến, tác dụng phụ của một số loại thuốc chữ"
+ },
+ {
+  "fid": "73",
+  "text": "Viêm loét đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh lý mạn tính     - Viêm loét đại tràng trong nhiều năm qua     - bằng chứng Bệ"
+ },
+ {
+  "fid": "73",
+  "text": "Bệnh gan do rượu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "n tính     - Viêm loét đại tràng trong nhiều năm qua     - bằng chứng Bệnh gan do rượu ở vị trí 35cm     Tiền sử phẫu thuật / "
+ },
+ {
+  "fid": "73",
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": "vùng hạ vị bên trái (LLQ)     - buồn nôn     - nôn x 1     - chủ quan sốt và run rẩy     - mất cảm giác ngon miện"
+ },
+ {
+  "fid": "73",
+  "text": "run",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isUncertain",
+  "ctx": " vị bên trái (LLQ)     - buồn nôn     - nôn x 1     - chủ quan sốt và run rẩy     - mất cảm giác ngon miệng/chán "
+ },
+ {
+  "fid": "74",
+  "text": "Viêm loét đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh lý mạn tính     - Viêm loét đại tràng trong nhiều năm qua     - bằng chứng Bệ"
+ },
+ {
+  "fid": "74",
+  "text": "Bệnh gan do rượu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "n tính     - Viêm loét đại tràng trong nhiều năm qua     - bằng chứng Bệnh gan do rượu ở vị trí 35cm     Tiền sử phẫu thuật / "
+ },
+ {
+  "fid": "80",
+  "text": "nhiễm trùng máu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "hời, hạt tophi bị vỡ ra có thể gây hoại tử, biến dạng xương khớp, gây nhiễm trùng máu, rất khó lành     - Bệnh nhân xơ gan mấ"
+ },
+ {
+  "fid": "81",
+  "text": "tiền sản giật",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "a. Trong giai đoạn mang thai, để tránh tình trạng sẩy thai, sinh non, tiền sản giật....thì bác sỹ thường kê thuốc chống đôn"
+ },
+ {
+  "fid": "81",
+  "text": "ra máu bất thường",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "ho bạn. Thuốc chống đông này cần chú ý phải dừng ngay khi có dấu hiệu ra máu bất thường hoặc nên dừng trước tuần thai 36 để trá"
+ },
+ {
+  "fid": "81",
+  "text": "chảy máu khó cầm",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHypothetical",
+  "gpt_vote": "∅",
+  "ctx": "a máu bất thường hoặc nên dừng trước tuần thai 36 để tránh tình trạng chảy máu khó cầm (việc này bạn nên theo hướng dẫn của bá"
+ },
+ {
+  "fid": "82",
+  "text": "đau đầu gối",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "n sử bệnh     Bệnh nhân có tiền sử dụng thuốc     - NSAID để điều trị đau đầu gối (đã ngừng)     - omeprazole (bắt đầu dù"
+ },
+ {
+  "fid": "85",
+  "text": "Tiểu đường loại 1",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh mãn tính     - Tiểu đường loại 1 đái tháo đường     - tăng huyết áp     "
+ },
+ {
+  "fid": "85",
+  "text": "đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "  Tiền sử bệnh nội khoa     Các bệnh mãn tính     - Tiểu đường loại 1 đái tháo đường     - tăng huyết áp     - tăng lipid má"
+ },
+ {
+  "fid": "85",
+  "text": "tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "oa     Các bệnh mãn tính     - Tiểu đường loại 1 đái tháo đường     - tăng huyết áp     - tăng lipid máu, không đặc hiệu   "
+ },
+ {
+  "fid": "85",
+  "text": "tăng lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "tính     - Tiểu đường loại 1 đái tháo đường     - tăng huyết áp     - tăng lipid máu, không đặc hiệu     - béo phì     - Nhi"
+ },
+ {
+  "fid": "85",
+  "text": "béo phì",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " đường     - tăng huyết áp     - tăng lipid máu, không đặc hiệu     - béo phì     - Nhiễm trùng đường tiết niệu (UTIs"
+ },
+ {
+  "fid": "85",
+  "text": "Nhiễm trùng đường tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ăng huyết áp     - tăng lipid máu, không đặc hiệu     - béo phì     - Nhiễm trùng đường tiết niệu (UTIs) tái phát nhiễm khuẩn đường tiết "
+ },
+ {
+  "fid": "85",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " hiệu     - béo phì     - Nhiễm trùng đường tiết niệu (UTIs) tái phát nhiễm khuẩn đường tiết niệu, vị trí không xác định  2.  Lịch sử bện"
+ },
+ {
+  "fid": "88",
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isHistorical",
+  "gpt_vote": "∅",
+  "ctx": "eo sốt     Các sự kiện trước khi nhập viện     - Gần đây nhập viện vì sốt và các ổ dịch trong ổ bụng được cho là "
+ },
+ {
+  "fid": "88",
+  "text": "áp xe",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHistorical",
+  "gpt_vote": "isUncertain",
+  "ctx": "    - Gần đây nhập viện vì sốt và các ổ dịch trong ổ bụng được cho là áp xe     - Điều trị bằng kháng sinh tĩnh mạc"
+ },
+ {
+  "fid": "88",
+  "text": "Thiếu một số vi chất",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isHypothetical",
+  "gpt_vote": "isUncertain",
+  "ctx": "ng khác có thể là 1. Do cơ địa người bé ra mồ hôi nhiều hơn trẻ khác. Thiếu một số vi chất cho cơ thể do mất cân đối trong chế độ "
+ },
+ {
+  "fid": "91",
+  "text": "hội chứng turner",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh     Các bệnh lý mãn tính     - hội chứng turner, không đặc hiệu     - Tăng huyết áp    "
+ },
+ {
+  "fid": "91",
+  "text": "Tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "    Các bệnh lý mãn tính     - hội chứng turner, không đặc hiệu     - Tăng huyết áp     - Tiền sử phẫu thuật cắt bỏ đại trà"
+ },
+ {
+  "fid": "91",
+  "text": "coumadin",
+  "type": "THUỐC",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ại tràng do Ung thư đại tràng     - Tiền sử Thuyên tắc phổi đang dùng coumadin (tiền sử Thuyên tắc phổi đang dùng coum"
+ },
+ {
+  "fid": "92",
+  "text": "viêm tủy xương mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1. Tiền sử bệnh - viêm tủy xương mãn tính và bàng quang thần kinh gây biến chứng "
+ },
+ {
+  "fid": "92",
+  "text": "bàng quang thần kinh",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1. Tiền sử bệnh - viêm tủy xương mãn tính và bàng quang thần kinh gây biến chứng liệt hai chi dưới và loé"
+ },
+ {
+  "fid": "92",
+  "text": "loét tì đè giai đoạn IV mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " mãn tính và bàng quang thần kinh gây biến chứng liệt hai chi dưới và loét tì đè giai đoạn IV mãn tính - đặt lưu sonde tiểu    gây nhiễm khuẩn"
+ },
+ {
+  "fid": "92",
+  "text": "nhiễm khuẩn đường tiết niệu tái phát",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " dưới và loét tì đè giai đoạn IV mãn tính - đặt lưu sonde tiểu    gây nhiễm khuẩn đường tiết niệu tái phát Thuốc đã dùng trước đây - Đã sử dụngvan"
+ },
+ {
+  "fid": "95",
+  "text": "bệnh gút",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "Câu hỏi từ người dùng:  Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng kh"
+ },
+ {
+  "fid": "95",
+  "text": "hạt nhỏ màu trắng trên da",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón chân. Ch"
+ },
+ {
+  "fid": "95",
+  "text": "hạt tophi",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": "g xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành"
+ },
+ {
+  "fid": "95",
+  "text": "bệnh gout mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "isFamily",
+  "gpt_vote": "∅",
+  "ctx": " thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành hạt tophi: Khi mới hình "
+ },
+ {
+  "fid": "95",
+  "text": "tiêu chảy",
+  "type": "TRIỆU_CHỨNG",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " trước khi nhập viện     - tylenol     - mucinex d     - thỉnh thoảng tiêu chảy các thuốc của ông ấy  "
+ },
+ {
+  "fid": "97",
+  "text": "Suy thận mạn giai đoạn V",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh     Các bệnh lý mạn tính     - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp     "
+ },
+ {
+  "fid": "97",
+  "text": "đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ền sử bệnh     Các bệnh lý mạn tính     - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp     - u ác của tuyến t"
+ },
+ {
+  "fid": "97",
+  "text": "tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " bệnh lý mạn tính     - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp     - u ác của tuyến tiền liệt điều trị"
+ },
+ {
+  "fid": "97",
+  "text": "u ác của tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "  - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp     - u ác của tuyến tiền liệt điều trị bằng xạ trị cấy hạt      Tiền "
+ },
+ {
+  "fid": "98",
+  "text": "Rối loạn cảm xúc",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " tử vong trong lần nhập viện gần đây nhất     Các bệnh mãn tính     - Rối loạn cảm xúc      - Rối loạn lưỡng cực     - rối loạ"
+ },
+ {
+  "fid": "98",
+  "text": "Rối loạn lưỡng cực",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "viện gần đây nhất     Các bệnh mãn tính     - Rối loạn cảm xúc      - Rối loạn lưỡng cực     - rối loạn lo âu     Thuốc đã điều "
+ },
+ {
+  "fid": "98",
+  "text": "rối loạn lo âu",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " bệnh mãn tính     - Rối loạn cảm xúc      - Rối loạn lưỡng cực     - rối loạn lo âu     Thuốc đã điều trị trước khi nhập vi"
+ },
+ {
+  "fid": "98",
+  "text": "Lạm dụng chất kích thích",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": " thuốc trước nhập viện 01 ngày     Các yếu tố nguy cơ liên quan     - Lạm dụng chất kích thích, chất gây nghiện opioid 2.   Bệnh sử hi"
+ },
+ {
+  "fid": "98",
+  "text": "chất gây nghiện opioid",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "ngày     Các yếu tố nguy cơ liên quan     - Lạm dụng chất kích thích, chất gây nghiện opioid 2.   Bệnh sử hiện tại     Lý do nhập vi"
+ },
+ {
+  "fid": "99",
+  "text": "viêm tủy xương",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh lý mãn tính: viêm tủy xương và bàng quang thần kinh có biến chứng l"
+ },
+ {
+  "fid": "99",
+  "text": "bàng quang thần kinh",
+  "type": "CHẨN_ĐOÁN",
+  "claude": "∅",
+  "gpt_vote": "isHistorical",
+  "ctx": "1.  Tiền sử bệnh nội khoa     Các bệnh lý mãn tính: viêm tủy xương và bàng quang thần kinh có biến chứng liệt hai chi dưới  2.  Bệ"
+ }
+]
