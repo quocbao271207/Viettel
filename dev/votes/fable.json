@@ -1,0 +1,246 @@
+{
+ "11": [
+  {
+   "text": "ngã",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "isHistorical",
+   "before": "bệnh nhân bị "
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isUncertain",
+   "before": "nghĩ nhiều đến "
+  },
+  {
+   "text": "tụ dịch",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isUncertain",
+   "before": "hoặc "
+  },
+  {
+   "text": "tổn thương mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "nền "
+  },
+  {
+   "text": "kích thích nhẹ",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "bệnh nhân "
+  },
+  {
+   "text": "ngửa đầu ra sau",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nhiều lần "
+  },
+  {
+   "text": "không đáp ứng được các câu hỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "và "
+  },
+  {
+   "text": "ý thức dao động",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "Tình trạng "
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isUncertain",
+   "before": "nghĩ đến "
+  },
+  {
+   "text": "tụ máu dưới màng cứng mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isHistorical",
+   "before": "hoặc "
+  },
+  {
+   "text": "tổn thương mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "nền "
+  }
+ ],
+ "12": [
+  {
+   "text": "Thở oxy tại nhà",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isHistorical",
+   "before": "- "
+  },
+  {
+   "text": "lan rộng sang mông phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nước, "
+  },
+  {
+   "text": "Sinh thiết nội mạc tử cung",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "isHistorical",
+   "before": "thuật: "
+  },
+  {
+   "text": "bọng nước",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nhiều "
+  },
+  {
+   "text": "rỉ dịch vàng đục",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "vị trí "
+  },
+  {
+   "text": "Lan đến mông bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nặng "
+  }
+ ],
+ "13": [
+  {
+   "text": "chảy máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "tay nhưng bị "
+  },
+  {
+   "text": "vết thương",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "liếm vào "
+  },
+  {
+   "text": "trầy xước",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "da bị "
+  },
+  {
+   "text": "tử vong",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "isHypothetical",
+   "before": "gây "
+  }
+ ],
+ "26": [
+  {
+   "text": "hẹp hoặc tắc các động mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "trạng "
+  },
+  {
+   "text": "giảm tưới máu cơ tim",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "làm "
+  },
+  {
+   "text": "mảng xơ vữa",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "hình thành "
+  },
+  {
+   "text": "hẹp lòng mạch",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "dần → "
+  },
+  {
+   "text": "huyết khối",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "vữa → "
+  },
+  {
+   "text": "tắc mạch cấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "khối → "
+  },
+  {
+   "text": "đè nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "chất: "
+  },
+  {
+   "text": "bóp nghẹt",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nặng, "
+  },
+  {
+   "text": "thắt chặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "nghẹt, "
+  },
+  {
+   "text": "Stress kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "vận động  • "
+  }
+ ],
+ "27": [
+  {
+   "text": "xuất tiết dịch",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "đầu là "
+  },
+  {
+   "text": "áp-xe nhỏ",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "hang nhỏ, "
+  },
+  {
+   "text": "hang nhỏ",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "của các "
+  },
+  {
+   "text": "nung mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "trạng "
+  },
+  {
+   "text": "ổ viêm hóa mủ",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "nhiều "
+  },
+  {
+   "text": "đông đặc",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "phổi bị "
+  },
+  {
+   "text": "viêm xơ",
+   "type": "CHẨN_ĐOÁN",
+   "assertion": "",
+   "before": "thì "
+  },
+  {
+   "text": "khạc ra mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertion": "",
+   "before": "sẽ "
+  }
+ ]
+}
