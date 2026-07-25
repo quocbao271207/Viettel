@@ -1,7 +1,26 @@
-# HANDOFF — Viettel AI Race Bài 2 (trạng thái 24/07/2026)
+# HANDOFF — Viettel AI Race Bài 2 (trạng thái 25/07/2026)
 
-> File này để một phiên chat MỚI nối tiếp ngay mà không cần lịch sử cũ. Đọc kèm memory
-> (`viettel-*.md`) + `STRATEGY.md`. Cập nhật khi có tiến triển.
+> File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `STRATEGY.md` + `dev/NER_PROMPT_SPEC.md`.
+
+## ⭐ VIỆC ĐẦU TIÊN PHIÊN MỚI (25/07): SINH LẠI GOLD THEO SPEC ĐÚNG
+Vừa phát hiện spec chính thức (§8a) — ta đã hiểu SAI lớn. Bản tốt nhất hiện tại **31.1438** (bản 11).
+**Kế hoạch sinh gold mới (spec-compliant):**
+1. **Nền:** bản 11 (`out/submitted/11_spec_both_31.1438.zip`) ĐÃ đúng: assertion 3 loại, bỏ mã triệu chứng,
+   mã ICD/RxNorm chuẩn. Concept 3 type (thuốc/bệnh/triệu chứng) đã curate kỹ (assertion duyệt tay 100 file).
+2. **THIẾU (đòn bẩy WER lớn nhất):** 2 type `TÊN_XÉT_NGHIỆM` + `KẾT_QUẢ_XÉT_NGHIỆM` — ta bỏ HOÀN TOÀN.
+   Note lâm sàng đầy "kali 6.3, creatinin 5.7, WBC 14.99, glucose 316..." → gold có, ta không trích → WER 65.73.
+   → **Fable 5 (phiên mới) trích thêm 2 type này cho 100 file** (dùng prompt `dev/NER_PROMPT_SPEC.md`).
+   Đây là recall ĐÚNG TYPE (không phải bẫy như trước) → giảm WER thật.
+3. **Cân nhắc:** KHÔNG cần vứt bản 11 (đã tốt). Chỉ THÊM xét nghiệm + kiểm assertions multi-label
+   (vd bệnh nền của người nhà = [isFamily,isHistorical]). Nếu muốn sạch tuyệt đối: NER lại toàn bộ bằng
+   prompt spec mới rồi gán mã + curate — nhưng tốn công, bản 11 đã là nền vững.
+4. Cập nhật `src/gold_vote.py` SYSTEM + `src/track2_prep.py` SYSTEM theo `dev/NER_PROMPT_SPEC.md` (5 type, 3 assertion).
+
+Chi tiết spec: §8a. Lịch sử điểm + bài học: `out/SCORES.md`. Guide assertion (cần cập nhật bỏ isUncertain/isHypothetical): `dev/ASSERTION_GUIDE.md`.
+
+---
+
+> (Phần dưới là trạng thái 24/07, một số chỗ đã cũ so với spec — tham chiếu.)
 
 ## 1. Đang ở đâu — điểm leaderboard (điểm hiển thị = raw×100, %)
 

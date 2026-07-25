@@ -78,3 +78,9 @@ Công thức: WER chỉ 0.3, J_assert+J_cand = 0.7. Concept thừa (rỗng mã, 
 | 25/07 13:11 | `submitted/10_cand_fix_30.6591.zip` | sửa 3 cụm mã ICD sai | **30.6591** ✅ | 65.7299 | 37.5484 | **22.7839** |
 Chỉ sửa 9 mã (thuyên tắc phổi Q35.9→I26.99, nấm bẹn B35.3→B35.6, G6PD D55.0) → J_cand +0.50 = +0.20 điểm!
 ⇒ **CANDIDATES là đòn bẩy LỚN.** Sửa mã ICD SAI cho cụm phổ biến ăn nhiều điểm. Audit sâu top cụm.
+
+## SPEC CHÍNH THỨC (25/07): 31.1438 (bản 11) — assertion đúng spec
+| 25/07 14:09 | `submitted/11_spec_both_31.1438.zip` | assertion 3 loại + bỏ mã triệu chứng | **31.1438** ✅ | 65.7299 | **39.164** | 22.7839 |
+- Bỏ isUncertain/isHypothetical (spec chỉ isNegated/isFamily/isHistorical) → **J_assert +1.6 = +0.48 điểm!**
+- Bỏ 970 mã R-code triệu chứng → J_cand BẤT BIẾN (hệ chấm lọc type: triệu chứng KHÔNG tính candidates).
+- WER chưa đổi ⇒ **ĐÒN BẨY LỚN CÒN LẠI: trích TÊN_XÉT_NGHIỆM + KẾT_QUẢ_XÉT_NGHIỆM** (ta bỏ hoàn toàn 2 type này).
