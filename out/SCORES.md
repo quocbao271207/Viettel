@@ -64,3 +64,12 @@ Pipeline hiện tại: xem `HANDOFF.md` §"Pipeline bản nộp KẾ TIẾP" + `
 ## Ghi chú
 - `baseline_all.json` = output NER pipeline rule (tham chiếu; nguồn chính giờ là `dev/votes/`).
 - Index SapBERT: `data/icd10_sapbert.pt` (220MB, KHÔNG push git — tái tạo bằng `src/test_sapbert.py`).
+
+## CHỐT: 30.4607 (bản 08) là TỐI ƯU Phase 1
+| 25/07 12:54 | `submitted/09_assert_sol_fable_30.3801.zip` | +216 concept (sol+fable dày) | **30.3801** ↓ | 65.6531 | 37.3509 | 22.1769 |
+
+**BÀI HỌC CUỐI — recall là BẪY:** thêm concept sol+fable giảm WER (65.73→65.65) NHƯNG J_assert
+(37.55→37.35) và J_cand (22.29→22.18) giảm nhiều hơn → điểm GIẢM 30.46→30.38.
+Công thức: WER chỉ 0.3, J_assert+J_cand = 0.7. Concept thừa (rỗng mã, assertion thô) hại > lợi.
+⇒ KHÔNG thêm concept nữa. **Bản 08 (30.4607) là trần Phase 1.** Đòn bẩy còn lại: CHẤT LƯỢNG mã
+(J_cand) + Track 2 (Qwen ≤9B, bắt buộc top-15).
