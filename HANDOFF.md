@@ -119,6 +119,22 @@ Nếu J_cand tăng: đòn bẩy tiếp = cải thiện ĐỘ CHÍNH XÁC mã ICD
 3. **KHÔNG cần mua:** OpenAI API (Codex lo GPT), Anthropic (phiên chat lo Claude). Chỉ Gemini (free) hoặc DeepSeek (~$2) nếu muốn voter thêm.
 4. **Phase 2:** distill gold → fine-tune/prompt Qwen3-8B trên Colab để pipeline ≤9B tái lập được.
 
+## 8a. SPEC OUTPUT CHÍNH THỨC (25/07) — SỬA HIỂU LẦM LỚN
+
+Ta đã hiểu SAI 3 điểm (ảnh hưởng lớn):
+1. **5 TYPE** (không phải 3): TRIỆU_CHỨNG, **TÊN_XÉT_NGHIỆM**, **KẾT_QUẢ_XÉT_NGHIỆM**, CHẨN_ĐOÁN, THUỐC.
+   → Ta BỎ QUA xét nghiệm (WBC, kali, creatinine, glucose...) = nguồn concept LỚN thiếu → WER cao.
+   Sai type = phạt KÉP (0đ cả 3 trục + tạo concept ma).
+2. **assertion CHỈ 3 loại**: `isNegated`, `isFamily`, `isHistorical` (KHÔNG có isUncertain/isHypothetical).
+   Là LIST multi-label (tối đa 3, vd "bố có tiền sử hen" = [isFamily, isHistorical]).
+   → 130 concept ta gán isUncertain/isHypothetical là SAI → gán ∅ (bản spec_assert).
+3. **candidates CHỈ cho CHẨN_ĐOÁN + THUỐC** (KHÔNG cho TRIỆU_CHỨNG/xét nghiệm).
+   → 970 mã R-code ta gán cho triệu chứng có thể THỪA → bỏ (bản spec_nocand_tri). ICD với bệnh, RxNorm với thuốc.
+
+Bản test (25/07): `spec_both.zip` (gộp) / `spec_assert.zip` / `spec_nocand_tri.zip`. Nộp đo tác động.
+**Việc lớn tiếp theo:** trích TÊN_XÉT_NGHIỆM + KẾT_QUẢ_XÉT_NGHIỆM (recall lớn, spec-compliant, KHÔNG phải bẫy
+vì đúng type gold có). Ví dụ spec: "WBC","NEUT%..." = TÊN_XÉT_NGHIỆM; "14,43","76,4" = KẾT_QUẢ_XÉT_NGHIỆM.
+
 ## 8b. FAQ CHÍNH THỨC BTC (ảnh 24/07 tối) — QUAN TRỌNG
 
 1. **Chấm điểm ĐẶC BIỆT chú trọng khả năng TÌM ĐỦ (recall).** → XÁC NHẬN hướng WER/giảm D đúng.
