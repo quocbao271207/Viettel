@@ -1,0 +1,3326 @@
+{
+ "2": [
+  {
+   "text": "Công thức máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "loạn thần • "
+  },
+  {
+   "text": "CRP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Công thức máu, "
+  },
+  {
+   "text": "máu lắng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu, CRP, "
+  },
+  {
+   "text": "Men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "• "
+  },
+  {
+   "text": "albumin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Men gan, "
+  },
+  {
+   "text": "Xét nghiệm nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "• "
+  },
+  {
+   "text": "Cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "• "
+  },
+  {
+   "text": "Siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "• "
+  },
+  {
+   "text": "ECG điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "• "
+  },
+  {
+   "text": "siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "định kỳ, "
+  }
+ ],
+ "3": [
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã được chụp "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kết quả "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tiến hành "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Chụp lại "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kết quả "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã được chụp "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kết quả "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Tiến hành "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Chụp lại "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kết quả "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ct sọ não: "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Chụp lại "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ct sọ não: "
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "4": [
+  {
+   "text": "Nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "Nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "test hơi thở h. pylori",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "để làm "
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tá tràng khi "
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nôn ra máu. "
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hồi tràng. "
+  },
+  {
+   "text": "xét nghiệm phân tìm cryptosporidium",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dương tính "
+  },
+  {
+   "text": "test hơi thở h. pylori",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "để làm "
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "xét nghiệm phân tìm cryptosporidium",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dương tính "
+  },
+  {
+   "text": "test hơi thở h. pylori",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "để làm "
+  }
+ ],
+ "5": [
+  {
+   "text": "tinh dịch đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm "
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lâm sàng như "
+  },
+  {
+   "text": "chụp tử cung vòi trứng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giải phẫu), "
+  },
+  {
+   "text": "xét nghiệm nội tiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vòi trứng), "
+  },
+  {
+   "text": "siêu âm buồng trứng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "béo phì, "
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện "
+  },
+  {
+   "text": "sinh thiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện "
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện "
+  },
+  {
+   "text": "sinh thiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện "
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "6": [
+  {
+   "text": "Chụp cắt lớp vi tính sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dưới nhện. "
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Các lần "
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "các lần "
+  },
+  {
+   "text": "Chụp cắt lớp vi tính (CT Scanner)",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mắt từng lúc."
+  },
+  {
+   "text": "Điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kỹ thuật"
+  },
+  {
+   "text": "WBC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đông máu:"
+  },
+  {
+   "text": "14.99 G/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "WBC : "
+  },
+  {
+   "text": "NEUT%",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "14.99 G/L "
+  },
+  {
+   "text": "82.9 %",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "NEUT% : "
+  },
+  {
+   "text": "HGB",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(Tăng) "
+  },
+  {
+   "text": "92 g/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(Hemoglobin): "
+  },
+  {
+   "text": "PT - INR",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "92 g/L "
+  },
+  {
+   "text": "1.05",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PT - INR: "
+  },
+  {
+   "text": "CT sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cận lâm sàng: "
+  }
+ ],
+ "7": [
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đau và cho "
+  }
+ ],
+ "8": [
+  {
+   "text": "chụp ct sọ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "băng nhóm oligoclonal",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "các "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: "
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "não tủy là "
+  },
+  {
+   "text": "chụp ct sọ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện: "
+  },
+  {
+   "text": "băng nhóm oligoclonal",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "các "
+  }
+ ],
+ "9": [
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đau và cho "
+  },
+  {
+   "text": "xét nghiệm máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phát hiện "
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hơn, đã "
+  }
+ ],
+ "10": [
+  {
+   "text": "monitor holter",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "siêu âm tim qua thành ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chỉ định "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "ecg",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  },
+  {
+   "text": "điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "monitor holter",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "11": [
+  {
+   "text": "Chụp cắt lớp vi tính sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dưới nhện. "
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Các lần "
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "các lần "
+  },
+  {
+   "text": "CT sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cận lâm sàng: "
+  }
+ ],
+ "12": [
+  {
+   "text": "Sinh thiết nội mạc tử cung",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "thủ thuật: "
+  }
+ ],
+ "15": [
+  {
+   "text": "Sinh thiết nội mạc tử cung",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "thủ thuật: "
+  }
+ ],
+ "18": [
+  {
+   "text": "Điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cận lâm sàng\n\n"
+  },
+  {
+   "text": "ECG",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Điện tâm đồ ("
+  },
+  {
+   "text": "Men tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Q bệnh lý\n\n"
+  },
+  {
+   "text": "Troponin I/T",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Men tim\n • "
+  },
+  {
+   "text": "CK-MB",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhồi máu)\n • "
+  },
+  {
+   "text": "Siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "CK-MB ↑\n\n"
+  },
+  {
+   "text": "Nghiệm pháp gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thất trái\n\n"
+  },
+  {
+   "text": "Chụp mạch vành",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "khi gắng sức\n\n"
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "có kết quả  "
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Được thực hiện "
+  },
+  {
+   "text": "lipase",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "boratory\n    - "
+  },
+  {
+   "text": "623",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tăng lên ở mức "
+  },
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - tăng "
+  },
+  {
+   "text": "tbr",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trước)\n    - "
+  },
+  {
+   "text": "1.0",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tbr là cao tới "
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- dương tính "
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh\n    - "
+  },
+  {
+   "text": "ct",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - chụp "
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trước)\n    - "
+  }
+ ],
+ "21": [
+  {
+   "text": "nội soi thực quản - dạ dày - tá tràng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Bệnh nhân được "
+  },
+  {
+   "text": "Chụp cộng hưởng từ mật tụy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "omeprazole.\n"
+  },
+  {
+   "text": "Xét nghiệm chức năng gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ống mật chủ.\n"
+  },
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cho thấy "
+  },
+  {
+   "text": "Xét nghiệm chức năng gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Xét nghiệm:"
+  },
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ghi nhận tăng "
+  }
+ ],
+ "22": [
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "viện: tăng "
+  },
+  {
+   "text": "tổng bilirubin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giảm mặc dù "
+  },
+  {
+   "text": "6.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lên đạt đỉnh "
+  },
+  {
+   "text": "ast",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm\n- "
+  },
+  {
+   "text": "421",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- ast "
+  },
+  {
+   "text": "alt",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ast 421\n- "
+  },
+  {
+   "text": "336",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- alt "
+  },
+  {
+   "text": "alp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alt 336\n- "
+  },
+  {
+   "text": "185",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- alp "
+  },
+  {
+   "text": "bilirubin toàn phần",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alp 185\n- "
+  },
+  {
+   "text": "0.9",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "toàn phần "
+  },
+  {
+   "text": "total bili",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phần 0.9\n- "
+  },
+  {
+   "text": "6.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lên đạt đỉnh "
+  },
+  {
+   "text": "bảng xét nghiệm viêm gan virus",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "đỉnh 6.7\n- "
+  },
+  {
+   "text": "ferritin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "à âm tính\n- "
+  },
+  {
+   "text": "ceruloplasmin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bình thường\n- "
+  },
+  {
+   "text": "siêu âm bụng có doppler",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "hình ảnh\n- "
+  },
+  {
+   "text": "chụp hida",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- âm tính "
+  },
+  {
+   "text": "ercp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chụp hida\n- "
+  },
+  {
+   "text": "ercp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện: "
+  },
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "khác\n- tăng "
+  }
+ ],
+ "23": [
+  {
+   "text": "chụp cắt lớp vi tính",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "áp so với "
+  },
+  {
+   "text": "ct",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vi tính ("
+  }
+ ],
+ "24": [
+  {
+   "text": "BC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tốt \n        "
+  },
+  {
+   "text": "5,38 G/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        BC "
+  },
+  {
+   "text": "N",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "5,38 G/l; "
+  },
+  {
+   "text": "51,4%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "G/l; N "
+  },
+  {
+   "text": "HBsAg",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "51,4%\n        "
+  },
+  {
+   "text": "(+)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBsAg "
+  },
+  {
+   "text": "Anti HBe",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBsAg (+), "
+  },
+  {
+   "text": "(-)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Anti HBe "
+  },
+  {
+   "text": "Anti HBc IgG",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBe (-)\n        "
+  },
+  {
+   "text": "(-)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Anti HBc IgG "
+  },
+  {
+   "text": "Anti HBc IgM",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBc IgG (-); "
+  },
+  {
+   "text": "(+)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Anti HBc IgM "
+  },
+  {
+   "text": "Bilirubin  toàn phần",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vào viện:\n        "
+  },
+  {
+   "text": "43 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "toàn phần: "
+  },
+  {
+   "text": "trực tiếp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "43 mmol/l; "
+  },
+  {
+   "text": "27 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trực tiếp: "
+  },
+  {
+   "text": "Ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mmol/l\n        "
+  },
+  {
+   "text": "5,9 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Ure: "
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "5,9 mmol/l; "
+  },
+  {
+   "text": "89 micromol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Creatinin: "
+  },
+  {
+   "text": "GOT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vào viện\n        "
+  },
+  {
+   "text": "542 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GOT: "
+  },
+  {
+   "text": "GPT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "542 U/l; "
+  },
+  {
+   "text": "628 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GPT: "
+  },
+  {
+   "text": "GGT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "628 U/l; "
+  },
+  {
+   "text": "234 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GGT: "
+  },
+  {
+   "text": "Chỉ số Deritis",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "234 U/l\n        "
+  },
+  {
+   "text": "< 1",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GOT/GPT "
+  },
+  {
+   "text": "Tỷ lệ prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Gần nhất:\n        "
+  },
+  {
+   "text": "55%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "prothrombin: "
+  }
+ ],
+ "25": [
+  {
+   "text": "cấy mẫu bệnh phẩm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dịch, gửi đi "
+  }
+ ],
+ "26": [
+  {
+   "text": "LDL-cholesterol",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vành:\n • "
+  },
+  {
+   "text": "LDL",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Kiểm soát "
+  },
+  {
+   "text": "< 1,8 mmol/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Kiểm soát LDL "
+  },
+  {
+   "text": "<70 mg/dL",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "L (hoặc "
+  }
+ ],
+ "27": [
+  {
+   "text": "chụp cắt lớp vi tính",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "áp so với "
+  },
+  {
+   "text": "ct",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vi tính ("
+  }
+ ],
+ "28": [
+  {
+   "text": "Siêu âm mạch máu chi trên",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(PICC).\n"
+  },
+  {
+   "text": "xạ hình thông khí - tưới máu phổi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "huyết khối, "
+  },
+  {
+   "text": "Siêu âm mạch máu chi trên",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cụ thể.\n"
+  },
+  {
+   "text": "Xạ hình thông khí – tưới máu phổi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "huyết khối.\n"
+  }
+ ],
+ "35": [
+  {
+   "text": "xét nghiệm gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "do nhập viện: "
+  },
+  {
+   "text": "xét nghiệm gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "khi nhập viện: "
+  }
+ ],
+ "36": [
+  {
+   "text": "Protein niệu 24h",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "       "
+  },
+  {
+   "text": "Protein máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "       "
+  },
+  {
+   "text": "Protein",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Protein máu:   "
+  },
+  {
+   "text": "52 g/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Protein: "
+  },
+  {
+   "text": "Albumin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "g/l; "
+  },
+  {
+   "text": "20 g/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Albumin: "
+  },
+  {
+   "text": "Triglycerid",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "       "
+  },
+  {
+   "text": "6,7 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Triglycerid:"
+  },
+  {
+   "text": "Xét nghiệm nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trên.   "
+  },
+  {
+   "text": "protein",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "nước tiểu "
+  },
+  {
+   "text": "HC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "(–), "
+  },
+  {
+   "text": "Trụ niệu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "HC (–)\n"
+  },
+  {
+   "text": "SA",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        "
+  },
+  {
+   "text": "Ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "suy thận: "
+  },
+  {
+   "text": "6,4 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Ure: "
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mmol/l; "
+  },
+  {
+   "text": "79 micromol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Creatinin: "
+  },
+  {
+   "text": "HC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thiếu máu: "
+  },
+  {
+   "text": "4,49 T/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HC: "
+  },
+  {
+   "text": "HST",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "T/l; "
+  },
+  {
+   "text": "103 g/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HST: "
+  },
+  {
+   "text": "Điện giải",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "       "
+  },
+  {
+   "text": "Na+",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Điện giải: "
+  },
+  {
+   "text": "141 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Na+: "
+  },
+  {
+   "text": "K+",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mmol/l; "
+  },
+  {
+   "text": "5 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "K+: "
+  },
+  {
+   "text": "Cl-",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mmol/l; "
+  },
+  {
+   "text": "106 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cl-: "
+  },
+  {
+   "text": "Ca++",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mmol/l; "
+  },
+  {
+   "text": "2 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Ca++: "
+  },
+  {
+   "text": "protein niệu 24h",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bệnh: "
+  },
+  {
+   "text": "protein máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "24h, "
+  },
+  {
+   "text": "albumin máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu, "
+  },
+  {
+   "text": "điện giải đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu, "
+  },
+  {
+   "text": "FNA",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhập viện: "
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  }
+ ],
+ "38": [
+  {
+   "text": "bạch cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "39.2",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tăng là "
+  },
+  {
+   "text": "creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "3.0",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "creatinin là "
+  },
+  {
+   "text": "troponin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "0.10",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "troponin là "
+  },
+  {
+   "text": "inr",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "1.4",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "inr là "
+  },
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- Tăng "
+  },
+  {
+   "text": "alt",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "với "
+  },
+  {
+   "text": "176",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alt là "
+  },
+  {
+   "text": "ast",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "176 và "
+  },
+  {
+   "text": "287",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ast là "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "39": [
+  {
+   "text": "huyết khối",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: "
+  },
+  {
+   "text": "26.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "huyết khối "
+  },
+  {
+   "text": "28",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ở mức "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "40": [
+  {
+   "text": "INR",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "K ("
+  },
+  {
+   "text": "15",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "INR "
+  },
+  {
+   "text": "Khí máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Xét nghiệm máu"
+  },
+  {
+   "text": "Khí máu động mạch",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Khí máu: "
+  },
+  {
+   "text": "Tổng phân tích tế bào máu ngoại vi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đông máu:\n"
+  },
+  {
+   "text": "Thời gian Thromboplastin một phần hoạt hóa",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đếm laser).\n"
+  },
+  {
+   "text": "aPTT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hoạt hóa ("
+  },
+  {
+   "text": "TCK",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "aPTT / "
+  },
+  {
+   "text": "Thời gian Prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tự động."
+  },
+  {
+   "text": "PT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Prothrombin ("
+  },
+  {
+   "text": "TQ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PT / "
+  },
+  {
+   "text": "Tỷ lệ Prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "TQ / "
+  },
+  {
+   "text": "Fibrinogen",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "Glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "Urê",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Glucose, "
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Urê, "
+  },
+  {
+   "text": "Điện giải đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu."
+  },
+  {
+   "text": "Na+",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giải đồ ("
+  },
+  {
+   "text": "K+",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Na+, "
+  },
+  {
+   "text": "cl-",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "K+, "
+  },
+  {
+   "text": "Men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cl-).\n"
+  },
+  {
+   "text": "AST",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hoạt độ "
+  },
+  {
+   "text": "GOT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "AST ("
+  },
+  {
+   "text": "ALT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": ") và "
+  },
+  {
+   "text": "GPT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ALT ("
+  },
+  {
+   "text": "CRP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "Troponin T",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "CRP và "
+  },
+  {
+   "text": "hs-Troponin T",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhạy ("
+  },
+  {
+   "text": "Chụp CT Bụng - Tiểu khung",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "03/07/2026)\n"
+  },
+  {
+   "text": "CRP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Miễn dịch: "
+  },
+  {
+   "text": "227.0 mg/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "CRP: "
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mg/L "
+  },
+  {
+   "text": "46 µmol/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Creatinin : "
+  },
+  {
+   "text": "Kali +",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "µmol/L "
+  },
+  {
+   "text": "3.6 mmol/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Kali +: "
+  }
+ ],
+ "41": [
+  {
+   "text": "số lượng bạch cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "12.5",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bạch cầu là "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "protein niệu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vếtvết "
+  },
+  {
+   "text": "troponin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "    - "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "43": [
+  {
+   "text": "men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hiện tăng "
+  },
+  {
+   "text": "bilirubin máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "với tăng "
+  },
+  {
+   "text": "ast",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu: "
+  },
+  {
+   "text": "421",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ast "
+  },
+  {
+   "text": "alt",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "421, "
+  },
+  {
+   "text": "336",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alt "
+  },
+  {
+   "text": "alp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "336, "
+  },
+  {
+   "text": "185",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alp "
+  },
+  {
+   "text": "bilirubin toàn phần",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "185, "
+  },
+  {
+   "text": "0.9",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "toàn phần "
+  },
+  {
+   "text": "siêu âm bụng có doppler",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "âm tính "
+  },
+  {
+   "text": "chụp hida",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "âm tính "
+  },
+  {
+   "text": "nồng độ acetaminophen",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "xét nghiệm "
+  }
+ ],
+ "44": [
+  {
+   "text": "Tổng phân tích tế bào máu ngoại vi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cần làm:\n"
+  },
+  {
+   "text": "Thời gian prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đếm laser); "
+  },
+  {
+   "text": "PT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "prothrombin ("
+  },
+  {
+   "text": "TQ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tên khác: "
+  },
+  {
+   "text": "Tỷ lệ Prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "TQ; "
+  },
+  {
+   "text": "Troponin Ths",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "NT - proBNP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "ProBNP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "proBNP ( "
+  },
+  {
+   "text": "AST",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đo hoạt độ "
+  },
+  {
+   "text": "GOT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "AST ("
+  },
+  {
+   "text": "ALT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đo hoạt độ "
+  },
+  {
+   "text": "GPT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ALT ("
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "Điện giải đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(máu); "
+  },
+  {
+   "text": "Na",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giải đồ ("
+  },
+  {
+   "text": "K",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Na, "
+  },
+  {
+   "text": "Cl",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Na, K, "
+  }
+ ],
+ "45": [
+  {
+   "text": "huyết khối",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: "
+  },
+  {
+   "text": "26.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "huyết khối "
+  },
+  {
+   "text": "28",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ở mức "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "47": [
+  {
+   "text": "Khí máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cận lâm sàng:\n"
+  },
+  {
+   "text": "Lactat",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Khí máu: "
+  },
+  {
+   "text": "0.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Lactat: "
+  },
+  {
+   "text": "HCO3",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "0.8    "
+  },
+  {
+   "text": "32.09",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HCO3: "
+  },
+  {
+   "text": "PO2",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "32.09    "
+  },
+  {
+   "text": "97.0",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PO2: "
+  },
+  {
+   "text": "PCO2",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "97.0    "
+  },
+  {
+   "text": "39",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PCO2: "
+  },
+  {
+   "text": "pH",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "39    "
+  },
+  {
+   "text": "7.517",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "pH: "
+  },
+  {
+   "text": "điện tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Ghi "
+  },
+  {
+   "text": "Lactat",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng "
+  },
+  {
+   "text": "0.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Lactic): "
+  },
+  {
+   "text": "HCO3",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "0.8    "
+  },
+  {
+   "text": "32.09",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HCO3: "
+  },
+  {
+   "text": "PO2",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "32.09    "
+  },
+  {
+   "text": "97.0",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PO2: "
+  },
+  {
+   "text": "PCO2",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "97.0    "
+  },
+  {
+   "text": "39",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PCO2: "
+  },
+  {
+   "text": "pH",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "39    "
+  },
+  {
+   "text": "7.517",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "pH: "
+  },
+  {
+   "text": "Siêu âm doper tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "7.517\n"
+  },
+  {
+   "text": "EF",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "("
+  },
+  {
+   "text": "55%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "EF BP: "
+  }
+ ],
+ "48": [
+  {
+   "text": "huyết khối",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: "
+  },
+  {
+   "text": "26.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "huyết khối "
+  },
+  {
+   "text": "28",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ở mức "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "53": [
+  {
+   "text": "Glucose máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ét nghiệm máu: "
+  },
+  {
+   "text": "13,2 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Glucose máu: "
+  },
+  {
+   "text": "XQ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "\n      "
+  },
+  {
+   "text": "kali máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thường - tăng "
+  },
+  {
+   "text": "Creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali máu và "
+  },
+  {
+   "text": "glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "CTM",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ét nghiệm lại "
+  },
+  {
+   "text": "SHM",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "CTM, "
+  },
+  {
+   "text": "XQ phổi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "SHM, chụp "
+  }
+ ],
+ "54": [
+  {
+   "text": "nipt",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "e có thể làm "
+  },
+  {
+   "text": "double test",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "e có thể làm "
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bé phải qua "
+  }
+ ],
+ "56": [
+  {
+   "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "Chụp động mạch vành",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "57": [
+  {
+   "text": "kali máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thường - tăng "
+  },
+  {
+   "text": "Creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali máu và "
+  },
+  {
+   "text": "glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bởi PCP: "
+  },
+  {
+   "text": "6.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali là "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nghiệm\n- "
+  },
+  {
+   "text": "6.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tan máu\n- "
+  },
+  {
+   "text": "8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- kali (k)."
+  },
+  {
+   "text": "ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "83",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ure (bun) "
+  },
+  {
+   "text": "creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "5.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "creatinine "
+  },
+  {
+   "text": "hemoglobin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "7.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hemoglobin "
+  },
+  {
+   "text": "hba1c",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "6.5",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hba1c "
+  },
+  {
+   "text": "bnp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "21,000",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bnp "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "58": [
+  {
+   "text": "kali máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thường - tăng "
+  },
+  {
+   "text": "Creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali máu và "
+  },
+  {
+   "text": "Glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        "
+  },
+  {
+   "text": "5,8 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Glucose: "
+  },
+  {
+   "text": "Cholesterol",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        "
+  },
+  {
+   "text": "4,7 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Cholesterol: "
+  },
+  {
+   "text": "Triglycerid",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "4,7 mmol/l, "
+  },
+  {
+   "text": "1,9mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Triglycerid: "
+  },
+  {
+   "text": "LDL - cholesterol",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        "
+  },
+  {
+   "text": "2,2 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cholesterol: "
+  },
+  {
+   "text": "HDL - cholesterol",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "2,2 mmol/l; "
+  },
+  {
+   "text": "2mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cholesterol: "
+  },
+  {
+   "text": "HbA1c",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "        "
+  },
+  {
+   "text": "7,5",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HbA1c: "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bởi PCP: "
+  },
+  {
+   "text": "6.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali là "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nghiệm\n- "
+  },
+  {
+   "text": "6.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kali "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tan máu\n- "
+  },
+  {
+   "text": "8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- kali (k)."
+  },
+  {
+   "text": "ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "83",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ure (bun) "
+  },
+  {
+   "text": "creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "5.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "creatinine "
+  },
+  {
+   "text": "hemoglobin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "7.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hemoglobin "
+  },
+  {
+   "text": "hba1c",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "6.5",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hba1c "
+  },
+  {
+   "text": "bnp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "21,000",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bnp "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "cúm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "59": [
+  {
+   "text": "lactate",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "1.1",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lactate "
+  },
+  {
+   "text": "0.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "1.1-->"
+  },
+  {
+   "text": "Cấy nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "marker viêm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chỉ số "
+  },
+  {
+   "text": "MRI",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "60": [
+  {
+   "text": "INR",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "do vào viện:, "
+  },
+  {
+   "text": "chỉ số đông máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phát hiện "
+  },
+  {
+   "text": "INR",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kết quả là "
+  },
+  {
+   "text": "1.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "INR "
+  }
+ ],
+ "62": [
+  {
+   "text": "số lượng bạch cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "12.5",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bạch cầu là "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "protein niệu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chỉ có vếtvết "
+  },
+  {
+   "text": "troponin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "    - "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "65": [
+  {
+   "text": "Nghiệm pháp gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cần thiết.\n"
+  }
+ ],
+ "66": [
+  {
+   "text": "cúm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: "
+  }
+ ],
+ "68": [
+  {
+   "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "Chụp động mạch vành",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "70": [
+  {
+   "text": "độ bão hòa oxy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thiếu oxy với "
+  },
+  {
+   "text": "86",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bão hòa oxy là "
+  },
+  {
+   "text": "độ bão hòa oxy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thiếu oxy với "
+  },
+  {
+   "text": "86",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bão hòa oxy là "
+  }
+ ],
+ "75": [
+  {
+   "text": "sinh thiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "77": [
+  {
+   "text": "Siêu âm ổ bụng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đầu gối phải\n"
+  },
+  {
+   "text": "Siêu âm Doppler tim, van tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "gan hai bên\n"
+  },
+  {
+   "text": "EF BP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giảm nhiều ("
+  },
+  {
+   "text": "28%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(EF BP: "
+  },
+  {
+   "text": "FAC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phải giảm ("
+  },
+  {
+   "text": "30%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(FAC: "
+  },
+  {
+   "text": "Chụp Xquang ngực thẳng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mạch phổi vừa.\n"
+  },
+  {
+   "text": "x-quang",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  },
+  {
+   "text": "chụp cắt lớp vi tính",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "81": [
+  {
+   "text": "xét nghiệm máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thì em đi "
+  }
+ ],
+ "82": [
+  {
+   "text": "Nội soi thực quản - dạ dày - tá tràng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "và thăm dò:"
+  },
+  {
+   "text": "Cộng hưởng từ mật tụy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "viêm dạ dày.\n"
+  },
+  {
+   "text": "Nội soi mật tụy ngược dòng (ERCP)",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hiện   :"
+  },
+  {
+   "text": "chụp cộng hưởng từ mật tụy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- "
+  }
+ ],
+ "85": [
+  {
+   "text": "hct",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "8.126.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(hematocrit) "
+  },
+  {
+   "text": "tiểu cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "478",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(platelets) "
+  },
+  {
+   "text": "hco3-",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "20",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(bicarbonate) "
+  },
+  {
+   "text": "ag",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "13",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(anion gap) "
+  },
+  {
+   "text": "bun/creatinine",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "316",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(đường huyết) "
+  },
+  {
+   "text": "lactate",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "1.3",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(acid lactat) "
+  },
+  {
+   "text": "ua",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- Kết quả "
+  },
+  {
+   "text": "12",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nước tiểu): "
+  },
+  {
+   "text": "bạch cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "12 "
+  },
+  {
+   "text": "vi khuẩn",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "cầu, không "
+  },
+  {
+   "text": "1",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vi khuẩn, "
+  },
+  {
+   "text": "hồng cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "1 "
+  },
+  {
+   "text": "nitrite",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "âm tính "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  },
+  {
+   "text": "chụp x-quang bàn chân phải",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - "
+  }
+ ],
+ "87": [
+  {
+   "text": "Thời gian prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Xét nghiệm: \n\n"
+  },
+  {
+   "text": "PT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "n prothrombin ("
+  },
+  {
+   "text": "TQ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(Các tên khác: "
+  },
+  {
+   "text": "Troponin Ths",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "; Định lượng "
+  },
+  {
+   "text": "AST",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "; Đo hoạt độ "
+  },
+  {
+   "text": "GOT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "t độ AST \n("
+  },
+  {
+   "text": "ALT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "T); Đo hoạt độ "
+  },
+  {
+   "text": "GPT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hoạt độ ALT ("
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định lượng \n"
+  },
+  {
+   "text": "Điện giải đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "atinin (máu); "
+  },
+  {
+   "text": "Glucose",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Định \nlượng "
+  },
+  {
+   "text": "NT - proBNP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "; Định lượng "
+  },
+  {
+   "text": "ProBNP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "T - proBNP ( \n"
+  },
+  {
+   "text": "Tổng phân tích tế bào máu ngoại vi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ProBNP); "
+  },
+  {
+   "text": "Siêu âm Doppler tim, van tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Siêu âm: \n"
+  },
+  {
+   "text": "Ghi điện tim cấp cứu tại giường",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Thủ thuật: "
+  }
+ ],
+ "89": [
+  {
+   "text": "xét nghiệm gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ý do nhập viện: "
+  },
+  {
+   "text": "điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ng cấp cứu\n- "
+  },
+  {
+   "text": "xét nghiệm gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hi nhập viện: "
+  },
+  {
+   "text": "nghiệm pháp gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ội khí quản ("
+  }
+ ],
+ "90": [
+  {
+   "text": "bạch cầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ét nghiệm\n    - "
+  },
+  {
+   "text": "26.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- bạch cầu "
+  },
+  {
+   "text": "bnp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "26.7\n    - "
+  },
+  {
+   "text": "4227",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - bnp "
+  },
+  {
+   "text": "kali",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "4227\n    - "
+  },
+  {
+   "text": "3.2",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - kali "
+  },
+  {
+   "text": "troponin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "3.2\n    - "
+  },
+  {
+   "text": "0.01",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- troponin "
+  },
+  {
+   "text": "lactate",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "0.01\n    - "
+  },
+  {
+   "text": "1.8",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- lactate "
+  },
+  {
+   "text": "tổng phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "1.8\n    - "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cấp tính \n    - "
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhất.\n    - "
+  },
+  {
+   "text": "cấy nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cấy máu 2 mẫu và "
+  }
+ ],
+ "92": [
+  {
+   "text": "Xquang ngực thẳng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ến bã nhờn\n- "
+  },
+  {
+   "text": "svo2",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hủ thuật:\n- "
+  },
+  {
+   "text": "82",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "\n- svo2 là "
+  },
+  {
+   "text": "cvp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trung tâm : đo "
+  },
+  {
+   "text": "6",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": ": đo cvp là "
+  }
+ ],
+ "93": [
+  {
+   "text": "chụp ct",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chẩn đoán hình ảnh: "
+  }
+ ],
+ "94": [
+  {
+   "text": "Siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ận lâm sàng\n   "
+  }
+ ],
+ "96": [
+  {
+   "text": "chụp cắt lớp vi tính (ct)",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hi nhập viện: "
+  },
+  {
+   "text": "80%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hấy tắc hẹp "
+  },
+  {
+   "text": "chụp cắt lớp vi tính (ct)",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "án hình ảnh: "
+  },
+  {
+   "text": "80%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hấy tắc hẹp "
+  }
+ ],
+ "97": [
+  {
+   "text": "Ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "áng chiều\n  "
+  },
+  {
+   "text": "69",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "  Ure tăng từ "
+  },
+  {
+   "text": "91 mg/dl",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "từ 69 lên "
+  },
+  {
+   "text": "24.6 -32.5 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "91 mg/dl ( "
+  },
+  {
+   "text": "photpho",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "2 tháng qua,  "
+  },
+  {
+   "text": "8.4",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "  photpho "
+  }
+ ],
+ "99": [
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "án hình ảnh: "
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "ấp tính so với "
+  },
+  {
+   "text": "xét nghiệm máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - Gửi "
+  },
+  {
+   "text": "cấy nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ệm máu và "
+  },
+  {
+   "text": "điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "uậ khác\n    - "
+  },
+  {
+   "text": "đường huyết lúc đói",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chậm xoang \n- "
+  }
+ ]
+}

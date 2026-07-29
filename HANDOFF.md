@@ -2,7 +2,29 @@
 
 > File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `STRATEGY.md` + `dev/NER_PROMPT_SPEC.md`.
 
-## ⭐ VIỆC ĐẦU TIÊN PHIÊN MỚI (25/07): SINH LẠI GOLD THEO SPEC ĐÚNG
+## ⭐ TRẠNG THÁI (25/07 16:17): BẢN 13 = 35.2306 — TỐT NHẤT HIỆN TẠI
+`out/submitted/13_gold_lab_fixes_35.2306.zip`. **2511 concept / 5 type.** Build:
+`python3 src/build_gold_lab.py --fixes dev/icd_fixes.json --afixes dev/assert_fixes.json`
++0.06 vs bản 12 (nguồn: J_assert 46.62→46.76 do relabel lab đúng chỗ; WER phẳng).
+**⚠️ PHÁT HIỆN: J_cand = 22.7839 ĐÓNG BĂNG qua 4 lần nộp (bản 10→13).** Sửa 4 mã ICD tần suất thấp KHÔNG dịch được J_cand.
+→ J_cand chỉ nhúc nhích khi sửa mã cụm TẦN SUẤT CAO + KHỚP span gold (bản 10). Hướng "sửa mã lẻ" ĐÃ CẠN.
+
+## ĐÒN BẨY (đã rà toàn bộ 25/07 chiều — "làm toàn bộ")
+1. **WER 59.70 (0.3) — CẠN phần an toàn.** Recall "thêm type thiếu" (xét nghiệm) đã ăn trọn. Phân tích mật độ:
+   không còn pocket lớn gold-có-mà-ta-thiếu; thêm concept existing-type = bẫy bản 09. (1 micro-fix: file 76 "MÀY đay"→"MÀY đay VÔ CĂN", bỏ qua vì ~0 tác động.)
+2. **Track 2 (Qwen ≤9B) — ĐÃ CHUẨN BỊ XONG, CHỜ COLAB GPU (việc lớn còn lại).**
+   - `python3 src/track2_prep.py && python3 src/track2_codes.py` → data 5 type + code_map (đã có).
+   - Train: upload `dev/track2/*.jsonl` + `colab/track2_train_qwen.py` lên Colab (Qwen2.5-7B QLoRA). Xem `colab/TRACK2_README.md`.
+   - Inference: `src/track2_infer.py --adapter qwen_ner_lora`. VERIFY offline: span 98.4%, code 100%.
+3. **J_cand 22.78 (0.4) — KHÓA.** Top-40 bệnh + top-20 thuốc đã ĐÚNG mã (verify). Đóng băng 4 lần nộp: đổi mã mù = 0 tín hiệu.
+   Headroom nằm sau match span gold (recall/ranh giới) — cần gold để đối chiếu. Đừng phí lượt nộp đổi mã lẻ.
+
+## (đã nộp 25/07 15:22) BẢN 12 = 35.1719 — thêm 2 type XÉT NGHIỆM (+4.03 điểm)
+`out/submitted/12_gold_lab_35.1719.zip`. Nền bản 11 + 487 concept xét nghiệm. WER 65.73→59.76 · J_assert 39.16→**46.62** · J_cand 22.78.
+- **BÀI HỌC LẬT NGƯỢC "recall là bẫy":** bẫy chỉ với concept TRÙNG type. Thêm concept ĐÚNG TYPE gold-có-mà-ta-thiếu = thắng đậm.
+- **ĐÒN BẨY CÒN (sau bản 13):** J_cand (audit sâu hơn top cụm chẩn đoán) · WER (rà ranh giới span xét nghiệm file nặng) · Track 2 (Qwen ≤9B).
+
+## (cũ) VIỆC ĐẦU TIÊN PHIÊN MỚI (25/07): SINH LẠI GOLD THEO SPEC ĐÚNG
 Vừa phát hiện spec chính thức (§8a) — ta đã hiểu SAI lớn. Bản tốt nhất hiện tại **31.1438** (bản 11).
 **Kế hoạch sinh gold mới (spec-compliant):**
 1. **Nền:** bản 11 (`out/submitted/11_spec_both_31.1438.zip`) ĐÃ đúng: assertion 3 loại, bỏ mã triệu chứng,

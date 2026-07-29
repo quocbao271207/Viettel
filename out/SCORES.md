@@ -84,3 +84,63 @@ Chỉ sửa 9 mã (thuyên tắc phổi Q35.9→I26.99, nấm bẹn B35.3→B35.
 - Bỏ isUncertain/isHypothetical (spec chỉ isNegated/isFamily/isHistorical) → **J_assert +1.6 = +0.48 điểm!**
 - Bỏ 970 mã R-code triệu chứng → J_cand BẤT BIẾN (hệ chấm lọc type: triệu chứng KHÔNG tính candidates).
 - WER chưa đổi ⇒ **ĐÒN BẨY LỚN CÒN LẠI: trích TÊN_XÉT_NGHIỆM + KẾT_QUẢ_XÉT_NGHIỆM** (ta bỏ hoàn toàn 2 type này).
+
+## ✅ ĐỘT PHÁ LỚN NHẤT: 35.1719 (bản 12) — thêm 2 type XÉT NGHIỆM
+| 25/07 15:22 | `submitted/12_gold_lab_35.1719.zip` | +487 concept xét nghiệm | **35.1719** ✅ | **59.7635** | **46.6245** | 22.7839 |
+Nhảy **+4.03 điểm** (31.14→35.17) — bước nhảy lớn nhất từ trước tới nay. Dự đoán ĐÚNG cả 3 trục:
+- **WER 65.73→59.76 (−5.97):** recall 2 type gold CÓ mà ta thiếu hẳn → giảm WER mạnh (đúng đòn bẩy §8a).
+- **J_assert 39.16→46.62 (+7.46!):** concept xét nghiệm assertion=[] KHỚP gold → Jaccard assertion tăng vọt (bất ngờ tốt).
+- **J_cand 22.78→22.78 (BẤT BIẾN):** xác nhận hệ chấm LỌC candidates theo type — xét nghiệm rỗng mã không đụng J_cand.
+- **BÀI HỌC MỚI (lật lại "recall là bẫy"):** bẫy CHỈ áp cho concept TRÙNG type đã có (bản 09). Thêm concept
+  ĐÚNG TYPE mà gold có nhưng ta thiếu = thắng đậm cả WER lẫn J_assert. Recall đúng type >> mọi thứ khác.
+- Đòn bẩy còn: WER vẫn 59.76 (còn ~40 ca lab bị drop + ranh giới span) · **J_cand 22.78 (trọng số 0.4, nhiều headroom nhất)**.
+
+## (đã nộp — xem trên) GOLD MỚI: thêm 2 type XÉT NGHIỆM — `out/candidates/gold_lab.zip`
+Nền bản 11 (2006 concept, 3 type, giữ NGUYÊN text/assert/candidates/pos) + **487 concept xét nghiệm** trích
+bằng Fable 5 (6 subagent song song, spec §8a). Tổng **2493 concept / 5 type**:
+CHẨN_ĐOÁN 810 · TRIỆU_CHỨNG 970 · THUỐC 226 · **TÊN_XÉT_NGHIỆM 362 · KẾT_QUẢ_XÉT_NGHIỆM 125**.
+- Build: `python3 src/build_gold_lab.py` (định vị before+text; fuzzy hoa-thường/khoảng trắng; **cứu toàn cục
+  45 ca subagent gán nhầm số file** → dò before+text trên cả 100 file, chỉ nhận khi khớp DUY NHẤT 1 file).
+- Verify: 0 vị trí sai (`raw[s:e]==text` toàn bộ), assertion chỉ {isNegated,isHistorical,isFamily},
+  xét nghiệm KHÔNG có candidates (đúng spec). 40 ca mơ hồ/hallucinate bị DROP an toàn (không chèn sai file).
+- **Kỳ vọng:** WER giảm (recall 2 type gold CÓ mà ta thiếu hẳn). J_cand BẤT BIẾN (hệ chấm lọc candidates
+  theo type — đã chứng minh với mã R triệu chứng ở bản 11). Khác với bẫy bản 09 (thêm concept TRÙNG type).
+- **RỦI RO:** ranh giới span xét nghiệm chưa chuẩn 100% có thể làm WER lệch. → NỘP ĐO 1 lượt để xác nhận.
+
+## BẢN 13 (CHỜ NỘP): sửa lab gán nhầm file + 4 mã ICD + 1 assertion — `out/candidates/13_gold_lab_fixes.zip`
+Nền bản 12 (35.1719), 3 cải tiến (build: `python3 src/build_gold_lab.py --fixes dev/icd_fixes.json --afixes dev/assert_fixes.json`):
+1. **WER — sửa lab batch_03 GÁN NHẦM SỐ FILE (dịch khóa):** subagent trích đúng nội dung nhưng gán lệch file trong
+   cụm văn bản giống nhau. Relabel `43→44, 44→45, 45→47, 47→46`; xóa lab hallucinate ở 41/43/48 (trùng nội dung
+   file 62/44/47). Lab định vị **487→505** (+18 đúng vị trí), ca drop **40→12**. Panel phục hồi: file 44 (ast 421/alt 336/alp),
+   file 45 (Tổng phân tích tế bào máu + PT/Troponin/NT-proBNP/AST/ALT/Creatinin/điện giải), file 46 (khí máu Lactat/HCO3/PO2/pH + EF).
+2. **J_cand — sửa 4 mã ICD sai rõ (9 concept)** (audit toàn bộ 366 cặp, đối chiếu nghĩa tiếng Anh, verify mã tồn tại):
+   tổn thương âm hộ P11.5→N90.9 · đau thắt ngực ổn định G43.D1→I20.9 · tai biến mạch máu não M31.9→I63.9 · tràn dịch màng tim J94.0→I31.39.
+3. **J_assert — 1 multi-label:** file 24 "viêm gan B" trong "Tiền sử gia đình: KHÔNG AI bị" → [isFamily,isNegated].
+Tổng **2511 concept / 5 type**. Verify: 0 vị trí sai, 0 vi phạm schema, xét nghiệm không mã, assertion hợp lệ. (overlap "phù"⊂"phù phổi cấp" có sẵn nền bản 11.)
+**VIỆC: nộp `13_gold_lab_fixes.zip` — kỳ vọng WER↓ (lab đặt đúng chỗ) + J_cand↑ (4 mã).**
+
+## BẢN 13 = 35.2306 (đã nộp 25/07 16:17) — +0.06, và PHÁT HIỆN J_cand ĐÓNG BĂNG
+`submitted/13_gold_lab_fixes_35.2306.zip`. WER 59.7635→**59.7049** · J_assert 46.6245→**46.7616** · J_cand **22.7839 (Y HỆT)**.
+- Điểm +0.0587, nguồn tăng CHÍNH = **J_assert +0.137** (18 concept lab đặt đúng chỗ sau relabel, assertion=[] khớp gold). WER gần phẳng.
+- **⚠️ PHÁT HIỆN LỚN: J_cand = 22.7839 Y HỆT qua 4 lần nộp (bản 10→11→12→13).** 4 mã ICD sửa (âm hộ/đau thắt ngực/
+  tai biến/tràn dịch màng tim, tần suất 1-4) KHÔNG dịch được J_cand 1 chút nào ở 4 chữ số.
+- **DIỄN GIẢI:** bản 10 sửa mã ăn +0.50 J_cand vì đó là cụm TẦN SUẤT CAO + KHỚP span gold (thuyên tắc phổi/nấm bẹn/G6PD).
+  Nghi J_cand chỉ tính trên concept KHỚP span gold; concept chẩn đoán tần suất thấp hoặc lệch ranh giới span → sửa mã VÔ ÍCH.
+- **HỆ QUẢ CHIẾN LƯỢC:** muốn dịch J_cand phải (a) sửa mã cho cụm chẩn đoán TẦN SUẤT CAO mà ta đang sai (top list phần lớn đã đúng),
+  HOẶC (b) khớp RANH GIỚI span chẩn đoán với gold (nếu đang lệch thì candidates không bao giờ được chấm). Đòn bẩy J_cand đã cạn ở hướng "sửa mã lẻ".
+- **Đòn bẩy còn thực sự:** WER 59.70 (trọng số 0.3, thêm recall ĐÚNG type gold-có) · Track 2 (Qwen ≤9B, bắt buộc top-15).
+
+## ĐÒN BẨY 2 & 3 (25/07 chiều, phiên "làm toàn bộ") — KẾT LUẬN
+### Track 2 (Qwen ≤9B) — ĐÃ CHUẨN BỊ XONG, chờ Colab GPU
+- Regenerate data từ gold bản 13: `dev/track2/{train,dev}.jsonl` = 2511 concept / **5 type** / assertions LIST spec §8a.
+- `dev/track2/code_map.json` = bảng tra text→ICD/RxNorm (366 bệnh + 67 thuốc) từ gold — gán mã inference (không LLM, hợp lệ ≤9B).
+- Scripts cập nhật: `track2_prep.py` (5 type + before), `track2_codes.py` (mới), `track2_infer.py` (locate robust + gán mã + sampling), `track2_train_qwen.py` (max_seq 4096→8192).
+- **VERIFY offline (không GPU):** giả lập Qwen sinh đúng nhãn gold → span match **2471/2511 = 98.4%**, code match **1017/1017 = 100%**.
+  ⇒ pipeline inference ĐÚNG; nếu Qwen học lại được nhãn → self-host ≈ bản 13. Việc còn: train trên Colab (GPU của user).
+
+### J_cand — KHÓA (không phá được nếu không có gold)
+- Đã audit + verify: **top-40 chẩn đoán ĐÚNG mã, top-20 thuốc ĐÚNG RxNorm** (gleevec→imatinib, tylenol→161...).
+- J_cand = 22.7839 đóng băng 4 lần nộp: sửa 9 mã (bản 13) → J_cand Y HỆT 4 chữ số ⇒ 9 concept đó KHÔNG nằm trong
+  tập KHỚP gold (span lệch/gold không có). J_cand chỉ chấm trên concept KHỚP span gold.
+- ⇒ Headroom J_cand nằm sau (a) match thêm concept bệnh/thuốc của gold (recall — rủi ro như bản 09), hoặc
+  (b) khớp ranh giới span. **Đổi mã mù = 0 tín hiệu, phí lượt nộp.** Dừng hướng này cho tới khi có gold để đối chiếu.

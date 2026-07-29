@@ -1,0 +1,6 @@
+[
+  {"text":"tổn thương vùng âm hộ và mông bên phải","old":"P11.5","new":"N90.9","gloss_new":"Noninflammatory disorder of vulva and perineum, unspecified","reason":"P11.5 là chấn thương sản khoa cột sống sơ sinh, hoàn toàn sai; tổn thương âm hộ dùng N90.9 (khớp các dòng tương tự trong dữ liệu)"},
+  {"text":"đau thắt ngực ổn định","old":"G43.D1","new":"I20.9","gloss_new":"Angina pectoris, unspecified","reason":"G43.D1 là abdominal migraine, sai hẳn; đau thắt ngực = angina pectoris I20.9"},
+  {"text":"tai biến mạch máu não","old":"M31.9","new":"I63.9","gloss_new":"Cerebral infarction, unspecified","reason":"M31.9 là bệnh mạch máu hoại tử (vasculopathy), sai; tai biến mạch máu não = đột quỵ, dùng I63.9 (khớp dòng 'đột quỵ')"},
+  {"text":"tràn dịch màng tim","old":"J94.0","new":"I31.39","gloss_new":"Other pericardial effusion (noninflammatory)","reason":"J94.0 là chylous (màng phổi), sai; tràn dịch màng ngoài tim = I31.39 (khớp dòng 'tràn dịch màng ngoài tim')"}
+]

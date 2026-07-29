@@ -1,0 +1,4 @@
+[
+  {"file":"24","pos":[1578,1588],"text":"viêm gan B","assertions":["isFamily","isNegated"],
+   "reason":"'Tiền sử gia đình: không ai bị nhiễm virus viêm gan B' = family history PHỦ ĐỊNH -> multi-label"}
+]

@@ -38,8 +38,8 @@ trainer = SFTTrainer(
     model=model, tokenizer=tok,
     train_dataset=ds["train"], eval_dataset=ds["dev"],
     args=SFTConfig(
-        output_dir="qwen_ner_lora", max_seq_length=4096,
-        per_device_train_batch_size=1, gradient_accumulation_steps=8,
+        output_dir="qwen_ner_lora", max_seq_length=8192,  # file dài nhất ~6k token (không cắt nhãn)
+        per_device_train_batch_size=1, gradient_accumulation_steps=8,  # T4 OOM -> giảm max_seq_length hoặc dùng L4/A100
         num_train_epochs=6, learning_rate=2e-4, warmup_ratio=0.05,
         logging_steps=5, eval_strategy="epoch", save_strategy="epoch",
         bf16=True, gradient_checkpointing=True, report_to="none"),
