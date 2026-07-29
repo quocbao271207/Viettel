@@ -70,8 +70,22 @@ def main() -> None:
         if stem not in raws or typ not in TYPES:
             dropped["file/type sai"] += 1
             continue
+        # Bài học bản 15 (−0.075): cụm 1 âm tiết ngắn ("đau", "nang", "sẹo") nằm DƯỚI ngưỡng
+        # hoà vốn — J phạt dự đoán thừa nhiều hơn phần WER kiếm được. Type xét nghiệm được
+        # miễn trừ vì viết tắt ("HA", "PT") là tên xét nghiệm hợp lệ và lab luôn ăn điểm.
+        if typ not in {"TÊN_XÉT_NGHIỆM", "KẾT_QUẢ_XÉT_NGHIỆM"} and len(text.split()) < 2 and len(text) < 5:
+            dropped["cụm 1 âm tiết ngắn"] += 1
+            continue
         taken = [tuple(c["position"]) for c in base[stem]]
-        pos = locate(raws[stem], text, item.get("before", ""), taken)
+        if item.get("start") is not None:
+            # ứng viên đã có offset sẵn (quét bằng script, không phải LLM đoán)
+            s = int(item["start"])
+            pos = (s, s + len(text))
+            if raws[stem][s:pos[1]] != text or any(min(pos[1], b) > max(s, a) for a, b in taken):
+                dropped["offset sai/chồng lấn"] += 1
+                continue
+        else:
+            pos = locate(raws[stem], text, item.get("before", ""), taken)
         if pos is None:
             dropped["không định vị được"] += 1
             continue

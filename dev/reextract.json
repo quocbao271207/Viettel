@@ -1,0 +1,1010 @@
+[
+ {
+  "file": "48",
+  "text": "đo âm tai",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "n bên ngoài và "
+ },
+ {
+  "file": "48",
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "m thấy thật sự "
+ },
+ {
+  "file": "48",
+  "text": "vành tai không phát triển đều",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "i ko có lỗ kia "
+ },
+ {
+  "file": "48",
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "nhìn. Mình rất "
+ },
+ {
+  "file": "48",
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " chia sẻ về sự "
+ },
+ {
+  "file": "48",
+  "text": "đo thính lực",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "tuổi đã có thể "
+ },
+ {
+  "file": "76",
+  "text": "chấn thương",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "ừng lại vì một "
+ },
+ {
+  "file": "83",
+  "text": "giảm cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ều lần cố gắng "
+ },
+ {
+  "file": "83",
+  "text": "tăng cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ng giảm cân và "
+ },
+ {
+  "file": "37",
+  "text": "đo âm tai",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "n bên ngoài và "
+ },
+ {
+  "file": "37",
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "m thấy thật sự "
+ },
+ {
+  "file": "37",
+  "text": "vành tai không phát triển đều",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "i ko có lỗ kia "
+ },
+ {
+  "file": "37",
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "nhìn. Mình rất "
+ },
+ {
+  "file": "37",
+  "text": "đo thính lực",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "tuổi đã có thể "
+ },
+ {
+  "file": "96",
+  "text": "da chết",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " khô và nhiều  "
+ },
+ {
+  "file": "96",
+  "text": "vitamin C",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "c phẩm có chưa "
+ },
+ {
+  "file": "61",
+  "text": "Implanon",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "hương pháp cấy "
+ },
+ {
+  "file": "61",
+  "text": "khó khăn khi ra khỏi giường",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ngày, kèm theo "
+ },
+ {
+  "file": "61",
+  "text": "khó khăn khi ra khỏi giường",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ỏi\n- mệt mỏi\n- "
+ },
+ {
+  "file": "61",
+  "text": "rỉ máu âm đạo",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "hông thường là "
+ },
+ {
+  "file": "61",
+  "text": "kinh nguyệt thưa",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " tuần sau cấy, "
+ },
+ {
+  "file": "52",
+  "text": "ngứa",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ất khó chịu và "
+ },
+ {
+  "file": "52",
+  "text": "quá liều",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ],
+  "before": " 2 lần tự tửdo "
+ },
+ {
+  "file": "52",
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "an sát thấy. "
+ },
+ {
+  "file": "28",
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": " sau không gây "
+ },
+ {
+  "file": "28",
+  "text": "chụp cộng hưởng từ (mri) cột sống cổ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " quả chụp ảnh: "
+ },
+ {
+  "file": "28",
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "an sát thấy. "
+ },
+ {
+  "file": "93",
+  "text": "đo HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ám sức khỏe có "
+ },
+ {
+  "file": "93",
+  "text": "160/70 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ỏe có đo HA là "
+ },
+ {
+  "file": "93",
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "u đó đo lại là "
+ },
+ {
+  "file": "93",
+  "text": "170/60 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " đo lại là HA: "
+ },
+ {
+  "file": "93",
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "lại lần nữa là "
+ },
+ {
+  "file": "93",
+  "text": "150/60 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ần nữa là HA:  "
+ },
+ {
+  "file": "93",
+  "text": "hoang mang",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "m cảm thấy rất "
+ },
+ {
+  "file": "93",
+  "text": "chưa phát hiện bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "nh ảnh: chụp ct"
+ },
+ {
+  "file": "13",
+  "text": "chảy máu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " tay nhưng bị "
+ },
+ {
+  "file": "13",
+  "text": "vaccine phòng dại",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "bệnh bằng tiêm "
+ },
+ {
+  "file": "16",
+  "text": "chảy máu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " tay nhưng bị "
+ },
+ {
+  "file": "20",
+  "text": "chảy máu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " tay nhưng bị "
+ },
+ {
+  "file": "20",
+  "text": "Da niêm mạc hồng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "rong đại não, \n"
+ },
+ {
+  "file": "20",
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "máu \nKhám thấy\n"
+ },
+ {
+  "file": "20",
+  "text": "130/76 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " thấy\nHuyết áp:"
+ },
+ {
+  "file": "20",
+  "text": "Mạch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "áp:130/76 mmHg\n"
+ },
+ {
+  "file": "20",
+  "text": "93 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "/76 mmHg\nMạch: "
+ },
+ {
+  "file": "20",
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "g\nMạch: 93 l/p\n"
+ },
+ {
+  "file": "20",
+  "text": "36.3 độ C",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "l/p\nNhiệt độ : "
+ },
+ {
+  "file": "20",
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "độ : 36.3 độ C\n"
+ },
+ {
+  "file": "20",
+  "text": "14 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "độ C\nNhịp thở: "
+ },
+ {
+  "file": "20",
+  "text": "SPO2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "p thở: 14 l/p \n"
+ },
+ {
+  "file": "20",
+  "text": "99 %",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " 14 l/p \nSPO2: "
+ },
+ {
+  "file": "20",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "enhưng vẫn còn "
+ },
+ {
+  "file": "20",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "  lorazepam đỡ "
+ },
+ {
+  "file": "100",
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "18 em có làm "
+ },
+ {
+  "file": "71",
+  "text": "nổi mẩn ở vùng lưng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "dõi tình trạng "
+ },
+ {
+  "file": "71",
+  "text": "nổi mẩn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " của những vết "
+ },
+ {
+  "file": "71",
+  "text": "nổi sần",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "n trước hay có "
+ },
+ {
+  "file": "71",
+  "text": "nổi mẩn vùng lưng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "giờ tình trạng "
+ },
+ {
+  "file": "19",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ng tylenol cho "
+ },
+ {
+  "file": "19",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "òng cấp cứu vì "
+ },
+ {
+  "file": "19",
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " nghiêm trọng: "
+ },
+ {
+  "file": "19",
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "an sát thấy. "
+ },
+ {
+  "file": "19",
+  "text": "sinh thiết",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ch tổn thương "
+ },
+ {
+  "file": "19",
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": " sau không gây "
+ },
+ {
+  "file": "55",
+  "text": "đo HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ám sức khỏe có "
+ },
+ {
+  "file": "55",
+  "text": "160/70 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ỏe có đo HA là "
+ },
+ {
+  "file": "55",
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "u đó đo lại là "
+ },
+ {
+  "file": "55",
+  "text": "170/60 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " đo lại là HA: "
+ },
+ {
+  "file": "55",
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "lại lần nữa là "
+ },
+ {
+  "file": "55",
+  "text": "150/60 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ần nữa là HA:  "
+ },
+ {
+  "file": "55",
+  "text": "hoang mang",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "m cảm thấy rất "
+ },
+ {
+  "file": "55",
+  "text": "Sinh thiết tuyến tiền liệt",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ],
+  "before": "RUE AVF)\n    - "
+ },
+ {
+  "file": "56",
+  "text": "dị tật cố định vùng trước vách và vách dưới",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": " xạ kết quả có "
+ },
+ {
+  "file": "56",
+  "text": "nôn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " cảm giác buồn "
+ },
+ {
+  "file": "56",
+  "text": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "nôn. Trước kia "
+ },
+ {
+  "file": "56",
+  "text": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "m chuyên khoa, "
+ },
+ {
+  "file": "41",
+  "text": "da rất nhiều dầu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ăm nay 15 tuổi "
+ },
+ {
+  "file": "41",
+  "text": "mụn ở trán",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "ụn trở lại gồm "
+ },
+ {
+  "file": "41",
+  "text": "mụn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": " nào để da hết "
+ },
+ {
+  "file": "41",
+  "text": "Mụn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "của bác sĩ:\n\n1."
+ },
+ {
+  "file": "41",
+  "text": "nang",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ủ, nốt sần, và "
+ },
+ {
+  "file": "41",
+  "text": "trứng cá",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "ng là điều trị "
+ },
+ {
+  "file": "41",
+  "text": "sẹo",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "m mức độ bệnh, "
+ },
+ {
+  "file": "88",
+  "text": "chụp đường mật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ],
+  "before": "- Đã can thiệp "
+ },
+ {
+  "file": "88",
+  "text": "chụp chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ện\n    Kết quả "
+ },
+ {
+  "file": "88",
+  "text": "chụp chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ước so với lần "
+ },
+ {
+  "file": "88",
+  "text": "ổ dịch trong ổ bụng",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ],
+  "before": " vì sốt và các "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " (thỉnh thoảng "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "hư em không bị "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "y không còn bị "
+ },
+ {
+  "file": "9",
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ụng râm ran và "
+ },
+ {
+  "file": "9",
+  "text": "ói",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "dù em ăn nhiêu "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ến 12h đêm. Em "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "hân tay vì quá "
+ },
+ {
+  "file": "9",
+  "text": "giảm đau",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "ch cho em liều "
+ },
+ {
+  "file": "9",
+  "text": "4mm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " có 1 viên sỏi "
+ },
+ {
+  "file": "9",
+  "text": "ứ nước",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "mm nhưng không "
+ },
+ {
+  "file": "9",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "à lý do làm em "
+ },
+ {
+  "file": "9",
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "******* 2. Các "
+ },
+ {
+  "file": "9",
+  "text": "Nhôm hydroxid",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": " thai như sau:\n"
+ },
+ {
+  "file": "9",
+  "text": "ý thúc chậm hơn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " nay xuất hiện "
+ },
+ {
+  "file": "9",
+  "text": "chưa phát hiện bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " ở tuyến trước "
+ },
+ {
+  "file": "94",
+  "text": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "nôn. Trước kia "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " (thỉnh thoảng "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "hư em không bị "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "y không còn bị "
+ },
+ {
+  "file": "7",
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ụng râm ran và "
+ },
+ {
+  "file": "7",
+  "text": "ói",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "dù em ăn nhiêu "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ến 12h đêm. Em "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "hân tay vì quá "
+ },
+ {
+  "file": "7",
+  "text": "giảm đau",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "ch cho em liều "
+ },
+ {
+  "file": "7",
+  "text": "4mm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " có 1 viên sỏi "
+ },
+ {
+  "file": "7",
+  "text": "ứ nước",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "mm nhưng không "
+ },
+ {
+  "file": "7",
+  "text": "đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "à lý do làm em "
+ },
+ {
+  "file": "7",
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "******* 2. Các "
+ },
+ {
+  "file": "7",
+  "text": "Nhôm hydroxid",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": " thai như sau:\n"
+ },
+ {
+  "file": "7",
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " kĩ hơn về các "
+ },
+ {
+  "file": "59",
+  "text": "da rất nhiều dầu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "ăm nay 18 tuổi "
+ },
+ {
+  "file": "59",
+  "text": "mụn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "áu bắt đầu lên "
+ },
+ {
+  "file": "59",
+  "text": "mụn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "ụn trở lại gồm "
+ },
+ {
+  "file": "59",
+  "text": "mụn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "i gian lên lại "
+ },
+ {
+  "file": "59",
+  "text": "nước tiểu có cặn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": "òn sonde tiểu, "
+ },
+ {
+  "file": "59",
+  "text": "các vi khuẩn hỗn hợp",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "g tiết niệu có "
+ },
+ {
+  "file": "59",
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "xu hướng tăng \n"
+ },
+ {
+  "file": "59",
+  "text": "Sừng hóa nang lông bất thường",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "g tủy nặng hơn\n"
+ },
+ {
+  "file": "59",
+  "text": "Viêm tại chỗ",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": " khuẩn C. acne\n"
+ },
+ {
+  "file": "67",
+  "text": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "nôn. Trước kia "
+ },
+ {
+  "file": "35",
+  "text": "bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ghiệm gắng sức "
+ },
+ {
+  "file": "35",
+  "text": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "m chuyên khoa, "
+ },
+ {
+  "file": "35",
+  "text": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [],
+  "before": "nôn. Trước kia "
+ },
+ {
+  "file": "69",
+  "text": "buồn chán",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [],
+  "before": " bè trêu chọc, "
+ },
+ {
+  "file": "69",
+  "text": "dị ứng",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": "đều không phải "
+ },
+ {
+  "file": "5",
+  "text": "thuốc tránh thai",
+  "type": "THUỐC",
+  "assertions": [],
+  "before": "bạn thưa, uống "
+ },
+ {
+  "file": "5",
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " sinh thiết và "
+ },
+ {
+  "file": "5",
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ày] và kết quả "
+ },
+ {
+  "file": "5",
+  "text": "tế bào bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": " chải cho thấy "
+ },
+ {
+  "file": "5",
+  "text": "tế bào bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "i cho thấy các "
+ },
+ {
+  "file": "5",
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ng thí nghiệm: "
+ },
+ {
+  "file": "14",
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "an sát thấy. "
+ },
+ {
+  "file": "14",
+  "text": "sinh thiết",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [],
+  "before": "ch tổn thương "
+ },
+ {
+  "file": "14",
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ],
+  "before": " sau không gây "
+ }
+]
