@@ -1,0 +1,2363 @@
+[
+ {
+  "id": 0,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 1,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 2,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 3,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 4,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 5,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 6,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 7,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 8,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 9,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 10,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 11,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 12,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 13,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 14,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 15,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 16,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 17,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 18,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 19,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 20,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 21,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 22,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 23,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 24,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 25,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 26,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 27,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 28,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 29,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 30,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 31,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 32,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 33,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 34,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 35,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 36,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 37,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 38,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 39,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 40,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 41,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 42,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 43,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 44,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 45,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 46,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 47,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 48,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 49,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 50,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 51,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 52,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 53,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 54,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 55,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 56,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 57,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 58,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 59,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 60,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 61,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 62,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 63,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 64,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 65,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 66,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 67,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 68,
+  "keep": false,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 69,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 70,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 71,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 72,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 73,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 74,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 75,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 76,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 77,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 78,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 79,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 80,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 81,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 82,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 83,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 84,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 85,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 86,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 87,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 88,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 89,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 90,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 91,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 92,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 93,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 94,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 95,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 96,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 97,
+  "keep": false,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 98,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 99,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 100,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 101,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 102,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 103,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 104,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 105,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 106,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 107,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 108,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 109,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 110,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 111,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 112,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 113,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 114,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 115,
+  "keep": false,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 116,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 117,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 118,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 119,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 120,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 121,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 122,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 123,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 124,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 125,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 126,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 127,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 128,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 129,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 130,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 131,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 132,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 133,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 134,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 135,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 136,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 137,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 138,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 139,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 140,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 141,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 142,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 143,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 144,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 145,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 146,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 147,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 148,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 149,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 150,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 151,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 152,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 153,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 154,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 155,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 156,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 157,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 158,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 159,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 160,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 161,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 162,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 163,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 164,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 165,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 166,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 167,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 168,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 169,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 170,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 171,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 172,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 173,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 174,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 175,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 176,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 177,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 178,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 179,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 180,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 181,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 182,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 183,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 184,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 185,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 186,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 187,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 188,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 189,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 190,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 191,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 192,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 193,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 194,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 195,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 196,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 197,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 198,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 199,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 200,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 201,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 202,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 203,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 204,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 205,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 206,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 207,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 208,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 209,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 210,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 211,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 212,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 213,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 214,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 215,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 216,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 217,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 218,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 219,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 220,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 221,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 222,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 223,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 224,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 225,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 226,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 227,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 228,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 229,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 230,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 231,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 232,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 233,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 234,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 235,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 236,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 237,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 238,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 239,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 240,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 241,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 242,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 243,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 244,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 245,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 246,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 247,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 248,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 249,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 250,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 251,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 252,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 253,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 254,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 255,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 256,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 257,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 258,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 259,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 260,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 261,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 262,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 263,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 264,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 265,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 266,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 267,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated",
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 268,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 269,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 270,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 271,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 272,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 273,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 274,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 275,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 276,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 277,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 278,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 279,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 280,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 281,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 282,
+  "keep": false,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 283,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 284,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 285,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 286,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 287,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 288,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 289,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 290,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 291,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 292,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 293,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 294,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 295,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 296,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 297,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 298,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 299,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 300,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 301,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 302,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 303,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 304,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 305,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 306,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 307,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 308,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 309,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 310,
+  "keep": false,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 311,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 312,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 313,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 314,
+  "keep": false,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 315,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 316,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 317,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 318,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 319,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "id": 320,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 321,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 322,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 323,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 324,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 325,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 326,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 327,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 328,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 329,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 330,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 331,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 332,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 333,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 334,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 335,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 336,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 337,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 338,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 339,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 340,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 341,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 342,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 343,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 344,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 345,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 346,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 347,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 348,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isFamily"
+  ]
+ },
+ {
+  "id": 349,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isFamily"
+  ]
+ },
+ {
+  "id": 350,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 351,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 352,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 353,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "id": 354,
+  "keep": false,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 355,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 356,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 357,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 358,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 359,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 360,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 361,
+  "keep": false,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 362,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 363,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 364,
+  "keep": true,
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 365,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 366,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 367,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 368,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "id": 369,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 370,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 371,
+  "keep": true,
+  "type": "THUỐC",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "id": 372,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 373,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 374,
+  "keep": true,
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "id": 375,
+  "keep": true,
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "id": 376,
+  "keep": true,
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ }
+]

@@ -1,6 +1,13 @@
-# HANDOFF — Viettel AI Race Bài 2 (trạng thái 25/07/2026)
+# HANDOFF — Viettel AI Race Bài 2 (trạng thái 29/07/2026)
 
 > File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `STRATEGY.md` + `dev/NER_PROMPT_SPEC.md`.
+
+## 🔴 VIỆC NGAY (29/07): NỘP `out/candidates/14_repeat.zip`
+Bản 14 = nền bản 13 (35.2306) + **313 LẦN NHẮC LẶP bị bỏ sót**. Chi tiết + kỳ vọng + rủi ro: `out/SCORES.md` §BẢN 14.
+Tái lập: `python3 src/build_repeat.py --out out/candidates/14_repeat.zip`.
+Diff vs bản 13 = **thêm thuần 313 concept, 0 concept cũ bị đụng** ⇒ đọc kết quả rất sạch:
+- Điểm TĂNG ⇒ hướng "recall lần nhắc lặp" đúng → quét tiếp lớp 2 (biến thể hoa/thường, dấu, cụm gần đúng).
+- Điểm GIẢM ⇒ gold KHÔNG tính mọi lần nhắc (dedupe) → quay về bản 13, và đó là tín hiệu lớn cho Track 2.
 
 ## ⭐ TRẠNG THÁI (25/07 16:17): BẢN 13 = 35.2306 — TỐT NHẤT HIỆN TẠI
 `out/submitted/13_gold_lab_fixes_35.2306.zip`. **2511 concept / 5 type.** Build:

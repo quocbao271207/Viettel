@@ -144,3 +144,29 @@ Tổng **2511 concept / 5 type**. Verify: 0 vị trí sai, 0 vi phạm schema, x
   tập KHỚP gold (span lệch/gold không có). J_cand chỉ chấm trên concept KHỚP span gold.
 - ⇒ Headroom J_cand nằm sau (a) match thêm concept bệnh/thuốc của gold (recall — rủi ro như bản 09), hoặc
   (b) khớp ranh giới span. **Đổi mã mù = 0 tín hiệu, phí lượt nộp.** Dừng hướng này cho tới khi có gold để đối chiếu.
+
+## BẢN 14 (CHỜ NỘP): các LẦN NHẮC LẶP bị bỏ sót — `out/candidates/14_repeat.zip`
+
+Build: `python3 src/build_repeat.py --out out/candidates/14_repeat.zip` (review: `dev/repeat_review.json`).
+
+**Phát hiện:** spec quy tắc 1 ghi rõ *"Trích MỖI LẦN NHẮC riêng"*, nhưng ta chỉ trích một phần các lần
+nhắc. Lấy tập text đã trích làm từ điển rồi quét lại 100 file (ranh giới âm tiết, ưu tiên cụm dài nhất,
+không chồng lấn concept nền) → **377 lần nhắc chưa được đánh dấu**. 7 subagent duyệt từng ca trong ngữ
+cảnh → giữ **313**, bỏ 64 (khớp nhầm nghĩa: "trực tiếp" trạng từ, "protein" dinh dưỡng, "vi khuẩn" nói
+chung; hoặc sai ranh giới: "dị ứng" ⊂ "viêm da tiếp xúc dị ứng", "nội soi" ⊂ "nội soi dạ dày").
+
+Thêm: TRIỆU_CHỨNG 114 · CHẨN_ĐOÁN 87 · TÊN_XÉT_NGHIỆM 48 · THUỐC 45 · KẾT_QUẢ_XÉT_NGHIỆM 19.
+Tổng **2824 concept** (2511 → +313). candidates của concept mới **COPY từ concept nền cùng (text,type)**
+— không đoán mã mới; 96/132 concept bệnh+thuốc mới mang mã.
+
+**Verify:** diff vs bản 13 = **0 concept bị đổi/mất, 313 concept THÊM thuần** · 0 lệch vị trí
+(`raw[s:e]==text`) · 0 vi phạm schema · 0 trùng vị trí · chồng lấn duy nhất ("phù" ⊂ "phù phổi cấp"
+file 46) là ca có sẵn từ bản 11.
+
+**Kỳ vọng** (theo cơ chế bản 12): WER ↓ (recall lần nhắc gold CÓ) · J_assert ↑ (concept mới khớp span,
+assertion duyệt tay) · **J_cand ↑ — lần đầu có cơ hội phá mốc đóng băng 22.7839**, vì 96 concept
+bệnh/thuốc mới là span MỚI mang mã đã verify đúng (khác hẳn hướng "đổi mã lẻ" đã cạn).
+
+**Rủi ro:** đây vẫn là "thêm concept TRÙNG type" — hình dạng giống bẫy bản 09 (−0.08). Khác biệt then chốt:
+bản 09 thêm span MỚI do voter khác đề xuất (mã rỗng, assertion thô), còn bản 14 chỉ nhân bản text ĐÃ ăn
+điểm sang các lần nhắc khác, giữ nguyên mã. Nộp 1 lượt để đo.
