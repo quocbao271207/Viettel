@@ -2,12 +2,22 @@
 
 > File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `STRATEGY.md` + `dev/NER_PROMPT_SPEC.md`.
 
-## 🔴 VIỆC NGAY (29/07): NỘP `out/candidates/14_repeat.zip`
-Bản 14 = nền bản 13 (35.2306) + **313 LẦN NHẮC LẶP bị bỏ sót**. Chi tiết + kỳ vọng + rủi ro: `out/SCORES.md` §BẢN 14.
-Tái lập: `python3 src/build_repeat.py --out out/candidates/14_repeat.zip`.
-Diff vs bản 13 = **thêm thuần 313 concept, 0 concept cũ bị đụng** ⇒ đọc kết quả rất sạch:
-- Điểm TĂNG ⇒ hướng "recall lần nhắc lặp" đúng → quét tiếp lớp 2 (biến thể hoa/thường, dấu, cụm gần đúng).
-- Điểm GIẢM ⇒ gold KHÔNG tính mọi lần nhắc (dedupe) → quay về bản 13, và đó là tín hiệu lớn cho Track 2.
+## ⭐ TỐT NHẤT: BẢN 14 = **36.4914** (WER 58.2207 · J_assert 48.3759 · J_cand 23.6121)
+`out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc
+J_cand đóng băng 4 lần nộp. 3 kết luận cứng rút ra: xem `out/SCORES.md` §BẢN 14.
+
+## 🔴 VIỆC NGAY (29/07): NỘP `out/candidates/15_repeat2.zip`
+Bản 15 = nền bản 14 + **147 lần nhắc lớp 2** (cụm 1 âm tiết + biến thể hoa/thường). Chi tiết: `out/SCORES.md` §BẢN 15.
+Tái lập: `python3 src/build_repeat.py --stage 2`.
+Diff vs bản 14 = **thêm thuần 147 concept, 0 concept cũ bị đụng** ⇒ đọc kết quả sạch:
+- TĂNG ⇒ cụm ngắn cũng được gold tính → quét tiếp lớp 3 (viết tắt, biến thể chính tả, cụm gần đúng).
+- GIẢM ⇒ ngưỡng an toàn dừng ở cụm ≥2 âm tiết → quay về bản 14, dồn lực Track 2.
+
+## 📌 NGUYÊN TẮC ĐÃ CHỨNG MINH (dùng cho mọi bản sau)
+1. **Gold tính MỌI lần nhắc, không dedupe.** Trích full đúng spec — kể cả trong bài giáo dục lặp từ khoá.
+2. **Muốn tăng J_cand phải thêm SPAN MỚI mang mã đúng**, không phải sửa mã trên span cũ (đã phí 4 lượt nộp).
+3. **Recall AN TOÀN = nhân bản text đã ăn điểm sang lần nhắc khác, giữ nguyên mã.**
+   Recall NGUY HIỂM = span mới do voter khác đề xuất, mã rỗng (bẫy bản 09).
 
 ## ⭐ TRẠNG THÁI (25/07 16:17): BẢN 13 = 35.2306 — TỐT NHẤT HIỆN TẠI
 `out/submitted/13_gold_lab_fixes_35.2306.zip`. **2511 concept / 5 type.** Build:

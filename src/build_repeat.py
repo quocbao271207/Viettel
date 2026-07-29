@@ -24,6 +24,7 @@ ALLOWED_ASSERT = {"isNegated", "isHistorical", "isFamily"}
 TYPES = {"THUỐC", "CHẨN_ĐOÁN", "TRIỆU_CHỨNG", "TÊN_XÉT_NGHIỆM", "KẾT_QUẢ_XÉT_NGHIỆM"}
 CODED_TYPES = {"CHẨN_ĐOÁN", "THUỐC"}  # spec: chỉ 2 type này có candidates
 WORD = re.compile(r"[0-9A-Za-zÀ-ỹ]")
+NUMERIC = re.compile(r"^[\d.,]+$")
 
 
 def load_base(path: Path) -> dict[str, list]:
@@ -32,22 +33,39 @@ def load_base(path: Path) -> dict[str, list]:
                 for n in z.namelist() if n.endswith(".json")}
 
 
-def scan_repeats(base: dict[str, list], raws: dict[str, str]) -> list[dict]:
-    """Tìm mọi lần nhắc lặp của text đã có trong từ điển mà chưa được đánh dấu."""
+def scan_repeats(base: dict[str, list], raws: dict[str, str], stage: int = 1) -> list[dict]:
+    """Tìm mọi lần nhắc lặp của text đã có trong từ điển mà chưa được đánh dấu.
+
+    stage 1 (bản 14): khớp CHÍNH XÁC, chỉ cụm >=2 âm tiết hoặc >=5 ký tự.
+    stage 2 (bản 15): thêm (a) cụm 1 âm tiết ngắn — trừ SỐ TRẦN vì khớp rác khắp nơi,
+                      và (b) biến thể hoa/thường + khoảng trắng/gạch nối của cụm dài.
+    """
     lex: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
     for concepts in base.values():
         for c in concepts:
             lex[c["text"]][c["type"]] += 1
 
     out = []
-    for stem, raw in raws.items():
+    for stem in sorted(raws, key=int):
+        raw = raws[stem]
         taken = [tuple(c["position"]) for c in base.get(stem, [])]
         for text, tc in sorted(lex.items(), key=lambda kv: -len(kv[0])):
-            # 1 âm tiết ngắn ("đau", "yếu", "phù") khớp nhầm chuỗi con quá nhiều
-            if len(text.split()) < 2 and len(text) < 5:
+            short = len(text.split()) < 2 and len(text) < 5
+            if stage == 1 and short:
                 continue
-            for m in re.finditer(re.escape(text), raw):
+            if stage == 2 and short and NUMERIC.match(text):
+                continue
+            if stage == 1:
+                matches = re.finditer(re.escape(text), raw)
+            else:
+                parts = [p for p in re.split(r"[\s\-–]+", text.strip()) if p]
+                pat = r"[\s\-–]+".join(re.escape(p) for p in parts)
+                matches = re.compile(pat, re.IGNORECASE).finditer(raw)
+            for m in matches:
                 s, e = m.span()
+                # stage 2 chỉ xét phần CÒN LẠI sau stage 1 (khớp chính xác đã lấy rồi)
+                if stage == 2 and not short and raw[s:e] == text:
+                    continue
                 if s > 0 and WORD.match(raw[s - 1]):
                     continue
                 if e < len(raw) and WORD.match(raw[e]):
@@ -55,22 +73,23 @@ def scan_repeats(base: dict[str, list], raws: dict[str, str]) -> list[dict]:
                 if any(min(e, b) > max(s, a) for a, b in taken):
                     continue
                 taken.append((s, e))
-                out.append({"file": stem, "start": s, "end": e, "text": text,
+                out.append({"file": stem, "start": s, "end": e, "text": raw[s:e],
                             "type_goi_y": tc.most_common(1)[0][0]})
     return out
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base", default="out/submitted/13_gold_lab_fixes_35.2306.zip")
-    ap.add_argument("--review", default="dev/repeat_review.json")
-    ap.add_argument("--out", default="out/candidates/14_repeat.zip")
+    ap.add_argument("--base", default="out/submitted/14_repeat_36.4914.zip")
+    ap.add_argument("--review", default="dev/repeat2_review.json")
+    ap.add_argument("--out", default="out/candidates/15_repeat2.zip")
+    ap.add_argument("--stage", type=int, default=2, choices=(1, 2))
     ap.add_argument("--dump-cands", help="chỉ quét và ghi ứng viên ra file, không build")
     args = ap.parse_args()
 
     base = load_base(ROOT / args.base)
     raws = {p.stem: p.read_text(encoding="utf-8") for p in (ROOT / "input").glob("*.txt")}
-    cands = scan_repeats(base, raws)
+    cands = scan_repeats(base, raws, stage=args.stage)
     cands.sort(key=lambda c: (int(c["file"]), c["start"]))
 
     if args.dump_cands:

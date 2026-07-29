@@ -145,7 +145,24 @@ Tổng **2511 concept / 5 type**. Verify: 0 vị trí sai, 0 vi phạm schema, x
 - ⇒ Headroom J_cand nằm sau (a) match thêm concept bệnh/thuốc của gold (recall — rủi ro như bản 09), hoặc
   (b) khớp ranh giới span. **Đổi mã mù = 0 tín hiệu, phí lượt nộp.** Dừng hướng này cho tới khi có gold để đối chiếu.
 
-## BẢN 14 (CHỜ NỘP): các LẦN NHẮC LẶP bị bỏ sót — `out/candidates/14_repeat.zip`
+## ✅ BẢN 14 = 36.4914 (nộp 29/07 12:50) — TỐT NHẤT. TĂNG CẢ 3 TRỤC, PHÁ MỐC J_cand
+| 29/07 12:50 | `submitted/14_repeat_36.4914.zip` | +313 lần nhắc lặp | **36.4914** ✅ | **58.2207** | **48.3759** | **23.6121** |
+
++1.2608 điểm (35.2306→36.4914). Lần đầu **cả ba trục cùng tăng**:
+- **WER 59.7049→58.2207 (−1.48)** — gold CÓ các lần nhắc lặp này.
+- **J_assert 46.7616→48.3759 (+1.61)** — concept mới khớp span, assertion duyệt tay đúng.
+- **J_cand 22.7839→23.6121 (+0.83)** — **PHÁ MỐC ĐÓNG BĂNG 4 lần nộp!**
+
+### 3 KẾT LUẬN CỨNG (đắt giá, đừng phân tích lại)
+1. **Gold TÍNH MỌI LẦN NHẮC, KHÔNG dedupe.** Câu hỏi treo từ 24/07 (`dedupe.zip` chưa từng nộp) đã có đáp án.
+   Trích FULL đúng spec. Hệ quả cho Track 2: sinh nhãn train phải giữ mọi lần nhắc.
+2. **Cách DUY NHẤT đã biết để dịch J_cand = thêm SPAN MỚI mang mã đúng, không phải sửa mã trên span cũ.**
+   Bản 10→13 sửa mã lẻ = J_cand đứng im 4 lần; bản 14 thêm 96 span bệnh/thuốc mang mã cũ = +0.83.
+   Xác nhận J_cand chỉ chấm trên concept KHỚP span gold — muốn tăng phải tăng SỐ span khớp.
+3. **"Recall là bẫy" (bản 09) chỉ đúng với span MỚI do voter khác đề xuất (mã rỗng, assertion thô).**
+   Nhân bản text ĐÃ ăn điểm sang lần nhắc khác, giữ nguyên mã = thắng đậm. Đây là recall AN TOÀN.
+
+## BẢN 14 — chi tiết cách làm (đã nộp, xem điểm ở trên)
 
 Build: `python3 src/build_repeat.py --out out/candidates/14_repeat.zip` (review: `dev/repeat_review.json`).
 
@@ -169,4 +186,24 @@ bệnh/thuốc mới là span MỚI mang mã đã verify đúng (khác hẳn hư
 
 **Rủi ro:** đây vẫn là "thêm concept TRÙNG type" — hình dạng giống bẫy bản 09 (−0.08). Khác biệt then chốt:
 bản 09 thêm span MỚI do voter khác đề xuất (mã rỗng, assertion thô), còn bản 14 chỉ nhân bản text ĐÃ ăn
-điểm sang các lần nhắc khác, giữ nguyên mã. Nộp 1 lượt để đo.
+điểm sang các lần nhắc khác, giữ nguyên mã. Nộp 1 lượt để đo. → **ĐÃ ĐO: +1.26, rủi ro không xảy ra.**
+
+## BẢN 15 (CHỜ NỘP): lớp 2 — cụm ngắn + biến thể hoa/thường — `out/candidates/15_repeat2.zip`
+
+Build: `python3 src/build_repeat.py --stage 2` (review: `dev/repeat2_review.json`).
+Nối tiếp bản 14, quét nốt 2 loại lần nhắc mà stage 1 cố ý bỏ:
+- **2a — cụm 1 âm tiết ngắn** ("đau", "yếu", "phù", "nôn", "ngã", "sốt", "mụn"): 255 ứng viên.
+  **Loại SỐ TRẦN** ("1", "6", "20") vì khớp rác khắp văn bản — 141 ca "1" là bằng chứng.
+- **2b — biến thể hoa/thường + khoảng trắng/gạch nối** ("Protein" vs "protein", "Lú lẫn" vs "lú lẫn"): 61 ứng viên.
+
+316 ứng viên → 6 subagent duyệt trong ngữ cảnh → **giữ 147, bỏ 169 (tỉ lệ bỏ 53%,** cao gấp 3 lần
+stage 1 vì cụm ngắn khớp nhầm nhiều: "yếu" trong "sức đề kháng yếu", "đau" trong "thuốc giảm đau",
+"phù" trong "phù hợp"). Thêm: TRIỆU_CHỨNG 83 · CHẨN_ĐOÁN 33 · TÊN_XÉT_NGHIỆM 20 · THUỐC 8 ·
+KẾT_QUẢ_XÉT_NGHIỆM 3. Tổng **2971 concept** (2824 → +147); 24/41 concept bệnh+thuốc mới mang mã.
+
+**Verify:** diff vs bản 14 = **0 concept bị đổi/mất, 147 concept THÊM thuần** · 0 lệch vị trí ·
+0 vi phạm schema · chồng lấn vẫn đúng 1 ca có sẵn từ bản 11.
+
+**Kỳ vọng:** cùng cơ chế bản 14 nhưng biên độ nhỏ hơn (147 vs 313 concept, và concept ngắn dễ lệch
+ranh giới gold hơn). Ước tính +0.4 đến +0.6. Nếu GIẢM → ngưỡng an toàn của hướng "lần nhắc lặp" nằm ở
+cụm ≥2 âm tiết; quay về bản 14 và chuyển toàn lực sang Track 2.
