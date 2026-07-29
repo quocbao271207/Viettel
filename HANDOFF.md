@@ -6,13 +6,15 @@
 `out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc
 J_cand đóng băng 4 lần nộp. 3 kết luận cứng rút ra: xem `out/SCORES.md` §BẢN 14.
 
-## 🔴 VIỆC NGAY: NỘP `out/candidates/16_reextract.zip`
-Bản 16 = nền bản 14 + **251 concept MỚI** từ 3 nguồn (chi tiết `out/SCORES.md` §BẢN 16):
-trích lại 30 file mật độ thấp · **dấu hiệu sinh tồn** (mỏ mới, giống lab bản 12) · nhân bản vốn từ mới.
-Tái lập: `python3 src/build_reextract.py --new dev/reextract_all.json`.
-Diff vs bản 14 = thêm thuần 251 concept, 0 concept cũ bị đụng. Mật độ 13.9 → 15.1/1000 ký tự.
-- TĂNG ⇒ tiếp tục trích lại 70 file còn lại (mới làm 30/100) — đây là hướng còn nhiều dư địa nhất.
-- GIẢM ⇒ so phân rã 3 trục với bản 15 để biết nguồn nào dưới ngưỡng, loại nguồn đó rồi thử lại.
+## 🔴 VIỆC NGAY: NỘP `out/candidates/17_reextract_clean.zip` (thí nghiệm phân tách)
+Bản 17 = nền bản 14 + 113 concept CỤ THỂ (bản 16 TRỪ từ chung chung + sinh tồn). Chi tiết `out/SCORES.md` §BẢN 17.
+Tái lập: `python3 src/build_reextract.py --new dev/reextract_clean.json --out out/candidates/17_reextract_clean.zip`
+- TĂNG trên 36.4914 ⇒ hướng trích lại đúng → làm tiếp 70 file còn lại.
+- VẪN GIẢM ⇒ **DỪNG HẲN hướng thêm concept.** Bản 14 là trần Phase 1, dồn toàn lực Track 2.
+
+## ❌❌ Bản 16 = 35.8785 (GIẢM 0.61) — sinh tồn + từ chung chung là SAI, ĐỪNG LÀM LẠI
+`TÊN_XÉT_NGHIỆM` của gold KHÔNG bao gồm chỉ số sinh tồn (HA/Mạch/Nhiệt độ/SpO2) và KHÔNG bao gồm từ
+phân loại (`xét nghiệm`, `chẩn đoán hình ảnh`). **WER TĂNG lần đầu tiên** = bằng chứng cứng tập thêm sai.
 
 ## ❌ Bản 15 = 36.4164 (GIẢM 0.075) — lớp 2 dưới ngưỡng hoà vốn, ĐỪNG LÀM LẠI
 Cụm 1 âm tiết + biến thể hoa/thường khớp gold chỉ bằng ~24% tỉ lệ của lớp 1. Chi tiết: `out/SCORES.md` §BẢN 15.
@@ -25,7 +27,14 @@ Cụm 1 âm tiết + biến thể hoa/thường khớp gold chỉ bằng ~24% t�
    Ta còn thiếu **~2600 concept CHƯA TỪNG trích** — headroom thật nằm ở đây.
 3. **Gold tính MỌI lần nhắc, không dedupe.** Nhưng hướng này ĐÃ VÉT (bản 14 ăn, bản 15 lỗ).
 4. **Muốn tăng J_cand phải thêm SPAN MỚI mang mã đúng**, không phải sửa mã trên span cũ (đã phí 4 lượt nộp).
-5. **Mật độ hiện tại 13.9 concept/1000 ký tự, gold cần ~26.5.** Dùng con số này để nhắm file còn sót.
+5. **WER là thước đo ĐỘ CHÍNH XÁC đáng tin nhất khi thêm concept.** WER giảm = tập thêm đúng nhiều hơn
+   sai; WER TĂNG = sai nhiều hơn đúng (bản 16). Đọc WER trước khi kết luận về J.
+6. **Trước khi thêm cả một LOẠI concept mới, đối chiếu bản chất với concept CÙNG TYPE đã ăn điểm.**
+   Bản 12 thắng vì `WBC/kali/creatinin` đúng là xét nghiệm cận lâm sàng. Bản 16 thua vì
+   `xét nghiệm`/`chẩn đoán hình ảnh`/`Huyết áp` chỉ TRÔNG GIỐNG xét nghiệm.
+7. **Ước tính "gold ≈ 5400 concept, mật độ cần ~26.5/1000 ký tự" là KHÔNG ĐÁNG TIN.**
+   Suy ra từ giả định Jaccard-trên-hợp; bản 16 bác bỏ (thêm concept → WER tăng). Đừng dùng con số này
+   làm mục tiêu recall.
 
 ## ⭐ TRẠNG THÁI (25/07 16:17): BẢN 13 = 35.2306 — TỐT NHẤT HIỆN TẠI
 `out/submitted/13_gold_lab_fixes_35.2306.zip`. **2511 concept / 5 type.** Build:

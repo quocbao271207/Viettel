@@ -265,3 +265,48 @@ type xét nghiệm — chính là loại đã mang lại +4.03 ở bản 12). J_
 khớp gold). J_cand tăng nhẹ (18 span chẩn đoán mới có mã).
 **Rủi ro:** tỉ lệ giữ khi duyệt là 76-84%, cao hơn lớp 2 (47%) nhưng thấp hơn lớp 1 — nếu độ chính xác
 thực tế dưới ngưỡng hoà vốn thì J sẽ ăn mòn phần WER kiếm được, giống hệt bản 15.
+
+## ❌❌ BẢN 16 = 35.8785 (nộp 29/07 15:08) — GIẢM 0.61, TỆ NHẤT trong 3 bản gần đây
+| 29/07 15:08 | `submitted/16_reextract_35.8785.zip` | +251 concept mới | **35.8785** ↓↓ | 58.7368 | 47.0371 | 23.4710 |
+
+Phân rã: WER **−0.155** · J_assert **−0.402** · J_cand **−0.056** = −0.613. **CẢ BA trục cùng xấu đi.**
+
+### 🔑 PHÁT HIỆN: **WER TĂNG** (58.2207 → 58.7368) — điều chưa từng xảy ra khi thêm concept
+Bản 14 và 15 đều làm WER GIẢM (thêm chữ đúng). Bản 16 làm WER TĂNG ⇒ phần lớn 251 concept thêm vào
+là chữ gold KHÔNG có, bị tính thành lỗi chèn. Đây là thước đo độ chính xác đáng tin nhất ta có:
+**WER tăng = tập thêm vào sai nhiều hơn đúng.**
+
+### Lợi ích biên mỗi concept (dùng để quyết định mọi lần thêm sau này)
+| bản | số concept thêm | điểm | điểm/concept |
+|---|---|---|---|
+| 14 (lần nhắc lặp, text đã ăn điểm) | 313 | +1.2608 | **+0.00403** |
+| 15 (cụm 1 âm tiết + biến thể hoa/thường) | 147 | −0.0750 | −0.00051 |
+| 16 (trích lại + sinh tồn + nhân bản vốn mới) | 251 | −0.6128 | **−0.00244** |
+
+### CHẨN ĐOÁN NGUYÊN NHÂN — 2 nhóm sai có tên cụ thể, chiếm 138/251 = 55%
+So bản chất TÊN_XÉT_NGHIỆM ta THÊM với cái bản 14 ĐÃ CÓ thì lộ ra ngay:
+- **Bản 14 đã có = tên xét nghiệm CỤ THỂ:** `chụp x-quang ngực · siêu âm · kali · Creatinin · cấy máu ·
+  chọc dò dịch não tủy · tổng phân tích nước tiểu`.
+- **Bản 16 thêm = từ CHUNG CHUNG:** `xét nghiệm` (31 lần!) · `chẩn đoán hình ảnh` (25 lần) — đây là
+  TỪ PHÂN LOẠI, không phải tên một xét nghiệm. Gold gần như chắc chắn không đánh nhãn chúng. **58 concept.**
+- **Dấu hiệu SINH TỒN + giá trị:** `HA · Huyết áp · Mạch · Nhiệt độ · Nhịp thở · SpO2 · 130/76 mmHg …`
+  **80 concept.** Giả thuyết "sinh tồn cũng là xét nghiệm, giống mỏ lab bản 12" ĐÃ SAI —
+  `TÊN_XÉT_NGHIỆM` theo gold là xét nghiệm cận lâm sàng, KHÔNG bao gồm chỉ số sinh tồn đo tại giường.
+
+**BÀI HỌC:** trước khi thêm cả một LOẠI concept mới, phải đối chiếu bản chất của nó với các concept
+CÙNG TYPE đã ăn điểm. Bản 12 thắng vì `WBC/kali/creatinin` đúng là xét nghiệm; bản 16 thua vì
+`xét nghiệm`/`chẩn đoán hình ảnh`/`Huyết áp` chỉ *trông giống* xét nghiệm.
+
+## BẢN 17 (CHỜ NỘP): bản 16 TRỪ 2 nhóm nghi phạm — `out/candidates/17_reextract_clean.zip`
+Build: `python3 src/build_reextract.py --new dev/reextract_clean.json --out out/candidates/17_reextract_clean.zip`
+Nền bản 14 + **113 concept CỤ THỂ** còn lại sau khi bỏ toàn bộ từ chung chung và sinh tồn
+(TRIỆU_CHỨNG 49 · TÊN_XÉT_NGHIỆM 23 · CHẨN_ĐOÁN 23 · KẾT_QUẢ 9 · THUỐC 9). Tổng **2937 concept**.
+Ví dụ giữ lại: `nổi mẩn ở vùng lưng · kinh nguyệt thưa · rỉ máu âm đạo · Implanon · lấy mẫu bằng bàn chải
+· Sừng hóa nang lông bất thường (L11.0) · ứ nước (N13.30)`.
+Verify: 0 concept bản 14 bị đụng · 0 lệch vị trí · 0 vi phạm schema.
+
+**Đây là THÍ NGHIỆM PHÂN TÁCH, không phải bản chắc thắng.** Bản 16 trộn 3 nguồn nên không biết nguồn nào
+lỗ. Bản 17 giữ đúng phần "trích lại concept cụ thể":
+- TĂNG trên 36.4914 ⇒ hướng trích lại ĐÚNG, 2 nhóm nghi phạm là thủ phạm → làm tiếp 70 file còn lại.
+- VẪN GIẢM ⇒ độ chính xác của trích-lại-bằng-LLM nói chung dưới ngưỡng hoà vốn → **DỪNG HẲN hướng thêm
+  concept**, bản 14 là trần của Phase 1, dồn toàn bộ còn lại cho Track 2.
