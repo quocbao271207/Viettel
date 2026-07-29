@@ -6,6 +6,14 @@
 `out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc
 J_cand đóng băng 4 lần nộp. 3 kết luận cứng rút ra: xem `out/SCORES.md` §BẢN 14.
 
+## 🔴 VIỆC NGAY: NỘP `out/candidates/16_reextract.zip`
+Bản 16 = nền bản 14 + **251 concept MỚI** từ 3 nguồn (chi tiết `out/SCORES.md` §BẢN 16):
+trích lại 30 file mật độ thấp · **dấu hiệu sinh tồn** (mỏ mới, giống lab bản 12) · nhân bản vốn từ mới.
+Tái lập: `python3 src/build_reextract.py --new dev/reextract_all.json`.
+Diff vs bản 14 = thêm thuần 251 concept, 0 concept cũ bị đụng. Mật độ 13.9 → 15.1/1000 ký tự.
+- TĂNG ⇒ tiếp tục trích lại 70 file còn lại (mới làm 30/100) — đây là hướng còn nhiều dư địa nhất.
+- GIẢM ⇒ so phân rã 3 trục với bản 15 để biết nguồn nào dưới ngưỡng, loại nguồn đó rồi thử lại.
+
 ## ❌ Bản 15 = 36.4164 (GIẢM 0.075) — lớp 2 dưới ngưỡng hoà vốn, ĐỪNG LÀM LẠI
 Cụm 1 âm tiết + biến thể hoa/thường khớp gold chỉ bằng ~24% tỉ lệ của lớp 1. Chi tiết: `out/SCORES.md` §BẢN 15.
 

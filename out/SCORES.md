@@ -246,4 +246,22 @@ offset tường minh; lọc cụm 1 âm tiết ngắn theo bài học bản 15, 
    ở các file KHÔNG nằm trong 30 file trích lại. Đây là hiệu ứng nhân đôi: cứ mỗi concept phát hiện
    mới lại kéo theo ~1.4 lần nhắc khác. Dùng đúng cơ chế đã thắng ở bản 14, có subagent duyệt lại.
 
-Verify sau bước 1+2: **159 concept thêm, 0 concept bản 14 bị đổi/mất, 0 lệch vị trí, 0 vi phạm schema.**
+**Gán mã cho vốn từ MỚI (`dev/newcodes.json`) — bước bắt buộc, suýt bỏ sót:**
+31 concept bệnh/thuốc mới KHÔNG có mã (text mới nên không copy được từ nền). Vì J_cand CHỈ chấm
+CHẨN_ĐOÁN+THUỐC, thêm concept bệnh khớp span gold mà mã rỗng sẽ làm phình mẫu số → **ước tính mất
+tới 0.7 điểm** nếu để nguyên. Đã tra `data/gaz.json` và verify từng mã tồn tại + viết CÓ DẤU CHẤM:
+`bệnh dạ dày K31.9 · mụn ở trán / trứng cá L70.0 · ứ nước N13.30 · Sừng hóa nang lông bất thường L11.0
+· Viêm tại chỗ L08.9 · dị tật cố định vùng trước vách và vách dưới I25.2` (khuyết tưới máu cố định = nhồi máu cũ).
+Cố ý ĐỂ RỖNG: "quá liều"/"chấn thương"/"ổ dịch trong ổ bụng" (quá mơ hồ, FAQ §8b.5) và **toàn bộ THUỐC**
+(bản curated 24/07 đã chứng minh điền mã thuốc làm J_cand GIẢM 0.49 vì gold để rỗng).
+
+**Tổng kết bản 16: 3075 concept** (2824 → +251), mật độ 13.9 → **15.1**/1000 ký tự.
+Thêm: TÊN_XÉT_NGHIỆM 131 · TRIỆU_CHỨNG 49 · KẾT_QUẢ_XÉT_NGHIỆM 39 · CHẨN_ĐOÁN 23 · THUỐC 9.
+Verify: **0 concept bản 14 bị đổi/mất · 0 lệch vị trí · 0 vi phạm schema · 18/23 chẩn đoán mới có mã ·
+chồng lấn vẫn đúng 1 ca có sẵn từ bản 11.**
+
+**Kỳ vọng:** WER giảm mạnh (251 concept, gấp gần 2× số lượng đã ăn +1.26 ở bản 14, và phần lớn là
+type xét nghiệm — chính là loại đã mang lại +4.03 ở bản 12). J_assert tăng (concept lab assertion=[]
+khớp gold). J_cand tăng nhẹ (18 span chẩn đoán mới có mã).
+**Rủi ro:** tỉ lệ giữ khi duyệt là 76-84%, cao hơn lớp 2 (47%) nhưng thấp hơn lớp 1 — nếu độ chính xác
+thực tế dưới ngưỡng hoà vốn thì J sẽ ăn mòn phần WER kiếm được, giống hệt bản 15.

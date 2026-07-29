@@ -1,0 +1,18 @@
+{
+ "_ghi_chú": "Mã ICD cho các cụm CHẨN_ĐOÁN mới ở bản 16. Mọi mã đã verify tồn tại trong data/gaz.json (icd_code2en) và viết CÓ DẤU CHẤM theo phát hiện cứng §2.1. THUỐC cố ý ĐỂ RỖNG: bản curated 24/07 chứng minh điền mã thuốc làm J_cand GIẢM 0.49 vì gold để rỗng.",
+
+ "bệnh dạ dày": {"type": "CHẨN_ĐOÁN", "codes": ["K31.9"], "en": "disease of stomach and duodenum, unspecified"},
+ "mụn ở trán": {"type": "CHẨN_ĐOÁN", "codes": ["L70.0"], "en": "acne vulgaris"},
+ "trứng cá": {"type": "CHẨN_ĐOÁN", "codes": ["L70.0"], "en": "acne vulgaris"},
+ "ứ nước": {"type": "CHẨN_ĐOÁN", "codes": ["N13.30"], "en": "unspecified hydronephrosis"},
+ "Sừng hóa nang lông bất thường": {"type": "CHẨN_ĐOÁN", "codes": ["L11.0"], "en": "acquired keratosis follicularis"},
+ "Viêm tại chỗ": {"type": "CHẨN_ĐOÁN", "codes": ["L08.9"], "en": "local infection of the skin and subcutaneous tissue, unspecified"},
+ "dị tật cố định vùng trước vách và vách dưới": {"type": "CHẨN_ĐOÁN", "codes": ["I25.2"], "en": "old myocardial infarction (khuyết tưới máu cố định trên xạ hình = nhồi máu cũ)"},
+
+ "_để_rỗng_có_chủ_đích": {
+   "quá liều": "overdose không rõ thuốc gì -> mã T4x quá mơ hồ, FAQ §8b.5: không chắc thì để rỗng",
+   "chấn thương": "quá chung chung, không đủ thông tin chọn mã S/T",
+   "ổ dịch trong ổ bụng": "tụ dịch ổ bụng, không có mã ICD-10-CM khớp rõ",
+   "THUỐC (mọi cụm)": "gold để rỗng mã thuốc - đã trả giá bằng bản curated (-0.49 J_cand)"
+ }
+}

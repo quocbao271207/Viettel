@@ -57,12 +57,20 @@ def main() -> None:
     ap.add_argument("--base", default="out/submitted/14_repeat_36.4914.zip")
     ap.add_argument("--new", default="dev/reextract.json")
     ap.add_argument("--out", default="out/candidates/16_reextract.zip")
+    ap.add_argument("--codes", default="dev/newcodes.json",
+                    help="mã ICD gán tay cho cụm CHẨN_ĐOÁN mới (text -> {type, codes})")
     args = ap.parse_args()
 
     base = load_base(ROOT / args.base)
     raws = {p.stem: p.read_text(encoding="utf-8") for p in (ROOT / "input").glob("*.txt")}
     code_of = {(c["text"], c["type"]): c["candidates"]
                for cs in base.values() for c in cs if c.get("candidates")}
+
+    # mã gán tay cho vốn từ MỚI (không có trong nền) — chỉ CHẨN_ĐOÁN, thuốc cố ý để rỗng
+    manual = json.loads((ROOT / args.codes).read_text("utf-8")) if (ROOT / args.codes).exists() else {}
+    for text, spec in manual.items():
+        if isinstance(spec, dict) and "codes" in spec:
+            code_of.setdefault((text, spec["type"]), spec["codes"])
 
     added, dropped = collections.Counter(), collections.Counter()
     for item in json.loads((ROOT / args.new).read_text("utf-8")):

@@ -1398,5 +1398,733 @@
   "text": "110/70  mmHg",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
   "assertions": []
+ },
+ {
+  "file": "1",
+  "start": 1279,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "3",
+  "start": 3513,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 1492,
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 1541,
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 2678,
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 2727,
+  "text": "lấy mẫu bằng bàn chải",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 3221,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 1572,
+  "text": "tế bào bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 333,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "5",
+  "start": 468,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "6",
+  "start": 2712,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "8",
+  "start": 1798,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "8",
+  "start": 1742,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "8",
+  "start": 3091,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "10",
+  "start": 2688,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "10",
+  "start": 2621,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "14",
+  "start": 1686,
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "14",
+  "start": 2347,
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "file": "18",
+  "start": 2426,
+  "text": "chưa phát hiện bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "file": "18",
+  "start": 2269,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "18",
+  "start": 2155,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "file": "18",
+  "start": 1758,
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "19",
+  "start": 1653,
+  "text": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "19",
+  "start": 2314,
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "file": "22",
+  "start": 2222,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "22",
+  "start": 1954,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "22",
+  "start": 222,
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "25",
+  "start": 1327,
+  "text": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "33",
+  "start": 122,
+  "text": "da rất nhiều dầu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "34",
+  "start": 2112,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "36",
+  "start": 1244,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "38",
+  "start": 1774,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "38",
+  "start": 1548,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "39",
+  "start": 867,
+  "text": "khó khăn khi ra khỏi giường",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "39",
+  "start": 1727,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "39",
+  "start": 1625,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 756,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 740,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 781,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 256,
+  "text": "quá liều",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 841,
+  "text": "quá liều",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "41",
+  "start": 875,
+  "text": "Sừng hóa nang lông bất thường",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "41",
+  "start": 926,
+  "text": "Viêm tại chỗ",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 1874,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 480,
+  "text": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 1721,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "46",
+  "start": 1374,
+  "text": "Sinh thiết tuyến tiền liệt",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "file": "46",
+  "start": 469,
+  "text": "Da niêm mạc hồng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "47",
+  "start": 1637,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "47",
+  "start": 1535,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "49",
+  "start": 377,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "53",
+  "start": 896,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "54",
+  "start": 259,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "54",
+  "start": 1461,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "55",
+  "start": 1289,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "56",
+  "start": 47,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "57",
+  "start": 566,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "57",
+  "start": 1160,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "57",
+  "start": 1343,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "58",
+  "start": 1506,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "58",
+  "start": 1134,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "58",
+  "start": 1317,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "59",
+  "start": 266,
+  "text": "mụn ở trán",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1273,
+  "text": "chưa phát hiện bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 46,
+  "text": "da rất nhiều dầu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 985,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 266,
+  "text": "mụn ở trán",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1404,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1369,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1426,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "62",
+  "start": 1614,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "62",
+  "start": 1461,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "66",
+  "start": 1401,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "68",
+  "start": 485,
+  "text": "dị tật cố định vùng trước vách và vách dưới",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "68",
+  "start": 413,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "72",
+  "start": 253,
+  "text": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+   "isNegated"
+  ]
+ },
+ {
+  "file": "77",
+  "start": 1384,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "85",
+  "start": 1207,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "85",
+  "start": 1226,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "85",
+  "start": 841,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "85",
+  "start": 852,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "85",
+  "start": 738,
+  "text": "vitamin C",
+  "type": "THUỐC",
+  "assertions": []
+ },
+ {
+  "file": "86",
+  "start": 362,
+  "text": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 286,
+  "text": "Da niêm mạc hồng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 1203,
+  "text": "giảm cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 1294,
+  "text": "giảm cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 1215,
+  "text": "tăng cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 1336,
+  "text": "tăng cân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 919,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 902,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 959,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "90",
+  "start": 1054,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "90",
+  "start": 1079,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "90",
+  "start": 841,
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "91",
+  "start": 629,
+  "text": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+ },
+ {
+  "file": "93",
+  "start": 1282,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "93",
+  "start": 899,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "96",
+  "start": 181,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "97",
+  "start": 317,
+  "text": "Sinh thiết tuyến tiền liệt",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [
+   "isHistorical"
+  ]
+ },
+ {
+  "file": "99",
+  "start": 958,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 983,
+  "text": "chẩn đoán hình ảnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 654,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
  }
 ]
