@@ -30,7 +30,7 @@ def load_gold(path: Path) -> dict[str, list]:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--gold", default="out/submitted/13_gold_lab_fixes_35.2306.zip")
+    ap.add_argument("--gold", default="out/submitted/14_repeat_36.4914.zip")
     ap.add_argument("--out", default="dev/track2/code_map.json")
     a = ap.parse_args()
     gold = load_gold(ROOT / a.gold)

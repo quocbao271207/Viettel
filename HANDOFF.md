@@ -6,11 +6,31 @@
 `out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc
 J_cand đóng băng 4 lần nộp. 3 kết luận cứng rút ra: xem `out/SCORES.md` §BẢN 14.
 
-## 🔴 VIỆC NGAY: NỘP `out/candidates/17_reextract_clean.zip` (thí nghiệm phân tách)
-Bản 17 = nền bản 14 + 113 concept CỤ THỂ (bản 16 TRỪ từ chung chung + sinh tồn). Chi tiết `out/SCORES.md` §BẢN 17.
-Tái lập: `python3 src/build_reextract.py --new dev/reextract_clean.json --out out/candidates/17_reextract_clean.zip`
-- TĂNG trên 36.4914 ⇒ hướng trích lại đúng → làm tiếp 70 file còn lại.
-- VẪN GIẢM ⇒ **DỪNG HẲN hướng thêm concept.** Bản 14 là trần Phase 1, dồn toàn lực Track 2.
+## 🔴 VIỆC NGAY: TRACK 2 (Qwen ≤9B) — Phase 1 ĐÃ CHỐT, chỉ còn việc này
+Phase 1 đã kịch trần ở bản 14. Track 2 là BẮT BUỘC cho top-15 và là việc duy nhất còn lại.
+Data đã sinh lại từ bản 14 (gold tốt nhất): `dev/track2/{train,dev}.jsonl` (2824 concept / 5 type)
++ `dev/track2/code_map.json` (366 bệnh + 67 thuốc).
+
+**VERIFY offline (đã chạy, KHÔNG cần GPU):** `python3 src/track2_verify.py`
+→ khớp span+type **2812/2824 = 99.6%**, khớp mã **1052/1052 = 100%**.
+Nghĩa là pipeline inference ĐÚNG; nếu Qwen học lại được nhãn thì Track 2 ≈ bản 14. Chỉ 12 concept
+pipeline làm mất (span ngắn trùng nhiều chỗ: "ho", "sốt", "phù", và "phù phổi cấp" bị ca chồng lấn file 46).
+
+**Việc cần GPU của user:** upload `dev/track2/*.jsonl` + `colab/track2_train_qwen.py` lên Colab
+(Qwen2.5-7B QLoRA) — xem `colab/TRACK2_README.md` hoặc notebook `colab/track2_colab_allinone.ipynb`.
+Sau khi train: `python3 src/track2_infer.py --adapter qwen_ner_lora`.
+
+## ⛔ ĐÃ CHỐT: DỪNG HẲN HƯỚNG THÊM CONCEPT (3 lần thử liên tiếp đều lỗ)
+| bản | cách thêm | concept | điểm | điểm/concept |
+|---|---|---|---|---|
+| 14 | nhân bản text ĐÃ ăn điểm | +313 | **+1.2608** | +0.00403 |
+| 15 | cụm 1 âm tiết + biến thể hoa/thường | +147 | −0.0750 | −0.00051 |
+| 16 | trích lại + sinh tồn + nhân bản vốn mới | +251 | −0.6128 | −0.00244 |
+| 17 | trích lại (chỉ concept cụ thể) | +113 | −0.5641 | −0.00499 |
+
+**Chỉ MỘT cách thêm concept từng thắng: nhân bản text ĐÃ được gold xác nhận sang lần nhắc khác.**
+Mọi concept do LLM tự nghĩ thêm đều lỗ, dù duyệt kỹ đến đâu. Bản 17 chứng minh cả giả thuyết
+"lỗi do sinh tồn + từ chung chung" cũng sai — bỏ 138 concept đó chỉ cứu 0.05 điểm.
 
 ## ❌❌ Bản 16 = 35.8785 (GIẢM 0.61) — sinh tồn + từ chung chung là SAI, ĐỪNG LÀM LẠI
 `TÊN_XÉT_NGHIỆM` của gold KHÔNG bao gồm chỉ số sinh tồn (HA/Mạch/Nhiệt độ/SpO2) và KHÔNG bao gồm từ

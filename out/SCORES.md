@@ -310,3 +310,30 @@ lỗ. Bản 17 giữ đúng phần "trích lại concept cụ thể":
 - TĂNG trên 36.4914 ⇒ hướng trích lại ĐÚNG, 2 nhóm nghi phạm là thủ phạm → làm tiếp 70 file còn lại.
 - VẪN GIẢM ⇒ độ chính xác của trích-lại-bằng-LLM nói chung dưới ngưỡng hoà vốn → **DỪNG HẲN hướng thêm
   concept**, bản 14 là trần của Phase 1, dồn toàn bộ còn lại cho Track 2.
+
+## ❌ BẢN 17 = 35.9273 (nộp 29/07 15:18) — VẪN GIẢM 0.56 so bản 14. **CHỐT: DỪNG THÊM CONCEPT**
+| 29/07 15:18 | `submitted/17_reextract_clean_35.9273.zip` | +113 concept cụ thể | **35.9273** ↓ | 58.7534 | 47.2163 | 23.4710 |
+
+| so sánh | WER | J_assert | J_cand | điểm |
+|---|---|---|---|---|
+| bản 16 → 17 (BỎ 138 concept nghi phạm) | +0.0166 | +0.1792 | 0.0000 | **+0.0488** |
+| bản 14 → 17 (THÊM 113 concept "cụ thể") | **+0.5327** | −1.1596 | −0.1411 | **−0.5641** |
+
+### 🔑 GIẢ THUYẾT "2 NHÓM NGHI PHẠM" ĐÃ SAI — thủ phạm là CHÍNH VIỆC TRÍCH LẠI
+Bỏ 138 concept sinh tồn + từ chung chung chỉ cứu được **0.0488 điểm**, và **WER KHÔNG cải thiện**
+(+0.0166, còn xấu đi chút). Toàn bộ thiệt hại WER (+0.53) đến từ 113 concept "cụ thể" do LLM trích lại —
+tức là chúng cũng phần lớn không có trong gold. Sinh tồn/từ chung chung gần như trung tính về WER,
+chỉ hơi hại J_assert.
+
+### CHỐT PHASE 1: **BẢN 14 = 36.4914 LÀ TRẦN. DỪNG HẲN HƯỚNG THÊM CONCEPT.**
+Ba lần thử liên tiếp sau bản 14 đều lỗ, với biên độ ngày càng xấu khi càng thêm nhiều:
+| bản | cách thêm | concept | điểm | điểm/concept |
+|---|---|---|---|---|
+| 14 | nhân bản text ĐÃ ăn điểm, giữ nguyên mã | +313 | +1.2608 | **+0.00403** |
+| 15 | cụm 1 âm tiết + biến thể hoa/thường | +147 | −0.0750 | −0.00051 |
+| 16 | trích lại + sinh tồn + nhân bản vốn mới | +251 | −0.6128 | −0.00244 |
+| 17 | trích lại (chỉ concept cụ thể) | +113 | −0.5641 | **−0.00499** |
+
+**Quy luật:** chỉ có MỘT cách thêm concept từng thắng — nhân bản text ĐÃ được gold xác nhận (đã ăn điểm)
+sang các lần nhắc khác. Mọi concept do LLM tự nghĩ ra thêm đều lỗ, dù duyệt kỹ đến đâu.
+Không có gold để đối chiếu thì không thể vượt qua rào này bằng cách thêm.

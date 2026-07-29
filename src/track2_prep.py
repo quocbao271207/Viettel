@@ -3,7 +3,7 @@
 """Track 2 — Chuẩn bị data train Qwen ≤9B từ GOLD MỚI NHẤT (bản 13, 5 type, spec §8a).
 
     python3 src/track2_prep.py                                   # nền bản tốt nhất
-    python3 src/track2_prep.py --gold out/submitted/13_gold_lab_fixes_35.2306.zip
+    python3 src/track2_prep.py --gold out/submitted/14_repeat_36.4914.zip
 
 Task: generative NER. Input = văn bản; Output = JSON array {text,type,assertions,before}.
 - 5 TYPE: THUỐC / CHẨN_ĐOÁN / TRIỆU_CHỨNG / TÊN_XÉT_NGHIỆM / KẾT_QUẢ_XÉT_NGHIỆM.
@@ -43,7 +43,7 @@ def load_gold(path: Path) -> dict[str, list]:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--gold", default="out/submitted/13_gold_lab_fixes_35.2306.zip")
+    ap.add_argument("--gold", default="out/submitted/14_repeat_36.4914.zip")
     a = ap.parse_args()
 
     gold = load_gold(ROOT / a.gold)
