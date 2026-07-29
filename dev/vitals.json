@@ -1,0 +1,394 @@
+[
+ {
+  "file": "7",
+  "start": 813,
+  "text": "10kg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "9",
+  "start": 813,
+  "text": "10kg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "29",
+  "start": 363,
+  "text": "nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 756,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 740,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 781,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 467,
+  "text": "Mạch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "40",
+  "start": 792,
+  "text": "21 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 1567,
+  "text": "spo2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 1582,
+  "text": "spo2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "42",
+  "start": 1605,
+  "text": "93%",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "46",
+  "start": 545,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "53",
+  "start": 276,
+  "text": "Mạch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "53",
+  "start": 295,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "53",
+  "start": 299,
+  "text": "180/100 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "55",
+  "start": 806,
+  "text": "huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "55",
+  "start": 272,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "55",
+  "start": 391,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "58",
+  "start": 370,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "58",
+  "start": 374,
+  "text": "130/75mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1404,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1369,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1426,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1390,
+  "text": "Mạch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1443,
+  "text": "SPO2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1380,
+  "text": "36.5 độ C",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1397,
+  "text": "88 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1414,
+  "text": "120/70 mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1436,
+  "text": "20 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "60",
+  "start": 1450,
+  "text": "92 %",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "62",
+  "start": 1307,
+  "text": "spo2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "62",
+  "start": 1322,
+  "text": "spo2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "62",
+  "start": 1345,
+  "text": "93%",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "68",
+  "start": 787,
+  "text": "13 kg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 383,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "87",
+  "start": 417,
+  "text": "70 l/p",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "88",
+  "start": 813,
+  "text": "cân nặng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 919,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 1025,
+  "text": "huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 902,
+  "text": "Nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 1008,
+  "text": "nhiệt độ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 959,
+  "text": "Nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 1069,
+  "text": "nhịp thở",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 941,
+  "text": "Mạch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 981,
+  "text": "SpO2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 986,
+  "text": "100%",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "89",
+  "start": 1106,
+  "text": "100%",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "90",
+  "start": 566,
+  "text": "SPO2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "92",
+  "start": 830,
+  "text": "39.7 độ C",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "93",
+  "start": 806,
+  "text": "huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "93",
+  "start": 272,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "93",
+  "start": 391,
+  "text": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 654,
+  "text": "Huyết áp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 546,
+  "text": "SpO2",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 551,
+  "text": "99%",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ },
+ {
+  "file": "99",
+  "start": 663,
+  "text": "110/70  mmHg",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+ }
+]

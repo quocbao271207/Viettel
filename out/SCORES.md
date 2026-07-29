@@ -227,9 +227,23 @@ bản 14 (+1.26) thắng vì concept thêm vào có ĐỘ CHÍNH XÁC cao.
 ta đang khớp ~2700 (precision ~96%). ⇒ Còn **~2600 concept CHƯA TỪNG trích** — đó mới là headroom thật,
 KHÔNG phải lần nhắc lặp (đã vét) cũng không phải sửa mã (đã chứng minh vô ích).
 
-## BẢN 16 (đang làm): TRÍCH LẠI TOÀN DIỆN 30 FILE MẬT ĐỘ THẤP
+## BẢN 16 (đang làm): TRÍCH LẠI TOÀN DIỆN + DẤU HIỆU SINH TỒN + NHÂN BẢN VỐN TỪ MỚI
 Mật độ hiện tại 13.9 concept/1000 ký tự; gold ước tính cần ~26.5 ⇒ thiếu gần một nửa.
-30 file thấp nhất (file 48 chỉ 1.59/1000, file 76 và 83 chỉ 3.2-3.4/1000) giao 6 subagent trích lại
-toàn văn theo spec 5 type, có kèm danh sách concept đã có để chỉ trả về phần CÒN THIẾU.
-Build: `python3 src/build_reextract.py` (định vị bằng before+text, bỏ ca không định vị được DUY NHẤT;
-mã chỉ copy từ concept nền cùng text+type, text mới hoàn toàn thì để rỗng theo FAQ §8b.5).
+Build: `python3 src/build_reextract.py --new dev/reextract_all.json` (định vị bằng before+text HOẶC
+offset tường minh; lọc cụm 1 âm tiết ngắn theo bài học bản 15, trừ 2 type xét nghiệm).
+
+**3 nguồn concept mới, cộng dồn trên nền bản 14:**
+1. **Trích lại 30 file mật độ thấp nhất** (file 48 chỉ 1.59/1000, file 76/83 chỉ 3.2-3.4/1000) —
+   6 subagent đọc toàn văn kèm danh sách concept đã có, chỉ trả về phần CÒN THIẾU. 140 concept,
+   định vị được 103, bỏ 27 cụm 1 âm tiết + 10 không định vị được duy nhất.
+2. **🔬 DẤU HIỆU SINH TỒN — mỏ mới, giống hệt tình huống xét nghiệm ở bản 12.** Ta bỏ sót HOÀN TOÀN
+   Huyết áp / Mạch / Nhiệt độ / Nhịp thở / SpO2 / cân nặng và giá trị đi kèm: 85 ứng viên trên 19 file.
+   2 subagent duyệt → giữ 56. Ví dụ file 20 nay bắt trọn bảng khám:
+   `Huyết áp 130/76 mmHg · Mạch 93 l/p · Nhiệt độ 36.3 độ C · Nhịp thở 14 l/p · SPO2 99 %`.
+   Bỏ đúng các bẫy: "huyết áp" trong "tăng huyết áp"/"huyết áp tâm thu" (sai ranh giới), "máy đo HA
+   điện tử" (tên thiết bị), % dịch tễ trong câu giảng giải.
+3. **Nhân bản vốn từ MỚI ra toàn corpus** — 68 cụm chưa từng có trong bản 14 mở ra thêm 122 lần nhắc
+   ở các file KHÔNG nằm trong 30 file trích lại. Đây là hiệu ứng nhân đôi: cứ mỗi concept phát hiện
+   mới lại kéo theo ~1.4 lần nhắc khác. Dùng đúng cơ chế đã thắng ở bản 14, có subagent duyệt lại.
+
+Verify sau bước 1+2: **159 concept thêm, 0 concept bản 14 bị đổi/mất, 0 lệch vị trí, 0 vi phạm schema.**
