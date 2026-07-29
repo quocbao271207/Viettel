@@ -207,3 +207,29 @@ KẾT_QUẢ_XÉT_NGHIỆM 3. Tổng **2971 concept** (2824 → +147); 24/41 conc
 **Kỳ vọng:** cùng cơ chế bản 14 nhưng biên độ nhỏ hơn (147 vs 313 concept, và concept ngắn dễ lệch
 ranh giới gold hơn). Ước tính +0.4 đến +0.6. Nếu GIẢM → ngưỡng an toàn của hướng "lần nhắc lặp" nằm ở
 cụm ≥2 âm tiết; quay về bản 14 và chuyển toàn lực sang Track 2.
+
+## ❌ BẢN 15 = 36.4164 (nộp 29/07 13:00) — GIẢM 0.075. **BẢN 14 VẪN LÀ TỐT NHẤT**
+| 29/07 13:00 | `submitted/15_repeat2_36.4164.zip` | +147 lần nhắc lớp 2 | **36.4164** ↓ | 58.0543 | 48.2799 | 23.3717 |
+
+Phân rã đóng góp: WER **+0.0499** (vẫn cải thiện) · J_assert **−0.0288** · J_cand **−0.0962** = −0.075.
+
+### 🔑 PHÁT HIỆN QUAN TRỌNG NHẤT: **J PHẠT DỰ ĐOÁN THỪA**
+Thêm concept mà J_assert và J_cand **GIẢM** ⇒ J không phải thuần recall trên gold, mà là Jaccard trên
+HỢP (gold ∪ pred): concept không khớp gold vẫn làm phình mẫu số. Đây là mảnh ghép cuối giải thích trọn
+lịch sử điểm — bản 07 (−0.5), bản 09 (−0.08), bản 15 (−0.075) đều là over-predict; bản 12 (+4.03) và
+bản 14 (+1.26) thắng vì concept thêm vào có ĐỘ CHÍNH XÁC cao.
+
+**Ngưỡng hoà vốn:** so bản 14 (313 concept: WER +0.445đ, J +0.815đ) với bản 15 (147 concept: WER
++0.050đ, J −0.125đ) ⇒ concept lớp 2 khớp gold chỉ bằng **~24%** tỉ lệ của lớp 1. Cụm 1 âm tiết
+("đau", "yếu", "phù") và biến thể hoa/thường **dưới ngưỡng hoà vốn** — dừng hướng này.
+
+**Ước lượng kích thước gold:** giải Jaccard hợp với J_assert=48.4%, pred=2824 ⇒ **gold ≈ 5400 concept**,
+ta đang khớp ~2700 (precision ~96%). ⇒ Còn **~2600 concept CHƯA TỪNG trích** — đó mới là headroom thật,
+KHÔNG phải lần nhắc lặp (đã vét) cũng không phải sửa mã (đã chứng minh vô ích).
+
+## BẢN 16 (đang làm): TRÍCH LẠI TOÀN DIỆN 30 FILE MẬT ĐỘ THẤP
+Mật độ hiện tại 13.9 concept/1000 ký tự; gold ước tính cần ~26.5 ⇒ thiếu gần một nửa.
+30 file thấp nhất (file 48 chỉ 1.59/1000, file 76 và 83 chỉ 3.2-3.4/1000) giao 6 subagent trích lại
+toàn văn theo spec 5 type, có kèm danh sách concept đã có để chỉ trả về phần CÒN THIẾU.
+Build: `python3 src/build_reextract.py` (định vị bằng before+text, bỏ ca không định vị được DUY NHẤT;
+mã chỉ copy từ concept nền cùng text+type, text mới hoàn toàn thì để rỗng theo FAQ §8b.5).

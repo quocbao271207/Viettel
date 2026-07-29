@@ -6,18 +6,18 @@
 `out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc
 J_cand đóng băng 4 lần nộp. 3 kết luận cứng rút ra: xem `out/SCORES.md` §BẢN 14.
 
-## 🔴 VIỆC NGAY (29/07): NỘP `out/candidates/15_repeat2.zip`
-Bản 15 = nền bản 14 + **147 lần nhắc lớp 2** (cụm 1 âm tiết + biến thể hoa/thường). Chi tiết: `out/SCORES.md` §BẢN 15.
-Tái lập: `python3 src/build_repeat.py --stage 2`.
-Diff vs bản 14 = **thêm thuần 147 concept, 0 concept cũ bị đụng** ⇒ đọc kết quả sạch:
-- TĂNG ⇒ cụm ngắn cũng được gold tính → quét tiếp lớp 3 (viết tắt, biến thể chính tả, cụm gần đúng).
-- GIẢM ⇒ ngưỡng an toàn dừng ở cụm ≥2 âm tiết → quay về bản 14, dồn lực Track 2.
+## ❌ Bản 15 = 36.4164 (GIẢM 0.075) — lớp 2 dưới ngưỡng hoà vốn, ĐỪNG LÀM LẠI
+Cụm 1 âm tiết + biến thể hoa/thường khớp gold chỉ bằng ~24% tỉ lệ của lớp 1. Chi tiết: `out/SCORES.md` §BẢN 15.
 
 ## 📌 NGUYÊN TẮC ĐÃ CHỨNG MINH (dùng cho mọi bản sau)
-1. **Gold tính MỌI lần nhắc, không dedupe.** Trích full đúng spec — kể cả trong bài giáo dục lặp từ khoá.
-2. **Muốn tăng J_cand phải thêm SPAN MỚI mang mã đúng**, không phải sửa mã trên span cũ (đã phí 4 lượt nộp).
-3. **Recall AN TOÀN = nhân bản text đã ăn điểm sang lần nhắc khác, giữ nguyên mã.**
-   Recall NGUY HIỂM = span mới do voter khác đề xuất, mã rỗng (bẫy bản 09).
+1. **J PHẠT DỰ ĐOÁN THỪA** — J_assert/J_cand là Jaccard trên HỢP (gold ∪ pred), không phải thuần recall.
+   Concept không khớp gold làm phình mẫu số. Giải thích trọn bản 07/09/15 (giảm) vs bản 12/14 (tăng).
+   ⇒ **Mọi lần thêm concept là đánh cược vào ĐỘ CHÍNH XÁC, không phải số lượng.**
+2. **Gold ≈ 5400 concept** (giải ngược từ J_assert=48.4%, pred=2824, precision ~96%).
+   Ta còn thiếu **~2600 concept CHƯA TỪNG trích** — headroom thật nằm ở đây.
+3. **Gold tính MỌI lần nhắc, không dedupe.** Nhưng hướng này ĐÃ VÉT (bản 14 ăn, bản 15 lỗ).
+4. **Muốn tăng J_cand phải thêm SPAN MỚI mang mã đúng**, không phải sửa mã trên span cũ (đã phí 4 lượt nộp).
+5. **Mật độ hiện tại 13.9 concept/1000 ký tự, gold cần ~26.5.** Dùng con số này để nhắm file còn sót.
 
 ## ⭐ TRẠNG THÁI (25/07 16:17): BẢN 13 = 35.2306 — TỐT NHẤT HIỆN TẠI
 `out/submitted/13_gold_lab_fixes_35.2306.zip`. **2511 concept / 5 type.** Build:
