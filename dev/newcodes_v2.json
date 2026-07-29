@@ -1,0 +1,127 @@
+{
+ "bầm dập nhu mô\tCHẨN_ĐOÁN": [],
+ "bệnh graves\tCHẨN_ĐOÁN": [
+  "E05.00"
+ ],
+ "bệnh lý tim mạch hoặc hô hấp cấp tính\tCHẨN_ĐOÁN": [],
+ "bệnh lý tim phổi cấp tính\tCHẨN_ĐOÁN": [],
+ "cad\tCHẨN_ĐOÁN": [
+  "I25.10"
+ ],
+ "coronary artery disease\tCHẨN_ĐOÁN": [
+  "I25.10"
+ ],
+ "dvt\tCHẨN_ĐOÁN": [
+  "I82.409"
+ ],
+ "dị vật đường thở\tCHẨN_ĐOÁN": [
+  "T17.900A"
+ ],
+ "dị ứng thời tiết\tCHẨN_ĐOÁN": [
+  "T78.40XA"
+ ],
+ "hẹp tắc mạch vành\tCHẨN_ĐOÁN": [
+  "I25.10"
+ ],
+ "hội chứng hủy hoại tế bào gan\tCHẨN_ĐOÁN": [],
+ "hội chứng nhiễm trùng nhiễm độc\tCHẨN_ĐOÁN": [],
+ "hở ba lá\tCHẨN_ĐOÁN": [
+  "I36.1"
+ ],
+ "hở chủ\tCHẨN_ĐOÁN": [
+  "I35.1"
+ ],
+ "hở hai lá\tCHẨN_ĐOÁN": [
+  "I34.0"
+ ],
+ "không rụng trứng\tCHẨN_ĐOÁN": [
+  "N97.0"
+ ],
+ "khối u lành tính\tCHẨN_ĐOÁN": [
+  "D36.9"
+ ],
+ "lớp dịch dưới màng cứng mỏng\tCHẨN_ĐOÁN": [],
+ "nang màng nhện\tCHẨN_ĐOÁN": [
+  "G93.0"
+ ],
+ "nhiễm trùng lợi\tCHẨN_ĐOÁN": [
+  "K05.10"
+ ],
+ "rll pna\tCHẨN_ĐOÁN": [
+  "J18.9"
+ ],
+ "stent mạch vành\tCHẨN_ĐOÁN": [],
+ "sạm da\tCHẨN_ĐOÁN": [
+  "L81.4"
+ ],
+ "sừng hóa nang lông bất thường\tCHẨN_ĐOÁN": [
+  "L11.0"
+ ],
+ "thiếu b12\tCHẨN_ĐOÁN": [
+  "E53.8"
+ ],
+ "thiếu hụt vitamin k\tCHẨN_ĐOÁN": [
+  "E56.1"
+ ],
+ "thiếu vitamin b12\tCHẨN_ĐOÁN": [
+  "E53.8"
+ ],
+ "tăng sản tuyến bã nhờn\tCHẨN_ĐOÁN": [
+  "L73.8"
+ ],
+ "tắc mạch cấp\tCHẨN_ĐOÁN": [],
+ "utis\tCHẨN_ĐOÁN": [
+  "N39.0"
+ ],
+ "viêm da tiếp xúc\tCHẨN_ĐOÁN": [
+  "L25.9"
+ ],
+ "viêm tại chỗ\tCHẨN_ĐOÁN": [
+  "L08.9"
+ ],
+ "vp\tCHẨN_ĐOÁN": [
+  "J18.9"
+ ],
+ "đtđ\tCHẨN_ĐOÁN": [
+  "E11.9"
+ ],
+ "ổ dịch sau phẫu thuật\tCHẨN_ĐOÁN": [],
+ "ổ dịch trong ổ bụng\tCHẨN_ĐOÁN": [],
+ "loét thực quản\tCHẨN_ĐOÁN": [
+  "K22.10"
+ ],
+ "viêm gan cấp tính do virus b\tCHẨN_ĐOÁN": [
+  "B16.9"
+ ],
+ "bệnh phổi kẽ\tCHẨN_ĐOÁN": [
+  "J84.9"
+ ],
+ "nhiễm virus herpes simplex\tCHẨN_ĐOÁN": [
+  "B00.9"
+ ],
+ "não úng thuỷ\tCHẨN_ĐOÁN": [
+  "G91.9"
+ ],
+ "tràn dịch màng phổi trái\tCHẨN_ĐOÁN": [
+  "J90"
+ ],
+ "tràn dịch màng phổi hai bên\tCHẨN_ĐOÁN": [
+  "J90"
+ ],
+ "tràn dịch màng ngoài tim\tCHẨN_ĐOÁN": [
+  "I31.39"
+ ],
+ "bệnh ba thân động mạch vành\tCHẨN_ĐOÁN": [
+  "I25.10"
+ ],
+ "giảm chức năng tâm thu thất trái\tCHẨN_ĐOÁN": [
+  "I50.20"
+ ],
+ "tăng đông máu\tCHẨN_ĐOÁN": [
+  "D68.69"
+ ],
+ "cục máu đông\tCHẨN_ĐOÁN": [],
+ "tăng ha vô căn\tCHẨN_ĐOÁN": [
+  "I10"
+ ]
+}

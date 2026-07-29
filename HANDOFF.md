@@ -1,6 +1,124 @@
 # HANDOFF — Viettel AI Race Bài 2 (trạng thái 29/07/2026)
 
-> File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `STRATEGY.md` + `dev/NER_PROMPT_SPEC.md`.
+> File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `dev/SPEC_V2.md` + `src/harness/README.md`.
+> (`dev/NER_PROMPT_SPEC.md` và `STRATEGY.md` là bản CŨ — spec đã chuyển sang `dev/SPEC_V2.md`.)
+
+---
+
+# 🆕 29/07 TỐI — HARNESS V2: LẬT NGƯỢC CHẨN ĐOÁN, VẤN ĐỀ LÀ **THỪA** CHỨ KHÔNG PHẢI THIẾU
+
+## Phát hiện quyết định — giải ngược từ chính bản 14 và bản 17
+
+`J` là Jaccard trên **HỢP**. Số concept khớp gold ở một bản ≈ `J/(1+J) × (G + P)`.
+Ép hiệu số giữa bản 14 (P=2824, J_assert=48.3759) và bản 17 (P=2937, J_assert=47.2163) **≥ 0**:
+
+| giả định gold G | precision bản 14 | trong 113 concept bản 17 khớp gold |
+|---|---|---|
+| 4000 | 78.8% | **0.0** |
+| 3500 | 73.0% | 2.7 |
+| 3000 | 67.2% | 5.3 |
+
+⇒ **Gold ≤ ~4000–4600 concept** (biên trên phụ thuộc mức khớp assertion α), **KHÔNG phải 5400**
+như ước tính cũ. ⇒ **Precision bản 14 chỉ 61–80% ⇒ đang mang 550–1000 concept RÁC.**
+
+## 🔑 NGƯỠNG HOÀ VỐN KHI **BỎ** CONCEPT — hướng CHƯA TỪNG THỬ SAU 4 LƯỢT NỘP
+
+Bỏ N concept mà trong đó chỉ `h` phần khớp gold: **J tăng ⟺ `h < J/(1+J)`**
+
+| trục | J | ngưỡng |
+|---|---|---|
+| J_assert | 48.38% | **32.6%** |
+| J_cand | 23.61% | 19.1% |
+
+Bốn thí nghiệm sau bản 14 (bản 15/16/17 + nhân bản) đều là **THÊM** và đều lỗ.
+**Chưa lượt nộp nào thử BỎ.** Cửa rất rộng: bỏ nhóm nào mà dưới 1/3 có thật trong gold là ăn điểm.
+
+## Bằng chứng độc lập: 2 voter clean-room, mù với bản 14 và mù với nhau
+
+Đo trên 30 file đầu (`dev/votes_v2/`):
+
+```
+đồng thuận GIỮA 2 VOTER (mức cụm)         : 86% của hợp   <- tín hiệu đáng tin
+bản 14 được CẢ HAI xác nhận               : 79.2% concept
+bản 14 được ÍT NHẤT 1 xác nhận            : 83.7% concept
+bản 14 KHÔNG voter nào xác nhận           : 16.3% concept  <- ứng viên ĐÃI BỎ
+cả 2 voter có mà bản 14 THIẾU             : 91 cụm/118 lần nhắc <- ứng viên THÊM
+```
+
+Rác điển hình bị lộ: `lú lẫn ngày càng nặng`, `rỉ dịch vàng đục giống mủ`, `nhiều lần ngã gần đây`
+(cụm mô tả chứ không phải thực thể) · `creatinine tăng` gán CHẨN_ĐOÁN (sai type) ·
+`thuốc chống đông máu` gán THUỐC (nhóm thuốc) · file 45 `'K'` thực ra là chữ K của **"Khám"** ·
+file 85 `'1'` là **số thứ tự mục "1."**.
+
+## ⚠️ Bẫy phải tránh khi dùng tín hiệu voter
+
+Voter được **LỆNH** không trích cụm 1 âm tiết và danh sách cấm. Việc chúng vắng mặt trong phiếu
+là **spec của ta dội lại, KHÔNG phải ý kiến độc lập**. `prune.py` đã loại trừ nhóm này khỏi luật
+`uncorroborated` — đừng gỡ.
+
+## HARNESS V2 — `src/harness/` (đọc `src/harness/README.md`)
+
+Một chiều, tất định, không sửa tay JSON: `SPEC → voter → ĐỊNH VỊ → LỌC CẤM → GỘP PHIẾU → MÃ → CỔNG CỨNG → zip`
+
+- **Tự chứng minh:** `python3 -m src.harness.selftest` → quay bản 14 thành phiếu voter rồi chạy
+  lại qua harness: **2823/2824 = 99.96%, 0 vị trí sai.**
+- **Voter thật:** 100% mục định vị được (hợp đồng `text` nguyên văn + `before`/`after`).
+- **Ngưỡng `k` là NÚM VẶN:** một lần chạy voter sinh được k≥1/2/3 mà không gọi lại model.
+
+## 🎯 ĐÒN BẨY LỚN NHẤT TÌM ĐƯỢC: **RANH GIỚI SPAN SAI** (150 ca)
+
+Bản 14 nuốt cả mệnh đề mô tả vào một span. Cả 2 voter độc lập cùng chốt ranh giới ngắn hơn:
+
+```
+'nhiều loét tá tràng và hồi tràng'    =>  'loét tá tràng'
+'buồn nôn và tiêu chảy'               =>  'tiêu chảy'          <- GỘP 2 triệu chứng làm 1
+'xuất huyết dưới nhện vùng trán phải' =>  'xuất huyết dưới nhện'
+'Chụp cắt lớp vi tính (CT Scanner)'   =>  'Chụp cắt lớp vi tính'
+'Tê bì vùng trán phải, da đầu phải và nửa mặt phải' => 'Tê bì vùng trán phải'
+```
+
+Span sai ranh giới là lỗi **tệ nhất** trong bộ metric này: mọi từ thừa là một Insertion vào WER,
+**và** khoá ghép không khớp nên mất luôn concept ở J_assert lẫn J_cand — dù đã nhận đúng khái niệm.
+Sửa được ranh giới là ăn **cả ba trục** cùng lúc, với **số concept bất biến**.
+
+## 🧾 BẢY BẢN ỨNG VIÊN — `out/candidates/`, dựng bằng MỘT lệnh
+
+`python3 -m src.harness.make_submissions`
+
+| bản | concept | +thêm | −bỏ | assert đổi | trục bị đụng |
+|---|---|---|---|---|---|
+| **23_span_fix** | 2824 | 150 | 150 | 0 | ranh giới (cả 3 trục) — **số concept bất biến** |
+| **21_assert_consensus** | 2824 | 0 | 0 | 130 | **CHỈ J_assert** (WER + J_cand bất biến về toán học) |
+| **18_prune_uncorroborated** | 2775 | 0 | 49 | 0 | chỉ BỎ |
+| **19_augment_k2** | 3056 | 232 | 0 | 0 | chỉ THÊM |
+| 24_span_fix_both | 2824 | 267 | 267 | 0 | ranh giới cả hai hướng (rủi ro hơn) |
+| 22_type_fix | 2824 | 39 | 39 | 130 | type + mã + assertion (nhiều trục) |
+| 20_cleanroom_k2 | 2625 | 554 | 753 | 181 | tất cả (Track B thuần) |
+
+### Thứ tự nộp đề xuất
+
+1. **23_span_fix** — kỳ vọng cao nhất, ăn cả ba trục, không đổi số lượng concept.
+2. **21_assert_consensus** — thí nghiệm SẠCH duy nhất từ trước tới nay. Nếu muốn HIỆU CHỈNH
+   độ tin của voter trước khi tin 5 bản còn lại thì nộp cái này TRƯỚC: WER và J_cand bất biến
+   về mặt toán học nên điểm nhận về đo TRỰC TIẾP chất lượng phán đoán của voter.
+3. **18_prune** rồi **19_augment**, sau đó mới gộp các hướng thắng.
+
+⚠️ 20_cleanroom_k2 hiện yếu ở J_cand (891/1114 có mã, bản 14 là 1056/1168) vì `code_map`
+chỉ biết cụm bề mặt đã có trong bản 14. Nộp sau cùng.
+
+## ✅ Một lượt nộp đã tránh được
+
+Cơ chế nhân bản của bản 14 (cách THÊM duy nhất từng thắng) chỉ còn **84 ứng viên** sau khi lọc
+ranh giới từ (`dev/missed_repeats.json`), đa số cũng hỏng (`nang` cắt giữa "nang lông",
+`protein` trong câu văn xuôi). **Hướng đó cạn thật** — khớp với kết luận cũ.
+
+## ⛔ API ngoài đã CHẾT (kiểm 29/07 tối)
+
+`OPENAI_API_KEY` → **401 key sai** · `GEMINI_API_KEY` → **429 hết credit trả trước**.
+`gold_vote.py` / `rerank_llm.py` / `dev/voters.json` hiện KHÔNG chạy được.
+Model mạnh duy nhất còn dùng được = **subagent trong phiên** (vốn cũng là voter mạnh nhất từ đầu).
+
+---
 
 ## ⭐ TỐT NHẤT: BẢN 14 = **36.4914** (WER 58.2207 · J_assert 48.3759 · J_cand 23.6121)
 `out/submitted/14_repeat_36.4914.zip`. Thêm 313 **lần nhắc lặp** bị bỏ sót → **tăng CẢ 3 TRỤC**, phá mốc

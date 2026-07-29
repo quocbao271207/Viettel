@@ -1,0 +1,86 @@
+[
+ {
+  "text": "loét thực quản",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "viêm gan cấp tính do virus b",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "bầm dập nhu mô",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "bệnh phổi kẽ",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "corticoid",
+  "type": "THUỐC"
+ },
+ {
+  "text": "nhiễm virus herpes simplex",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tretinoin",
+  "type": "THUỐC"
+ },
+ {
+  "text": "bacillus clausii",
+  "type": "THUỐC"
+ },
+ {
+  "text": "não úng thuỷ",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "hở hai lá",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "hở chủ",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tràn dịch màng phổi trái",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tràn dịch màng ngoài tim",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "corticosteroid",
+  "type": "THUỐC"
+ },
+ {
+  "text": "bệnh ba thân động mạch vành",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tràn dịch màng phổi hai bên",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "giảm chức năng tâm thu thất trái",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "thuốc kháng nấm",
+  "type": "THUỐC"
+ },
+ {
+  "text": "tăng đông máu",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "cục máu đông",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tăng ha vô căn",
+  "type": "CHẨN_ĐOÁN"
+ }
+]

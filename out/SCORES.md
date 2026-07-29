@@ -337,3 +337,99 @@ Ba lần thử liên tiếp sau bản 14 đều lỗ, với biên độ ngày c�
 **Quy luật:** chỉ có MỘT cách thêm concept từng thắng — nhân bản text ĐÃ được gold xác nhận (đã ăn điểm)
 sang các lần nhắc khác. Mọi concept do LLM tự nghĩ ra thêm đều lỗ, dù duyệt kỹ đến đâu.
 Không có gold để đối chiếu thì không thể vượt qua rào này bằng cách thêm.
+
+---
+
+# 🆕 29/07 TỐI — HARNESS V2: NĂM THÍ NGHIỆM TÁCH BẠCH (chưa nộp)
+
+Dựng bằng **một lệnh**: `python3 -m src.harness.make_submissions`
+(spec: `dev/SPEC_V2.md` · tài liệu: `src/harness/README.md`)
+
+## Lật ngược chẩn đoán: vấn đề là THỪA, không phải THIẾU
+
+Giải ngược từ bản 14 (P=2824, J_assert=48.3759) vs bản 17 (P=2937, J_assert=47.2163),
+ép số concept khớp gold không âm ⇒ **gold ≤ ~4000–4600** (không phải 5400 như ước tính cũ)
+⇒ **precision bản 14 chỉ 61–80% ⇒ đang mang 550–1000 concept RÁC.**
+
+**Ngưỡng hoà vốn khi BỎ concept: `h* = J/(1+J)`** — J_assert **32.6%**, J_cand 19.1%.
+Bỏ nhóm nào mà dưới 1/3 có thật trong gold là ĐIỂM TĂNG.
+Bốn thí nghiệm sau bản 14 đều là THÊM và đều lỗ. **Chưa lượt nào thử BỎ.**
+
+## Bằng chứng: 2 voter clean-room (20 subagent, mù với bản 14 và mù với nhau)
+
+- **Đồng thuận giữa 2 voter: 86%** mức cụm ⇒ tín hiệu đáng tin.
+- Bản 14 được ≥1 voter xác nhận: **83.7%** · không ai xác nhận: **16.3%**.
+- Assertion: 87.1% khớp · **2 voter đồng thuận KHÁC bản 14: 87 ca**.
+- Type: 27 ca 2 voter đồng thuận khác bản 14 (19 ca `CHẨN_ĐOÁN`→`TRIỆU_CHỨNG`).
+
+## Ứng viên (mỗi bản đổi ĐÚNG một trục — dùng `src/harness/diff.py` kiểm trước khi nộp)
+
+| bản | concept | nội dung | trục đụng |
+|---|---|---|---|
+| `21_assert_consensus.zip` | 2824 | 87 assertion theo đồng thuận 2 voter | **CHỈ J_assert** (text/vị trí/mã bất biến, có `assert` ép trong code) |
+| `22_type_fix.zip` | 2824 | 27 ca sai type | type + mã kéo theo |
+| `18_prune_uncorroborated.zip` | 2568 | **BỎ** cụm không voter nào xác nhận | chỉ BỎ |
+| `19_augment_k2.zip` | 3044 | **THÊM** concept 2 voter đồng thuận đúng span | chỉ THÊM |
+| `20_cleanroom_k2.zip` | 2302 | dựng lại hoàn toàn từ phiếu, k≥2 | tất cả |
+
+**Nộp bản 21 TRƯỚC.** Nó là thí nghiệm sạch duy nhất từ trước tới nay: WER và J_cand bất biến
+về mặt toán học ⇒ điểm nhận về đo TRỰC TIẾP chất lượng phán đoán của voter. Nó vừa là bản nộp
+vừa là phép **hiệu chỉnh** cho 4 bản còn lại.
+
+## Đã tránh được lượt nộp lãng phí
+
+Cơ chế nhân bản của bản 14 (cách THÊM duy nhất từng thắng) chỉ còn **84 ứng viên** sau khi lọc
+ranh giới từ, đa số hỏng (`nang` cắt giữa "nang lông"). Hướng đó cạn thật.
+
+## Lỗi đã bắt được khi kiểm thử đầu-cuối (đừng để tái diễn)
+
+Luật đãi bỏ ban đầu coi "file voter CHƯA CHẠY" = "không ai xác nhận" ⇒ suýt xoá
+`thiếu men G6PD` (17 lần, file 1) và `bệnh Kawasaki` (8 lần). Đã thêm cổng `covered`:
+chỉ đãi bỏ ở file mà MỌI voter đều có phiếu.
+
+## Trung bình theo FILE — khuếch đại lỗi ở file THƯA
+
+`text_score` và `assertions_score` là trung bình **không trọng số theo file** ⇒ file 3 concept
+ảnh hưởng ngang file 60 concept. Bản 16 và 17 đều trích lại đúng **"30 file mật độ thấp nhất"**
+— tức đổ concept mới vào chính nơi mỗi sai sót bị khuếch đại mạnh nhất. Đó là một phần lý do
+chúng lỗ nặng hơn dự đoán.
+
+## ⛔ API ngoài đã chết (29/07 tối)
+`OPENAI_API_KEY` → 401 · `GEMINI_API_KEY` → 429 hết credit. `gold_vote.py`/`rerank_llm.py`
+không chạy được. Model mạnh duy nhất = subagent trong phiên.
+
+## CHỐT DANH SÁCH ỨNG VIÊN (29/07 tối, đủ 100 file × 2 voter độc lập)
+
+Voter: `dev/votes_v2/a.json` (2955 concept thô) + `b.json` (2957) — 20 subagent clean-room.
+Mã bổ sung: `dev/newcodes_v2.json` (49 cụm, 38 có mã, đã tự kiểm 100% tồn tại trong gaz).
+
+| bản | concept | +thêm | −bỏ | assert đổi | có mã J_cand | trục đụng |
+|---|---|---|---|---|---|---|
+| 14 (nền) | 2824 | — | — | — | 1056/1168 | — |
+| **23_span_fix** | 2824 | 150 | 150 | 0 | 1052/1166 | ranh giới — cả 3 trục |
+| **21_assert_consensus** | 2824 | 0 | 0 | 130 | 1056/1168 | CHỈ J_assert |
+| **18_prune_uncorroborated** | 2775 | 0 | 49 | 0 | 1037/1149 | chỉ BỎ |
+| **19_augment_k2** | 3056 | 232 | 0 | 0 | 1095/1253 | chỉ THÊM |
+| 24_span_fix_both | 2824 | 267 | 267 | 0 | 1031/1164 | ranh giới 2 hướng |
+| 22_type_fix | 2824 | 39 | 39 | 130 | 1030/1150 | type+mã+assert |
+| 20_cleanroom_k2 | 2625 | 554 | 753 | 181 | 891/1114 | tất cả |
+
+### 🎯 ĐÒN BẨY LỚN NHẤT: RANH GIỚI SPAN (150 ca, bản 23)
+
+Bản 14 nuốt cả mệnh đề mô tả vào một span; 2 voter độc lập cùng chốt ranh giới ngắn hơn:
+`nhiều loét tá tràng và hồi tràng`→`loét tá tràng` · `buồn nôn và tiêu chảy`→`tiêu chảy`
+(GỘP 2 triệu chứng làm 1!) · `Chụp cắt lớp vi tính (CT Scanner)`→`Chụp cắt lớp vi tính`.
+
+Span sai ranh giới là lỗi TỆ NHẤT của bộ metric: từ thừa = Insertion vào WER, **và** khoá ghép
+không khớp nên mất luôn concept ở J_assert + J_cand dù đã nhận đúng khái niệm. Sửa ranh giới
+ăn cả ba trục mà **số concept bất biến**.
+
+### Nộp bản 21 nếu muốn HIỆU CHỈNH trước
+Bản 21 chỉ đổi `assertions`; `text`/`position`/`type`/`candidates` bất biến (có `assert` ép trong
+code) ⇒ WER và J_cand bất biến về mặt TOÁN HỌC. Điểm nhận về đo TRỰC TIẾP chất lượng phán đoán
+của voter, dùng để hiệu chỉnh kỳ vọng cho 6 bản còn lại.
+
+### Lỗi thứ hai đã bắt được khi soi tay danh sách đãi bỏ
+Đối chiếu theo cụm bề mặt CHÍNH XÁC quá khắt khe: voter trích `bệnh gút` còn bản 14 có `gút`
+⇒ bản 14 bị tính "không ai xác nhận". Suýt xoá `xơ gan`, `gút`, `vảy nến`, `suy thận mạn`,
+`amoxicillin`. Đã thêm đối chiếu CHỒNG LẤN VỊ TRÍ (`overlap_voters`) — số bỏ từ 256 xuống 49.
