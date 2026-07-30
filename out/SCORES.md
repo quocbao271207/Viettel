@@ -471,3 +471,37 @@ Nếu chúng ĐỔI thì mô hình metric của ta (`src/evaluate.py`) SAI, và 
 - **#4 vs #10**: đường liều-đáp của việc THÊM.
 - **#12 vs #13**: ngưỡng đồng thuận k nên đặt ở đâu.
 - **#5/#7 so tổng của #1..#4**: các hướng có CỘNG DỒN được không hay triệt tiêu nhau.
+
+## ✅✅ BẢN 21 = 36.2479 (nộp 30/07 10:25) — LỖ 0.24 NHƯNG **KIỂM CHỨNG ĐƯỢC METRIC**
+
+| | điểm | WER | J_assert | J_cand |
+|---|---|---|---|---|
+| bản 14 (nền) | 36.4914 | 58.2207 | 48.3759 | 23.6121 |
+| bản 21 | **36.2479** | **58.2207** | 47.5642 | **23.6121** |
+
+### 🔑 PHÁT HIỆN 1 — MÔ HÌNH METRIC ĐÚNG (đắt hơn cả điểm)
+WER và J_cand **bất biến CHÍNH XÁC tới từng chữ số**, đúng như dự đoán toán học từ chỗ bản 21
+chỉ đổi `assertions`. ⇒ Công thức `0.3(1−WER)+0.3·J_assert+0.4·J_cand` ĐÚNG; khoá ghép concept
+ĐÚNG; và mọi suy luận dựng trên đó **đứng vững**:
+- chặn trên **gold ≤ ~4000–4600**
+- **ngưỡng hoà vốn khi BỎ = 32.6%**
+- hướng ĐÃI BỎ vẫn là canh bạc tốt
+
+Đây là lý do nộp bản 21 trước tiên, và nó đã trả về đúng thứ cần: một lượt nộp mua được
+sự chắc chắn cho toàn bộ phần còn lại.
+
+### 🔴 PHÁT HIỆN 2 — ASSERTION CỦA VOTER KÉM HƠN BẢN 14
+J_assert 48.3759 → 47.5642 (−0.8117) = **−0.2435 điểm** trên 130 thay đổi.
+Giải ngược: net ≈ −37/130 ⇒ **voter chỉ đúng ~36%%** khi bất đồng với bản 14.
+
+Hợp lý: assertion bản 14 ĐÃ được duyệt tay 100 file (bản 08 ăn +0.205 nhờ đúng việc đó).
+Voter chưa duyệt thì thua người đã duyệt. **Đừng áp assertion của voter nữa.**
+
+Phân bố thay đổi cho thấy thủ phạm: **47 ca GỠ `isHistorical`** (nhiều nhất), 16 ca thêm.
+Nếu 47 ca gỡ đều sai thì 83 ca còn lại net ≈ +10 (≈55%% đúng).
+⇒ Bản **34_assert_addonly** (chỉ THÊM nhãn, không bao giờ gỡ — 31 ca) kiểm giả thuyết này.
+
+### ⚠️ HÀNH ĐỘNG NGAY: đã dựng lại 5 bản kết hợp, BỎ HẲN bước assertion
+`27/28/29/32/33` cũ đều chứa 130 thay đổi assertion ⇒ mang sẵn −0.24 điểm.
+Đã thay bằng chuỗi SẠCH `span → prune → augment`. Thêm `--assert-mode {full,add,none}`
+vào `fix_assertions.py` để tách bạch ba chế độ.

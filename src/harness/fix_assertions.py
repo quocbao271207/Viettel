@@ -38,6 +38,11 @@ def main() -> None:
     ap.add_argument("--k", type=int, default=2)
     ap.add_argument("--out", default="")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--assert-mode", choices=("full", "add", "none"), default="full",
+                    help="full = theo đồng thuận voter (ĐÃ ĐO: voter chỉ đúng ~36%% khi bất đồng "
+                         "-> bản 21 LỖ 0.24 điểm). add = CHỈ thêm nhãn, không bao giờ gỡ "
+                         "(giả thuyết: gold dùng isHistorical rộng rãi, bản 14 duyệt tay đã đúng, "
+                         "voter sai chủ yếu vì GỠ isHistorical). none = không đụng assertion.")
     ap.add_argument("--fix-types", action="store_true",
                     help="SỬA CẢ TYPE khi >=k voter đồng thuận type khác bản nền. "
                          "Đề gọi sai type là 'phạt kép' (0đ cả 3 trục + tạo concept ma). "
@@ -82,12 +87,18 @@ def main() -> None:
                         votes[tuple(sorted(v["assertions"]))] += 1
             cur = tuple(sorted(e["assertions"]))
             new = e["assertions"]
+            if args.assert_mode == "none":
+                stats["không đụng assertion (--assert-mode none)"] += 1
+                rows.append({**e, "assertions": new})
+                continue
             if not votes:
                 stats["không voter nào chạm span này"] += 1
             elif votes.most_common(1)[0][1] < args.k:
                 stats[f"voter bất đồng nhau (<{args.k} cùng nhãn) — GIỮ NGUYÊN"] += 1
             elif votes.most_common(1)[0][0] == cur:
                 stats["voter xác nhận bản nền"] += 1
+            elif args.assert_mode == "add" and not set(cur) <= set(votes.most_common(1)[0][0]):
+                stats["voter GỠ nhãn — bỏ qua (--assert-mode add)"] += 1
             else:
                 new = list(votes.most_common(1)[0][0])
                 stats["SỬA theo đồng thuận voter"] += 1
@@ -126,6 +137,9 @@ def main() -> None:
             if not args.fix_types:
                 assert (a["type"], a["candidates"]) == (b["type"], b["candidates"]), \
                        f"file {fid}: đụng type/mã dù không bật --fix-types"
+            if args.assert_mode == "none":
+                assert a["assertions"] == b["assertions"], \
+                       f"file {fid}: đụng assertion dù --assert-mode none"
     errs = validate.validate(out)
     if errs:
         print(f"\n❌ {len(errs)} lỗi — KHÔNG ghi zip")
