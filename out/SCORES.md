@@ -714,3 +714,29 @@ Pool đồng thuận càng lớn thì càng nhiều concept đúng để thêm. 
 - `k≥2` bắt được nhiều hơn hẳn (2 bất kỳ trong 4)
 - `k≥3` mở ra mức chính xác cao hơn cho liều mạnh
 - tín hiệu "không voter nào xác nhận" (dùng cho đãi bỏ) đáng tin hơn nhiều
+
+## ⭐⭐⭐ BẢN 82x = 38.6460 — CLEAN-ROOM THUẦN VƯỢT NHÁNH VÁ-DẦN
+
+Dựng LẠI hoàn toàn từ phiếu 4 voter (`build --k 2`), **không dùng bản 14 làm nền**.
+
+| | điểm | WER | J_assert | **J_cand** |
+|---|---|---|---|---|
+| 76 (nhánh vá-dần) | 38.2704 | 55.3011 | 49.8222 | 24.7851 |
+| **82x (clean-room 4 voter k≥2)** | **38.6460** | 55.9124 | **50.1717** | **25.9205** |
+| Δ quy ra ĐIỂM | **+0.3756** | −0.1834 | +0.1048 | **+0.4542** |
+
+### 🔑 J_cand PHÁ MỐC 24 sau 10 lượt nộp bị kẹt
+23.61 → 24.43 → **25.92**. Toàn bộ mức tăng đến từ việc dựng lại từ đầu, không phải sửa mã.
+Đúng chẩn đoán ở mục trước: vấn đề là span chẩn đoán KHÔNG KHỚP gold, không phải mã sai.
+
+### Mỗi nhánh mạnh một chỗ ⇒ ghép được
+- clean-room mạnh ở **J_cand** (span chẩn đoán do 4 model độc lập chọn)
+- nhánh vá-dần mạnh ở **WER** (đã qua 3 vòng thu ngắn ranh giới) và có **assertion DUYỆT TAY**
+
+Bản 21 đã chứng minh assertion voter kém hơn assertion duyệt tay (−0.24). Clean-room dùng
+assertion theo đa số phiếu ⇒ **ghép assertion duyệt tay vào chỗ trùng span**: 236 ca,
+kèm 46 mã bổ sung (có mã 947→**993**/1221). Đó là bản `85`.
+
+### ❌ Vá thêm concept từ cặp voter MỚI thì lỗ (bản 80 = 38.1800, −0.09)
+`k≥2 trong 4` gồm cả các cặp không có a hoặc b. Những cặp đó là tín hiệu YẾU HƠN cặp a+b gốc.
+⇒ Thêm voter KHÔNG giúp bằng cách nới lỏng ngưỡng; nó giúp bằng cách **dựng lại từ đầu**.
