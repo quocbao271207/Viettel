@@ -594,3 +594,28 @@ rồi cộng dồn mà không phải tốn lượt nộp để kiểm từng t�
 38 + đãi bỏ 49    37.0865   +0.1762
 57 + đồng bộ dài  37.1974   +0.1109
 ```
+
+## 🔬 30/07 11:39-11:42 — QUY LUẬT ĐÃI BỎ THEO TYPE (ba lượt nộp cùng lúc)
+
+| bản | bỏ gì | điểm | ΔWER | Δassert | **Δcand** |
+|---|---|---|---|---|---|
+| **64** | 145 (mv2, không cứu chồng lấn) | **37.3972** ⭐ | −0.006 | −0.050 | **+0.143** |
+| 63 | 65 (mv1, không cứu chồng lấn) | 37.2692 | −0.091 | −0.074 | **+0.126** |
+| 65 | 83 cụm 1 âm tiết | 36.5947 ❌❌ | **−0.459** | −0.381 | +0.126 |
+
+### 🔑 QUY LUẬT: đãi bỏ LUÔN làm J_cand tăng, LUÔN làm WER + J_assert giảm
+Lời hay lỗ phụ thuộc **bỏ TYPE nào**:
+- Bỏ `CHẨN_ĐOÁN`/`THUỐC` (được chấm J_cand) → ăn đậm ở trục 0.4.
+- Bỏ `TRIỆU_CHỨNG`/xét nghiệm → chỉ lỗ, vì chúng CÓ trong gold nên mất là mất WER + J_assert.
+
+Bản 64 bỏ 145 concept = 75 có-mã + 70 loại khác. Phần có-mã ăn, phần kia lỗ, tổng vẫn dương.
+⇒ Bản **67** chỉ bỏ đúng 75 concept có mã: giữ phần ăn, bỏ phần lỗ.
+
+### ❌❌ CỤM 1 ÂM TIẾT CÓ THẬT TRONG GOLD — ĐÓNG LẠI VĨNH VIỄN
+Bỏ `sốt`/`nôn`/`ho`/`phù` (83 concept) làm **WER vọt lên 58.03** — tệ nhất kể từ bản 14,
+và J_assert rơi 0.38. Bài học bản 15 ("cụm 1 âm tiết dưới ngưỡng hoà vốn") đúng cho việc
+THÊM chúng, nhưng những cụm ĐÃ CÓ thì gold có thật. Đừng đụng nữa.
+
+### 🔑 J_cand cuối cùng cũng dịch: 23.6121 → 24.4324
+Toàn bộ nhờ **bỏ concept có mã bị thừa**, không phải nhờ sửa mã. Bốn lượt nộp sửa mã trước đây
+thất bại vì chữa nhầm bệnh: vấn đề không phải mã SAI mà là concept THỪA làm phình mẫu số.
