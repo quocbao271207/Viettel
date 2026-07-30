@@ -131,9 +131,27 @@ def merge(resolved: dict[str, dict], k: int) -> dict[str, list[dict]]:
             rows.append({"text": slot["text"], "type": ty,
                          "candidates": [], "assertions": list(slot["asserts"].most_common(1)[0][0]),
                          "position": [s, t], "_votes": len(slot["voters"])})
-        rows.sort(key=lambda r: (r["position"][0], r["position"][1]))
-        out[fid] = rows
+        out[fid] = resolve_overlaps(rows)
     return out
+
+
+def resolve_overlaps(rows: list[dict]) -> list[dict]:
+    """Gỡ span chồng lấn: NHIỀU PHIẾU hơn thắng, hoà thì NGẮN hơn thắng.
+
+    Ở k=1 hai voter hay chốt hai ranh giới khác nhau cho cùng khái niệm
+    (`loét tá tràng` vs `nhiều loét tá tràng và hồi tràng`) — giữ cả hai là vừa chồng lấn
+    vừa nhân đôi lỗi. Ưu tiên span NGẮN dựa trên bằng chứng của bản 23: bản 14 thua chính
+    vì nuốt cả mệnh đề mô tả vào span.
+    """
+    kept: list[dict] = []
+    for r in sorted(rows, key=lambda r: (-r["_votes"],
+                                         r["position"][1] - r["position"][0],
+                                         r["position"][0])):
+        s, t = r["position"]
+        if any(s < b["position"][1] and t > b["position"][0] for b in kept):
+            continue
+        kept.append(r)
+    return sorted(kept, key=lambda r: (r["position"][0], r["position"][1]))
 
 
 def assign_codes(preds: dict[str, list[dict]], cmap: dict) -> dict[str, list[dict]]:

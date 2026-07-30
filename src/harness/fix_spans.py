@@ -47,6 +47,8 @@ def norm(s: str) -> str:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--base", default="",
+                    help="zip nền để chồng lên (mặc định: bản 14). Cho phép nối các bước: span_fix -> assert -> prune ...")
     ap.add_argument("--k", type=int, default=2)
     ap.add_argument("--both", action="store_true",
                     help="sửa cả hướng NỚI RỘNG (bản nền cắt cụt), không chỉ thu ngắn")
@@ -57,7 +59,7 @@ def main() -> None:
                          "thường là tên bệnh phổ biến hơn nên tra mã được")
     args = ap.parse_args()
 
-    base = validate.load_zip(BASE_ZIP)
+    base = validate.load_zip(Path(args.base) if args.base else BASE_ZIP)
     resolved = {}
     for f in sorted(VOTES.glob("*.json")):
         r, _ = resolve_voter(json.loads(f.read_text(encoding="utf-8")), apply_ban=True)

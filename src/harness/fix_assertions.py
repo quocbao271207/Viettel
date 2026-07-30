@@ -33,6 +33,8 @@ VOTES = ROOT / "dev/votes_v2"
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--base", default="",
+                    help="zip nền để chồng lên (mặc định: bản 14). Cho phép nối các bước: span_fix -> assert -> prune ...")
     ap.add_argument("--k", type=int, default=2)
     ap.add_argument("--out", default="")
     ap.add_argument("--dry", action="store_true")
@@ -43,7 +45,7 @@ def main() -> None:
                          "— tức bản này KHÔNG còn thuần một trục nữa. Nộp riêng.")
     args = ap.parse_args()
 
-    base = validate.load_zip(BASE_ZIP)
+    base = validate.load_zip(Path(args.base) if args.base else BASE_ZIP)
     resolved = {}
     for f in sorted(VOTES.glob("*.json")):
         r, _ = resolve_voter(json.loads(f.read_text(encoding="utf-8")), apply_ban=False)

@@ -166,6 +166,8 @@ def apply_prune(base: dict, drop: dict[tuple[str, str], str],
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--base", default="",
+                    help="zip nền để chồng lên (mặc định: bản 14). Cho phép nối các bước: span_fix -> assert -> prune ...")
     ap.add_argument("--rule", default="spec", help="spec | uncorroborated | cả hai, ngăn bởi dấu phẩy")
     ap.add_argument("--min-votes", type=int, default=1,
                     help="cụm cần >= bấy nhiêu voter độc lập mới được GIỮ")
@@ -175,7 +177,7 @@ def main() -> None:
     ap.add_argument("--dry", action="store_true")
     args = ap.parse_args()
 
-    base = validate.load_zip(BASE_ZIP)
+    base = validate.load_zip(Path(args.base) if args.base else BASE_ZIP)
     n0 = sum(len(v) for v in base.values())
     rules = [r.strip() for r in args.rule.split(",") if r.strip()]
 

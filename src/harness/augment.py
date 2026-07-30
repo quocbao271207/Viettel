@@ -52,6 +52,8 @@ def load_voters() -> tuple[dict[str, dict], list[str]]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--base", default="",
+                    help="zip nền để chồng lên (mặc định: bản 14). Cho phép nối các bước: span_fix -> assert -> prune ...")
     ap.add_argument("--k", type=int, default=2, help="số voter độc lập tối thiểu")
     ap.add_argument("--out", default="")
     ap.add_argument("--dry", action="store_true")
@@ -59,7 +61,7 @@ def main() -> None:
                     help="JSON {'text\\tTYPE': ['mã']} bổ sung cho cụm mới")
     args = ap.parse_args()
 
-    base = validate.load_zip(BASE_ZIP)
+    base = validate.load_zip(Path(args.base) if args.base else BASE_ZIP)
     resolved, names = load_voters()
     if len(names) < args.k:
         raise SystemExit(f"chỉ có {len(names)} voter, không đủ cho k={args.k}")

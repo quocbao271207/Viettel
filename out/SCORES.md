@@ -433,3 +433,41 @@ của voter, dùng để hiệu chỉnh kỳ vọng cho 6 bản còn lại.
 Đối chiếu theo cụm bề mặt CHÍNH XÁC quá khắt khe: voter trích `bệnh gút` còn bản 14 có `gút`
 ⇒ bản 14 bị tính "không ai xác nhận". Suýt xoá `xơ gan`, `gút`, `vảy nến`, `suy thận mạn`,
 `amoxicillin`. Đã thêm đối chiếu CHỒNG LẤN VỊ TRÍ (`overlap_voters`) — số bỏ từ 256 xuống 49.
+
+## 📋 ĐỢT NỘP 1 — 17 bản (user có 15-20 lượt/ngày từ 29/07)
+
+Nền so sánh: **bản 14 = 36.4914** (WER 58.2207 · J_assert 48.3759 · J_cand 23.6121).
+**GHI ĐỦ 3 TRỤC cho từng bản**, không chỉ điểm tổng — phân rã theo trục mới là thứ đọc được.
+
+| # | bản | concept | trả lời câu hỏi gì | điểm | WER | J_assert | J_cand |
+|---|---|---|---|---|---|---|---|
+| 1 | `21_assert_consensus` | 2824 | **KIỂM CHỨNG METRIC** + voter đọc assertion có giỏi hơn bản 14 không | | | | |
+| 2 | `23_span_fix` | 2824 | thu ngắn 150 ranh giới có ăn cả 3 trục không | | | | |
+| 3 | `18_prune_uncorroborated` | 2775 | **BỎ concept có ăn điểm không** (hướng chưa từng thử) | | | | |
+| 4 | `19_augment_k2` | 3056 | thêm theo đồng thuận 2/2 có khác bản 15-17 không | | | | |
+| 5 | `29_all_four` | 3023 | gộp cả 4 hướng | | | | |
+| 6 | `27_span_assert` | 2824 | span + assert (không đổi số lượng) | | | | |
+| 7 | `28_span_assert_prune` | 2775 | span + assert + bỏ | | | | |
+| 8 | `24_span_fix_both` | 2824 | nới rộng ranh giới có hại không (so bản 23) | | | | |
+| 9 | `25_prune_k2` | 2750 | bỏ MẠNH hơn (74 vs 49) — liều thứ 2 | | | | |
+| 10 | `26_augment_k1` | 3191 | thêm MẠNH hơn (367 vs 232) — liều thứ 2 | | | | |
+| 11 | `22_type_fix` | 2824 | sửa type có ăn điểm không | | | | |
+| 12 | `20_cleanroom_k2` | 2624 | Track B thuần, k≥2 | | | | |
+| 13 | `30_cleanroom_k1` | 3045 | Track B thuần, k≥1 | | | | |
+| 14 | `32_spanboth_assert_prune` | 2775 | biến thể mạnh của #7 | | | | |
+| 15 | `33_all_aggressive` | 3163 | gộp mọi hướng, liều mạnh nhất | | | | |
+| 16 | `31_prune_onesyl` | 2732 | bỏ cụm 1 âm tiết (`sốt`/`nôn`/`ho`) — canh bạc riêng | | | | |
+
+### ⚠️ NỘP #1 TRƯỚC TIÊN — nó là PHÉP KIỂM CHỨNG METRIC
+`21_assert_consensus` chỉ đổi `assertions`; `text`/`position`/`type`/`candidates` bất biến
+(có `assert` ép trong code). ⇒ **WER và J_cand PHẢI y hệt bản 14: 58.2207 và 23.6121.**
+Nếu chúng ĐỔI thì mô hình metric của ta (`src/evaluate.py`) SAI, và mọi suy luận dựa trên nó
+— gồm cả chặn trên gold ≤4600 và ngưỡng hoà vốn 32.6% — phải xem lại từ đầu.
+Đây là thông tin đáng giá nhất trong cả đợt, lấy được bằng đúng một lượt nộp.
+
+### Cách đọc kết quả
+- **#2 vs #8**: thu ngắn tốt hơn hay sửa cả hai hướng tốt hơn.
+- **#3 vs #9**: đường liều-đáp của việc BỎ. Cả hai cùng tăng ⇒ bỏ mạnh hơn nữa.
+- **#4 vs #10**: đường liều-đáp của việc THÊM.
+- **#12 vs #13**: ngưỡng đồng thuận k nên đặt ở đâu.
+- **#5/#7 so tổng của #1..#4**: các hướng có CỘNG DỒN được không hay triệt tiêu nhau.
