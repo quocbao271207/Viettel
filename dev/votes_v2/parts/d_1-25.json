@@ -1,0 +1,6809 @@
+{
+ "1": [
+  {
+   "text": "THIẾU MEN G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "",
+   "after": " là gì? \n\n1. Th"
+  },
+  {
+   "text": "Thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "\n\n1. ",
+   "after": " là bệnh gì?"
+  },
+  {
+   "text": "Thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bệnh gì?\n\n",
+   "after": " (Glucose-6-Pho"
+  },
+  {
+   "text": "thiếu hụt men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đến tình trạng ",
+   "after": ". Các đột biến"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "của trẻ bị ",
+   "after": "\n\nHiện nay, tr"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "có xét nghiệm ",
+   "after": ". Các bác sĩ s"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nghi ngờ ",
+   "after": ", trẻ sẽ được ch"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "phát hiện ",
+   "after": " ngay từ giai đ"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Khi trẻ bị ",
+   "after": " và ăn đậu tằm"
+  },
+  {
+   "text": "Sốt cao",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "như:\n • ",
+   "after": "\n3.  Đánh giá"
+  },
+  {
+   "text": "Tim đập nhanh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bệnh viện • ",
+   "after": ", khó thở"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đập nhanh, ",
+   "after": "\n • Vàng da"
+  },
+  {
+   "text": "Vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "khó thở\n • ",
+   "after": ", vàng mắt\n"
+  },
+  {
+   "text": "vàng mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "• Vàng da, ",
+   "after": "\n\nKhi đi khám"
+  },
+  {
+   "text": "xét nghiệm máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Khi đi khám, ",
+   "after": " thường cho th"
+  },
+  {
+   "text": "thiếu máu do tan huyết",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho thấy ",
+   "after": ", hồng cầu bị"
+  },
+  {
+   "text": "thiếu máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "loạt, dẫn đến ",
+   "after": ", vàng da vàng"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thiếu máu, ",
+   "after": " vàng mắt và th"
+  },
+  {
+   "text": "vàng mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": ", vàng da ",
+   "after": " và thậm chí s"
+  },
+  {
+   "text": "suy thận cấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thậm chí ",
+   "after": ". Đặc biệt, nế"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trẻ sơ sinh bị ",
+   "after": " nặng sau khoả"
+  },
+  {
+   "text": "bại não",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nghiêm trọng, gây ",
+   "after": ", chậm phát tr"
+  },
+  {
+   "text": "chậm phát triển trí tuệ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gây bại não, ",
+   "after": " và vận động."
+  },
+  {
+   "text": "thiếu máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "và tình trạng ",
+   "after": " thường sẽ ổn"
+  },
+  {
+   "text": "thiếu máu tan huyết",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hủy, dẫn đến ",
+   "after": ".\n\nỞ trẻ sơ si"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trẻ sơ sinh, ",
+   "after": " nặng do thiếu"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vàng da nặng do ",
+   "after": " có thể gây ra"
+  },
+  {
+   "text": "Bại não",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hiểm như:\n • ",
+   "after": "\n • Chậm phát"
+  },
+  {
+   "text": "Chậm phát triển trí tuệ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Bại não\n • ",
+   "after": "\n • Rối loạn"
+  },
+  {
+   "text": "Rối loạn vận động",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trí tuệ\n • ",
+   "after": "\n\nNếu không đ"
+  },
+  {
+   "text": "thiếu máu tan huyết",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cách, tình trạng ",
+   "after": " kéo dài kèm"
+  },
+  {
+   "text": "vàng da sơ sinh",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "kéo dài kèm ",
+   "after": " sẽ trở thành"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "phát hiện trẻ bị ",
+   "after": " thông qua sà"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mọi người ",
+   "after": " đều luôn tron"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gì khi con bị ",
+   "after": "?\n\nTheo khuyến"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bác sĩ, trẻ ",
+   "after": " cần tránh các"
+  },
+  {
+   "text": "Nhiễm khuẩn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sức khỏe như:\n • ",
+   "after": ", nhiễm virus"
+  },
+  {
+   "text": "nhiễm virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Nhiễm khuẩn, ",
+   "after": "\n • Thuốc giả"
+  },
+  {
+   "text": "Vitamin K",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "**********\n • ",
+   "after": " dùng trong đi"
+  },
+  {
+   "text": "nhiễm khuẩn tiết niệu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trong điều trị ",
+   "after": "\n • Thực phẩm"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "về tình trạng ",
+   "after": " của trẻ\n"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Phòng ngừa ",
+   "after": "\n\nĐể hạn chế"
+  },
+  {
+   "text": "thiếu men G6PD",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguy cơ trẻ mắc ",
+   "after": ", xét nghiệm"
+  }
+ ],
+ "2": [
+  {
+   "text": "Bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "1. ",
+   "after": " là gì?\n\nBệnh"
+  },
+  {
+   "text": "Bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "là gì?\n\n",
+   "after": " là tình trạng"
+  },
+  {
+   "text": "sốt cấp kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "là tình trạng ",
+   "after": ", thường đi kè"
+  },
+  {
+   "text": "phát ban toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đi kèm ",
+   "after": ", với đặc điểm"
+  },
+  {
+   "text": "viêm tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "dẫn đến ",
+   "after": ", phình giãn"
+  },
+  {
+   "text": "phình giãn động mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "viêm tim, ",
+   "after": ", đột tử, nhồi"
+  },
+  {
+   "text": "đột tử",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạch vành, ",
+   "after": ", nhồi máu cơ"
+  },
+  {
+   "text": "nhồi máu cơ tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đột tử, ",
+   "after": ", hoặc hẹp tắc"
+  },
+  {
+   "text": "hẹp tắc mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tim, hoặc ",
+   "after": " gây suy tim v"
+  },
+  {
+   "text": "suy tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạch vành gây ",
+   "after": " về sau."
+  },
+  {
+   "text": "Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Tóm lại: ",
+   "after": " là bệnh viêm"
+  },
+  {
+   "text": "viêm mạch máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "là bệnh ",
+   "after": " nguy hiểm, cầ"
+  },
+  {
+   "text": "bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Nguyên nhân gây ",
+   "after": "\nMặc dù được"
+  },
+  {
+   "text": "Nhiễm khuẩn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "liên quan:\n • ",
+   "after": " – nhiễm virus"
+  },
+  {
+   "text": "nhiễm virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Nhiễm khuẩn – ",
+   "after": " hoặc độc tố"
+  },
+  {
+   "text": "bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "3. Triệu chứng ",
+   "after": " ở trẻ em"
+  },
+  {
+   "text": "Sốt cao kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ngày)\n1. ",
+   "after": "\n • Sốt 39–40"
+  },
+  {
+   "text": "Sốt 39–40°C",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kéo dài\n • ",
+   "after": " trong hơn 5 n"
+  },
+  {
+   "text": "Mắt đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "\n\n2. ",
+   "after": "\n • Viêm kết"
+  },
+  {
+   "text": "Viêm kết mạc 2 bên",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Mắt đỏ\n • ",
+   "after": ", đỏ nhưng khô"
+  },
+  {
+   "text": "Thay đổi niêm mạc miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ghèn\n\n3. ",
+   "after": "\n • Môi đỏ"
+  },
+  {
+   "text": "Môi đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mạc miệng\n • ",
+   "after": ", nứt, có thể"
+  },
+  {
+   "text": "Lưỡi đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "rỉ máu.\n • ",
+   "after": " như dâu tây."
+  },
+  {
+   "text": "Họng đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "dâu tây.\n • ",
+   "after": ".\n4. Tổn thươ"
+  },
+  {
+   "text": "Tổn thương ở đầu chi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Họng đỏ.\n4. ",
+   "after": "\n • Sưng, đỏ"
+  },
+  {
+   "text": "Bong da đầu ngón tay",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tay – chân.\n • ",
+   "after": ", ngón chân và"
+  },
+  {
+   "text": "Ban đỏ toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bệnh.\n\n5. ",
+   "after": "\n • Ban dạng"
+  },
+  {
+   "text": "Bệnh đa xơ cứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "điển hình cho ",
+   "after": " theo ý kiến"
+  },
+  {
+   "text": "Ảo giác do rượu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "    - ",
+   "after": " (suy nghĩ)"
+  },
+  {
+   "text": "loạn thần",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "là thực sự ",
+   "after": " • Công thức"
+  },
+  {
+   "text": "Công thức máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "loạn thần • ",
+   "after": ", CRP, máu lắn"
+  },
+  {
+   "text": "CRP",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thức máu, ",
+   "after": ", máu lắng\n"
+  },
+  {
+   "text": "máu lắng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu, CRP, ",
+   "after": "\n • Men gan"
+  },
+  {
+   "text": "Men gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "máu lắng\n • ",
+   "after": ", albumin\n"
+  },
+  {
+   "text": "albumin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Men gan, ",
+   "after": "\n • Xét nghiệ"
+  },
+  {
+   "text": "Xét nghiệm nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "albumin\n • ",
+   "after": "\n • Cấy máu"
+  },
+  {
+   "text": "Cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nước tiểu\n • ",
+   "after": ", dịch hầu họn"
+  },
+  {
+   "text": "Siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hầu họng\n • ",
+   "after": " (quan trọng n"
+  },
+  {
+   "text": "ECG",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "mạch vành)\n • ",
+   "after": " điện tâm đồ"
+  },
+  {
+   "text": "điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": " • ECG ",
+   "after": "\n\n6. Điều trị"
+  },
+  {
+   "text": "bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "6. Điều trị ",
+   "after": " ở trẻ\nĐiều tr"
+  },
+  {
+   "text": "huyết khối",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "duy trì để ngừa ",
+   "after": ".\n3. Điều trị"
+  },
+  {
+   "text": "siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "định kỳ, ",
+   "after": " đánh giá động"
+  },
+  {
+   "text": "Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho trẻ mắc ",
+   "after": "\nDinh dưỡng"
+  },
+  {
+   "text": "Bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Kết luận\n",
+   "after": " là bệnh nguy"
+  },
+  {
+   "text": "sốt cao kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ngay khi trẻ ",
+   "after": " kèm các dấu"
+  },
+  {
+   "text": "đỏ mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "dấu hiệu như ",
+   "after": ", ban đỏ, môi"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "như đỏ mắt, ",
+   "after": ", môi đỏ – nứt"
+  },
+  {
+   "text": "môi đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mắt, ban đỏ, ",
+   "after": " – nứt, lưỡi"
+  },
+  {
+   "text": "lưỡi đỏ dâu tây",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đỏ – nứt, ",
+   "after": " hoặc sưng hạc"
+  },
+  {
+   "text": "sưng hạch cổ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "dâu tây hoặc ",
+   "after": ". Điều trị bằ"
+  }
+ ],
+ "3": [
+  {
+   "text": "run tay",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tượng ",
+   "after": " không khỏi hẳ"
+  },
+  {
+   "text": "run tay",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hỏi có phải ",
+   "after": " là phản ứng p"
+  },
+  {
+   "text": "Nitralmyl",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "việc sử dụng ",
+   "after": " lâu dài có gâ"
+  },
+  {
+   "text": "Vastarel",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "6/2012 thuốc",
+   "after": " (trimetazidin"
+  },
+  {
+   "text": "trimetazidin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Vastarel (",
+   "after": ") đã được cảnh"
+  },
+  {
+   "text": "hội chứng Parkinson",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "làm nặng hơn ",
+   "after": ", gây run tay"
+  },
+  {
+   "text": "run tay chân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Parkinson, gây ",
+   "after": ", mất thăng bằ"
+  },
+  {
+   "text": "mất thăng bằng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tay chân, ",
+   "after": " khi đi hoặc r"
+  },
+  {
+   "text": "run rấy toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "khi đi hoặc ",
+   "after": ". Chính vì vậy"
+  },
+  {
+   "text": "đau thắt ngực ổn định",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "triệu chứng ",
+   "after": "khi bệnh nhân"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ở người bị ",
+   "after": ", ù tai, rối l"
+  },
+  {
+   "text": "ù tai",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chóng mặt, ",
+   "after": ", rối loạn thị"
+  },
+  {
+   "text": "rối loạn thị lực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ù tai, ",
+   "after": ", đặc biệt khô"
+  },
+  {
+   "text": "Parkinson",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thuốc ở người bị ",
+   "after": "\n2.  Tiền sử"
+  },
+  {
+   "text": "yếu sức nửa người bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện\n    - ",
+   "after": "\n    - tình tr"
+  },
+  {
+   "text": "tri giác giảm sút",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- tình trạng ",
+   "after": "\n    - nhìn so"
+  },
+  {
+   "text": "nhìn song thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "giảm sút\n    - ",
+   "after": "\n    Thời điểm"
+  },
+  {
+   "text": "yếu sức chân phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đứng dậy do ",
+   "after": ".\n    - Không"
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã được chụp ",
+   "after": " kết quả âm tí"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "não kết quả ",
+   "after": ".\n    - Đội ngũ"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "y tế tiến hành ",
+   "after": ".\n    - Bị một"
+  },
+  {
+   "text": "nhịp tim chậm nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Bị một cơn ",
+   "after": " và hạ huyết á"
+  },
+  {
+   "text": "hạ huyết áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chậm nặng và ",
+   "after": " ngay sau khi"
+  },
+  {
+   "text": "intravenous fluids",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "sau khi dùng ",
+   "after": ".\n    - Chụp l"
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- Chụp lại ",
+   "after": ", kết quả âm t"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": ", kết quả ",
+   "after": ".\n    - Chuyển"
+  },
+  {
+   "text": "tai biến mạch máu não",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gọi là Code ",
+   "after": ".\n    - Ban đầu"
+  },
+  {
+   "text": "phản xạ kém",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Ban đầu tỉnh chậm ",
+   "after": ".\n    - Dần dầ"
+  },
+  {
+   "text": "nhiễm trùng răng miệng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "ừ nhiễm trùng ",
+   "after": " gần đây cần d"
+  },
+  {
+   "text": "tai biến mạch máu não",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "ận tiền sử bị ",
+   "after": " hoặc co giật."
+  },
+  {
+   "text": "co giật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "máu não hoặc ",
+   "after": ".\n    Triệu ch"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "song thị\n    - ",
+   "after": "\n    Đặc điểm"
+  },
+  {
+   "text": "yếu chân phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Vị trí: ",
+   "after": "\n    - Mức độ"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên quan: ",
+   "after": "\n    Các sự ki"
+  },
+  {
+   "text": "yếu sức chân phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Than phiền về ",
+   "after": ".\n    - Đã được"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "não kết quả ",
+   "after": ".\n    - Tiến h"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- Tiến hành ",
+   "after": ".\n    - Bị nhị"
+  },
+  {
+   "text": "nhịp tim chậm nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "    - Bị ",
+   "after": " và hạ huyết á"
+  },
+  {
+   "text": "hạ huyết áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chậm nặng và ",
+   "after": ", không đặc hi"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": ", kết quả ",
+   "after": ".\n    - Đã dùn"
+  },
+  {
+   "text": "nhiễm trùng răng miệng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "cho nhiễm trùng ",
+   "after": " gần đây.\n"
+  },
+  {
+   "text": "yếu sức chân phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tự đứng dậy do ",
+   "after": ".\n    - không"
+  },
+  {
+   "text": "phản xạ kém",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tỉnh chậm, ",
+   "after": ".\n\n3.  Đánh gi"
+  },
+  {
+   "text": "yếu nửa người bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lâm sàng\n    - ",
+   "after": "\n    - suy giả"
+  },
+  {
+   "text": "suy giảm tri giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bên phải\n    - ",
+   "after": "\n    - nhìn so"
+  },
+  {
+   "text": "nhìn song thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tri giác\n    - ",
+   "after": "\n    - nhịp tim"
+  },
+  {
+   "text": "nhịp tim chậm",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "song thị\n    - ",
+   "after": "\n    - hạ huyế"
+  },
+  {
+   "text": "hạ huyết áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tim chậm\n    - ",
+   "after": ", không đặc hi"
+  },
+  {
+   "text": "phản xạ kém",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "    - tỉnh chậm, ",
+   "after": "\n    Kết quả x"
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh\n    - ",
+   "after": ": âm tính\n"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ct sọ não: ",
+   "after": "\n    - Chụp lạ"
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- Chụp lại ",
+   "after": ": âm tính\n"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ct sọ não: ",
+   "after": "\n    Các thủ t"
+  },
+  {
+   "text": "chụp ct sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thực hiện\n    - ",
+   "after": "\n    - chọc dò"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "sọ não\n    - ",
+   "after": "\n    - Truyền"
+  },
+  {
+   "text": "Truyền dịch tĩnh mạch",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "não tủy\n    - ",
+   "after": ""
+  }
+ ],
+ "4": [
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "- Tái phát ",
+   "after": " và tiêu chảy"
+  },
+  {
+   "text": "tiêu chảy",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "buồn nôn và ",
+   "after": " cách đây vài"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "vài năm\n    - ",
+   "after": " 2 tuần sau tậ"
+  },
+  {
+   "text": "viêm dạ dày ruột do virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tuần sau tập ",
+   "after": "\n    - Nôn ra"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "do virus\n    - ",
+   "after": " trong 2 ngày"
+  },
+  {
+   "text": "hội chứng ruột kích thích",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lý mãn tính: ",
+   "after": " (được chẩn đo"
+  },
+  {
+   "text": "hội chứng ruột kích thích",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "được chẩn đoán ",
+   "after": " cách đây vài"
+  },
+  {
+   "text": "Nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "thủ thuật\n    - ",
+   "after": " (cách đây vài"
+  },
+  {
+   "text": "loét tá tràng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "năm, phát hiện ",
+   "after": ")\n    - Nội soi"
+  },
+  {
+   "text": "Nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tá tràng)\n    - ",
+   "after": " (cho thấy nhi"
+  },
+  {
+   "text": "loét tá tràng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho thấy nhiều ",
+   "after": " và hồi tràng)"
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tràng)\n    - ",
+   "after": " (Viêm thực qu"
+  },
+  {
+   "text": "Viêm thực quản độ C",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nội soi (",
+   "after": ", loét thực qu"
+  },
+  {
+   "text": "loét thực quản",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "quản độ C, ",
+   "after": " dưới 6 mm có"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "nhập viện: ",
+   "after": " (vừa ngừng để"
+  },
+  {
+   "text": "test hơi thở h. pylori",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ngừng để làm ",
+   "after": ")\n\n2.  Tiền sử"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện: ",
+   "after": "\n    Thời điểm"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "vài năm (",
+   "after": " và tiêu chảy)"
+  },
+  {
+   "text": "tiêu chảy",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "(buồn nôn và ",
+   "after": ")\n    - Tập vi"
+  },
+  {
+   "text": "viêm dạ dày ruột do virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "    - Tập ",
+   "after": " (trong năm na"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đường miệng, ",
+   "after": " và tiêu chảy"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "virus)\n    - ",
+   "after": " (2 tuần sau t"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "virus)\n    - ",
+   "after": " (trong 2 ngày"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Tình trạng ",
+   "after": " và nôn ra máu"
+  },
+  {
+   "text": "nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ng đau bụng và ",
+   "after": " trở nên tồi t"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "hơn (khi ngừng ",
+   "after": ")\n    Diễn biế"
+  },
+  {
+   "text": "hội chứng ruột kích thích",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "chảy, chẩn đoán ",
+   "after": ", phát hiện lo"
+  },
+  {
+   "text": "loét tá tràng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "phát hiện ",
+   "after": " khi nội soi."
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tá tràng khi ",
+   "after": ".\n    - Trong"
+  },
+  {
+   "text": "viêm dạ dày ruột do virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gì, chẩn đoán ",
+   "after": ".\n    - 2 tuần"
+  },
+  {
+   "text": "viêm dạ dày ruột do virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sau điều trị  ",
+   "after": ": tiếp tục khó"
+  },
+  {
+   "text": "nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tiêu chảy, ",
+   "after": ". nội soi cho"
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ra máu. ",
+   "after": " cho thấy nhiề"
+  },
+  {
+   "text": "xét nghiệm phân tìm cryptosporidium",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dương tính ",
+   "after": ".\n    - Gần đâ"
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hồi tràng. ",
+   "after": " xét nghiệm ph"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "ngừng sử dụng ",
+   "after": " để làm test h"
+  },
+  {
+   "text": "test hơi thở h. pylori",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "để làm ",
+   "after": ".\n    - Khi ng"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "    - Khi ngừng ",
+   "after": ": phát triển đ"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": ": phát triển ",
+   "after": " và nôn ra máu"
+  },
+  {
+   "text": "nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- 2 ngày qua: tiếp tục ",
+   "after": ".\n    Triệu ch"
+  },
+  {
+   "text": "Nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện\n    - ",
+   "after": "\n    - Ăn uống"
+  },
+  {
+   "text": "Ăn uống kém",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ra máu\n    - ",
+   "after": ".\n    - nausea"
+  },
+  {
+   "text": "nausea",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kém.\n    - ",
+   "after": "\n    - diarrhe"
+  },
+  {
+   "text": "diarrhea",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nausea\n    - ",
+   "after": "\n    - abdomin"
+  },
+  {
+   "text": "abdominal pain",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "diarrhea\n    - ",
+   "after": "\n    Các sự ki"
+  },
+  {
+   "text": "viêm dạ dày ruột do virus",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "- Chẩn đoán ",
+   "after": " (trong năm na"
+  },
+  {
+   "text": "nôn ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Nhập viện vì ",
+   "after": " (2 tuần sau t"
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "virus)\n    - ",
+   "after": " cho thấy nhiề"
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "virus)\n    - ",
+   "after": " xét nghiệm ph"
+  },
+  {
+   "text": "xét nghiệm phân tìm cryptosporidium",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- dương tính ",
+   "after": " (2 tuần sau t"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- Ngừng sử dụng ",
+   "after": " để làm test h"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Phát triển ",
+   "after": " và nôn ra máu"
+  },
+  {
+   "text": "ung thư tuyến giáp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bạn, bạn mắc ",
+   "after": " và chắc đã ph"
+  },
+  {
+   "text": "levothyroxine",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bạn uống ",
+   "after": " với liều 75 m"
+  },
+  {
+   "text": "Berlthyrox",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "một viên thuốc ",
+   "after": " có hàm lượng"
+  },
+  {
+   "text": "levothyroxine",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bú dùng thuốc ",
+   "after": " cho thấy rằng"
+  },
+  {
+   "text": "Viêm thực quản độ C",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chính xác.    - ",
+   "after": " ở thực quản d"
+  },
+  {
+   "text": "loét thực quản",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "    - Loét ",
+   "after": " 6 mm có điểm"
+  }
+ ],
+ "5": [
+  {
+   "text": "ung thư biểu mô tế bào mật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vì nghi ngờ ",
+   "after": " không thể cắt"
+  },
+  {
+   "text": "vô sinh",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nghiệm để đánh giá ",
+   "after": ". Bạn xây dựng"
+  },
+  {
+   "text": "tinh dịch đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "làm xét nghiệm ",
+   "after": ".\n- Đối với vợ"
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lâm sàng như ",
+   "after": " (đánh giá các"
+  },
+  {
+   "text": "chụp tử cung vòi trứng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giải phẫu), ",
+   "after": " (đánh giá hìn"
+  },
+  {
+   "text": "xét nghiệm nội tiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vòi trứng), ",
+   "after": " (đánh giá chứ"
+  },
+  {
+   "text": "Hội chứng buồng trứng đa nang",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bạn bị ",
+   "after": " (bao gồm rậm"
+  },
+  {
+   "text": "rậm lông",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "(bao gồm ",
+   "after": ", béo phì, siê"
+  },
+  {
+   "text": "béo phì",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "rậm lông, ",
+   "after": ", siêu âm buồn"
+  },
+  {
+   "text": "siêu âm buồng trứng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "béo phì, ",
+   "after": " có nhiều nang"
+  },
+  {
+   "text": "vô sinh",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguyên nhân gây ",
+   "after": ".\nChúc bạn nhi"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "phủ nhận bất kỳ ",
+   "after": ", nôn, sốt, ớn"
+  },
+  {
+   "text": "ớn lạnh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "nôn, sốt, ",
+   "after": ", hoặc dịch rò"
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã thực hiện ",
+   "after": " vào ngày [Ngà"
+  },
+  {
+   "text": "sinh thiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã thực hiện ",
+   "after": " và lấy mẫu bằ"
+  },
+  {
+   "text": "tế bào bất thường",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chải cho thấy ",
+   "after": ", đáng ngại ch"
+  },
+  {
+   "text": "ung thư biểu mô tuyến",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đáng ngại cho ",
+   "after": ".\n    - Thảo l"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "nhân phủ nhận bất kỳ ",
+   "after": ", nôn, đau ngự"
+  },
+  {
+   "text": "đau ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "buồn nôn, nôn, ",
+   "after": ", hoặc khó thở"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "đau ngực, hoặc ",
+   "after": ".\n    - Bà ấy"
+  },
+  {
+   "text": "đau khi sờ nắn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "có một chút ",
+   "after": " xung quanh vị"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "    - Phủ nhận ",
+   "after": ", nôn, sốt, ớn"
+  },
+  {
+   "text": "ớn lạnh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "nôn, sốt, ",
+   "after": ", hoặc dịch rò"
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã thực hiện ",
+   "after": " vào ngày [Ngà"
+  },
+  {
+   "text": "sinh thiết",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đã thực hiện ",
+   "after": " và lấy mẫu bằ"
+  },
+  {
+   "text": "tế bào bất thường",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cho thấy các ",
+   "after": ", đáng lo ngại"
+  },
+  {
+   "text": "ung thư biểu mô tuyến",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đáng lo ngại cho ",
+   "after": ".\n    - Thảo l"
+  },
+  {
+   "text": "đau khi sờ nắn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lâm sàng: ",
+   "after": " xung quanh vị"
+  },
+  {
+   "text": "tế bào bất thường",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chải cho thấy ",
+   "after": "tế bào bất thư"
+  },
+  {
+   "text": "ung thư biểu mô tuyến",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đáng ngại cho ",
+   "after": "\n    Kết quả c"
+  },
+  {
+   "text": "cholangiogram",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: ",
+   "after": " vào ngày [Ngà"
+  }
+ ],
+ "6": [
+  {
+   "text": "Bệnh tim mạch do xơ vữa động mạch",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "bệnh lý\n\n",
+   "after": ".\năng huyết áp"
+  },
+  {
+   "text": "Rối loạn lipid máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "huyết áp.",
+   "after": ".\nĐái tháo đườ"
+  },
+  {
+   "text": "Đái tháo đường",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "lipid máu.\n",
+   "after": ".2. \nBệnh sử"
+  },
+  {
+   "text": "Cơn rối loạn ý thức thoáng qua",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vào viện: ",
+   "after": ", nghi ngờ cơn"
+  },
+  {
+   "text": "cơn co giật",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "qua, nghi ngờ ",
+   "after": ".\nKhoảng 1 thá"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "được chẩn đoán ",
+   "after": ". Chụp cắt lớp"
+  },
+  {
+   "text": "Chụp cắt lớp vi tính sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "dưới nhện. ",
+   "after": " cho hình ảnh"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho hình ảnh  ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trán phải, ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhiều đến ",
+   "after": " hoặc tụ dịch/"
+  },
+  {
+   "text": "tụ máu dưới màng cứng mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hoặc tụ dịch/",
+   "after": ". \nCác lần chụ"
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Các lần ",
+   "after": " theo dõi sau"
+  },
+  {
+   "text": "đau đầu kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "khoa Cấp cứu vì ",
+   "after": ". \nChụp kiểm t"
+  },
+  {
+   "text": "tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tra ghi nhận ",
+   "after": " trên nền tổn"
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dõi, các lần ",
+   "after": " kiểm tra khôn"
+  },
+  {
+   "text": "đau đầu vùng thái dương phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhưng vẫn còn ",
+   "after": " và đỉnh đầu"
+  },
+  {
+   "text": "tê bì nửa mặt phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kèm cảm giác ",
+   "after": ", đặc biệt vùn"
+  },
+  {
+   "text": "mất định hướng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bất thường, ",
+   "after": ", đi lại không"
+  },
+  {
+   "text": "đi lại không vững",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "định hướng, ",
+   "after": " và gần như ng"
+  },
+  {
+   "text": "run giật tay chân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "không ghi nhận ",
+   "after": ", không cứng đ"
+  },
+  {
+   "text": "cắn lưỡi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "cứng đờ, không ",
+   "after": " và không tiểu"
+  },
+  {
+   "text": "tiểu tiện không tự chủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "lưỡi và không ",
+   "after": " trong cơn."
+  },
+  {
+   "text": "Đau đầu vùng thái dương phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện:\n",
+   "after": ", đỉnh đầu, đô"
+  },
+  {
+   "text": "Tê bì vùng trán phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mắt phải.\n",
+   "after": ", da đầu phải"
+  },
+  {
+   "text": "Cơn rối loạn ý thức thoáng qua",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mặt phải.\n",
+   "after": ".Mất định hướn"
+  },
+  {
+   "text": "Mất định hướng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thoáng qua.",
+   "after": ".\nMất thăng bằ"
+  },
+  {
+   "text": "Mất thăng bằng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "định hướng.\n",
+   "after": ".Gần ngất."
+  },
+  {
+   "text": "Gần ngất",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thăng bằng.",
+   "after": ".\nTình trạng t"
+  },
+  {
+   "text": "mất định hướng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhận giai đoạn ",
+   "after": " và đi lại khô"
+  },
+  {
+   "text": "đi lại không vững",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hướng và ",
+   "after": " theo lời kể"
+  },
+  {
+   "text": "Chụp cắt lớp vi tính",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "từng lúc.\n",
+   "after": " (CT Scanner)"
+  },
+  {
+   "text": "Điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "kỹ thuật\n",
+   "after": ": Ghi điện tim"
+  },
+  {
+   "text": "WBC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Đông máu:",
+   "after": " : 14.99 G/L"
+  },
+  {
+   "text": "14.99 G/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "WBC : ",
+   "after": " NEUT% : 82.9"
+  },
+  {
+   "text": "NEUT%",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "14.99 G/L ",
+   "after": " : 82.9 % (Tăn"
+  },
+  {
+   "text": "82.9 %",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "NEUT% : ",
+   "after": " (Tăng) \nHGB"
+  },
+  {
+   "text": "HGB",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(Tăng) \n",
+   "after": " (Hemoglobin)"
+  },
+  {
+   "text": "92 g/L",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(Hemoglobin): ",
+   "after": " PT - INR: 1.0"
+  },
+  {
+   "text": "PT - INR",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "92 g/L ",
+   "after": ": 1.05\nCận lâm"
+  },
+  {
+   "text": "1.05",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "PT - INR: ",
+   "after": "\nCận lâm sàng"
+  },
+  {
+   "text": "CT sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Cận lâm sàng: ",
+   "after": " trước đó ghi"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đó ghi nhận ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "Bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trán phải.",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nghĩ đến ",
+   "after": " hoặc tụ máu d"
+  },
+  {
+   "text": "tụ máu dưới màng cứng mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhện hoặc ",
+   "after": ".Tụ máu ngoài"
+  },
+  {
+   "text": "Tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạn tính.",
+   "after": " trên nền tổn"
+  }
+ ],
+ "7": [
+  {
+   "text": "đau bao tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "có dấu hiệu ",
+   "after": " (thỉnh thoảng"
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tuổi em đi ",
+   "after": " ở BV thì BS n"
+  },
+  {
+   "text": "ổ loét trong bao tử",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "BS nói em có ",
+   "after": " và có cho thu"
+  },
+  {
+   "text": "đau bụng râm ran",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "em bắt đầu ",
+   "after": " và cơn đau cà"
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đau và cho ",
+   "after": " nhưng kết quả"
+  },
+  {
+   "text": "sỏi thận",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nước). BS nói ",
+   "after": " không phải là"
+  },
+  {
+   "text": "viêm bao tử",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "khả năng em bị ",
+   "after": ", có nói do em"
+  },
+  {
+   "text": "Aquima",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": ": nhôm hydroxi"
+  },
+  {
+   "text": "nhôm hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Aquima: ",
+   "after": ", magie hydrox"
+  },
+  {
+   "text": "magie hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "nhôm hydroxid, ",
+   "after": " và **********"
+  },
+  {
+   "text": "Simenic",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "**********.\n",
+   "after": ": Alverin citr"
+  },
+  {
+   "text": "Alverin citrate 40mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Simenic: ",
+   "after": " và Simethicon"
+  },
+  {
+   "text": "Simethicon 100mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "citrate 40mg và ",
+   "after": "\nPimperam: met"
+  },
+  {
+   "text": "Pimperam",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Simethicon 100mg\n",
+   "after": ": metoclopramid"
+  },
+  {
+   "text": "metoclopramide 10mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Pimperam: ",
+   "after": "\nThông tin về"
+  },
+  {
+   "text": "Nhôm hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": " và magie hydr"
+  },
+  {
+   "text": "magie hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Nhôm hydroxid và ",
+   "after": " có thể sử dụn"
+  },
+  {
+   "text": "ợ nóng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trị triệu chứng ",
+   "after": " hoặc trào ngư"
+  },
+  {
+   "text": "trào ngược dạ dày thực quản",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "ợ nóng hoặc ",
+   "after": " và cần sử dụn"
+  },
+  {
+   "text": "tổn thương vùng âm hộ và mông bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện\n    - ",
+   "after": "\n    - Tổn thư"
+  },
+  {
+   "text": "Tổn thương cực kỳ đau đớn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phải\n    - ",
+   "after": "\n    - Tình tr"
+  },
+  {
+   "text": "tổn thương dạng bóng nước",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Tình trạng ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "dịch giống mủ có màu vàng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "    - có ",
+   "after": "  chảy ra từ t"
+  },
+  {
+   "text": "viêm dạ dày",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhịn ăn dẫn đến ",
+   "after": " em nhé!"
+  }
+ ],
+ "8": [
+  {
+   "text": "Rối loạn cảm xúc",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "    - ho ",
+   "after": " (trầm cảm) (t"
+  },
+  {
+   "text": "trầm cảm",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "cảm xúc (",
+   "after": ") (tiền sử gia"
+  },
+  {
+   "text": "trầm cảm",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "sử giai đoạn ",
+   "after": " không đặc hiệ"
+  },
+  {
+   "text": "hội chứng nghiện rượu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đặc hiệu)\n    - ",
+   "after": "\n    Thuốc trư"
+  },
+  {
+   "text": "seroquel",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "viện lần này: ",
+   "after": " (ngụ ý, vì bệ"
+  },
+  {
+   "text": "lú lẫn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhân cho rằng ",
+   "after": ", chóng mặt, k"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lú lẫn, ",
+   "after": ", khó nhìn gần"
+  },
+  {
+   "text": "khó nhìn gần",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chóng mặt, ",
+   "after": " có thể liên q"
+  },
+  {
+   "text": "hội chứng nghiện rượu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "liên quan: ",
+   "after": "\n\n2.  Tiền sử"
+  },
+  {
+   "text": "tự tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện: Bày tỏ ",
+   "after": " với nhân viên"
+  },
+  {
+   "text": "tự tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    - ",
+   "after": "\n    - Lú lẫn"
+  },
+  {
+   "text": "Lú lẫn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tự tử\n    - ",
+   "after": " từng đợt gần"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- cảm giác ",
+   "after": "\n    - khó khă"
+  },
+  {
+   "text": "khó khăn khi nhìn gần",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chóng mặt\n    - ",
+   "after": "\n    - rối loạ"
+  },
+  {
+   "text": "rối loạn thị giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhìn gần\n    - ",
+   "after": ", nhìn thấy co"
+  },
+  {
+   "text": "ảo giác thị giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "góc mắt\n    - ",
+   "after": " (ảo giác thị"
+  },
+  {
+   "text": "Ảo thanh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thị giác)\n    - ",
+   "after": " (AH) (ảo giác"
+  },
+  {
+   "text": "tự tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chứng\n    - ",
+   "after": ": thụ động, di"
+  },
+  {
+   "text": "Lú lẫn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ly hôn\n    - ",
+   "after": ": từng đợt"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "từng đợt\n    - ",
+   "after": "\n    - Khó khă"
+  },
+  {
+   "text": "Khó khăn về thị lực gần",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chóng mặt\n    - ",
+   "after": "\n    - rối loạ"
+  },
+  {
+   "text": "rối loạn thị giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lực gần\n    - ",
+   "after": ": nhìn thấy co"
+  },
+  {
+   "text": "ảo giác thị giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "góc mắt\n    - ",
+   "after": ", Ảo thanh (AH"
+  },
+  {
+   "text": "Ảo thanh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thị giác, ",
+   "after": " (AH): có vẻ l"
+  },
+  {
+   "text": "tự tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sau khi bày tỏ ",
+   "after": " với nhân viên"
+  },
+  {
+   "text": "chụp ct sọ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "    - ",
+   "after": " được phát hiệ"
+  },
+  {
+   "text": "bệnh lý chất trắng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cứu; phát hiện ",
+   "after": "\n    - chọc dò"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chất trắng\n    - ",
+   "after": " là không phát"
+  },
+  {
+   "text": "bệnh lý chất trắng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thần kinh để tìm ",
+   "after": "\n    - các băn"
+  },
+  {
+   "text": "các băng nhóm oligoclonal",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chất trắng\n    - ",
+   "after": " đang chờ kết"
+  },
+  {
+   "text": "tự tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "viện: Phủ nhận ",
+   "after": " chủ động, ý đ"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: ",
+   "after": " là âm tính"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "não tủy là ",
+   "after": "\n    Kết quả c"
+  },
+  {
+   "text": "chụp ct sọ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: ",
+   "after": ": phát hiện bệ"
+  },
+  {
+   "text": "bệnh lý chất trắng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sọ: phát hiện ",
+   "after": " (được phát hi"
+  },
+  {
+   "text": "chọc dò dịch não tủy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đã thực hiện: ",
+   "after": " (Đột sống thắ"
+  },
+  {
+   "text": "bệnh lý chất trắng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "kinh để tìm ",
+   "after": "\n    - các băn"
+  },
+  {
+   "text": "các băng nhóm oligoclonal",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trắng\n    - ",
+   "after": " đang chờ kết"
+  },
+  {
+   "text": "bệnh lý chất trắng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "(đối với phát hiện ",
+   "after": ")\n6. Sưng hạch"
+  },
+  {
+   "text": "Sưng hạch cổ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": ")\n6. ",
+   "after": "\n • Thường là"
+  },
+  {
+   "text": "Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "triệu chứng của ",
+   "after": " dễ nhầm với s"
+  },
+  {
+   "text": "sốt siêu vi",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "dễ nhầm với ",
+   "after": ", sốt phát ban"
+  },
+  {
+   "text": "sốt phát ban",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sốt siêu vi, ",
+   "after": ", nhiễm trùng."
+  },
+  {
+   "text": "nhiễm trùng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sốt phát ban, ",
+   "after": ". Nếu trẻ sốt"
+  },
+  {
+   "text": "đỏ mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "3–4 ngày + ",
+   "after": " + phát ban +"
+  },
+  {
+   "text": "phát ban",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đỏ mắt + ",
+   "after": " + môi đỏ hoặc"
+  },
+  {
+   "text": "môi đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phát ban + ",
+   "after": " hoặc lưỡi đỏ"
+  },
+  {
+   "text": "lưỡi đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "môi đỏ hoặc ",
+   "after": " → cần nghĩ đế"
+  },
+  {
+   "text": "Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cần nghĩ đến ",
+   "after": " và đưa trẻ đi"
+  },
+  {
+   "text": "bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguy hiểm của ",
+   "after": "\nNếu không điề"
+  },
+  {
+   "text": "Phình giãn động mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhất):\n • ",
+   "after": "\n • Hẹp – tắc"
+  },
+  {
+   "text": "Hẹp – tắc động mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạch vành\n • ",
+   "after": "\n • Thiếu máu"
+  },
+  {
+   "text": "Thiếu máu cơ tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạch vành\n • ",
+   "after": "\n • Nhồi máu"
+  },
+  {
+   "text": "Nhồi máu cơ tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "máu cơ tim\n • ",
+   "after": "\n • Suy vành"
+  },
+  {
+   "text": "Suy vành mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "máu cơ tim\n • ",
+   "after": "\nKhoảng 25–30%"
+  },
+  {
+   "text": "Viêm cơ tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "khác:\n • ",
+   "after": "\n • Tràn dịch"
+  },
+  {
+   "text": "Tràn dịch màng tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Viêm cơ tim\n • ",
+   "after": "\n • Tăng men g"
+  },
+  {
+   "text": "Tăng men gan",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "màng tim\n • ",
+   "after": "\n • Rối loạn t"
+  },
+  {
+   "text": "Rối loạn tiêu hóa",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "men gan\n • ",
+   "after": "\n5. Chẩn đoán"
+  },
+  {
+   "text": "bệnh Kawasaki",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "5. Chẩn đoán ",
+   "after": "\n\nTiêu chuẩn c"
+  },
+  {
+   "text": "Viêm kết mạc 2 bên",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sau:\n 1. ",
+   "after": " không ghèn"
+  },
+  {
+   "text": "lưỡi dâu tây",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "(nứt, đỏ, ",
+   "after": ")\n 3. Tổn thươ"
+  },
+  {
+   "text": "Tổn thương đầu chi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": " 3. ",
+   "after": " (phù, đỏ, bon"
+  },
+  {
+   "text": "Ban đỏ toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bong da)\n 4. ",
+   "after": "\n 5. Hạch cổ t"
+  },
+  {
+   "text": "Hạch cổ to",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "toàn thân\n 5. ",
+   "after": " ≥1,5 cm"
+  }
+ ],
+ "9": [
+  {
+   "text": "đau bao tử",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "có dấu hiệu ",
+   "after": " (thỉnh thoảng"
+  },
+  {
+   "text": "nội soi",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tuổi em đi ",
+   "after": " ở BV thì BS n"
+  },
+  {
+   "text": "ổ loét trong bao tử",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "BS nói em có ",
+   "after": " và có cho thu"
+  },
+  {
+   "text": "đau bụng râm ran",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "em bắt đầu ",
+   "after": " và cơn đau cà"
+  },
+  {
+   "text": "siêu âm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đau và cho ",
+   "after": " nhưng kết quả"
+  },
+  {
+   "text": "sỏi thận",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nước). BS nói ",
+   "after": " không phải là"
+  },
+  {
+   "text": "viêm bao tử",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "khả năng em bị ",
+   "after": ", có nói do em"
+  },
+  {
+   "text": "Aquima",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": ": nhôm hydroxi"
+  },
+  {
+   "text": "nhôm hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Aquima: ",
+   "after": ", magie hydrox"
+  },
+  {
+   "text": "magie hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "nhôm hydroxid, ",
+   "after": " và **********"
+  },
+  {
+   "text": "Simenic",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "**********.\n",
+   "after": ": Alverin citr"
+  },
+  {
+   "text": "Alverin citrate 40mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Simenic: ",
+   "after": " và Simethicon"
+  },
+  {
+   "text": "Simethicon 100mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "citrate 40mg và ",
+   "after": "\nPimperam: met"
+  },
+  {
+   "text": "Pimperam",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Simethicon 100mg\n",
+   "after": ": metoclopramid"
+  },
+  {
+   "text": "metoclopramide 10mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Pimperam: ",
+   "after": "\nThông tin về"
+  },
+  {
+   "text": "Nhôm hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": " và magie hydr"
+  },
+  {
+   "text": "magie hydroxid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "Nhôm hydroxid và ",
+   "after": " có thể sử dụn"
+  },
+  {
+   "text": "ợ nóng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trị triệu chứng ",
+   "after": " hoặc trào ngư"
+  },
+  {
+   "text": "trào ngược dạ dày thực quản",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "ợ nóng hoặc ",
+   "after": " và cần sử dụn"
+  },
+  {
+   "text": "đại tràng giãn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "viện: theo dõi ",
+   "after": "\n    - Vào đợt"
+  },
+  {
+   "text": "xét nghiệm máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phục phát hiện ",
+   "after": " có tăng bạch"
+  },
+  {
+   "text": "tăng bạch cầu",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nghiệm máu có ",
+   "after": "Ngày nay xuất"
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "chậm hơn, đã ",
+   "after": " ở tuyến trước"
+  },
+  {
+   "text": "lơ mơ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "  Bệnh nhân ",
+   "after": "\n3.  Đánh giá"
+  }
+ ],
+ "10": [
+  {
+   "text": "metoprolol 25mg po bid",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "viện\n    - ",
+   "after": "\n    - doxycyc"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "po bid\n    - ",
+   "after": " cho viêm tuyế"
+  },
+  {
+   "text": "viêm tuyến mồ hôi",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "doxycycline cho ",
+   "after": "\n    - atenolo"
+  },
+  {
+   "text": "atenolol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "mồ hôi\n    - ",
+   "after": " (uống hôm nay"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xuất hiện triệu chứng ",
+   "after": "\n    Thời điểm"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện cảm giác ",
+   "after": "\n    Các triệu"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    - ",
+   "after": "\n    - Khó thở"
+  },
+  {
+   "text": "Khó thở nhẹ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trống ngực\n    - ",
+   "after": " khó thở\n"
+  },
+  {
+   "text": "cảm giác thắt chặt ngực vùng trước tim",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "khó thở\n    - ",
+   "after": " (khởi phát lú"
+  },
+  {
+   "text": "Tăng đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "17 giờ)\n    - ",
+   "after": " (khởi phát lú"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "17 giờ)\n    - ",
+   "after": " (khởi phát lú"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Cảm thấy ",
+   "after": " nhiều khi gắn"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Cảm thấy ",
+   "after": " nhiều hơn sau"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "cấp cứu\n    - ",
+   "after": ":  còn cảm giá"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "còn cảm giác ",
+   "after": " khi nhập viện"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện.\n    - ",
+   "after": ": Nhẹ, liên qu"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Nhẹ, liên quan đến ",
+   "after": ", liên quan đế"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ngực, liên quan đến ",
+   "after": " (khởi phát lú"
+  },
+  {
+   "text": "cảm giác thắt chặt ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "17 giờ)\n    - ",
+   "after": ": Trung tâm, k"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đến tầng\n    - ",
+   "after": ": Liên quan đế"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": ": Liên quan đến ",
+   "after": ", khởi phát lú"
+  },
+  {
+   "text": "giảm dung nạp gắng sức",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "20 giây\n    - ",
+   "after": ": \n    - Không"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- Không  ",
+   "after": ", hay nôn, đổ"
+  },
+  {
+   "text": "đổ mồ hôi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "hay nôn, ",
+   "after": "\n    - Không l"
+  },
+  {
+   "text": "monitor holter",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chính \n    - ",
+   "after": " cho thấy Nhịp"
+  },
+  {
+   "text": "Nhịp xoang chiếm ưu thế",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "holter cho thấy ",
+   "after": ". Ghi nhận ngo"
+  },
+  {
+   "text": "ngoại tâm thu nhĩ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": ". Ghi nhận ",
+   "after": " và ngoại tâm"
+  },
+  {
+   "text": "ngoại tâm thu thất",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thu nhĩ và ",
+   "after": " xuất hiện thư"
+  },
+  {
+   "text": "metoprolol 25mg po bid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- Bắt đầu dùng ",
+   "after": ", không có cải"
+  },
+  {
+   "text": "atenolol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "nhân đã sử dụng ",
+   "after": "trong ngày"
+  },
+  {
+   "text": "siêu âm tim qua thành ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "được chỉ định ",
+   "after": " vào tuần tới"
+  },
+  {
+   "text": "cảm giác thắt chặt ngực vùng trước tim",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ra xe, xuất hiện ",
+   "after": ", tăng đánh tr"
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "trống ngực, và ",
+   "after": " kéo dài 20 gi"
+  },
+  {
+   "text": "aspirin 325mg x 1",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "định điều trị  ",
+   "after": "\n    - chụp x-"
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "325mg x 1\n    - ",
+   "after": " không ghi nhậ"
+  },
+  {
+   "text": "phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bất thường\n    - ",
+   "after": " không ghi nhậ"
+  },
+  {
+   "text": "ecg",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bất thường\n    - ",
+   "after": " bình thường"
+  },
+  {
+   "text": "đánh trống ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Tiếp tục cảm thấy ",
+   "after": "\n\n3.  Đánh giá"
+  },
+  {
+   "text": "Viêm gan cấp tính do virus B",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "56 18 99RA\n",
+   "after": " thể thông thư"
+  },
+  {
+   "text": "phân tích nước tiểu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm: ",
+   "after": " không có gì đ"
+  },
+  {
+   "text": "chụp x-quang ngực",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh: ",
+   "after": " không có gì đ"
+  },
+  {
+   "text": "điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "khác\n    - ",
+   "after": " là không ghi"
+  },
+  {
+   "text": "monitor holter",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thường\n    - ",
+   "after": " cho thấy Nhịp"
+  },
+  {
+   "text": "ngoại tâm thu nhĩ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Ghi nhận ",
+   "after": " và ngoại tâm"
+  },
+  {
+   "text": "ngoại tâm thu thất",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thu nhĩ và ",
+   "after": " xuất hiện thư"
+  }
+ ],
+ "11": [
+  {
+   "text": "Bệnh tim mạch do xơ vữa động mạch",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "bệnh lý\n\n",
+   "after": ".\năng huyết áp"
+  },
+  {
+   "text": "Rối loạn lipid máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "huyết áp.",
+   "after": ".\nĐái tháo đườ"
+  },
+  {
+   "text": "Đái tháo đường",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "lipid máu.\n",
+   "after": ".2. \nBệnh sử"
+  },
+  {
+   "text": "Cơn rối loạn ý thức thoáng qua",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vào viện: ",
+   "after": ", nghi ngờ cơn"
+  },
+  {
+   "text": "cơn co giật",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "qua, nghi ngờ ",
+   "after": ".\nKhoảng 1 thá"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "được chẩn đoán ",
+   "after": ". Chụp cắt lớp"
+  },
+  {
+   "text": "Chụp cắt lớp vi tính sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "dưới nhện. ",
+   "after": " cho hình ảnh"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho hình ảnh  ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trán phải, ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhiều đến ",
+   "after": " hoặc tụ dịch/"
+  },
+  {
+   "text": "tụ máu dưới màng cứng mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hoặc tụ dịch/",
+   "after": ". \nCác lần chụ"
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Các lần ",
+   "after": " theo dõi sau"
+  },
+  {
+   "text": "đau đầu kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "khoa Cấp cứu vì ",
+   "after": ". \nChụp kiểm t"
+  },
+  {
+   "text": "tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tra ghi nhận ",
+   "after": " trên nền tổn"
+  },
+  {
+   "text": "chụp CT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dõi, các lần ",
+   "after": " kiểm tra khôn"
+  },
+  {
+   "text": "đau đầu vùng thái dương phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhưng vẫn còn ",
+   "after": " và đỉnh đầu"
+  },
+  {
+   "text": "tê bì nửa mặt phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kèm cảm giác ",
+   "after": ", đặc biệt vùn"
+  },
+  {
+   "text": "mất định hướng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bất thường, ",
+   "after": ", đi lại không"
+  },
+  {
+   "text": "đi lại không vững",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "định hướng, ",
+   "after": " và gần như ng"
+  },
+  {
+   "text": "bệnh bàn chân bẹt",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cháu bé bị ",
+   "after": ", đây là tật b"
+  },
+  {
+   "text": "mất định hướng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhận giai đoạn ",
+   "after": " và đi lại khô"
+  },
+  {
+   "text": "đi lại không vững",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hướng và ",
+   "after": " theo lời kể"
+  },
+  {
+   "text": "co giật",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "Không ghi nhận ",
+   "after": ", cứng đờ, cắn"
+  },
+  {
+   "text": "cắn lưỡi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "giật, cứng đờ, ",
+   "after": " hoặc tiểu tiệ"
+  },
+  {
+   "text": "tiểu tiện không tự chủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "cắn lưỡi hoặc ",
+   "after": ".\nCận lâm sàng"
+  },
+  {
+   "text": "CT sọ não",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Cận lâm sàng: ",
+   "after": " trước đó ghi"
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đó ghi nhận ",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "Bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trán phải.",
+   "after": " vùng trán phả"
+  },
+  {
+   "text": "nang màng nhện",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nghĩ đến ",
+   "after": " hoặc tụ máu d"
+  },
+  {
+   "text": "tụ máu dưới màng cứng mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nhện hoặc ",
+   "after": ".Tụ máu ngoài"
+  },
+  {
+   "text": "Tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạn tính.",
+   "after": " trên nền tổn"
+  }
+ ],
+ "12": [
+  {
+   "text": "Bệnh phổi kẽ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mãn tính\n- ",
+   "after": " do sử dụng co"
+  },
+  {
+   "text": "Hội chứng kháng enzym tổng hợp protein",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tại nhà\n    - ",
+   "after": ".\n    - béo ph"
+  },
+  {
+   "text": "béo phì",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "protein.\n    - ",
+   "after": "\n    - Tăng hu"
+  },
+  {
+   "text": "Tăng huyết áp nguyên phát",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "béo phì\n    - ",
+   "after": ".\n    Tiền sử"
+  },
+  {
+   "text": "Sinh thiết nội mạc tử cung",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "thủ thuật: ",
+   "after": " gần đây\n"
+  },
+  {
+   "text": "Corticoid",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "viện\n    -",
+   "after": " liều cao kéo"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- Tăng liều ",
+   "after": " (do bác sĩ ch"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "kê đơn)\n    - ",
+   "after": " (do bác sĩ ch"
+  },
+  {
+   "text": "Suy giảm miễn dịch",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "kê đơn)\n- ",
+   "after": " do sử dụng co"
+  },
+  {
+   "text": "tổn thương vùng âm hộ và mông bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện: Tình trạng ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "tổn thương vùng âm hộ phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện vì ",
+   "after": " lan rộng sang"
+  },
+  {
+   "text": "tổn thương đơn độc vùng âm hộ phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phát hiện một ",
+   "after": ". Sau đó được"
+  },
+  {
+   "text": "cotrimoxazol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "khám và tăng liều ",
+   "after": ", đồng thời bổ"
+  },
+  {
+   "text": "doxycyclin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thời bổ sung ",
+   "after": " do nghi ngờ v"
+  },
+  {
+   "text": "viêm mô tế bào",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "do nghi ngờ ",
+   "after": ". Bệnh nhân th"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhân thấy  ",
+   "after": " quanh tổn thư"
+  },
+  {
+   "text": "bọng nước",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xuất hiện nhiều ",
+   "after": ", lan rộng san"
+  },
+  {
+   "text": "rỉ dịch vàng đục giống mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "số vị trí ",
+   "after": ".\n    - Khám t"
+  },
+  {
+   "text": "tổn thương vùng âm hộ và mông bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện\n    - ",
+   "after": "\n    - Tổn thư"
+  },
+  {
+   "text": "Tổn thương cực kỳ đau đớn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phải\n    - ",
+   "after": "\n    - Tình tr"
+  },
+  {
+   "text": "tổn thương dạng bóng nước",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Tình trạng ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "dịch giống mủ có màu vàng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "    - có ",
+   "after": "  chảy ra từ t"
+  },
+  {
+   "text": "dị tật thiểu sản vành tai",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mắc phải là ",
+   "after": " và tịt ống ta"
+  },
+  {
+   "text": "tịt ống tai ngoài bẩm sinh",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vành tai và ",
+   "after": ". Rất may mắn"
+  },
+  {
+   "text": "chụp cắt lớp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trên kết quả ",
+   "after": " đánh giá cấu"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "tục sử dụng ",
+   "after": "bactrim cho kh"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "doxycycline",
+   "after": " cho khả năng"
+  },
+  {
+   "text": "Viêm mô tế bào",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho khả năng ",
+   "after": "\n    - Cảm thấ"
+  },
+  {
+   "text": "Nhiễm virus Herpes simplex",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Lo ngại về ",
+   "after": " (HSV) hoặc Bệ"
+  },
+  {
+   "text": "Bệnh thủy đậu/Zona",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "(HSV) hoặc ",
+   "after": " (do Varicella"
+  }
+ ],
+ "13": [
+  {
+   "text": "chảy máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ở tay nhưng bị ",
+   "after": ",sau đó khoảng"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguy cơ lây ",
+   "after": ". Vậy bác sỹ c"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": " chỉ không chỉ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đường lây ",
+   "after": " phổ biến nhất"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật dại cắn. ",
+   "after": " còn có thể lâ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật khác mắc ",
+   "after": " do cào hoặc l"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cơ thể.\n1. ",
+   "after": " có lây không?"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lây không?\n",
+   "after": " do Lyssavirus"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "và người.\n",
+   "after": " là bệnh đe dọ"
+  },
+  {
+   "text": "vaccine phòng dại",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bệnh bằng tiêm ",
+   "after": ". Bệnh dạithườ"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vaccine phòng dại. ",
+   "after": "thường gia tăn"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mùa hè.\n",
+   "after": " gây ra bởi vi"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "việc phòng ",
+   "after": " là vô cùng cầ"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cần thiết.\n2. ",
+   "after": " lây truyền qu"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hợp gây ",
+   "after": " ở người tại Đ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "báo cáo về ca mắc ",
+   "after": " ở người và li"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lây nhiễm ",
+   "after": "bao gồm:"
+  },
+  {
+   "text": "đau ngực trái cấp tính",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện: ",
+   "after": " và đau sau xư"
+  },
+  {
+   "text": "đau sau xương ức lan ra sau lưng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "cấp tính và ",
+   "after": "\nMức độ nghiêm"
+  }
+ ],
+ "14": [
+  {
+   "text": "mề đay",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "nổi các dấu ",
+   "after": " rất to và ngứ"
+  },
+  {
+   "text": "ngứa khắp người",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "rất to và ",
+   "after": ", bạn em bị nổ"
+  },
+  {
+   "text": "mề đay",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "Những dấu ",
+   "after": " nổi rất khó c"
+  },
+  {
+   "text": "dị ứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isFamily"
+   ],
+   "before": "đều không phải ",
+   "after": " do thời tiết"
+  },
+  {
+   "text": "Bệnh bạch cầu dòng tủy mãn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mạn tính\n    - ",
+   "after": " đang dùng gle"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tính đang dùng ",
+   "after": "\n    - Tăng hu"
+  },
+  {
+   "text": "Tăng huyết áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "gleevec\n    - ",
+   "after": "\n    - tăng li"
+  },
+  {
+   "text": "tăng lipid máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "huyết áp\n    - ",
+   "after": ", không đặc hi"
+  },
+  {
+   "text": "Đái tháo đường típ 2",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "đặc hiệu\n    - ",
+   "after": "\n    - hẹp ống"
+  },
+  {
+   "text": "hẹp ống sống",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "típ 2\n    - ",
+   "after": "\n    - Giả gou"
+  },
+  {
+   "text": "Giả gout",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "ống sống\n    - ",
+   "after": "\n    - bệnh th"
+  },
+  {
+   "text": "bệnh thận mạn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Giả gout\n    - ",
+   "after": ", không đặc hi"
+  },
+  {
+   "text": "tăng sản tuyến tiền liệt",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Giai đoạn 4\n    - ",
+   "after": "\n    - Nhiều l"
+  },
+  {
+   "text": "ảo giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "gần đây Ngã\n    - ",
+   "after": "\n    Thuốc trư"
+  },
+  {
+   "text": "gleevec",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "nhập viện: ",
+   "after": " (dừng theo ch"
+  },
+  {
+   "text": "Toàn trạng suy kiệt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện\n    - ",
+   "after": "  kể từ khi xu"
+  },
+  {
+   "text": "ảo giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xuất viện\n    - ",
+   "after": " dai dẳng"
+  },
+  {
+   "text": "Lú lẫn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "dai dẳng\n    - ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "ảo giác",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "biến bệnh\n    - ",
+   "after": " được vợ nhận"
+  },
+  {
+   "text": "Lú lẫn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhận thấy\n    - ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "mày đay vô căn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đối với bệnh lý ",
+   "after": ", để lâu thườn"
+  },
+  {
+   "text": "Mày đay vô căn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cuộc sống. ",
+   "after": " là một bệnh m"
+  },
+  {
+   "text": "corticoid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thể hệ 1, ",
+   "after": " liều thấp các"
+  }
+ ],
+ "15": [
+  {
+   "text": "Bệnh phổi kẽ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mãn tính\n- ",
+   "after": " do sử dụng co"
+  },
+  {
+   "text": "Hội chứng kháng enzym tổng hợp protein",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "tại nhà\n    - ",
+   "after": ".\n    - béo ph"
+  },
+  {
+   "text": "béo phì",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "protein.\n    - ",
+   "after": "\n    - Tăng hu"
+  },
+  {
+   "text": "Tăng huyết áp nguyên phát",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "béo phì\n    - ",
+   "after": ".\n    Tiền sử"
+  },
+  {
+   "text": "Sinh thiết nội mạc tử cung",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "thủ thuật: ",
+   "after": " gần đây\n"
+  },
+  {
+   "text": "Corticoid",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "viện\n    -",
+   "after": " liều cao kéo"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- Tăng liều ",
+   "after": " (do bác sĩ ch"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "kê đơn)\n    - ",
+   "after": " (do bác sĩ ch"
+  },
+  {
+   "text": "Suy giảm miễn dịch",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "kê đơn)\n- ",
+   "after": " do sử dụng co"
+  },
+  {
+   "text": "tổn thương vùng âm hộ và mông bên phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viện: Tình trạng ",
+   "after": " ngày càng nặn"
+  },
+  {
+   "text": "tổn thương vùng âm hộ phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện vì ",
+   "after": " lan rộng sang"
+  },
+  {
+   "text": "tổn thương đơn độc vùng âm hộ phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phát hiện một ",
+   "after": ". Sau đó được"
+  },
+  {
+   "text": "cotrimoxazol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "khám và tăng liều ",
+   "after": ", đồng thời bổ"
+  },
+  {
+   "text": "doxycyclin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thời bổ sung ",
+   "after": " do nghi ngờ v"
+  },
+  {
+   "text": "viêm mô tế bào",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "do nghi ngờ ",
+   "after": ". Bệnh nhân th"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhân thấy  ",
+   "after": " quanh tổn thư"
+  },
+  {
+   "text": "bọng nước",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xuất hiện nhiều ",
+   "after": ", lan rộng san"
+  },
+  {
+   "text": "rỉ dịch vàng đục giống mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "số vị trí ",
+   "after": ".\n    - Khám t"
+  },
+  {
+   "text": "Pimperan",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "của sản phẩm ",
+   "after": ", nhiều dữ liệ"
+  },
+  {
+   "text": "metoclopramide",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thai cho thấy ",
+   "after": " không gây quá"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên quan: ",
+   "after": ", chảy mủ"
+  },
+  {
+   "text": "chảy mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ban đỏ, ",
+   "after": "\n    Các sự ki"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "được tăng liều ",
+   "after": " và doxycyclin"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "liều bactrim và ",
+   "after": " để điều trị c"
+  },
+  {
+   "text": "Viêm mô tế bào",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "điều trị chẩn đoán ",
+   "after": "\n    - Báo cáo"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "một phần về ",
+   "after": "\n    - dịch ti"
+  },
+  {
+   "text": "dịch tiết có vẻ như mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ban đỏ\n    - ",
+   "after": " từ một số tổn"
+  },
+  {
+   "text": "doxycycline",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "tục sử dụng ",
+   "after": "bactrim cho kh"
+  },
+  {
+   "text": "bactrim",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "doxycycline",
+   "after": " cho khả năng"
+  },
+  {
+   "text": "Viêm mô tế bào",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cho khả năng ",
+   "after": "\n    - Cảm thấ"
+  },
+  {
+   "text": "Nhiễm virus Herpes simplex",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Lo ngại về ",
+   "after": " (HSV) hoặc Bệ"
+  },
+  {
+   "text": "Bệnh thủy đậu/Zona",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "(HSV) hoặc ",
+   "after": " (do Varicella"
+  }
+ ],
+ "16": [
+  {
+   "text": "chảy máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ở tay nhưng bị ",
+   "after": ",sau đó khoảng"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguy cơ lây ",
+   "after": ". Vậy bác sỹ c"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": " chỉ không chỉ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đường lây ",
+   "after": " phổ biến nhất"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật dại cắn. ",
+   "after": " còn có thể lâ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật khác mắc ",
+   "after": " do cào hoặc l"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cơ thể.\n1. ",
+   "after": " có lây không?"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lây không?\n",
+   "after": " do Lyssavirus"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "và người.\n",
+   "after": " là bệnh đe dọ"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "*. ",
+   "after": " thường gia tă"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mùa hè.\n",
+   "after": " gây ra bởi vi"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "việc phòng ",
+   "after": " là vô cùng cầ"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cần thiết.\n2. ",
+   "after": " lây truyền qu"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hợp gây ",
+   "after": " ở người tại Đ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cáo về ca mắc ",
+   "after": " ở người và li"
+  },
+  {
+   "text": "bumetanide 2mg iv",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- được cho ",
+   "after": "\n    - được ch"
+  },
+  {
+   "text": "vancomycin 1 gram",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- được cho ",
+   "after": "\n    - được ch"
+  },
+  {
+   "text": "levofloxacin 750mg iv",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- được cho ",
+   "after": "\nSố lượng vi r"
+  }
+ ],
+ "17": [
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đánh răng hay ",
+   "after": ", miệng thấy h"
+  },
+  {
+   "text": "hơi thở mùi khó chịu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "miệng thấy ",
+   "after": ", kèm theo thấ"
+  },
+  {
+   "text": "nhiều mảng bám quanh răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kèm theo thấy ",
+   "after": " nữa, bác sĩ t"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "biến gây ra ",
+   "after": " kèm hôi miệng"
+  },
+  {
+   "text": "hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chân răng kèm ",
+   "after": ". Nếu không vệ"
+  },
+  {
+   "text": "tổn thương nướu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập, gây ",
+   "after": " và làm phát s"
+  },
+  {
+   "text": "Viêm quanh răng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mùi hôi.\n- ",
+   "after": ": Các mô bao q"
+  },
+  {
+   "text": "Viêm nha chu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chấn răng. \n- ",
+   "after": ": Đây là dạng"
+  },
+  {
+   "text": "nhiễm trùng lợi nặng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đây là dạng ",
+   "after": ", các triệu ch"
+  },
+  {
+   "text": "đau khi nhai",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chứng gồm ",
+   "after": ", răng lung la"
+  },
+  {
+   "text": "răng lung lay",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đau khi nhai, ",
+   "after": ", sưng nướu, d"
+  },
+  {
+   "text": "sưng nướu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "răng lung lay, ",
+   "after": ", dễ chảy máu"
+  },
+  {
+   "text": "chảy máu răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sưng nướu, dễ ",
+   "after": ", hôi miệng, c"
+  },
+  {
+   "text": "hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chảy máu răng, ",
+   "after": ", có mủ. Viêm"
+  },
+  {
+   "text": "có mủ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": ", hôi miệng, ",
+   "after": ". Viêm nha chu"
+  },
+  {
+   "text": "Viêm nha chu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "có mủ. ",
+   "after": " nếu để kéo dà"
+  },
+  {
+   "text": "mất răng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "đến tình trạng ",
+   "after": " hoặc viêm khớ"
+  },
+  {
+   "text": "viêm khớp dạng thấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mất răng hoặc ",
+   "after": ", các bệnh hô"
+  },
+  {
+   "text": "đột quỵ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bệnh hô hấp, ",
+   "after": ",...\n- Thiếu c"
+  },
+  {
+   "text": "loãng xương",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "canxi dễ gây ",
+   "after": ", sâu răng và"
+  },
+  {
+   "text": "sâu răng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "loãng xương, ",
+   "after": " và có nguy cơ"
+  },
+  {
+   "text": "viêm nha chu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "có nguy cơ bị ",
+   "after": ". Hôi miệng và"
+  },
+  {
+   "text": "Hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "viêm nha chu. ",
+   "after": " và chảy máu c"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Hôi miệng và ",
+   "after": " còn có thể do"
+  },
+  {
+   "text": "thiếu hụt vitamin K",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "thể do cơ thể ",
+   "after": ".\n- Tiểu đường"
+  },
+  {
+   "text": "Tiểu đường",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vitamin K.\n- ",
+   "after": ": Hôi miệng và"
+  },
+  {
+   "text": "Hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Tiểu đường: ",
+   "after": " và chảy máu c"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Hôi miệng và ",
+   "after": " là dấu hiệu c"
+  },
+  {
+   "text": "bệnh tiểu đường",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "dấu hiệu của ",
+   "after": ". Nguyên nhân"
+  },
+  {
+   "text": "insulin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "giảm sản xuất ",
+   "after": " nên người bị"
+  },
+  {
+   "text": "tiểu đường",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nên người bị ",
+   "after": " suy yếu hệ mi"
+  },
+  {
+   "text": "khó đông máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Tình trạng ",
+   "after": " khiến chân ră"
+  },
+  {
+   "text": "hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thuốc có thể gây ",
+   "after": " kèm chảy máu"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hôi miệng kèm ",
+   "after": ". Các loại thu"
+  },
+  {
+   "text": "Kháng histamin H1",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thuốc gồm: ",
+   "after": ", thuốc chống"
+  },
+  {
+   "text": "thuốc chống trầm cảm",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "histamin H1, ",
+   "after": ", thuốc lợi ti"
+  },
+  {
+   "text": "thuốc lợi tiểu",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "chống trầm cảm, ",
+   "after": ", thuốc kháng"
+  },
+  {
+   "text": "thuốc kháng sinh",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thuốc lợi tiểu, ",
+   "after": ", thuốc chống"
+  },
+  {
+   "text": "thuốc chống nôn",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thuốc kháng sinh, ",
+   "after": ",..\n-Hút thuốc"
+  },
+  {
+   "text": "hỏng men răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thuốc lá gây ",
+   "after": ", gai lưỡi phá"
+  },
+  {
+   "text": "hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xâm nhập, gây ",
+   "after": ", chảy máu châ"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "gây hôi miệng, ",
+   "after": " và mất răng."
+  },
+  {
+   "text": "mất răng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chân răng và ",
+   "after": ".\n    - bệnh m"
+  },
+  {
+   "text": "bệnh mạch máu ngoại biên",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mất răng.\n    - ",
+   "after": "\n    - bệnh ph"
+  },
+  {
+   "text": "bệnh phổi tắc nghẽn mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "ngoại biên\n    - ",
+   "after": "\n    - Ngưng t"
+  },
+  {
+   "text": "Ngưng thở khi ngủ do tắc nghẽn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mạn tính\n    - ",
+   "after": " đang dùng BiP"
+  },
+  {
+   "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "dùng BiPAP\n    - ",
+   "after": "biệt hóa kém"
+  },
+  {
+   "text": "chảy máu chân răng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "giảm tình trạng ",
+   "after": " và hôi miệng."
+  },
+  {
+   "text": "hôi miệng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chân răng và ",
+   "after": ".\n•\tThực hiện"
+  }
+ ],
+ "18": [
+  {
+   "text": "Điện tâm đồ",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lâm sàng\n\n",
+   "after": " (ECG)\n • ST c"
+  },
+  {
+   "text": "ECG",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Điện tâm đồ (",
+   "after": ")\n • ST chênh"
+  },
+  {
+   "text": "ST chênh lên",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "(ECG)\n • ",
+   "after": " / chênh xuống"
+  },
+  {
+   "text": "Sóng T đảo",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chênh xuống\n • ",
+   "after": "\n • Q bệnh lý"
+  },
+  {
+   "text": "Q bệnh lý",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Sóng T đảo\n • ",
+   "after": "\n\nMen tim"
+  },
+  {
+   "text": "Men tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Q bệnh lý\n\n",
+   "after": "\n • Troponin"
+  },
+  {
+   "text": "Troponin I/T",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Men tim\n • ",
+   "after": " ↑ (chẩn đoán"
+  },
+  {
+   "text": "nhồi máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "↑ (chẩn đoán ",
+   "after": ")\n • CK-MB ↑"
+  },
+  {
+   "text": "CK-MB",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhồi máu)\n • ",
+   "after": " ↑\n\nSiêu âm ti"
+  },
+  {
+   "text": "Siêu âm tim",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "CK-MB ↑\n\n",
+   "after": "\n • Rối loạn"
+  },
+  {
+   "text": "Rối loạn vận động vùng",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "âm tim\n • ",
+   "after": "\n • Đánh giá"
+  },
+  {
+   "text": "Nghiệm pháp gắng sức",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thất trái\n\n",
+   "after": "\n • Phát hiện"
+  },
+  {
+   "text": "thiếu máu cơ tim",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": " • Phát hiện ",
+   "after": " khi gắng sức"
+  },
+  {
+   "text": "Chụp mạch vành",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "gắng sức\n\n",
+   "after": " (tiêu chuẩn v"
+  },
+  {
+   "text": "nhồi máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": " • Ngăn ",
+   "after": "\n • Cải thiện"
+  },
+  {
+   "text": "bệnh mạch vành",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "6. Dự phòng ",
+   "after": " \n\nDự phòng ti"
+  },
+  {
+   "text": "đau bụng trên",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Ban đầu xuất hiện ",
+   "after": ". sau đó nhập"
+  },
+  {
+   "text": "sốt nhẹ đến 38.3°C",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bệnh nhân có ",
+   "after": " kèm theo đau"
+  },
+  {
+   "text": "đau hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "38.3°C kèm theo ",
+   "after": " tái phát, ngà"
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "do có kết quả  ",
+   "after": " dương tính \n"
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cấy máu ",
+   "after": " \n    Triệu ch"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- sốt\n    - ",
+   "after": "\n    - đau hạ"
+  },
+  {
+   "text": "đau hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đau bụng\n    - ",
+   "after": "\n    - sốt nhẹ"
+  },
+  {
+   "text": "sốt nhẹ đến 38.3°C",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sườn phải\n    - ",
+   "after": "\n    - đau hạ"
+  },
+  {
+   "text": "đau hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "38.3°C\n    - ",
+   "after": " tái phát, ngà"
+  },
+  {
+   "text": "đau hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nặng hơn\n    - ",
+   "after": " liên tục"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "quan: không thấy  ",
+   "after": ", nôn, ớn lạnh"
+  },
+  {
+   "text": "ớn lạnh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "buồn nôn, nôn, ",
+   "after": ", thay đổi chứ"
+  },
+  {
+   "text": "đau ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "chức năng ruột, ",
+   "after": ", khó thở."
+  },
+  {
+   "text": "khó thở",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "đau ngực, ",
+   "after": ".\n  Diễn biến"
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Được thực hiện ",
+   "after": " tại phòng cấp"
+  },
+  {
+   "text": "túi mật căng to",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "cứu cho thấy ",
+   "after": " với dịch quan"
+  },
+  {
+   "text": "viêm túi mật cấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "túi mật gợi ý ",
+   "after": ".\n3.  Đánh giá"
+  },
+  {
+   "text": "lipase",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "laboratory\n    - ",
+   "after": " là tăng lên ở"
+  },
+  {
+   "text": "623",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lên ở mức ",
+   "after": " (lần nhập việ"
+  },
+  {
+   "text": "tăng men gan nhẹ",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "trước)\n    - ",
+   "after": " (lần nhập việ"
+  },
+  {
+   "text": "tbr",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trước)\n    - ",
+   "after": " là cao tới 1."
+  },
+  {
+   "text": "1.0",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "là cao tới ",
+   "after": " sau đó cải th"
+  },
+  {
+   "text": "cấy máu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- dương tính ",
+   "after": " khi tái khám"
+  },
+  {
+   "text": "dương tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giảm (lần nhập viện trước)\n    - ",
+   "after": " cấy máu khi t"
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "hình ảnh\n    - ",
+   "after": " cho thấy sỏi"
+  },
+  {
+   "text": "sỏi mật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "mật cho thấy ",
+   "after": " nhưng không c"
+  },
+  {
+   "text": "viêm túi mật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "mật nhưng không có ",
+   "after": " hoặc sỏi ống"
+  },
+  {
+   "text": "sỏi ống mật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "túi mật hoặc ",
+   "after": " (lần nhập việ"
+  },
+  {
+   "text": "chụp ct bụng chậu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "trước)\n    - ",
+   "after": " là chưa phát"
+  },
+  {
+   "text": "siêu âm vùng gan mật",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trước)\n    - ",
+   "after": " hiện tại cho"
+  },
+  {
+   "text": "túi mật căng to",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hiện tại cho thấy ",
+   "after": " với dịch quan"
+  },
+  {
+   "text": "viêm túi mật cấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "túi mật gợi ý ",
+   "after": "\n    Các phát"
+  },
+  {
+   "text": "viêm túi mật cấp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "khác: lo ngại ",
+   "after": ""
+  }
+ ],
+ "19": [
+  {
+   "text": "mề đay",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "nổi các dấu ",
+   "after": " rất to và ngứ"
+  },
+  {
+   "text": "ngứa khắp người",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "rất to và ",
+   "after": ", bạn em bị nổ"
+  },
+  {
+   "text": "mề đay",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isFamily"
+   ],
+   "before": "Những dấu ",
+   "after": " nổi rất khó c"
+  },
+  {
+   "text": "dị ứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isFamily"
+   ],
+   "before": "đều không phải ",
+   "after": " do thời tiết"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "PCP khuyên dùng ",
+   "after": " cho đau\n"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bệnh nhân dùng ",
+   "after": " nhưng phải đế"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    - ",
+   "after": "\n    - táo bón"
+  },
+  {
+   "text": "táo bón",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "đau bụng\n    - ",
+   "after": "\n    - buồn nô"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "táo bón\n    - ",
+   "after": "\n    Đặc điểm"
+  },
+  {
+   "text": "đau hố chậu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Vị trí: ",
+   "after": "\n    - Mức độ"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "mặc dù đã dùng ",
+   "after": "\n    - Triệu c"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên quan: ",
+   "after": "\n    Các sự ki"
+  },
+  {
+   "text": "tylenol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "- đã dùng ",
+   "after": "\n    - gọi cho"
+  },
+  {
+   "text": "MÀY ĐAY VÔ CĂN",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bạn  thuộc ",
+   "after": ". Chúng ta khô"
+  },
+  {
+   "text": "MÀY ĐAY MẠN TÍNH",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gặp nhất của ",
+   "after": ".\nTổn thương m"
+  },
+  {
+   "text": "mày đay vô căn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đối với bệnh lý ",
+   "after": ", để lâu thườn"
+  },
+  {
+   "text": "Mày đay vô căn",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cuộc sống. ",
+   "after": " là một bệnh m"
+  },
+  {
+   "text": "corticoid",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "thể hệ 1, ",
+   "after": " liều thấp các"
+  }
+ ],
+ "20": [
+  {
+   "text": "chảy máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ở tay nhưng bị ",
+   "after": ",sau đó khoảng"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "nguy cơ lây ",
+   "after": ". Vậy bác sỹ c"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "như sau:\n",
+   "after": " chỉ không chỉ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Đường lây ",
+   "after": " phổ biến nhất"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật dại cắn. ",
+   "after": " còn có thể lâ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "vật khác mắc ",
+   "after": " do cào hoặc l"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cơ thể.\n1. ",
+   "after": " có lây không?"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lây không?\n",
+   "after": " do Lyssavirus"
+  },
+  {
+   "text": "Đau bụng hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hồngi\n ",
+   "after": "\n Buồn nôn, nô"
+  },
+  {
+   "text": "Buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sườn phải\n ",
+   "after": ", nôn ra thức"
+  },
+  {
+   "text": "nôn ra thức ăn và dịch dạ dày",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Buồn nôn, ",
+   "after": ", không có máu"
+  },
+  {
+   "text": "compazine",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bệnh viện:\n    - ",
+   "after": " và alevenhưng"
+  },
+  {
+   "text": "aleve",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "compazine và ",
+   "after": "nhưng vẫn còn"
+  },
+  {
+   "text": "morphine",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "    - Uống  ",
+   "after": "oral và  loraz"
+  },
+  {
+   "text": "lorazepam",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "oral và  ",
+   "after": " đỡ đau  (có t"
+  },
+  {
+   "text": "Bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "bệnh viện\n2. ",
+   "after": " lây truyền qu"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hợp gây ",
+   "after": " ở người tại Đ"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "cáo về ca mắc ",
+   "after": " ở người và li"
+  },
+  {
+   "text": "bệnh dại",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "phát triển lây nhiễm ",
+   "after": " bao gồm:"
+  }
+ ],
+ "21": [
+  {
+   "text": "Rối loạn chuyển hóa tinh bột",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Em bị ",
+   "after": " (amyloidosis)"
+  },
+  {
+   "text": "amyloidosis",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tinh bột (",
+   "after": ") đã lâu. Có d"
+  },
+  {
+   "text": "Bệnh thoái hóa tinh bột",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "của bạn:",
+   "after": " (hay bệnh amy"
+  },
+  {
+   "text": "bệnh amyloidosis",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tinh bột (hay ",
+   "after": ") là một bệnh"
+  },
+  {
+   "text": "bệnh thoái hóa tinh bột",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "amyloid trong ",
+   "after": " có thể khu tr"
+  },
+  {
+   "text": "bệnh thoái hóa tinh bột",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Mặc dù ",
+   "after": " không được xế"
+  },
+  {
+   "text": "ung thư máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "một số bệnh ",
+   "after": " như đa u tủy."
+  },
+  {
+   "text": "đa u tủy",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "ung thư máu như ",
+   "after": ".\nCó nhiều loạ"
+  },
+  {
+   "text": "amyloidosis",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "Có nhiều loại ",
+   "after": " khác nhau, ba"
+  },
+  {
+   "text": "Bệnh amyloidosis chuỗi nhẹ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sau:\n•        ",
+   "after": "\n•        Bệnh"
+  },
+  {
+   "text": "Bệnh amyloidosis tự miễn dịch",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "chuỗi nhẹ\n•        ",
+   "after": "\n•        Bệnh"
+  },
+  {
+   "text": "Bệnh amyloidosis di truyền hoặc gia đình",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "miễn dịch\n•        ",
+   "after": "\nBệnh thoái hó"
+  },
+  {
+   "text": "Bệnh thoái hóa tinh bột",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gia đình\n",
+   "after": " là một bệnh đ"
+  },
+  {
+   "text": "amyloidosis",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "điều trị tận gốc ",
+   "after": ".Tuy nhiên, cá"
+  },
+  {
+   "text": "đau bụng vùng hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    - ",
+   "after": "\n    - chướng"
+  },
+  {
+   "text": "chướng bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sườn phải\n    - ",
+   "after": " \n    - buồn n"
+  },
+  {
+   "text": "buồn nôn thoáng qua",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bụng \n    - ",
+   "after": "\n    - Nôn mửa"
+  },
+  {
+   "text": "Nôn mửa",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "thoáng qua\n    - ",
+   "after": "\n    - Bệnh nh"
+  },
+  {
+   "text": "đau lưng âm ỉ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Bệnh nhân có  ",
+   "after": "\n    Đặc điểm"
+  },
+  {
+   "text": "đau bụng hạ sườn phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Vị trí: ",
+   "after": ", đau lưng (kh"
+  },
+  {
+   "text": "đau lưng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hạ sườn phải, ",
+   "after": " (khu trú vùng"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "bữa ăn (",
+   "after": ", chướng bụng)"
+  },
+  {
+   "text": "chướng bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "(đau bụng, ",
+   "after": ")\n    - Các tr"
+  },
+  {
+   "text": "chướng bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên quan: ",
+   "after": ",  buồn nôn th"
+  },
+  {
+   "text": "buồn nôn thoáng qua",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chướng bụng,  ",
+   "after": ", nôn, đau lưn"
+  },
+  {
+   "text": "đau lưng kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "qua, nôn, ",
+   "after": " \n    Các sự k"
+  },
+  {
+   "text": "nội soi thực quản - dạ dày - tá tràng",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhân được ",
+   "after": " ngoại trú, kế"
+  },
+  {
+   "text": "viêm dạ dày",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "quả ghi nhận ",
+   "after": ".\nĐã ngừng sử"
+  },
+  {
+   "text": "NSAIDs",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "ngừng sử dụng thuốc ",
+   "after": ".\nĐược điều tr"
+  },
+  {
+   "text": "omeprazole",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "điều trị bằng ",
+   "after": ".\nChụp cộng hư"
+  },
+  {
+   "text": "Chụp cộng hưởng từ mật tụy",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "omeprazole.\n",
+   "after": "  ghi nhận sỏi"
+  },
+  {
+   "text": "sỏi đoạn cuối ống mật chủ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tụy  ghi nhận ",
+   "after": ".\nXét nghiệm c"
+  },
+  {
+   "text": "Xét nghiệm chức năng gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ống mật chủ.\n",
+   "after": " cho thấy men"
+  },
+  {
+   "text": "men gan tăng",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "gan cho thấy ",
+   "after": ".\nSau đó bệnh"
+  },
+  {
+   "text": "Xét nghiệm chức năng gan",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Xét nghiệm:",
+   "after": " ghi nhận tăng"
+  },
+  {
+   "text": "tăng men gan",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "gan ghi nhận ",
+   "after": ".\n"
+  }
+ ],
+ "22": [
+  {
+   "text": "acetaminophen 500mg",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "bằng liều cao ",
+   "after": ", taking 10 pi"
+  },
+  {
+   "text": "thuốc an thần",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "cách uống 2 chai ",
+   "after": " trong quá khứ"
+  },
+  {
+   "text": "đau bụng ngày càng nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện: ",
+   "after": "\nThời điểm khở"
+  },
+  {
+   "text": "đau bụng ngày càng nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Tiền sử 2 ngày ",
+   "after": "\n- Tiền sử 2 t"
+  },
+  {
+   "text": "đau bụng liên tục",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sử 2 tháng ",
+   "after": "\nDiễn biến bện"
+  },
+  {
+   "text": "đau bụng liên tục",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sử 2 tháng ",
+   "after": "\n- 2 ngày trướ"
+  },
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện, ",
+   "after": " trở nên tồi t"
+  },
+  {
+   "text": "tăng men gan",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trong viện: ",
+   "after": " bắt đầu có xu"
+  },
+  {
+   "text": "tổng bilirubin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "giảm mặc dù ",
+   "after": " bắt đầu tăng"
+  },
+  {
+   "text": "6.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "lên đạt đỉnh ",
+   "after": " vào\nCác triệu"
+  },
+  {
+   "text": "đau bụng ngày càng nặng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chứng\n- ",
+   "after": "\n- đau bụng li"
+  },
+  {
+   "text": "đau bụng liên tục",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "càng nặng\n- ",
+   "after": "\n- mệt mỏi toà"
+  },
+  {
+   "text": "mệt mỏi toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên tục\n- ",
+   "after": "\n- yếu sức"
+  },
+  {
+   "text": "yếu sức",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "toàn thân\n- ",
+   "after": "\n- khó thở khi"
+  },
+  {
+   "text": "khó thở khi gắng sức",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "yếu sức\n- ",
+   "after": "\n- ngứa toàn t"
+  },
+  {
+   "text": "ngứa toàn thân",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "gắng sức\n- ",
+   "after": "\n- Vài lần tiể"
+  },
+  {
+   "text": "tiểu ra máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Vài lần ",
+   "after": " không đau"
+  },
+  {
+   "text": "Đau vùng gan phải",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "- Vị trí: ",
+   "after": " (RUQ) và thượ"
+  },
+  {
+   "text": "buồn nôn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- Không có ",
+   "after": "\n- Không có nô"
+  },
+  {
+   "text": "thay đổi thói quen đại tiện",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- Không có ",
+   "after": "\n- Không có ph"
+  },
+  {
+   "text": "phân có máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "- Không có ",
+   "after": ", đen hoặc nhự"
+  },
+  {
+   "text": "acetaminophen 500mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bằng liều cao ",
+   "after": "\n- làm hỏng dạ"
+  },
+  {
+   "text": "thuốc an thần",
+   "type": "THUỐC",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "uống 2 chai ",
+   "after": " trong quá khứ"
+  },
+  {
+   "text": "dị ứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "đều không phải ",
+   "after": " thời tiết hay"
+  },
+  {
+   "text": "ast",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "xét nghiệm\n- ",
+   "after": " 421\n- alt 336"
+  },
+  {
+   "text": "421",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- ast ",
+   "after": "\n- alt 336"
+  },
+  {
+   "text": "alt",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ast 421\n- ",
+   "after": " 336\n- alp 185"
+  },
+  {
+   "text": "336",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- alt ",
+   "after": "\n- alp 185"
+  },
+  {
+   "text": "alp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alt 336\n- ",
+   "after": " 185\n- bilirub"
+  },
+  {
+   "text": "185",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- alp ",
+   "after": "\n- bilirubin t"
+  },
+  {
+   "text": "bilirubin toàn phần",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "alp 185\n- ",
+   "after": " 0.9\n- total b"
+  },
+  {
+   "text": "0.9",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "toàn phần ",
+   "after": "\n- total bili"
+  },
+  {
+   "text": "total bili",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "phần 0.9\n- ",
+   "after": " bắt đầu tăng"
+  },
+  {
+   "text": "6.7",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "tăng lên đạt đỉnh ",
+   "after": "\n- bảng xét ng"
+  },
+  {
+   "text": "bảng xét nghiệm viêm gan virus",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đỉnh 6.7\n- ",
+   "after": " là âm tính"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "gan virus là ",
+   "after": "\n- ferritin là"
+  },
+  {
+   "text": "ferritin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "âm tính\n- ",
+   "after": " là bình thườn"
+  },
+  {
+   "text": "bình thường",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ferritin là ",
+   "after": "\n- ceruloplasm"
+  },
+  {
+   "text": "ceruloplasmin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "bình thường\n- ",
+   "after": " vẫn đang chờ"
+  },
+  {
+   "text": "siêu âm bụng có doppler",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "hình ảnh\n- ",
+   "after": " âm tính âm tí"
+  },
+  {
+   "text": "âm tính",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "có doppler ",
+   "after": " âm tính\n- âm"
+  },
+  {
+   "text": "chụp hida",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "- âm tính ",
+   "after": "\n- ercp cho th"
+  },
+  {
+   "text": "ercp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "chụp hida\n- ",
+   "after": " cho thấy túi"
+  },
+  {
+   "text": "túi mật giãn nở rõ rệt",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ercp cho thấy ",
+   "after": " túi mật giãn"
+  },
+  {
+   "text": "ercp",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "thuật thực hiện: ",
+   "after": "\nCác phát hiện"
+  },
+  {
+   "text": "tăng men gan",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "khác\n- ",
+   "after": "\n- tăng biliru"
+  },
+  {
+   "text": "tăng bilirubin máu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tăng men gan\n- ",
+   "after": ""
+  }
+ ],
+ "23": [
+  {
+   "text": "đổ mồ hôi đêm",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mãn kinh, ",
+   "after": " và bốc hỏa th"
+  },
+  {
+   "text": "bốc hỏa",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mồ hôi đêm và ",
+   "after": " thường làm gi"
+  },
+  {
+   "text": "Mất ngủ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "giấc ngủ. ",
+   "after": " cũng phổ biến"
+  },
+  {
+   "text": "rối loạn lo âu",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "gây ra các ",
+   "after": ",trầm cảm, str"
+  },
+  {
+   "text": "trầm cảm",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "lo âu,",
+   "after": ", stress."
+  },
+  {
+   "text": "tăng nhãn áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "điều trị chứng ",
+   "after": " ở thời kỳ sơ"
+  },
+  {
+   "text": "đau đầu kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện: ",
+   "after": " kèm theo mờ m"
+  },
+  {
+   "text": "mờ mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "dài kèm theo ",
+   "after": "\n    Thời điểm"
+  },
+  {
+   "text": "nhìn mờ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "triệu chứng: ",
+   "after": " tiến triển tr"
+  },
+  {
+   "text": "não úng tuỷ",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "Bệnh nhân bị ",
+   "after": " từ thời kỳ sơ"
+  },
+  {
+   "text": "não úng thủy",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "với chẩn đoán ",
+   "after": ", có biểu hiện"
+  },
+  {
+   "text": "đau đầu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "có biểu hiện tăng ",
+   "after": " , triệu chứng"
+  },
+  {
+   "text": "đau đầu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "để điều trị chứng ",
+   "after": ".\n    - Khám n"
+  },
+  {
+   "text": "phù gai thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "cho thấy không có ",
+   "after": ".\n    - Đến hô"
+  },
+  {
+   "text": "mờ mắt ở cả hai mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nay, bệnh nhân bị ",
+   "after": ", bên trái nặn"
+  },
+  {
+   "text": "đau đầu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tăng tần suất ",
+   "after": " gián đoạn."
+  },
+  {
+   "text": "đau đầu kéo dài",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    - ",
+   "after": "\n    - nhìn mờ"
+  },
+  {
+   "text": "nhìn mờ ở cả hai mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "kéo dài\n    - ",
+   "after": ", bên trái nặn"
+  },
+  {
+   "text": "đau đầu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "-  cơn  ",
+   "after": " nhiều hơn"
+  },
+  {
+   "text": "nhìn mờ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "triệu chứng\n    - ",
+   "after": ": tiến triển t"
+  },
+  {
+   "text": "đau đầu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hơn bên phải\n    - ",
+   "after": ": nhiều hơn"
+  },
+  {
+   "text": "phù gai thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Khoa Cấp cứu vì ",
+   "after": ", bên trái nặn"
+  },
+  {
+   "text": "Phù gai thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lâm sàng: ",
+   "after": ", bên trái nặn"
+  },
+  {
+   "text": "Tăng nhãn áp",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "khác\n    - ",
+   "after": " so với chụp c"
+  },
+  {
+   "text": "chụp cắt lớp vi tính (ct) đầu",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [
+    "isHistorical"
+   ],
+   "before": "áp so với ",
+   "after": " từ [Date] (từ"
+  },
+  {
+   "text": "Phù gai thị",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "nhập viện trước)\n    - ",
+   "after": " (theo báo cáo"
+  }
+ ],
+ "24": [
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "với lý do ",
+   "after": ", vàng da, vàn"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "do mệt mỏi, ",
+   "after": ", vàng mắt ngà"
+  },
+  {
+   "text": "vàng mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vàng da, ",
+   "after": " ngày thứ 10"
+  },
+  {
+   "text": "Hội chứng nhiễm trùng nhiễm độc",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "sau:\n        ",
+   "after": ":\n        Khởi"
+  },
+  {
+   "text": "sốt nhẹ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "Khởi phát từ từ ",
+   "after": " (37^∘ 8), sốt"
+  },
+  {
+   "text": "sốt nóng liên tục",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "(37^∘ 8), ",
+   "after": " có gai rét, k"
+  },
+  {
+   "text": "gai rét",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "liên tục có ",
+   "after": ", không có cơn"
+  },
+  {
+   "text": "cơn rét run",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "rét, không có ",
+   "after": ", dùng 1 viên"
+  },
+  {
+   "text": "paracetamol",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "dùng 1 viên ",
+   "after": " viên sủi, khô"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sốt thì xuất hiện ",
+   "after": ", vàng niêm mạ"
+  },
+  {
+   "text": "vàng niêm mạc",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện vàng da, ",
+   "after": ".\n        Kèm"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "theo sốt bn ",
+   "after": " nhiều chỉ muố"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "hết sốt, hết ",
+   "after": ", ăn ngủ tốt"
+  },
+  {
+   "text": "BC",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "ngủ tốt \n        ",
+   "after": " 5,38 G/l; N 5"
+  },
+  {
+   "text": "5,38 G/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "BC ",
+   "after": "; N 51,4%"
+  },
+  {
+   "text": "51,4%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "5,38 G/l; N ",
+   "after": "\n        HBsAg"
+  },
+  {
+   "text": "HBsAg",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "N 51,4%\n        ",
+   "after": " (+), Anti HBe"
+  },
+  {
+   "text": "(+)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBsAg ",
+   "after": ", Anti HBe (-)"
+  },
+  {
+   "text": "Anti HBe",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBsAg (+), ",
+   "after": " (-)\n        A"
+  },
+  {
+   "text": "Anti HBc IgG",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "HBe (-)\n        ",
+   "after": " (-); Anti HBc"
+  },
+  {
+   "text": "Anti HBc IgM",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "IgG (-); ",
+   "after": " (+)\n        H"
+  },
+  {
+   "text": "(+)",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Anti HBc IgM ",
+   "after": "\n        Hội c"
+  },
+  {
+   "text": "Hội chứng viêm gan vàng da ứ mật",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "IgM (+)\n        ",
+   "after": ":\n        Khởi"
+  },
+  {
+   "text": "da niêm mạc vàng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "từ từ, ",
+   "after": " sau khi hết s"
+  },
+  {
+   "text": "nước tiểu ít hơn so với bình thường",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "after": ", vàng sậm như",
+   "before": "Kèm theo có "
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại bn ",
+   "after": " giảm, nước ti"
+  },
+  {
+   "text": "Gan to",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "1000ml/24h \n        ",
+   "after": " dưới bờ sườn"
+  },
+  {
+   "text": "Bilirubin  toàn phần",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vào viện:\n        ",
+   "after": ": 43 mmol/l; t"
+  },
+  {
+   "text": "43 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "toàn phần: ",
+   "after": "; trực tiếp: 2"
+  },
+  {
+   "text": "27 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "trực tiếp: ",
+   "after": "\n        Ure:"
+  },
+  {
+   "text": "Ure",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "27 mmol/l\n        ",
+   "after": ": 5,9 mmol/l;"
+  },
+  {
+   "text": "5,9 mmol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Ure: ",
+   "after": "; Creatinin: 8"
+  },
+  {
+   "text": "Creatinin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "5,9 mmol/l; ",
+   "after": ": 89 micromol/"
+  },
+  {
+   "text": "89 micromol/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "Creatinin: ",
+   "after": "\n        Hội c"
+  },
+  {
+   "text": "Hội chứng hủy hoại tế bào gan",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "micromol/l\n        ",
+   "after": "\n        Lúc v"
+  },
+  {
+   "text": "GOT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "vào viện\n        ",
+   "after": ": 542 U/l; GPT"
+  },
+  {
+   "text": "542 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GOT: ",
+   "after": "; GPT: 628 U/l"
+  },
+  {
+   "text": "GPT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "542 U/l; ",
+   "after": ": 628 U/l; GGT"
+  },
+  {
+   "text": "628 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GPT: ",
+   "after": "; GGT: 234 U/l"
+  },
+  {
+   "text": "GGT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "628 U/l; ",
+   "after": ": 234 U/l\n"
+  },
+  {
+   "text": "234 U/l",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "GGT: ",
+   "after": "\n        Chỉ s"
+  },
+  {
+   "text": "Chỉ số Deritis",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "234 U/l\n        ",
+   "after": " = GOT/GPT < 1"
+  },
+  {
+   "text": "Tỷ lệ prothrombin",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "nhất:\n        ",
+   "after": ": 55%\n"
+  },
+  {
+   "text": "55%",
+   "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "prothrombin: ",
+   "after": "\n        Tiền"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "thân: chưa bị ",
+   "after": ", vàng mắt trư"
+  },
+  {
+   "text": "vàng mắt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated",
+    "isHistorical"
+   ],
+   "before": "chưa bị vàng da, ",
+   "after": " trước đó. Trư"
+  },
+  {
+   "text": "viêm gan B",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [
+    "isNegated",
+    "isFamily"
+   ],
+   "before": "ai bị nhiễm virus ",
+   "after": ", C \n"
+  },
+  {
+   "text": "viêm gan B",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "3 người mang virus ",
+   "after": ". \n        Hiệ"
+  },
+  {
+   "text": "mệt mỏi",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "sau khi vào viện: ",
+   "after": " hết, vàng da"
+  },
+  {
+   "text": "vàng da",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mệt mỏi hết, ",
+   "after": " giảm nhẹ, ăn"
+  },
+  {
+   "text": "khó chịu vùng ngực",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "không còn cảm giác",
+   "after": "\n        Gluco"
+  },
+  {
+   "text": "Glucose 5% x 1000ml",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "vùng ngực\n        ",
+   "after": " truyền tĩnh m"
+  },
+  {
+   "text": "Philpovin 5g",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "trong \n        ",
+   "after": " x 2 ống, pha"
+  },
+  {
+   "text": "ALT",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dùng đến khi ",
+   "after": ", AST trở về b"
+  },
+  {
+   "text": "AST",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "đến khi ALT, ",
+   "after": " trở về bình t"
+  },
+  {
+   "text": "Fortex 25mg",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bình thường \n        ",
+   "after": " x 4 viên, sán"
+  },
+  {
+   "text": "Vitamin 3B",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "bình thường \n        ",
+   "after": " x 4 viên, sán"
+  }
+ ],
+ "25": [
+  {
+   "text": "đau bụng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "mỗi lần uống thì em có ",
+   "after": " nhưng k chảy"
+  },
+  {
+   "text": "chảy máu",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "đau bụng nhưng k ",
+   "after": " với trễ kinh"
+  },
+  {
+   "text": "trễ kinh",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [
+    "isNegated"
+   ],
+   "before": "chảy máu với ",
+   "after": " ạ, kinh tới r"
+  },
+  {
+   "text": "tắc ống dẫn trứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "ra tình trạng ",
+   "after": ", lạm dụng thu"
+  },
+  {
+   "text": "teo niêm mạc tử cung",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "còn khiến ",
+   "after": ", không rụng t"
+  },
+  {
+   "text": "không rụng trứng",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "mạc tử cung, ",
+   "after": " dẫn đến vô si"
+  },
+  {
+   "text": "vô sinh",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trứng dẫn đến ",
+   "after": ". Nhiều trường"
+  },
+  {
+   "text": "ung thư cổ tử cung",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "hiểm còn gây ra ",
+   "after": " do dùng thuốc"
+  },
+  {
+   "text": "mang thai ngoài tử cung",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tăng nguy cơ ",
+   "after": ".\n-        Chị"
+  },
+  {
+   "text": "mụn trứng cá",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "xuất hiện nhiều ",
+   "after": ", nám, tàn nha"
+  },
+  {
+   "text": "tàn nhang",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "trứng cá, nám, ",
+   "after": ", sạm da…"
+  },
+  {
+   "text": "sạm da",
+   "type": "CHẨN_ĐOÁN",
+   "assertions": [],
+   "before": "tàn nhang, ",
+   "after": "…\n-        Ảnh"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "xuất hiện nhiều  ",
+   "after": " và đau khi sờ"
+  },
+  {
+   "text": "đau khi sờ nắn ở vết mổ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "ban đỏ và ",
+   "after": "\n    Triệu chứ"
+  },
+  {
+   "text": "sưng nề",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "có hiện tượng ",
+   "after": " đau khi sờ nắ"
+  },
+  {
+   "text": "đau khi sờ nắn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "sưng nề ",
+   "after": " trên vùng da"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vùng da kèm theo ",
+   "after": "\n    Diễn biến"
+  },
+  {
+   "text": "đau khi sờ nắn",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "tăng diện tích ",
+   "after": " trên vùng da"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vùng da kèm theo ",
+   "after": "\n    - đến khá"
+  },
+  {
+   "text": "cấy mẫu bệnh phẩm",
+   "type": "TÊN_XÉT_NGHIỆM",
+   "assertions": [],
+   "before": "dịch, gửi đi ",
+   "after": "\n    - được ch"
+  },
+  {
+   "text": "levafloxacin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "đơn thuốci ",
+   "after": " và cephalexin"
+  },
+  {
+   "text": "cephalexin",
+   "type": "THUỐC",
+   "assertions": [],
+   "before": "levafloxacin và ",
+   "after": "\n    - tái khá"
+  },
+  {
+   "text": "ban đỏ lan rộng",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "chứng xuất hiện  ",
+   "after": " kèm theo chón"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lan rộng kèm theo ",
+   "after": "\n    - được ch"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "hiện tại\n    -  ",
+   "after": " xuất hiện nhi"
+  },
+  {
+   "text": "đau khi sờ nắn vùng mổ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "phẫu thuật\n    - ",
+   "after": "\n    - chóng m"
+  },
+  {
+   "text": "chóng mặt",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "vùng mổ\n    - ",
+   "after": "\n    - không s"
+  },
+  {
+   "text": "ban đỏ",
+   "type": "TRIỆU_CHỨNG",
+   "assertions": [],
+   "before": "lâm sàng\n    - ",
+   "after": " ở vị trí phẫu"
+  }
+ ]
+}

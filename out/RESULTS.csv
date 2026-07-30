@@ -15,12 +15,12 @@ x12,63_prune_L3 (DA NOP),2685,288,427,0,ĐÃI BỎ LIỀU 3: bỏ thêm 65,37.39
 x13,65_prune_onesyl (DA NOP),2667,288,445,0,bỏ 83 cụm 1 âm tiết trên nền tốt nhất,36.5947,58.0282,47.4930,24.3881,LO 0.71! Cum 1 am tiet (sot/non/ho) CO trong gold. WER vot len 58.03.
 x14,72_kcode_2 (DA NOP),2605,254,473,0,⚡ PHÉP ĐO QUYẾT ĐỊNH: 2 mã/chẩn đoán. Gold là DANH SÁCH hay 1 mã?,34.2754,56.8033,48.5167,16.9035,GIA THUYET DANH SACH MA BI BAC BO: J_cand tut 24.39->16.90
 x15,76_best_aug_k2 (DA NOP),2996,599,427,0,⚡ RECALL: nền 63 + THÊM 311 concept đồng thuận 2/2. Hướng DUY NHẤT còn lại,38.2704,55.3011,49.8222,24.7851,*** TOT NHAT 38.2704 *** +0.8732 CA BA TRUC cung tang. THEM concept theo dong thuan LA HUONG DUNG.
-2,30_cleanroom_k1,3045,842,621,198,RECALL: Track B thuần 3045 concept — chưa đo lần nào,,,,,
-3,77_best_aug_k1,3159,749,414,0,RECALL liều mạnh: nền 63 + THÊM 474 (chỉ cần 1 voter),,,,,
-4,20_cleanroom_k2,2624,554,754,181,RECALL: Track B thuần 2624 concept,,,,,
-5,67_prune_coded_only,2675,271,420,0,chỉ bỏ 75 concept CÓ MÃ (đãi bỏ chọn lọc theo type),,,,,
-6,68_prune_dx_only,2686,276,414,0,chỉ bỏ 64 CHẨN_ĐOÁN,,,,,
-7,62_best_win25,2750,288,362,0,nền của 63/64/67/68 — đo để tách nhân quả,,,,,
-8,43_probe_nocode_dx,2824,276,276,0,bỏ SẠCH mã chẩn đoán — chặn dưới trục J_cand,,,,,
-9,61_stack_propagate,2796,313,341,0,lan truyền 22 concept bị sót,,,,,
-10,41_spank1_type,2824,315,315,0,sửa 39 ca sai type,,,,,
+1,80_aug4_k2,3060,64,0,0,nền 76 + THÊM 64 concept mà >=2/4 voter đồng thuận (cặp voter MỚI),,,,,
+2,82x_cleanroom4_k2,2932,271,335,236,"CLEAN-ROOM 4 VOTER k>=2: 2932 concept, dựng LẠI hoàn toàn từ phiếu",,,,,
+3,81_aug4_k3,3013,17,0,0,nền 76 + THÊM 17 concept >=3/4 voter (chặt hơn),,,,,
+4,81x_cleanroom4_k1,3108,406,294,236,CLEAN-ROOM 4 VOTER k>=1: 3108 concept (phủ rộng nhất),,,,,
+5,83x_cleanroom4_k3,2647,194,543,223,CLEAN-ROOM 4 VOTER k>=3: 2647 concept (chính xác nhất),,,,,
+6,84_span4,2996,15,15,0,nền 76 + thu ngắn 15 ranh giới theo 4 voter,,,,,
+7,77_best_aug_k1,3159,163,0,0,nền 63 + THÊM 474 (liều mạnh của hướng đã ăn +0.87),,,,,
+8,30_cleanroom_k1,3045,271,222,215,clean-room 2 voter k>=1 — để so với bản 4 voter,,,,,
+9,20_cleanroom_k2,2624,75,447,192,clean-room 2 voter k>=2 — để so với bản 4 voter,,,,,
