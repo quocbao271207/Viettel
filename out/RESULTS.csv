@@ -1,0 +1,18 @@
+stt,ban,concept,them,bo,assert_doi,thu_nghiem_gi,diem,WER,J_assert,J_cand,ghi_chu
+0,"14_repeat (NỀN, đã nộp)",2824,,,,bản tốt nhất hiện tại,36.4914,58.2207,48.3759,23.6121,
+1,21_assert_consensus,2824,0,0,130,KIỂM CHỨNG METRIC + assertion của voter có đúng hơn bản 14 không,,,,,WER va J_cand PHAI y het ban 14
+2,23_span_fix,2824,150,150,0,thu ngắn 150 ranh giới span — có ăn cả 3 trục không,,,,,
+3,18_prune_uncorroborated,2775,0,49,0,BỎ 49 concept không voter nào xác nhận — hướng CHƯA TỪNG THỬ,,,,,
+4,19_augment_k2,3056,232,0,0,THÊM 232 concept đồng thuận 2/2 — có khác bản 15-17 không,,,,,
+5,29_all_four,3023,398,199,130,gộp cả 4 hướng,,,,,
+6,27_span_assert,2824,150,150,130,span + assert (số lượng concept không đổi),,,,,
+7,28_span_assert_prune,2775,150,199,130,span + assert + bỏ,,,,,
+8,24_span_fix_both,2824,267,267,0,ranh giới CẢ HAI hướng (267) — so với #2 chỉ thu ngắn (150),,,,,
+9,25_prune_k2,2750,0,74,0,BỎ mạnh hơn: 74 thay vì 49 — liều thứ 2 của #3,,,,,
+10,26_augment_k1,3191,367,0,0,THÊM mạnh hơn: 367 thay vì 232 — liều thứ 2 của #4,,,,,
+11,22_type_fix,2824,39,39,130,sửa 39 ca sai type,,,,,
+12,20_cleanroom_k2,2624,554,754,181,"Track B thuần — dựng lại hoàn toàn, k>=2",,,,,
+13,30_cleanroom_k1,3045,842,621,198,Track B thuần — k>=1 (phủ rộng hơn),,,,,
+14,32_spanboth_assert_prune,2775,267,316,130,biến thể mạnh của #7,,,,,
+15,33_all_aggressive,3163,538,199,130,"gộp mọi hướng, liều mạnh nhất",,,,,
+16,31_prune_onesyl,2732,0,92,0,"bỏ cụm 1 âm tiết (sốt/nôn/ho) — canh bạc riêng, KHÔNG dựa bằng chứng voter",,,,,
