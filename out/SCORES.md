@@ -505,3 +505,29 @@ Nếu 47 ca gỡ đều sai thì 83 ca còn lại net ≈ +10 (≈55%% đúng).
 `27/28/29/32/33` cũ đều chứa 130 thay đổi assertion ⇒ mang sẵn −0.24 điểm.
 Đã thay bằng chuỗi SẠCH `span → prune → augment`. Thêm `--assert-mode {full,add,none}`
 vào `fix_assertions.py` để tách bạch ba chế độ.
+
+## ⭐ BẢN 23 = 36.7829 (nộp 30/07 10:40) — **TỐT NHẤT MỚI**, phá trần bản 14
+
+| | điểm | WER | J_assert | J_cand |
+|---|---|---|---|---|
+| bản 14 | 36.4914 | 58.2207 | 48.3759 | 23.6121 |
+| **bản 23** | **36.7829** | **57.3953** | 48.3247 | **23.7601** |
+| Δ quy ra ĐIỂM | **+0.2915** | **+0.2476** | −0.0154 | +0.0592 |
+
+### 🔑 GIẢ THUYẾT RANH GIỚI SPAN ĐÚNG — và cơ chế đúng như dự đoán
+**85% mức tăng đến từ WER.** Thu ngắn span bỏ đi các từ chèn, đúng cơ chế đã suy ra:
+mỗi từ thừa trong span là một Insertion tính thẳng vào WER.
+J_cand cũng tăng (+0.148) vì span chẩn đoán ngắn lại thì khớp gold tốt hơn.
+J_assert gần như phẳng (−0.05).
+
+150 thay đổi → +0.2915 = **+0.00194 điểm/thay đổi**. Dương, nhưng chưa bằng bản 14 (+0.00403).
+⇒ Còn dư địa: hỏi "thu ngắn MẠNH hơn thì sao" (bản 36, k=1: 276 thay đổi thay vì 150).
+
+### Đây là bản đầu tiên phá được trần bản 14 sau 4 lần thất bại liên tiếp
+Bản 15/16/17 và bản nhân bản đều thua vì đi tìm concept MỚI. Bản 23 không thêm không bớt
+một concept nào — chỉ **sửa chỗ đã sai**. Đó là khác biệt bản chất.
+
+### Span hỏng CƠ HỌC còn sót (audit bản 23) — ít, không đủ dịch kim
+2 span chứa xuống dòng (`Tỷ lệ ⏎Prothrombin`, `đau ⏎tăng khi gắng sức`) ·
+3 span từ lặp (`Loét loét thực quản...`, `phù phù` ×2) · 1 khoảng trắng đôi.
+Tổng 6 ca — đã bắt hết bằng máy, không còn mỏ ở đây.
