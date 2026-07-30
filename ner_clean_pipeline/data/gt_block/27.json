@@ -1,0 +1,304 @@
+[
+  {
+    "text": "viêm phổi hoại tử",
+    "position": [
+      20,
+      37
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "viêm phổi",
+    "position": [
+      68,
+      77
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "áp xe phổi",
+    "position": [
+      116,
+      126
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.2"
+    ]
+  },
+  {
+    "text": "VPHT",
+    "position": [
+      141,
+      145
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      211,
+      220
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "viêm phế quản",
+    "position": [
+      235,
+      248
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J40"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      391,
+      400
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh",
+    "position": [
+      466,
+      482
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm miễn dịch",
+    "position": [
+      529,
+      547
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D84.9"
+    ]
+  },
+  {
+    "text": "hoại tử nhu mô phổi",
+    "position": [
+      551,
+      570
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "Viêm phổi hoại tử",
+    "position": [
+      572,
+      589
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "áp-xe nhỏ",
+    "position": [
+      660,
+      669
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.2"
+    ]
+  },
+  {
+    "text": "Áp xe phổi",
+    "position": [
+      748,
+      758
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.2"
+    ]
+  },
+  {
+    "text": "áp xe phổi",
+    "position": [
+      1143,
+      1153
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.2"
+    ]
+  },
+  {
+    "text": "khạc ra mủ",
+    "position": [
+      1244,
+      1254
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu gián đoạn",
+    "position": [
+      1488,
+      1505
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "position": [
+      1538,
+      1553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      1560,
+      1567
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu nhiều hơn",
+    "position": [
+      1621,
+      1638
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      1670,
+      1677
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1741,
+      1748
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1909,
+      1920
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1999,
+      2010
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nhãn áp",
+    "position": [
+      2114,
+      2126
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "H40.9"
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct)",
+    "position": [
+      2134,
+      2159
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang chứa khí hay dịch nhỏ (<2cm)",
+    "position": [
+      2210,
+      2243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "áp-xe phổi",
+    "position": [
+      2255,
+      2265
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.2"
+    ]
+  }
+]

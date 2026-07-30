@@ -1,0 +1,254 @@
+[
+  {
+    "text": "Viêm loét đại tràng",
+    "position": [
+      57,
+      76
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K51"
+    ]
+  },
+  {
+    "text": "Bệnh gan do rượu",
+    "position": [
+      114,
+      130
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K70"
+    ]
+  },
+  {
+    "text": "bệnh nấm bẹn",
+    "position": [
+      280,
+      292
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "ăn uống kém do buồn nôn",
+    "position": [
+      634,
+      657
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng tăng dần",
+    "position": [
+      664,
+      700
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      745,
+      753
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn x 1",
+    "position": [
+      760,
+      767
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt và run rẩy",
+    "position": [
+      774,
+      797
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác ngon miệng/chán ăn",
+    "position": [
+      804,
+      835
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nhược",
+    "position": [
+      842,
+      851
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "position": [
+      859,
+      878
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm lượng nước tiểu",
+    "position": [
+      885,
+      905
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đáng kể lượng dịch từ ống thông hồi tràng",
+    "position": [
+      958,
+      1004
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng tăng dần",
+    "position": [
+      1124,
+      1160
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn x 1",
+    "position": [
+      1205,
+      1212
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt và run rẩy",
+    "position": [
+      1242,
+      1265
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác ngon miệng/chán ăn",
+    "position": [
+      1267,
+      1298
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nhược",
+    "position": [
+      1300,
+      1309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "toàn trạng suy kiệt",
+    "position": [
+      1311,
+      1330
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiểu niệu",
+    "position": [
+      1332,
+      1342
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy dịch từ lỗ dò tăng đáng kể",
+    "position": [
+      1344,
+      1375
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ăn uống kém do buồn nôn",
+    "position": [
+      1414,
+      1437
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "position": [
+      1471,
+      1492
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "position": [
+      1505,
+      1526
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

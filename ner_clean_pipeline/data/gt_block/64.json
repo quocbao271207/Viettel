@@ -1,0 +1,261 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "position": [
+      62,
+      81
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "I25.9"
+    ]
+  },
+  {
+    "text": "Vastarel",
+    "position": [
+      129,
+      137
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "*********",
+    "position": [
+      141,
+      150
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      203,
+      210
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Vastarel",
+    "position": [
+      243,
+      251
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh Graves",
+    "position": [
+      283,
+      294
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E05.0"
+    ]
+  },
+  {
+    "text": "tăng lipid máu, không đặc hiệu",
+    "position": [
+      301,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.5"
+    ]
+  },
+  {
+    "text": "run rẩy tay chân",
+    "position": [
+      338,
+      354
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng khi đi đứng",
+    "position": [
+      356,
+      382
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      417,
+      424
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "trimetazidine",
+    "position": [
+      518,
+      531
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      725,
+      732
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nitramyl",
+    "position": [
+      810,
+      818
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      832,
+      845
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [
+      948,
+      961
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20.9"
+    ]
+  },
+  {
+    "text": "bệnh mạch vành",
+    "position": [
+      969,
+      983
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I25.9"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1201,
+      1208
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1210,
+      1219
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1221,
+      1229
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ mặt",
+    "position": [
+      1231,
+      1237
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tụt huyết áp thế đứng",
+    "position": [
+      1251,
+      1272
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitramyl",
+    "position": [
+      1508,
+      1516
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  }
+]

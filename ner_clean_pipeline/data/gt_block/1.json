@@ -1,0 +1,678 @@
+[
+  {
+    "text": "THIẾU MEN G6PD",
+    "position": [
+      0,
+      14
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      27,
+      41
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      55,
+      69
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "bệnh di truyền lặn liên kết với nhiễm sắc thể X",
+    "position": [
+      113,
+      160
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "đột biến gen G6PD tại vị trí Xq28",
+    "position": [
+      381,
+      414
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu hụt men G6PD",
+    "position": [
+      548,
+      566
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1019,
+      1033
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "xét nghiệm thiếu men G6PD",
+    "position": [
+      1126,
+      1151
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1229,
+      1243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1371,
+      1385
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1497,
+      1511
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Sốt cao",
+    "position": [
+      1632,
+      1639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tim đập nhanh",
+    "position": [
+      1669,
+      1682
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1684,
+      1691
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vàng da",
+    "position": [
+      1695,
+      1702
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      1704,
+      1712
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [
+      1727,
+      1741
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu do tan huyết",
+    "position": [
+      1758,
+      1780
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      1821,
+      1830
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D64.9"
+    ]
+  },
+  {
+    "text": "vàng da vàng mắt",
+    "position": [
+      1832,
+      1848
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thận cấp",
+    "position": [
+      1861,
+      1873
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N17.9"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1904,
+      1911
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương thần kinh",
+    "position": [
+      1945,
+      1965
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bại não",
+    "position": [
+      1995,
+      2002
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G80.9"
+    ]
+  },
+  {
+    "text": "chậm phát triển trí tuệ và vận động",
+    "position": [
+      2004,
+      2039
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F79"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      2126,
+      2135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      2150,
+      2159
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D64.9"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      2276,
+      2290
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu máu tan huyết",
+    "position": [
+      2464,
+      2483
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "vàng da nặng",
+    "position": [
+      2501,
+      2513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      2517,
+      2531
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Bại não",
+    "position": [
+      2581,
+      2588
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G80.9"
+    ]
+  },
+  {
+    "text": "Chậm phát triển trí tuệ",
+    "position": [
+      2592,
+      2615
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F79"
+    ]
+  },
+  {
+    "text": "Rối loạn vận động",
+    "position": [
+      2619,
+      2636
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G25.9"
+    ]
+  },
+  {
+    "text": "thiếu máu tan huyết",
+    "position": [
+      2696,
+      2715
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "vàng da sơ sinh",
+    "position": [
+      2728,
+      2743
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      2864,
+      2878
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      2983,
+      2992
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3079,
+      3093
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3268,
+      3282
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3317,
+      3331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Nhiễm khuẩn",
+    "position": [
+      3399,
+      3410
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A49.9"
+    ]
+  },
+  {
+    "text": "nhiễm virus",
+    "position": [
+      3412,
+      3423
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B34.9"
+    ]
+  },
+  {
+    "text": "Thuốc giảm đau, hạ sốt",
+    "position": [
+      3427,
+      3449
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "*******",
+    "position": [
+      3455,
+      3462
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**********",
+    "position": [
+      3468,
+      3478
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng sinh",
+    "position": [
+      3482,
+      3492
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "***********",
+    "position": [
+      3498,
+      3509
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "********",
+    "position": [
+      3511,
+      3519
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc kháng sốt rét",
+    "position": [
+      3523,
+      3542
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "*******",
+    "position": [
+      3547,
+      3554
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "***********",
+    "position": [
+      3556,
+      3567
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**********",
+    "position": [
+      3569,
+      3579
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vitamin K",
+    "position": [
+      3583,
+      3592
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11258"
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn tiết niệu",
+    "position": [
+      3613,
+      3634
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      3819,
+      3828
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3880,
+      3894
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      4186,
+      4200
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      4229,
+      4243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "xét nghiệm sàng lọc trước sinh và sau sinh",
+    "position": [
+      4245,
+      4287
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm sàng lọc",
+    "position": [
+      4368,
+      4387
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

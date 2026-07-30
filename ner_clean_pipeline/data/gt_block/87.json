@@ -1,0 +1,410 @@
+[
+  {
+    "text": "đau ngực",
+    "position": [
+      34,
+      42
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực T âm ỉ",
+    "position": [
+      112,
+      127
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau không lan",
+    "position": [
+      129,
+      142
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng đau ngực tăng lên",
+    "position": [
+      152,
+      180
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau \ntăng khi gắng sức",
+    "position": [
+      182,
+      204
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau ngực T âm ỉ",
+    "position": [
+      240,
+      255
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau không lan",
+    "position": [
+      257,
+      270
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      278,
+      285
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Da niêm mạc hồng",
+    "position": [
+      286,
+      302
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      310,
+      313
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "xuất huyết",
+    "position": [
+      321,
+      331
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tim nhịp đều",
+    "position": [
+      333,
+      345
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phổi RRPN thô",
+    "position": [
+      347,
+      360
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bụng mềm",
+    "position": [
+      362,
+      370
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu được",
+    "position": [
+      372,
+      381
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HA",
+    "position": [
+      383,
+      385
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "110/ 70 mmHg",
+    "position": [
+      387,
+      399
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "M",
+    "position": [
+      414,
+      415
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "70 l/p",
+    "position": [
+      417,
+      423
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thời gian prothrombin (PT: Prothrombin Time), \n(Các tên khác: TQ; Tỷ lệ Prothrombin)",
+    "position": [
+      455,
+      539
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng Troponin Ths",
+    "position": [
+      560,
+      583
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo hoạt độ AST \n(GOT)",
+    "position": [
+      586,
+      607
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo hoạt độ ALT (GPT)",
+    "position": [
+      609,
+      629
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng \nCreatinin (máu)",
+    "position": [
+      631,
+      658
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện giải đồ",
+    "position": [
+      660,
+      672
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định \nlượng Glucose",
+    "position": [
+      686,
+      705
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng NT - proBNP ( \nProBNP)",
+    "position": [
+      707,
+      740
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [
+      742,
+      776
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm Doppler tim, van tim",
+    "position": [
+      811,
+      839
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ghi điện tim cấp cứu tại giường",
+    "position": [
+      853,
+      884
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cơn đau thắt ngực không ổn định",
+    "position": [
+      900,
+      931
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20.0"
+    ]
+  },
+  {
+    "text": "bệnh tăng HA vô căn(nguyên phát)",
+    "position": [
+      932,
+      964
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "*****************************",
+    "position": [
+      985,
+      1014
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm cân",
+    "position": [
+      1203,
+      1211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân trở lại",
+    "position": [
+      1215,
+      1231
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "giảm cân tối đa 60 pound",
+    "position": [
+      1294,
+      1318
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân trở lại",
+    "position": [
+      1336,
+      1352
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "***********************",
+    "position": [
+      1389,
+      1412
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**************",
+    "position": [
+      1413,
+      1427
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

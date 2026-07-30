@@ -1,0 +1,181 @@
+[
+  {
+    "text": "mề đay",
+    "position": [
+      85,
+      91
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      102,
+      106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mề đay",
+    "position": [
+      161,
+      167
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      188,
+      192
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng do thời tiết",
+    "position": [
+      357,
+      376
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ],
+    "candidates": [
+      "T78.4"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "position": [
+      733,
+      747
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY MẠN TÍNH",
+    "position": [
+      839,
+      855
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "mày đay vô căn",
+    "position": [
+      1396,
+      1410
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "position": [
+      1508,
+      1522
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "****************",
+    "position": [
+      1846,
+      1862
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "****************",
+    "position": [
+      1936,
+      1952
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      1965,
+      1974
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cộng hưởng từ (mri) cột sống cổ",
+    "position": [
+      2235,
+      2271
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp ống sống",
+    "position": [
+      2281,
+      2293
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M48.0"
+    ]
+  },
+  {
+    "text": "hẹp lỗ liên hợp",
+    "position": [
+      2314,
+      2329
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M99.6"
+    ]
+  }
+]

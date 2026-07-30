@@ -1,0 +1,467 @@
+[
+  {
+    "text": "đau bao tử",
+    "position": [
+      113,
+      123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thỉnh thoảng đau",
+    "position": [
+      125,
+      141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      297,
+      304
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ói",
+    "position": [
+      318,
+      320
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổ loét trong bao tử",
+    "position": [
+      327,
+      346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K25.0",
+      "K25.1",
+      "K25.2",
+      "K25.3",
+      "K25.4",
+      "K25.5",
+      "K25.6",
+      "K25.7",
+      "K25.9"
+    ]
+  },
+  {
+    "text": "không bị đau",
+    "position": [
+      541,
+      553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không còn bị đau",
+    "position": [
+      646,
+      662
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng râm ran",
+    "position": [
+      1030,
+      1046
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn đau càng dồn đạp",
+    "position": [
+      1050,
+      1070
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quá đau",
+    "position": [
+      1157,
+      1164
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      1347,
+      1354
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi",
+    "position": [
+      1419,
+      1422
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N20.0"
+    ]
+  },
+  {
+    "text": "không ứ nước",
+    "position": [
+      1433,
+      1445
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "sỏi thận",
+    "position": [
+      1455,
+      1463
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N20.0"
+    ]
+  },
+  {
+    "text": "viêm bao tử",
+    "position": [
+      1517,
+      1528
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K29.7"
+    ]
+  },
+  {
+    "text": "******",
+    "position": [
+      1713,
+      1719
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "******",
+    "position": [
+      1752,
+      1758
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "*******",
+    "position": [
+      1803,
+      1810
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "*******************",
+    "position": [
+      1812,
+      1831
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "****************",
+    "position": [
+      1833,
+      1849
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**************",
+    "position": [
+      1853,
+      1867
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aquima",
+    "position": [
+      2032,
+      2038
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhôm hydroxid",
+    "position": [
+      2040,
+      2053
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "612"
+    ]
+  },
+  {
+    "text": "magie hydroxid",
+    "position": [
+      2055,
+      2069
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6581"
+    ]
+  },
+  {
+    "text": "**********",
+    "position": [
+      2073,
+      2083
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Simenic",
+    "position": [
+      2085,
+      2092
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Alverin citrate",
+    "position": [
+      2094,
+      2109
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Simethicon",
+    "position": [
+      2118,
+      2128
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9796"
+    ]
+  },
+  {
+    "text": "Pimperam",
+    "position": [
+      2135,
+      2143
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metoclopramide",
+    "position": [
+      2145,
+      2159
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6915"
+    ]
+  },
+  {
+    "text": "Nhôm hydroxid",
+    "position": [
+      2249,
+      2262
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "612"
+    ]
+  },
+  {
+    "text": "magie hydroxid",
+    "position": [
+      2266,
+      2280
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6581"
+    ]
+  },
+  {
+    "text": "ợ nóng",
+    "position": [
+      2346,
+      2352
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "position": [
+      2358,
+      2385
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K21.0",
+      "K21.9"
+    ]
+  },
+  {
+    "text": "**********",
+    "position": [
+      2475,
+      2485
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**********",
+    "position": [
+      2588,
+      2598
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đại tràng giãn",
+    "position": [
+      2703,
+      2717
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K59.3"
+    ]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [
+      2790,
+      2804
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bạch cầu",
+    "position": [
+      2808,
+      2821
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ý thúc chậm hơn",
+    "position": [
+      2840,
+      2855
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT",
+    "position": [
+      2860,
+      2867
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân lơ mơ",
+    "position": [
+      2970,
+      2985
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

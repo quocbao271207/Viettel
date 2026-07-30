@@ -1,0 +1,169 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [
+      106,
+      114
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "position": [
+      146,
+      158
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      184,
+      203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "position": [
+      319,
+      342
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "position": [
+      346,
+      408
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A49.8"
+    ]
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      632,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      691,
+      698
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ hơn trước",
+    "position": [
+      743,
+      755
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi sần tạo thành lớp sừng",
+    "position": [
+      763,
+      789
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc viêm nang lông",
+    "position": [
+      908,
+      928
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      1064,
+      1071
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      1171,
+      1178
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm chức năng gan",
+    "position": [
+      1387,
+      1409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K72.9"
+    ]
+  },
+  {
+    "text": "nổi mề đay",
+    "position": [
+      1411,
+      1421
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bệnh vảy nến",
+    "position": [
+      1423,
+      1435
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L40.9"
+    ]
+  }
+]

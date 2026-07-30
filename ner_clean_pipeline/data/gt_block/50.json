@@ -1,0 +1,268 @@
+[
+  {
+    "text": "thông não",
+    "position": [
+      93,
+      102
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) đầu",
+    "position": [
+      110,
+      139
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đau đầu",
+    "position": [
+      160,
+      172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      263,
+      270
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      353,
+      364
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "não úng thuỷ khác",
+    "position": [
+      388,
+      405
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G91.8"
+    ]
+  },
+  {
+    "text": "tăng nhãn áp",
+    "position": [
+      504,
+      516
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "H40.9"
+    ]
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "position": [
+      703,
+      718
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      728,
+      734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ tiến triển",
+    "position": [
+      772,
+      790
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "não úng tuỷ",
+    "position": [
+      846,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G91.8"
+    ]
+  },
+  {
+    "text": "não úng thủy",
+    "position": [
+      968,
+      980
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G91.8"
+    ]
+  },
+  {
+    "text": "tăng đau đầu",
+    "position": [
+      995,
+      1007
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1109,
+      1116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1192,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      1237,
+      1243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [
+      1337,
+      1344
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "VPHT",
+    "position": [
+      1405,
+      1409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "VPHT",
+    "position": [
+      1586,
+      1590
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "CT ngực",
+    "position": [
+      1596,
+      1603
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "VPHT",
+    "position": [
+      1630,
+      1634
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
+  },
+  {
+    "text": "đông đặc phổi",
+    "position": [
+      1654,
+      1667
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1797,
+      1808
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Implanon",
+    "position": [
+      319,
+      327
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "14584"
+    ]
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [
+      598,
+      613
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "position": [
+      639,
+      666
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng gián đoạn",
+    "position": [
+      699,
+      717
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ huyết áp, không đặc hiệu",
+    "position": [
+      763,
+      790
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I95.9"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      793,
+      800
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      803,
+      810
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "position": [
+      813,
+      840
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng gián đoạn",
+    "position": [
+      843,
+      861
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [
+      864,
+      884
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho mạn tính có đờm vàng loãng",
+    "position": [
+      887,
+      916
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn trong vài tháng",
+    "position": [
+      919,
+      942
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm bổ sung",
+    "position": [
+      1352,
+      1370
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rỉ máu âm đạo",
+    "position": [
+      1653,
+      1666
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kinh nguyệt thưa",
+    "position": [
+      1685,
+      1701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

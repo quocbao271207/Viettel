@@ -1,0 +1,362 @@
+[
+  {
+    "text": "thương nhẹ ở tay",
+    "position": [
+      77,
+      95
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu",
+    "position": [
+      106,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      327,
+      335
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      549,
+      557
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      612,
+      620
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      662,
+      670
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      746,
+      754
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      830,
+      838
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      853,
+      861
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Da niêm mạc hồngi",
+    "position": [
+      1063,
+      1080
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng hạ sườn phải",
+    "position": [
+      1082,
+      1103
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [
+      1105,
+      1113
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra thức ăn và dịch dạ dày, không có máu",
+    "position": [
+      1115,
+      1158
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp",
+    "position": [
+      1170,
+      1178
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "130/76 mmHg",
+    "position": [
+      1179,
+      1190
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mạch",
+    "position": [
+      1191,
+      1195
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "93 l/p",
+    "position": [
+      1197,
+      1203
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiệt độ",
+    "position": [
+      1204,
+      1212
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36.3 độ C",
+    "position": [
+      1215,
+      1224
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp thở",
+    "position": [
+      1225,
+      1233
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14 l/p",
+    "position": [
+      1235,
+      1241
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SPO2",
+    "position": [
+      1243,
+      1247
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99 %",
+    "position": [
+      1249,
+      1253
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "compazine",
+    "position": [
+      1287,
+      1296
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "203546"
+    ]
+  },
+  {
+    "text": "alevenhưng",
+    "position": [
+      1300,
+      1310
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "215101"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1319,
+      1322
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "morphineoral",
+    "position": [
+      1335,
+      1347
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "lorazepam",
+    "position": [
+      1352,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6470"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1365,
+      1368
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      1413,
+      1421
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      1618,
+      1626
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      1938,
+      1946
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      2123,
+      2131
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  }
+]

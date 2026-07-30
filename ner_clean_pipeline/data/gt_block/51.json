@@ -1,0 +1,320 @@
+[
+  {
+    "text": "béo phì",
+    "position": [
+      48,
+      55
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [
+      62,
+      76
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E14"
+    ]
+  },
+  {
+    "text": "ngừng thở khi ngủ",
+    "position": [
+      113,
+      130
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G47.3"
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "position": [
+      154,
+      177
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "Dị ứng furosemide",
+    "position": [
+      190,
+      207
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z88.8"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      256,
+      263
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      362,
+      369
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      441,
+      448
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì thở",
+    "position": [
+      455,
+      488
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      495,
+      513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm trắng",
+    "position": [
+      582,
+      597
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [
+      604,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [
+      623,
+      635
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      685,
+      703
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      737,
+      755
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      798,
+      816
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì khó thở",
+    "position": [
+      847,
+      884
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm trắng",
+    "position": [
+      886,
+      901
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [
+      903,
+      915
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [
+      917,
+      929
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu oxy",
+    "position": [
+      1083,
+      1092
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "position": [
+      1097,
+      1111
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "86",
+    "position": [
+      1115,
+      1117
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dây chằng chéo trước",
+    "position": [
+      1347,
+      1367
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S83.5"
+    ]
+  },
+  {
+    "text": "tổn thương sụn chêm",
+    "position": [
+      1378,
+      1397
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S83.2"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1708,
+      1715
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "albuterolipratropium",
+    "position": [
+      1737,
+      1757
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "methylprednisolone",
+    "position": [
+      1783,
+      1801
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6902"
+    ]
+  },
+  {
+    "text": "lợi tiểu",
+    "position": [
+      1817,
+      1825
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

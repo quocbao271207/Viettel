@@ -1,0 +1,24 @@
+# Pin CỨNG để BTC dựng lại đúng môi trường đã kiểm chứng.
+#
+# Vì sao pin cứng chứ không dùng khoảng (`torch>=2.1`, `transformers>=4.44,<5` như bản trước):
+# khoảng version để pip tự chọn, mà "bản pip chọn hôm nay" khác "bản tôi đã đo". Cụ thể
+# `transformers>=4.44,<5` sẽ lấy 4.57 — trong khi mọi số đo trong worklog đều chạy trên 4.44.2.
+# Với bài chấm lại trên test riêng thì hành vi khác nhau là mất điểm mà không ai biết vì sao.
+#
+# torch 2.2.2: bản CUỐI còn wheel macOS x86_64 (PyTorch đã bỏ Intel Mac), nên đây là bản duy
+# nhất chạy được cả ở máy dev này và trên Linux. Kiểm trên PyPI: 2.2.2 có
+# cp311-manylinux nhưng KHÔNG có cp313 -> Dockerfile phải dùng python:3.11-slim, không phải
+# 3.13-slim. torch chỉ có wheel cp313 từ 2.5.0 trở lên.
+torch==2.2.2
+transformers==4.44.2
+accelerate==1.10.1
+sentencepiece==0.2.2
+numpy==1.26.4
+
+# Chỉ cần khi TRAIN, không cần khi inference:
+#   (không có gì thêm — Trainer nằm trong transformers, accelerate là backend của nó)
+#
+# KHÔNG cần: requests / urllib3 cho API ngoài. Inference không gọi mạng.
+#
+# Máy có GPU: torch==2.2.2 mặc định kéo bản CUDA 12.1. Muốn CPU-only cho nhẹ thì thêm
+#   --extra-index-url https://download.pytorch.org/whl/cpu

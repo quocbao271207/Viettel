@@ -1,0 +1,725 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      49,
+      56
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      58,
+      65
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      67,
+      75
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng nhiễm trùng nhiễm độc",
+    "position": [
+      181,
+      212
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [
+      238,
+      245
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "37^∘ 8",
+    "position": [
+      247,
+      253
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nóng liên tục",
+    "position": [
+      256,
+      273
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gai rét",
+    "position": [
+      277,
+      284
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn rét run",
+    "position": [
+      295,
+      306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [
+      320,
+      331
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "161"
+    ]
+  },
+  {
+    "text": "hết sốt",
+    "position": [
+      378,
+      385
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      400,
+      407
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng niêm mạc",
+    "position": [
+      409,
+      422
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      448,
+      455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hết sốt",
+    "position": [
+      502,
+      509
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      515,
+      522
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "BC",
+    "position": [
+      544,
+      546
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5,38 G/l",
+    "position": [
+      547,
+      555
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "N",
+    "position": [
+      557,
+      558
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "51,4%",
+    "position": [
+      559,
+      564
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HBsAg",
+    "position": [
+      573,
+      578
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Anti HBe",
+    "position": [
+      584,
+      592
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Anti HBc IgG",
+    "position": [
+      605,
+      617
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Anti HBc IgM",
+    "position": [
+      623,
+      635
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng viêm gan vàng da ứ mật",
+    "position": [
+      648,
+      680
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B16.9"
+    ]
+  },
+  {
+    "text": "hết sốt",
+    "position": [
+      737,
+      744
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu ít hơn so với bình thường",
+    "position": [
+      758,
+      793
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng sậm như nước vối",
+    "position": [
+      795,
+      816
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      860,
+      867
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu trong",
+    "position": [
+      874,
+      889
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1000ml/24h",
+    "position": [
+      934,
+      944
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gan to dưới bờ sườn 3cm",
+    "position": [
+      954,
+      977
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin  toàn phần",
+    "position": [
+      1053,
+      1073
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "43 mmol/l",
+    "position": [
+      1075,
+      1084
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "27 mmol/l",
+    "position": [
+      1097,
+      1106
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure",
+    "position": [
+      1115,
+      1118
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5,9 mmol/l",
+    "position": [
+      1120,
+      1130
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [
+      1132,
+      1141
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "89 micromol/l",
+    "position": [
+      1143,
+      1156
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng hủy hoại tế bào gan",
+    "position": [
+      1165,
+      1194
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K76.9"
+    ]
+  },
+  {
+    "text": "GOT",
+    "position": [
+      1224,
+      1227
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "542 U/l",
+    "position": [
+      1229,
+      1236
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "GPT",
+    "position": [
+      1238,
+      1241
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "628 U/l",
+    "position": [
+      1243,
+      1250
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "GGT",
+    "position": [
+      1252,
+      1255
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "234 U/l",
+    "position": [
+      1257,
+      1264
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chỉ số Deritis",
+    "position": [
+      1273,
+      1287
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tỷ lệ prothrombin",
+    "position": [
+      1328,
+      1345
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "55%",
+    "position": [
+      1347,
+      1350
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1410,
+      1417
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      1419,
+      1427
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm virus viêm gan B, C",
+    "position": [
+      1566,
+      1591
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mang virus viêm gan B",
+    "position": [
+      1642,
+      1663
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z22"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      1712,
+      1719
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1725,
+      1732
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh răng không chảy máu",
+    "position": [
+      1756,
+      1780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "1000ml/24h",
+    "position": [
+      1792,
+      1802
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu vàng nhẹ",
+    "position": [
+      1804,
+      1822
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu vùng ngực",
+    "position": [
+      1970,
+      1988
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 5%",
+    "position": [
+      1997,
+      2007
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4850"
+    ]
+  },
+  {
+    "text": "Philpovin",
+    "position": [
+      2108,
+      2117
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**********",
+    "position": [
+      2138,
+      2148
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [
+      2193,
+      2196
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [
+      2198,
+      2201
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fortex",
+    "position": [
+      2230,
+      2236
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [
+      2295,
+      2298
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [
+      2300,
+      2303
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vitamin 3B",
+    "position": [
+      2332,
+      2342
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11251"
+    ]
+  },
+  {
+    "text": "cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
+    "position": [
+      2386,
+      2464
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B16.9"
+    ]
+  }
+]

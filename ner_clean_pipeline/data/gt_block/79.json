@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Rối loạn chuyển hóa tinh bột",
+    "position": [
+      29,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      59,
+      70
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "Bệnh thoái hóa tinh bột",
+    "position": [
+      308,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      342,
+      353
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "lắng đọng protein",
+    "position": [
+      371,
+      388
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy các cơ quan",
+    "position": [
+      713,
+      728
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tử vong",
+    "position": [
+      750,
+      757
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thoái hóa tinh bột",
+    "position": [
+      806,
+      829
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "bệnh thoái hóa tinh bột",
+    "position": [
+      989,
+      1012
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "ung thư máu",
+    "position": [
+      1094,
+      1105
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đa u tủy",
+    "position": [
+      1110,
+      1118
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C90.0"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      1134,
+      1145
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      1195,
+      1206
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      1231,
+      1242
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng tăng dần",
+    "position": [
+      1301,
+      1337
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      1357,
+      1368
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "hóa trị",
+    "position": [
+      1427,
+      1434
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

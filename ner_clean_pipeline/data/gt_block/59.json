@@ -1,0 +1,310 @@
+[
+  {
+    "text": "da rất nhiều dầu",
+    "position": [
+      46,
+      62
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [
+      69,
+      81
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "mụn",
+    "position": [
+      207,
+      210
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      250,
+      253
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      266,
+      269
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn cám",
+    "position": [
+      316,
+      323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn đầu trắng",
+    "position": [
+      327,
+      340
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      481,
+      484
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      564,
+      567
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      593,
+      596
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phổi thông khí đều",
+    "position": [
+      668,
+      686
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu có cặn",
+    "position": [
+      703,
+      719
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lactate",
+    "position": [
+      737,
+      744
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.1-->0.8",
+    "position": [
+      745,
+      754
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cấy nước tiểu",
+    "position": [
+      757,
+      770
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu có các vi khuẩn hỗn hợp",
+    "position": [
+      773,
+      824
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "cấy máu",
+    "position": [
+      827,
+      834
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [
+      836,
+      843
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "marker viêm",
+    "position": [
+      852,
+      863
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [
+      920,
+      923
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm xương tủy",
+    "position": [
+      948,
+      962
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M86.9"
+    ]
+  },
+  {
+    "text": "Sừng hóa nang lông bất thường",
+    "position": [
+      972,
+      1001
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L73.8"
+    ]
+  },
+  {
+    "text": "Vi khuẩn C. acne",
+    "position": [
+      1002,
+      1018
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B96.8"
+    ]
+  },
+  {
+    "text": "Viêm tại chỗ",
+    "position": [
+      1019,
+      1031
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [
+      1060,
+      1072
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "mụn",
+    "position": [
+      1452,
+      1455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "da mụn",
+    "position": [
+      1532,
+      1538
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.0"
+    ]
+  },
+  {
+    "text": "da mụn",
+    "position": [
+      1633,
+      1639
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.0"
+    ]
+  },
+  {
+    "text": "nhân mụn",
+    "position": [
+      1680,
+      1688
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.0"
+    ]
+  }
+]

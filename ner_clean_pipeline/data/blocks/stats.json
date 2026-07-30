@@ -1,0 +1,9 @@
+{
+ "n_files": 100,
+ "n_block_instances": 381,
+ "n_chars_total": 203817,
+ "n_unique_blocks": 332,
+ "n_repeated_blocks": 24,
+ "n_chars_unique": 189436,
+ "dedup_ratio": 0.9294
+}

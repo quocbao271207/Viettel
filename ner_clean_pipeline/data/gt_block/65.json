@@ -1,0 +1,292 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "position": [
+      35,
+      53
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L63.9"
+    ]
+  },
+  {
+    "text": "rụng tóc",
+    "position": [
+      252,
+      260
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**************",
+    "position": [
+      334,
+      348
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**************",
+    "position": [
+      354,
+      368
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rụng tóc từng vùng",
+    "position": [
+      404,
+      422
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L63.9"
+    ]
+  },
+  {
+    "text": "Corticosteroid",
+    "position": [
+      507,
+      521
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "***************************",
+    "position": [
+      593,
+      620
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************************************",
+    "position": [
+      643,
+      679
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      681,
+      690
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rụng tóc toàn bộ",
+    "position": [
+      713,
+      729
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L63.1"
+    ]
+  },
+  {
+    "text": "rụng tóc toàn thể",
+    "position": [
+      735,
+      752
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L63.0"
+    ]
+  },
+  {
+    "text": "********************",
+    "position": [
+      786,
+      806
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nghiệm pháp gắng sức",
+    "position": [
+      962,
+      982
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "position": [
+      998,
+      1021
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I25.9"
+    ]
+  },
+  {
+    "text": "ST chênh xuống",
+    "position": [
+      1033,
+      1047
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "diphenylcyclopropenone",
+    "position": [
+      1116,
+      1138
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dinitrochlorobenzene",
+    "position": [
+      1158,
+      1178
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rụng tóc",
+    "position": [
+      1198,
+      1206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm da tiếp xúc dị ứng",
+    "position": [
+      1221,
+      1244
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L23.9"
+    ]
+  },
+  {
+    "text": "rụng tóc",
+    "position": [
+      1299,
+      1307
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm da tiếp xúc",
+    "position": [
+      1349,
+      1365
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L25.9"
+    ]
+  },
+  {
+    "text": "mày đay",
+    "position": [
+      1367,
+      1374
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bất thường sắc tố",
+    "position": [
+      1376,
+      1393
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L81.9"
+    ]
+  },
+  {
+    "text": "bạch biến",
+    "position": [
+      1402,
+      1411
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L80"
+    ]
+  },
+  {
+    "text": "PUVA",
+    "position": [
+      1424,
+      1428
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "psoralen",
+    "position": [
+      1430,
+      1438
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PUVA",
+    "position": [
+      1452,
+      1456
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

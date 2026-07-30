@@ -1,0 +1,524 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [
+      39,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I48.9"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      50,
+      63
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "position": [
+      66,
+      89
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      92,
+      99
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "da rất nhiều dầu",
+    "position": [
+      122,
+      138
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [
+      145,
+      157
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "mụn",
+    "position": [
+      283,
+      286
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      326,
+      329
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      342,
+      345
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn cám",
+    "position": [
+      392,
+      399
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn đầu trắng",
+    "position": [
+      403,
+      416
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      557,
+      560
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      640,
+      643
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      669,
+      672
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi và weak",
+    "position": [
+      720,
+      735
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngủ quên",
+    "position": [
+      751,
+      759
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [
+      772,
+      780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm khả năng quan hệ tình dục với bạn tình",
+    "position": [
+      783,
+      826
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau buốt khi đi tiểu",
+    "position": [
+      829,
+      849
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [
+      852,
+      859
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn từng đợt sau khi ăn",
+    "position": [
+      862,
+      885
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      909,
+      917
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhói",
+    "position": [
+      980,
+      984
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lan xuống cánh tay trái",
+    "position": [
+      998,
+      1021
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì ở cánh tay trái trên",
+    "position": [
+      1033,
+      1059
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ở cánh tay trái dưới và bàn tay",
+    "position": [
+      1063,
+      1098
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "shortness of breath",
+    "position": [
+      1200,
+      1219
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1253,
+      1256
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát khi đi tiểu",
+    "position": [
+      1290,
+      1309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn mửa",
+    "position": [
+      1373,
+      1380
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [
+      1427,
+      1435
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      1554,
+      1569
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1571,
+      1580
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lasix",
+    "position": [
+      1659,
+      1664
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "ntg",
+    "position": [
+      1912,
+      1915
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "asa",
+    "position": [
+      1923,
+      1926
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "lasix",
+    "position": [
+      1939,
+      1944
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "morphine",
+    "position": [
+      1959,
+      1967
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "dilaudid",
+    "position": [
+      1979,
+      1987
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "224913"
+    ]
+  },
+  {
+    "text": "metoprolol",
+    "position": [
+      2002,
+      2012
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6918"
+    ]
+  },
+  {
+    "text": "diltiazem",
+    "position": [
+      2032,
+      2041
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3443"
+    ]
+  },
+  {
+    "text": "ntg",
+    "position": [
+      2077,
+      2080
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      2081,
+      2088
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      2105,
+      2113
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ntg",
+    "position": [
+      2128,
+      2131
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      2132,
+      2139
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      2156,
+      2164
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim",
+    "position": [
+      2175,
+      2183
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

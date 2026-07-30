@@ -1,0 +1,172 @@
+[
+  {
+    "text": "ung thư đường mật",
+    "position": [
+      183,
+      200
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C24.0"
+    ]
+  },
+  {
+    "text": "run rẩy",
+    "position": [
+      401,
+      408
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      413,
+      416
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      426,
+      429
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      493,
+      496
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ổ dịch trong ổ bụng",
+    "position": [
+      504,
+      523
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "T81.8"
+    ]
+  },
+  {
+    "text": "áp xe",
+    "position": [
+      536,
+      541
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "position": [
+      562,
+      582
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      630,
+      639
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "151392"
+    ]
+  },
+  {
+    "text": "ra mồ hôi nhiều",
+    "position": [
+      921,
+      936
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thiếu một số vi chất",
+    "position": [
+      951,
+      971
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "E63.9"
+    ]
+  },
+  {
+    "text": "bệnh tiềm ẩn",
+    "position": [
+      1083,
+      1095
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiềm ẩn",
+    "position": [
+      1308,
+      1320
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ổ dịch sau phẫu thuật",
+    "position": [
+      1371,
+      1392
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "T81.8"
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "text": "ý định tự tử",
+    "position": [
+      34,
+      46
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm",
+    "position": [
+      108,
+      116
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      121,
+      135
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F41.9"
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      179,
+      198
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốc",
+    "position": [
+      263,
+      266
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn chán",
+    "position": [
+      314,
+      323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uống nhiều rượu",
+    "position": [
+      325,
+      340
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F10.1"
+    ]
+  },
+  {
+    "text": "hút cần sa",
+    "position": [
+      341,
+      351
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F12.1"
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      441,
+      460
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm",
+    "position": [
+      555,
+      563
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "position": [
+      595,
+      607
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      633,
+      652
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "position": [
+      768,
+      791
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "position": [
+      795,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A49.8"
+    ]
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "position": [
+      943,
+      963
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi những nét nhẹ nhàng nhẹ nhàng rất đến và khắp nơi",
+    "position": [
+      1031,
+      1084
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nổi quanh năm",
+    "position": [
+      1093,
+      1106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau",
+    "position": [
+      1116,
+      1130
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng thời tiết",
+    "position": [
+      1337,
+      1353
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": [
+      "T78.4"
+    ]
+  }
+]

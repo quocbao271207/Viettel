@@ -1,0 +1,110 @@
+[
+  {
+    "text": "tai phải bé không có lỗ tai",
+    "position": [
+      72,
+      99
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q16.1"
+    ]
+  },
+  {
+    "text": "đo âm tai còn lại",
+    "position": [
+      213,
+      230
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vành tai không phát triển đều",
+    "position": [
+      375,
+      404
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q17.2"
+    ]
+  },
+  {
+    "text": "nó nhỏ hơn tai còn lại",
+    "position": [
+      406,
+      428
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị tật thiểu sản vành tai",
+    "position": [
+      1042,
+      1067
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "Q17.2"
+    ]
+  },
+  {
+    "text": "tịt ống tai ngoài bẩm sinh",
+    "position": [
+      1071,
+      1097
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "Q16.1"
+    ]
+  },
+  {
+    "text": "chỉ nghe một bên",
+    "position": [
+      1358,
+      1374
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "H90.1"
+    ]
+  },
+  {
+    "text": "lúng túng khi xác định hướng âm thanh",
+    "position": [
+      1390,
+      1427
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đo thính lực",
+    "position": [
+      1647,
+      1659
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

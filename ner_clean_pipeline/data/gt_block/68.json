@@ -1,0 +1,294 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "position": [
+      34,
+      53
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I25.9"
+    ]
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "position": [
+      55,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G62.9"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      160,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở tăng",
+    "position": [
+      199,
+      211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      248,
+      255
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở tăng khi vận động gắng sức",
+    "position": [
+      258,
+      292
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đi lại khó khăn",
+    "position": [
+      295,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hai bàn chân",
+    "position": [
+      341,
+      357
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "position": [
+      361,
+      389
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G62.9"
+    ]
+  },
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "position": [
+      434,
+      473
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị tật cố định vùng trước vách và vách dưới",
+    "position": [
+      485,
+      528
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm chức năng tâm thu thất trái nghiêm trọng",
+    "position": [
+      534,
+      579
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.1"
+    ]
+  },
+  {
+    "text": "rối loạn chức năng thất trái",
+    "position": [
+      589,
+      617
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.1"
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "position": [
+      621,
+      640
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "position": [
+      650,
+      690
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "position": [
+      721,
+      740
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      799,
+      808
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "151392"
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      810,
+      821
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "acid clavulanic",
+    "position": [
+      822,
+      837
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "21216"
+    ]
+  },
+  {
+    "text": "kháng sinh",
+    "position": [
+      1029,
+      1039
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      1360,
+      1369
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "151392"
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1434,
+      1443
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "giảm hấp thu dinh dưỡng",
+    "position": [
+      1453,
+      1476
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "men tiêu hóa",
+    "position": [
+      1498,
+      1510
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [
+      1538,
+      1548
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  }
+]

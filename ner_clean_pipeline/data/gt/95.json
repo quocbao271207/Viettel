@@ -1,0 +1,266 @@
+[
+  {
+    "text": "bệnh gút",
+    "position": [
+      64,
+      72
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "khỏi đau",
+    "position": [
+      110,
+      118
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnhgout",
+    "position": [
+      396,
+      404
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "position": [
+      508,
+      517
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "position": [
+      558,
+      567
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "position": [
+      588,
+      597
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "position": [
+      764,
+      773
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "sưng",
+    "position": [
+      788,
+      792
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tấy đỏ",
+    "position": [
+      794,
+      800
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạt tophi",
+    "position": [
+      908,
+      917
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "hoại tử",
+    "position": [
+      938,
+      945
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến dạng xương khớp",
+    "position": [
+      947,
+      967
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng máu",
+    "position": [
+      973,
+      988
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A41.9"
+    ]
+  },
+  {
+    "text": "gout cấp",
+    "position": [
+      1076,
+      1084
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10"
+    ]
+  },
+  {
+    "text": "đau các khớp",
+    "position": [
+      1086,
+      1098
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [
+      1165,
+      1179
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E14"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      1186,
+      1199
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      1206,
+      1213
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "ngưng thở khi ngủ do tắc nghẽn",
+    "position": [
+      1220,
+      1250
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G47.3"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      1287,
+      1294
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "mucinex d",
+    "position": [
+      1301,
+      1310
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "352777"
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1330,
+      1339
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]
