@@ -52,6 +52,25 @@ def main() -> None:
         flag = f"  ⚠️  THIẾU {len(missing)} file: {missing[:12]}" if missing else "  ✅ đủ 100 file"
         print(f"[{voter}] {n} concept thô / {len(data)} file -> {path.name}{flag}")
 
+    # Cổng MẬT ĐỘ: agent có thể ghi file kết quả sau khi mới làm được vài file đầu
+    # (đã xảy ra: d_51-75 chỉ làm 6/25 file). File thiếu thì báo ở trên; nhưng agent
+    # đọc LƯỚT thì file vẫn đủ mà số concept tụt hẳn — chỉ so chéo giữa voter mới thấy.
+    if len(by_voter) < 2:
+        return
+    print("\n── CỔNG MẬT ĐỘ (so chéo giữa các voter) ──")
+    bad = 0
+    for fid in (str(i) for i in range(1, 101)):
+        counts = {v: len(d.get(fid, [])) for v, d in by_voter.items() if fid in d}
+        if len(counts) < 2:
+            continue
+        med = sorted(counts.values())[len(counts) // 2]
+        for v, c in counts.items():
+            if med >= 8 and c < med * 0.5:
+                print(f"   ⚠️  voter {v} file {fid}: {c} concept, trung vị {med} — nghi đọc lướt")
+                bad += 1
+    print("   ✅ không voter nào lệch bất thường" if not bad
+          else f"   {bad} ca nghi vấn — cân nhắc chạy lại đúng các file đó")
+
 
 if __name__ == "__main__":
     main()
