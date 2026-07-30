@@ -647,3 +647,34 @@ Nếu gold liệt k mã (kiểu top-k của entity linking) mà ta chỉ đưa 1
 
 Thang liều: `72_kcode_2` · `73_kcode_3` · `75_kcode_5` (mã anh em cùng nhóm 3 ký tự).
 **Nộp bản 72 TRƯỚC MỌI THỨ.** Một lượt nộp phân định được cả chiến lược 4 ngày còn lại.
+
+## ❌ GIẢ THUYẾT "candidates LÀ DANH SÁCH" — BÁC BỎ DỨT KHOÁT (bản 72)
+
+| | điểm | WER | J_assert | **J_cand** |
+|---|---|---|---|---|
+| bản 64 (nền) | 37.2692 | 56.8033 | 48.5167 | 24.3881 |
+| bản 72 (+1 mã anh em cho 727 chẩn đoán) | **34.2754** | 56.8033 | 48.5167 | **16.9035** |
+
+J_cand tụt **30.7%**. Nếu gold là danh sách k≥2 thì phải TĂNG. **Gold có ĐÚNG MỘT mã.**
+⇒ trần J_cand ~24 là THẬT, không phải hiện vật cấu trúc. Không nộp 73/75 (đã xoá).
+
+### ⚠️ SỬA NHẦM LẪN: bản 63 và 64 bị gán ngược ảnh kết quả
+Bản 72 chỉ thêm mã nên WER/J_assert của nó BẮT BUỘC bằng nền. Nó báo 56.8033/48.5167,
+tức nền (bản 64) là ảnh thứ hai. Sửa lại:
+- **63 (bỏ 65) = 37.3972 ← TỐT NHẤT**
+- 64 (bỏ 145) = 37.2692 ← quá liều, LỖ
+
+⇒ **Lợi ích biên đãi bỏ đang GIẢM, không tăng.** Ngưỡng nằm quanh ~65 concept trên nền này.
+Kết luận "phải bỏ mạnh hơn nữa" ở mục trước là SAI.
+
+*(Mẹo dùng lại được: bản chỉ đổi `candidates` có WER/J_assert bất biến — dùng nó để
+xác định nền thật của một lượt nộp khi nghi gán nhầm.)*
+
+## 🎯 KHOẢNG CÁCH 12.6 ĐIỂM LÀ CHẤT LƯỢNG THUẦN — chỉ còn hướng RECALL
+
+Để J_cand đạt ~0.42 (mức suy ra của đội top 50) phải khớp **gấp 1.5 lần** số span
+chẩn đoán/thuốc hiện tại. Không phải chuyện mã — phải TÌM THÊM span gold có mà ta thiếu.
+
+Bốn lần THÊM trước đây (bản 15/16/17 + trích lại) đều thất bại. Khác biệt lần này:
+**cơ chế đồng thuận 2 voter độc lập** đã chứng minh mạnh ở trục ranh giới (+0.42)
+nhưng ở trục THÊM thì **chưa đo lần nào**. `76_best_aug_k2` là phép đo đó.

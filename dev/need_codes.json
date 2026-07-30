@@ -1,5 +1,13 @@
 [
  {
+  "text": "amoxicillin/acid clavulanic",
+  "type": "THUỐC"
+ },
+ {
+  "text": "asa",
+  "type": "THUỐC"
+ },
+ {
   "text": "b12",
   "type": "THUỐC"
  },
@@ -8,7 +16,19 @@
   "type": "THUỐC"
  },
  {
+  "text": "biến đổi cấp tính",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "bất thường bẩm sinh",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "bầm dập nhu mô",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "bầm dập nhu mô vùng trán phải",
   "type": "CHẨN_ĐOÁN"
  },
  {
@@ -20,12 +40,36 @@
   "type": "CHẨN_ĐOÁN"
  },
  {
+  "text": "bệnh vảy nến",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "bệnh đau nửa đầu migraine",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "calcium",
+  "type": "THUỐC"
+ },
+ {
+  "text": "chấn thương",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "corticoid",
   "type": "THUỐC"
  },
  {
   "text": "diphencyprone",
   "type": "THUỐC"
+ },
+ {
+  "text": "doxycyclinebactrim",
+  "type": "THUỐC"
+ },
+ {
+  "text": "dịch dưới màng cứng",
+  "type": "CHẨN_ĐOÁN"
  },
  {
   "text": "enterogermina",
@@ -36,7 +80,15 @@
   "type": "THUỐC"
  },
  {
+  "text": "folate",
+  "type": "THUỐC"
+ },
+ {
   "text": "glargine",
+  "type": "THUỐC"
+ },
+ {
+  "text": "glucose 5%",
   "type": "THUỐC"
  },
  {
@@ -48,7 +100,15 @@
   "type": "CHẨN_ĐOÁN"
  },
  {
+  "text": "hội chứng viêm gan vàng da ứ mật",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "implanon",
+  "type": "THUỐC"
+ },
+ {
+  "text": "intravenous fluids",
   "type": "THUỐC"
  },
  {
@@ -56,8 +116,16 @@
   "type": "THUỐC"
  },
  {
+  "text": "kẽm",
+  "type": "THUỐC"
+ },
+ {
   "text": "liệu pháp lợi tiểu",
   "type": "THUỐC"
+ },
+ {
+  "text": "loét ở tá tràng",
+  "type": "CHẨN_ĐOÁN"
  },
  {
   "text": "lớp dịch dưới màng cứng mỏng",
@@ -68,6 +136,10 @@
   "type": "THUỐC"
  },
  {
+  "text": "mang thai",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "men tiêu hóa",
   "type": "THUỐC"
  },
@@ -76,7 +148,27 @@
   "type": "THUỐC"
  },
  {
+  "text": "nhiễm trùng chi dưới bên phải",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "nhu mô phổi bị đông đặc",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "nhôm hydroxid",
+  "type": "THUỐC"
+ },
+ {
+  "text": "ns 0.9 %",
+  "type": "THUỐC"
+ },
+ {
+  "text": "nám",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "opioid",
   "type": "THUỐC"
  },
  {
@@ -88,7 +180,51 @@
   "type": "THUỐC"
  },
  {
+  "text": "rối loạn cảm xúc lưỡng cực khác",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "rối loạn sản xuất máu",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "sang chấn tâm lý",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "stent mạch vành",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "stress",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "suy các cơ quan",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "suy thận mạn giai đoạn 5",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "sắt",
+  "type": "THUỐC"
+ },
+ {
+  "text": "tan huyết",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "thiếu canxi",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "thiếu canxi và vitamin",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "thiếu hụt canxi",
   "type": "CHẨN_ĐOÁN"
  },
  {
@@ -108,6 +244,22 @@
   "type": "THUỐC"
  },
  {
+  "text": "thuốc tránh thai",
+  "type": "THUỐC"
+ },
+ {
+  "text": "thở oxy tại nhà",
+  "type": "THUỐC"
+ },
+ {
+  "text": "truyền dịch tĩnh mạch",
+  "type": "THUỐC"
+ },
+ {
+  "text": "túi mật giãn",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "tắc mạch",
   "type": "CHẨN_ĐOÁN"
  },
@@ -116,8 +268,32 @@
   "type": "CHẨN_ĐOÁN"
  },
  {
+  "text": "tổn thương thần kinh",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tổn thương viêm cấp tính",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "tổn thương vành mạch",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "u lành",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "u lành về tuyến vú",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "vaccine phòng dại",
   "type": "THUỐC"
+ },
+ {
+  "text": "van động mạch chủ cơ \nhọc",
+  "type": "CHẨN_ĐOÁN"
  },
  {
   "text": "vctm",
@@ -140,11 +316,27 @@
   "type": "THUỐC"
  },
  {
+  "text": "viêm cấp",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "vắc xin sống",
+  "type": "THUỐC"
+ },
+ {
+  "text": "xơ gan mất bù",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
   "text": "ổ dịch sau phẫu thuật",
   "type": "CHẨN_ĐOÁN"
  },
  {
   "text": "ổ dịch trong ổ bụng",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "text": "ổ viêm hóa mủ",
   "type": "CHẨN_ĐOÁN"
  }
 ]
