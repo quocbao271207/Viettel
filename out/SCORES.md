@@ -619,3 +619,31 @@ THÊM chúng, nhưng những cụm ĐÃ CÓ thì gold có thật. Đừng đụn
 ### 🔑 J_cand cuối cùng cũng dịch: 23.6121 → 24.4324
 Toàn bộ nhờ **bỏ concept có mã bị thừa**, không phải nhờ sửa mã. Bốn lượt nộp sửa mã trước đây
 thất bại vì chữa nhầm bệnh: vấn đề không phải mã SAI mà là concept THỪA làm phình mẫu số.
+
+## 🚨 TOP LEADERBOARD ĐÃ LÊN 50 — ta 37.40, CÁCH 12.6 ĐIỂM
+
+Không chuỗi cải tiến +0.1 nào lấp được khoảng đó. Phải có thứ ta hiểu SAI về cấu trúc.
+
+### Dấu hiệu: J_cand BÁM 22-24 suốt 9 lượt nộp, bất kể can thiệp gì
+```
+05 ICD có chấm       14.80
+06 re-rank 5 agent   22.29   <- sửa mã ăn đậm, rồi DỪNG
+10 sửa 9 mã          22.78
+12 +487 xét nghiệm   22.78
+14 +313 lần nhắc     23.61
+36 thu ngắn span     23.83
+64 bỏ 145 concept    24.43
+```
+Sửa mã · thêm concept · thu ngắn span · đãi bỏ — đủ mọi hướng, vẫn kẹt ~24.
+Đó là chữ ký của một **yếu tố hệ thống**, không phải giới hạn chất lượng.
+
+### GIẢ THUYẾT: `candidates` là SỐ NHIỀU — gold có thể là DANH SÁCH k mã
+Nếu gold liệt k mã (kiểu top-k của entity linking) mà ta chỉ đưa 1 mã ĐÚNG → Jaccard = 1/k.
+- k=4 → 0.25 · k=5 → 0.20. **Ta đang ở 0.244.**
+- Khớp cả lịch sử: re-rank đẩy 7→22 (đưa được mã vào danh sách), rồi chạm trần 1/k.
+
+**Nếu đúng:** đưa đủ k mã → J_cand từ 0.24 lên gần 1.0 = **+0.3 raw = +30 điểm**.
+**Nếu sai (gold 1 mã):** thêm mã làm J_cand tụt một nửa, đóng hướng, dồn hết vào RECALL.
+
+Thang liều: `72_kcode_2` · `73_kcode_3` · `75_kcode_5` (mã anh em cùng nhóm 3 ký tự).
+**Nộp bản 72 TRƯỚC MỌI THỨ.** Một lượt nộp phân định được cả chiến lược 4 ngày còn lại.
