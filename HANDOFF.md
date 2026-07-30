@@ -1,6 +1,18 @@
 # HANDOFF — Viettel AI Race Bài 2 (trạng thái 29/07/2026)
 
 > File này để một phiên chat MỚI nối tiếp ngay. Đọc kèm `dev/SPEC_V2.md` + `src/harness/README.md`.
+>
+> ## 📒 **`out/SUBMISSIONS.md` = SỔ NỘP BÀI — ĐỌC TRƯỚC TIÊN**
+> Toàn bộ lượt nộp kèm phân rã 3 trục và đánh giá vì sao ăn/lỗ.
+> **LUẬT: ghi NGAY sau mỗi lượt nhận điểm, không để dồn.** Chiến lược dự án được lái bằng
+> CHÊNH LỆCH giữa các lượt, mất một dòng là mất một quan sát không mua lại được.
+> ```
+> python3 -m src.harness.log_submission --ban <tên> --nen <nền> \
+>     --diem 38.6 --wer 55.9 --assert 50.1 --cand 25.9 --nhan-xet "vì sao"
+> ```
+> Bảng điền tay `out/RESULTS.csv` · diễn giải `python3 -m src.harness.score_report`
+>
+> **TỐT NHẤT: `out/candidates/82x_cleanroom4_k2.zip` = 38.6460** (clean-room 4 voter k≥2)
 > (`dev/NER_PROMPT_SPEC.md` và `STRATEGY.md` là bản CŨ — spec đã chuyển sang `dev/SPEC_V2.md`.)
 
 ---
