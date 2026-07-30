@@ -566,3 +566,31 @@ Bài học dùng được: oracle nội bộ chỉ nói "hai bản này mâu thu
 ### ⚠️ J_cand vẫn gần như đứng yên
 23.6121 → 24.0865 qua bảy lượt nộp, và toàn bộ mức tăng là **hiệu ứng phụ** của việc sửa span,
 chưa lần nào nhắm thẳng. Trục này trọng số **0.4 — nặng nhất**. Hai phép đo `43`/`44` chờ nộp.
+
+## ⭐⭐ BẢN 57 = 37.1974 (nộp 30/07 11:16) — TỐT NHẤT, +0.7060 so bản 14
+
+| | điểm | WER | J_assert | J_cand |
+|---|---|---|---|---|
+| bản 38 (ăn J) | 37.0865 | 56.9945 | **48.5007** | **24.0865** |
+| bản 52 (ăn WER) | 37.0212 | **56.6355** | 48.2650 | 23.8309 |
+| **bản 57 (gộp)** | **37.1974** | **56.6247** | **48.5007** | **24.0865** |
+
+### 🔑 TÍNH CỘNG DỒN ĐƯỢC KIỂM CHỨNG TỚI TỪNG CHỮ SỐ
+Dự phóng `36.9103 + 0.1762 + 0.1109 = 37.1974` · thực tế **37.1974**.
+J của bản 57 khớp CHÍNH XÁC bản 38; WER khớp (còn nhỉnh hơn) bản 52.
+
+⇒ **Hai hướng trực giao hoàn toàn, và ta DỰ ĐOÁN ĐƯỢC kết quả gộp trước khi nộp.**
+Đây là thứ đáng giá nhất rút ra hôm nay: từ giờ mỗi cải tiến chỉ cần đo RIÊNG một lần,
+rồi cộng dồn mà không phải tốn lượt nộp để kiểm từng tổ hợp.
+
+**Điều kiện để cộng dồn đúng:** hai thay đổi không đụng cùng một concept. Kiểm trước bằng
+`src/harness/diff.py` — nếu tập concept bị đụng giao nhau thì phải nộp đo, đừng cộng.
+
+### Tiến trình 30/07 (tám lượt nộp)
+```
+14 nền            36.4914
+23 thu ngắn 150   36.7829   +0.2915
+36 thu ngắn 276   36.9103   +0.1274
+38 + đãi bỏ 49    37.0865   +0.1762
+57 + đồng bộ dài  37.1974   +0.1109
+```

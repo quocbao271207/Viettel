@@ -7,7 +7,7 @@ x4,42_tighten (DA NOP),2824,316,316,0,48 thu ngan do AGENT,36.8179,57.1576,48.10
 x5,38_spank1_prune (DA NOP),2774,276,326,0,nen 36 + BO 49,37.0865,56.9945,48.5007,24.0865,*** TOT NHAT +0.5951 ***
 x6,48_harmonize_safe (DA NOP),2824,352,352,0,dong bo ve NGAN,36.6490,57.7208,48.1095,23.8309,LO 0.26 - sai huong
 x7,52_harmonize_longer (DA NOP),2824,291,291,0,dong bo ve DAI,37.0212,56.6355,48.2650,23.8309,"+0.1109 toan bo tu WER, J phang"
-1,57_best_plus_longer,2774,291,341,0,CỘNG DỒN 2 hướng thắng: nền 38 (ăn J) + đồng bộ dài (ăn WER). Kỳ vọng ~37.20,,,,,
+x8,57_best_plus_longer (DA NOP),2774,291,341,0,CỘNG DỒN 2 hướng thắng: nền 38 (ăn J) + đồng bộ dài (ăn WER). Kỳ vọng ~37.20,37.1974,56.6247,48.5007,24.0865,"*** TOT NHAT 37.1974 ***. CONG DON HOAN HAO: du phong 37.1974, thuc te 37.1974"
 2,58_stack_prunek2,2750,287,361,0,nền 57 + bỏ thêm 24 (liều 2),,,,,
 3,60_longer_win25,2774,292,342,0,nền 38 + đồng bộ dài với cửa sổ HẸP hơn (bắt nhiều đoạn hơn),,,,,
 4,59_stack_onesyl,2690,291,425,0,nền 57 + bỏ 84 cụm 1 âm tiết,,,,,
