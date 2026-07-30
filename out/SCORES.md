@@ -531,3 +531,38 @@ một concept nào — chỉ **sửa chỗ đã sai**. Đó là khác biệt b�
 2 span chứa xuống dòng (`Tỷ lệ ⏎Prothrombin`, `đau ⏎tăng khi gắng sức`) ·
 3 span từ lặp (`Loét loét thực quản...`, `phù phù` ×2) · 1 khoảng trắng đôi.
 Tổng 6 ca — đã bắt hết bằng máy, không còn mỏ ở đây.
+
+## 📈 CHUỖI KẾT QUẢ 30/07 — bảy lượt nộp, hai giả thuyết lớn được phân định
+
+| bản | điểm | Δ so nền trực tiếp | nguồn Δ |
+|---|---|---|---|
+| 14 (nền cũ) | 36.4914 | — | — |
+| 21 assertion voter | 36.2479 | −0.2435 | **KIỂM CHỨNG METRIC**: WER+J_cand bất biến CHÍNH XÁC |
+| 23 thu ngắn 150 (2 voter) | 36.7829 | +0.2915 | 85% từ WER |
+| 36 thu ngắn 276 (1 voter) | 36.9103 | +0.1274 vs 23 | liều mạnh hơn vẫn tốt |
+| 42 thu ngắn 48 (agent) | 36.8179 | −0.0924 vs 36 | **agent kém hơn đồng thuận voter** |
+| **38 = 36 + BỎ 49** | **37.0865** | **+0.1762 vs 36** | **+0.07 assert +0.10 cand** |
+| 48 đồng bộ về NGẮN | 36.6490 | −0.2613 vs 36 | WER +0.72, J phẳng |
+| 52 đồng bộ về DÀI | 37.0212 | +0.1109 vs 36 | **toàn bộ từ WER, J phẳng** |
+
+### 🔑 GIẢ THUYẾT LỚN NHẤT ĐƯỢC XÁC NHẬN: vấn đề là THỪA
+Bỏ **49** concept → **+0.1762**, ăn đúng ở hai trục Jaccard như công thức hoà vốn
+`h* = J/(1+J) = 32.6%` tiên đoán. Lợi ích biên **+0.0036/concept**, xấp xỉ cơ chế tốt nhất
+từng có (bản 14 nhân bản: +0.00403). Bốn lượt nộp trước bản 14 đều đi tìm concept MỚI và đều lỗ.
+
+### 🔑 BA NGUỒN BẰNG CHỨNG, BA MỨC TIN CẬY KHÁC NHAU
+1. **Đồng thuận 2 voter độc lập** → thu ngắn ranh giới: **+0.42**. Mạnh nhất.
+2. **Một agent soi kỹ** → thu ngắn ranh giới: **−0.09**. Kém hơn hẳn, dù đọc kỹ hơn.
+3. **Oracle nội bộ (đoạn văn trùng)** → chỉ ra CHỖ sai, KHÔNG chỉ ra HƯỚNG sửa.
+   Đoán "ngắn hơn thắng" → −0.26. Đảo lại "dài hơn thắng" → **+0.11**.
+
+Bài học dùng được: oracle nội bộ chỉ nói "hai bản này mâu thuẫn", còn chọn bản nào thì phải
+ĐO, đừng suy từ một thí nghiệm khác sang.
+
+### 52 và 38 ĐỘC LẬP NHAU — cộng dồn được
+52 chỉ động WER (J phẳng tuyệt đối), 38 chỉ động J (WER gần như phẳng).
+⇒ bản **57 = 38 + đồng bộ dài**, kỳ vọng ≈ 36.9103 + 0.1762 + 0.1109 = **37.20**.
+
+### ⚠️ J_cand vẫn gần như đứng yên
+23.6121 → 24.0865 qua bảy lượt nộp, và toàn bộ mức tăng là **hiệu ứng phụ** của việc sửa span,
+chưa lần nào nhắm thẳng. Trục này trọng số **0.4 — nặng nhất**. Hai phép đo `43`/`44` chờ nộp.
