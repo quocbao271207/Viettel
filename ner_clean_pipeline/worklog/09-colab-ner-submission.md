@@ -106,3 +106,23 @@ tổng      +1.2839
 ```
 
 Kết luận: filter thuốc mask/rác là rule sạch, tổng quát và phải giữ trong inference cuối. Rule đã được đưa vào `src/ner_infer.py`; `src/ner_data.py` cũng đã lọc mask khỏi data train để train lại model sạch hơn.
+
+## 2026-07-30 — Đọc repo đồng đội, thêm postprocess rule
+
+Remote GitHub `quocbao271207/Viettel` hiện chỉ có `main` và branch sạch mình đẩy; `main` vẫn dừng ở chuỗi
+submission public tốt nhất `out/submitted/14_repeat_36.4914.zip`. Chưa thấy artifact/code bản 38 trên remote.
+
+Bài học chuyển được từ repo đồng đội:
+
+- `exact repeat` chỉ thắng khi nhân bản text đã được xác nhận, đủ cụ thể, không phải cụm ngắn/generic.
+- Các nhóm `xét nghiệm`, `chẩn đoán hình ảnh`, sinh hiệu (`HA`, `Mạch`, `Nhiệt độ`, `SpO2`) từng làm giảm điểm.
+- Assertion rỗng là baseline an toàn, nhưng strict assertion theo header rõ đáng thử vì bản 14 có ~650 assertion,
+  còn NER của mình đang để rỗng toàn bộ.
+
+Đã thêm `src/enhance_submission.py` để tạo probe tách biệt:
+
+- `v8_clean_retrain_strict_assert.zip`: clean retrain + strict assertions.
+- `v9_clean_retrain_repeats.zip`: clean retrain + repeat đã siết.
+- `v10_clean_retrain_assert_repeats.zip`: clean retrain + strict assertions + repeat.
+- `v12_v6_strict_assert.zip`: bản public-best v6 + strict assertions; nên nộp probe trước nếu còn lượt.
+- `v13_v6_strict_assert_repeats.zip`: v6 + strict assertions + repeat coded/generic-guard; rủi ro hơn v12.
