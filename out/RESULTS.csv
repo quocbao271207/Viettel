@@ -3,23 +3,23 @@ stt,ban,concept,them,bo,assert_doi,thu_nghiem_gi,diem,WER,J_assert,J_cand,ghi_ch
 x1,21_assert_consensus (DA NOP),2824,0,0,130,assertion voter,36.2479,58.2207,47.5642,23.6121,LO 0.24 - KIEM CHUNG METRIC
 x2,23_span_fix (DA NOP),2824,150,150,0,thu ngan 150 (2 voter),36.7829,57.3953,48.3247,23.7601,+0.2915
 x3,36_span_fix_k1 (DA NOP),2824,276,276,0,thu ngan 276 (1 voter),36.9103,57.0053,48.2650,23.8309,+0.4189
-x4,42_tighten (DA NOP),2824,316,316,0,48 thu ngan do AGENT,36.8179,57.1576,48.1095,23.8309,LO 0.09 - agent kem hon voter
-x5,38_spank1_prune (DA NOP),2774,276,326,0,nen 36 + BO 49,37.0865,56.9945,48.5007,24.0865,*** TOT NHAT +0.5951 ***
-x6,48_harmonize_safe (DA NOP),2824,352,352,0,dong bo ve NGAN,36.6490,57.7208,48.1095,23.8309,LO 0.26 - sai huong
-x7,52_harmonize_longer (DA NOP),2824,291,291,0,dong bo ve DAI,37.0212,56.6355,48.2650,23.8309,"+0.1109 toan bo tu WER, J phang"
-x8,57_best_plus_longer (DA NOP),2774,291,341,0,CỘNG DỒN 2 hướng thắng: nền 38 (ăn J) + đồng bộ dài (ăn WER). Kỳ vọng ~37.20,37.1974,56.6247,48.5007,24.0865,"*** TOT NHAT 37.1974 ***. CONG DON HOAN HAO: du phong 37.1974, thuc te 37.1974"
-2,58_stack_prunek2,2750,287,361,0,nền 57 + bỏ thêm 24 (liều 2),,,,,
-3,60_longer_win25,2774,292,342,0,nền 38 + đồng bộ dài với cửa sổ HẸP hơn (bắt nhiều đoạn hơn),,,,,
-4,59_stack_onesyl,2690,291,425,0,nền 57 + bỏ 84 cụm 1 âm tiết,,,,,
-5,50_spank1_prunek2,2750,273,347,0,"đãi bỏ liều 2: 74 concept (trên nền 36, đo riêng)",,,,,
-6,55_prune_hard,2700,276,400,0,đãi bỏ liều 3: 124 concept,,,,,
-7,56_prune_hardest,2592,233,465,0,đãi bỏ liều 4: 232 concept — tìm điểm gãy,,,,,
-8,61_stack_propagate,2796,313,341,0,nền 57 + lan truyền concept bị sót qua đoạn văn trùng,,,,,
+x4,42_tighten (DA NOP),2824,316,316,0,48 thu ngan do AGENT,36.8179,57.1576,48.1095,23.8309,LO 0.09
+x5,38_spank1_prune (DA NOP),2774,276,326,0,+BO 49,37.0865,56.9945,48.5007,24.0865,+0.1762 - dai bo AN DIEM
+x6,48_harmonize_safe (DA NOP),2824,352,352,0,dong bo NGAN,36.6490,57.7208,48.1095,23.8309,LO 0.26 - sai huong
+x7,52_harmonize_longer (DA NOP),2824,291,291,0,dong bo DAI,37.0212,56.6355,48.2650,23.8309,+0.1109 toan bo tu WER
+x8,57_best_plus_longer (DA NOP),2774,291,341,0,gop 38+52,37.1974,56.6247,48.5007,24.0865,CONG DON HOAN HAO: du phong = thuc te
+x9,58_stack_prunek2 (DA NOP),2750,287,361,0,+BO them 24,37.3091,56.4993,48.7643,24.0741,*** TOT NHAT *** loi ich bien TANG
+x10,60_longer_win25 (DA NOP),2774,292,342,0,dong bo DAI cua so 25,37.2010,56.6512,48.5391,24.0865,+0.1145 tren nen 38
+1,64_prune_L4,2605,254,473,0,ĐÃI BỎ LIỀU 4: bỏ thêm 145 — lợi ích biên đang TĂNG nên đẩy mạnh,,,,,
+2,63_prune_L3,2685,288,427,0,ĐÃI BỎ LIỀU 3: bỏ thêm 65,,,,,
+3,66_prune_MAX,2519,254,559,0,ĐÃI BỎ CỰC ĐẠI: bỏ thêm 231 — tìm điểm gãy,,,,,
+4,65_prune_onesyl,2667,288,445,0,bỏ 83 cụm 1 âm tiết trên nền tốt nhất,,,,,
+5,62_best_win25,2750,288,362,0,nền tốt nhất dùng cửa sổ 25 thay 45 (kỳ vọng nhỉnh hơn 58 chút),,,,,
+6,43_probe_nocode_dx,2824,276,276,0,PHÉP ĐO J_cand: bỏ SẠCH mã 878 CHẨN_ĐOÁN,,,,,
+7,44_probe_multicode,2824,276,276,0,PHÉP ĐO J_cand: thêm 1 mã anh em cho 804 CHẨN_ĐOÁN,,,,,
+8,61_stack_propagate,2796,313,341,0,nền 57 + lan truyền 22 concept bị sót,,,,,
 9,51_best_plus_aug,3025,527,326,0,nền 38 + THÊM 251 concept đồng thuận 2/2,,,,,
-10,43_probe_nocode_dx,2824,276,276,0,PHÉP ĐO J_cand: bỏ SẠCH mã 878 CHẨN_ĐOÁN,,,,,
-11,44_probe_multicode,2824,276,276,0,PHÉP ĐO J_cand: thêm 1 mã anh em cho 804 CHẨN_ĐOÁN,,,,,
-12,19_augment_k2,3056,232,0,0,THÊM 232 đo riêng trên nền bản 14,,,,,
-13,41_spank1_type,2824,315,315,0,nền 36 + sửa 39 ca sai type,,,,,
-14,34_assert_addonly,2824,0,0,31,assertion CHỈ THÊM nhãn,,,,,
-15,20_cleanroom_k2,2624,554,754,181,Track B k>=2,,,,,
-16,30_cleanroom_k1,3045,842,621,198,Track B k>=1,,,,,
+10,41_spank1_type,2824,315,315,0,nền 36 + sửa 39 ca sai type,,,,,
+11,34_assert_addonly,2824,0,0,31,assertion CHỈ THÊM nhãn,,,,,
+12,20_cleanroom_k2,2624,554,754,181,Track B k>=2,,,,,
+13,30_cleanroom_k1,3045,842,621,198,Track B k>=1,,,,,
