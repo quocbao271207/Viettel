@@ -1,0 +1,2210 @@
+[
+ {
+  "file": "1",
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu do tan huyết",
+  "context": "g da, vàng mắt\n\nKhi đi khám, xét nghiệm máu thường cho thấy thiếu máu do tan huyết, hồng cầu bị phá hủy hàng loạt, dẫn đến"
+ },
+ {
+  "file": "1",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Chậm phát triển trí tuệ",
+  "context": "có thể gây ra nhiều biến chứng nguy hiểm như:\n • Bại não\n • Chậm phát triển trí tuệ\n • Rối loạn vận động\n\nNếu không được đi"
+ },
+ {
+  "file": "2",
+  "type": "CHẨN_ĐOÁN",
+  "text": "phình giãn động mạch vành",
+  "context": " nếu không điều trị kịp thời, bệnh có thể dẫn đến viêm tim, phình giãn động mạch vành, đột tử, nhồi máu cơ tim, hoặc hẹp tắc "
+ },
+ {
+  "file": "2",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Tổn thương ở đầu chi",
+  "context": " nứt, có thể rỉ máu.\n • Lưỡi đỏ như dâu tây.\n • Họng đỏ.\n4. Tổn thương ở đầu chi\n • Sưng, đỏ mu bàn tay – chân.\n • Đỏ ga"
+ },
+ {
+  "file": "2",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Sưng, đỏ mu bàn tay – chân",
+  "context": "Lưỡi đỏ như dâu tây.\n • Họng đỏ.\n4. Tổn thương ở đầu chi\n • Sưng, đỏ mu bàn tay – chân.\n • Đỏ gan bàn tay – chân.\n • Bong da đ"
+ },
+ {
+  "file": "2",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Đỏ gan bàn tay – chân",
+  "context": ".\n4. Tổn thương ở đầu chi\n • Sưng, đỏ mu bàn tay – chân.\n • Đỏ gan bàn tay – chân.\n • Bong da đầu ngón tay, ngón chân vào"
+ },
+ {
+  "file": "2",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Bong da đầu ngón tay, ngón chân",
+  "context": " • Sưng, đỏ mu bàn tay – chân.\n • Đỏ gan bàn tay – chân.\n • Bong da đầu ngón tay, ngón chân vào ngày 7–14 của bệnh.\n\n5. Ban đỏ toàn"
+ },
+ {
+  "file": "3",
+  "type": "CHẨN_ĐOÁN",
+  "text": "đau thắt ngực ổn định",
+  "context": " vì vậy mà thuốc bị giới hạn chỉ định \"điều trị triệu chứng đau thắt ngực ổn địnhkhi bệnh nhân\n không dung nạp với các th"
+ },
+ {
+  "file": "3",
+  "type": "TRIỆU_CHỨNG",
+  "text": "yếu sức nửa người bên phải",
+  "context": "rkinson\n2.  Tiền sử bệnh hiện tại\n    Lý do nhập viện\n    - yếu sức nửa người bên phải\n    - tình trạng tri giác giảm sút\n    "
+ },
+ {
+  "file": "3",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "hụp ct sọ não kết quả âm tính.\n    - Đội ngũ y tế tiến hành chọc dò dịch não tủy.\n    - Bị một cơn nhịp tim chậm nặng và"
+ },
+ {
+  "file": "3",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tai biến mạch máu não",
+  "context": " đến bệnh viện để tiếp tục điều trị.\n    - Được gọi là Code tai biến mạch máu não.\n    - Ban đầu tỉnh chậm phản xạ kém.\n "
+ },
+ {
+  "file": "3",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tai biến mạch máu não",
+  "context": "iệng gần đây cần dùng kháng sinh.\n    - Phủ nhận tiền sử bị tai biến mạch máu não hoặc co giật.\n    Triệu chứng khi nhập "
+ },
+ {
+  "file": "3",
+  "type": "TRIỆU_CHỨNG",
+  "text": "yếu sức nửa người bên phải",
+  "context": "h máu não hoặc co giật.\n    Triệu chứng khi nhập viện\n    - yếu sức nửa người bên phải\n    - tình trạng tri giác giảm sút\n    "
+ },
+ {
+  "file": "3",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "ã được chụp chụp ct sọ não kết quả âm tính.\n    - Tiến hành chọc dò dịch não tủy.\n    - Bị nhịp tim chậm nặng và hạ huyế"
+ },
+ {
+  "file": "3",
+  "type": "TRIỆU_CHỨNG",
+  "text": "yếu nửa người bên phải",
+  "context": "ém.\n\n3.  Đánh giá tại bệnh viện\n    Dấu hiệu lâm sàng\n    - yếu nửa người bên phải\n    - suy giảm tri giác\n    - nhìn song"
+ },
+ {
+  "file": "3",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "h\n    Các thủ thuật đã thực hiện\n    - chụp ct sọ não\n    - chọc dò dịch não tủy\n    - Truyền dịch tĩnh mạch"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": " tiêu chảy cách đây vài năm\n    - Nôn ra máu 2 tuần sau tập viêm dạ dày ruột do virus\n    - Nôn ra máu trong 2 ngày qua\n    B"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng ruột kích thích",
+  "context": "rus\n    - Nôn ra máu trong 2 ngày qua\n    Bệnh lý mãn tính: hội chứng ruột kích thích (được chẩn đoán hội chứng ruột kích thí"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng ruột kích thích",
+  "context": "Bệnh lý mãn tính: hội chứng ruột kích thích (được chẩn đoán hội chứng ruột kích thích cách đây vài năm)\n    Tiền sử phẫu thuậ"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm thực quản độ C",
+  "context": " (cho thấy nhiều loét tá tràng và hồi tràng)\n    - nội soi (Viêm thực quản độ C, loét thực quản dưới 6 mm có điểm sắc t"
+ },
+ {
+  "file": "4",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "test hơi thở h. pylori",
+  "context": "    Thuốc trước khi nhập viện: omeprazole (vừa ngừng để làm test hơi thở h. pylori)\n\n2.  Tiền sử bệnh hiện tại\n    Lý do n"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "ệu chứng cách đây vài năm (buồn nôn và tiêu chảy)\n    - Tập viêm dạ dày ruột do virus (trong năm nay)\n    - Tiếp tục khó khăn"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "uống qua đường miệng, buồn nôn và tiêu chảy (2 tuần sau tập viêm dạ dày ruột do virus)\n    - Nôn ra máu (2 tuần sau tập viêm "
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "viêm dạ dày ruột do virus)\n    - Nôn ra máu (2 tuần sau tập viêm dạ dày ruột do virus)\n    - Nôn ra máu (trong 2 ngày qua)\n  "
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng ruột kích thích",
+  "context": "cách đây vài năm: tái phát buồn nôn và tiêu chảy, chẩn đoán hội chứng ruột kích thích, phát hiện loét tá tràng khi nội soi.\n "
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": " Trong năm nay: không thể giữ được bất cứ thứ gì, chẩn đoán viêm dạ dày ruột do virus.\n    - 2 tuần sau điều trị  viêm dạ dày"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": " đoán viêm dạ dày ruột do virus.\n    - 2 tuần sau điều trị  viêm dạ dày ruột do virus: tiếp tục khó khăn khi ăn uống qua đườn"
+ },
+ {
+  "file": "4",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "test hơi thở h. pylori",
+  "context": "tosporidium.\n    - Gần đây: ngừng sử dụng omeprazole để làm test hơi thở h. pylori.\n    - Khi ngừng omeprazole: phát triển"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "al pain\n    Các sự kiện trước khi nhập viện\n    - Chẩn đoán viêm dạ dày ruột do virus (trong năm nay)\n    - Tiếp tục khó khăn"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "uống qua đường miệng, buồn nôn và tiêu chảy (2 tuần sau tập viêm dạ dày ruột do virus)\n    - Nhập viện vì nôn ra máu (2 tuần "
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "uột do virus)\n    - Nhập viện vì nôn ra máu (2 tuần sau tập viêm dạ dày ruột do virus)\n    - nội soi cho thấy nhiều loét tá t"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "i cho thấy nhiều loét tá tràng và hồi tràng (2 tuần sau tập viêm dạ dày ruột do virus)\n    - dương tính xét nghiệm phân tìm c"
+ },
+ {
+  "file": "4",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "xét nghiệm phân tìm cryptosporidium",
+  "context": "(2 tuần sau tập viêm dạ dày ruột do virus)\n    - dương tính xét nghiệm phân tìm cryptosporidium (2 tuần sau tập viêm dạ dày ruột do vir"
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "context": "ng tính xét nghiệm phân tìm cryptosporidium (2 tuần sau tập viêm dạ dày ruột do virus)\n    - Ngừng sử dụng omeprazole để làm "
+ },
+ {
+  "file": "4",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "test hơi thở h. pylori",
+  "context": "dạ dày ruột do virus)\n    - Ngừng sử dụng omeprazole để làm test hơi thở h. pylori (gần đây)\n    - Phát triển đau bụng và "
+ },
+ {
+  "file": "4",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm thực quản độ C",
+  "context": "i chia nhỏ viên thuốc để đảm bảo liều lượng chính xác.    - Viêm thực quản độ C ở thực quản dưới\n    - Loét loét thực q"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư biểu mô tế bào mật",
+  "context": "tràng (RNY hepaticojejunostomy) vào ngày [Ngày] vì nghi ngờ ung thư biểu mô tế bào mật không thể cắt bỏ.\n\n2.  Tiền sử bệnh hiệ"
+ },
+ {
+  "file": "5",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp tử cung vòi trứng",
+  "context": "âm sàng như siêu âm (đánh giá các bất thường về giải phẫu), chụp tử cung vòi trứng (đánh giá hình thái buồng tử cung và độ"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng buồng trứng đa nang",
+  "context": "n cần đi khám để đánh giá bệnh lý cụ thể. Rất có thể bạn bị Hội chứng buồng trứng đa nang (bao gồm rậm lông, béo phì, siêu âm buồ"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+  "context": ".\n    - Đã thực hiện cholangiogram vào ngày [Ngày] cho thấy tắc nghẽn kéo dài gần chỗ nối mật tụy, ảnh hưởng đến ống dẫn trước và sau bên"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư biểu mô tuyến",
+  "context": "mẫu bằng bàn chải cho thấy tế bào bất thường, đáng ngại cho ung thư biểu mô tuyến.\n    - Thảo luận tại cuộc họp [Tên cuộc"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+  "context": ".\n    - Đã thực hiện cholangiogram vào ngày [Ngày] cho thấy tắc nghẽn kéo dài gần chỗ nối mật tụy, ảnh hưởng đến ống dẫn trước và sau bên"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư biểu mô tuyến",
+  "context": "g bàn chải cho thấy các tế bào bất thường, đáng lo ngại cho ung thư biểu mô tuyến.\n    - Thảo luận tại cuộc họp [Tên cuộc"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư biểu mô tuyến",
+  "context": " cho thấy tế bào bất thườngtế bào bất thường, đáng ngại cho ung thư biểu mô tuyến\n    Kết quả chẩn đoán hình ảnh: cholang"
+ },
+ {
+  "file": "5",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+  "context": " chẩn đoán hình ảnh: cholangiogram vào ngày [Ngày] cho thấy tắc nghẽn kéo dài gần chỗ nối mật tụy, ảnh hưởng đến ống dẫn trước và sau bên"
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "context": "1.  Tiền sử bệnh lý\n\nBệnh tim mạch do xơ vữa động mạch.\năng huyết áp.Rối loạn lipid máu.\nĐái t"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Cơn rối loạn ý thức thoáng qua",
+  "context": " loạn lipid máu.\nĐái tháo đường.2. \nBệnh sử\nLý do vào viện: Cơn rối loạn ý thức thoáng qua, nghi ngờ cơn co giật.\nKhoảng 1 tháng t"
+ },
+ {
+  "file": "6",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp cắt lớp vi tính sọ não",
+  "context": "n, bệnh nhân bị ngã và được chẩn đoán xuất huyết dưới nhện. Chụp cắt lớp vi tính sọ não cho hình ảnh  xuất huyết dưới nhện vùng"
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bầm dập nhu mô vùng trán phải",
+  "context": "h sọ não cho hình ảnh  xuất huyết dưới nhện vùng trán phải, bầm dập nhu mô vùng trán phải và trán - thái dương phải, kèm một lớp "
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "context": " thùy trán phải, nghĩ nhiều đến nang màng nhện hoặc tụ dịch/tụ máu dưới màng cứng mạn tính. \nCác lần chụp CT theo dõi sau đó ổn đị"
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "context": "ại khoa Cấp cứu vì đau đầu kéo dài. \nChụp kiểm tra ghi nhận tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn tính. \nBệnh nhâ"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau đầu vùng thái dương phải",
+  "context": "thời gian sau đó, bệnh nhân tương đối ổn định nhưng vẫn còn đau đầu vùng thái dương phải và đỉnh đầu, kèm cảm giác tê bì nửa mặt"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tê bì nửa mặt phải",
+  "context": " còn đau đầu vùng thái dương phải và đỉnh đầu, kèm cảm giác tê bì nửa mặt phải, đặc biệt vùng trán phải và da đầu phải"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tiểu tiện không tự chủ",
+  "context": "n run giật tay chân, không cứng đờ, không cắn lưỡi và không tiểu tiện không tự chủ trong cơn.\nTriệu chứng khi nhập viện:\nĐ"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Đau đầu vùng thái dương phải",
+  "context": "iểu tiện không tự chủ trong cơn.\nTriệu chứng khi nhập viện:\nĐau đầu vùng thái dương phải, đỉnh đầu, đôi khi lan ra sau mắt phải."
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Tê bì vùng trán phải",
+  "context": "ùng thái dương phải, đỉnh đầu, đôi khi lan ra sau mắt phải.\nTê bì vùng trán phải, da đầu phải và nửa mặt phải.\nCơn rối l"
+ },
+ {
+  "file": "6",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Cơn rối loạn ý thức thoáng qua",
+  "context": "ắt phải.\nTê bì vùng trán phải, da đầu phải và nửa mặt phải.\nCơn rối loạn ý thức thoáng qua.Mất định hướng.\nMất thăng bằng.Gần ngất"
+ },
+ {
+  "file": "6",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp cắt lớp vi tính",
+  "context": " hiện kích thích nhẹ, ngửa đầu ra sau và nhắm mắt từng lúc.\nChụp cắt lớp vi tính (CT Scanner): Bụng - Tiểu khung thường "
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "context": "cứng mỏng vùng thùy trán phải, nghĩ đến nang màng nhện hoặc tụ máu dưới màng cứng mạn tính.Tụ máu ngoài màng cứng phải cấp tính tr"
+ },
+ {
+  "file": "6",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tụ máu ngoài màng cứng phải cấp tính",
+  "context": "nghĩ đến nang màng nhện hoặc tụ máu dưới màng cứng mạn tính.Tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn tính.\n"
+ },
+ {
+  "file": "7",
+  "type": "CHẨN_ĐOÁN",
+  "text": "trào ngược dạ dày thực quản",
+  "context": "ợc cho phụ nữ mang thai để điều trị triệu chứng ợ nóng hoặc trào ngược dạ dày thực quản và cần sử dụng trong mức liều khuyến cá"
+ },
+ {
+  "file": "7",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tổn thương vùng âm hộ",
+  "context": "nhiễm đối với thai nhi.\n    Triệu chứng khi nhập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực k"
+ },
+ {
+  "file": "7",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Tổn thương cực kỳ đau đớn",
+  "context": "hập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng n"
+ },
+ {
+  "file": "7",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tổn thương dạng bóng nước",
+  "context": "g bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng nước ngày càng nặng\n    - Lan đến mông bên p"
+ },
+ {
+  "file": "7",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch giống mủ có màu vàng",
+  "context": "ng nước ngày càng nặng\n    - Lan đến mông bên phải\n    - có dịch giống mủ có màu vàng  chảy ra từ tổn thương\n    Đặc điểm của"
+ },
+ {
+  "file": "8",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó khăn khi nhìn gần",
+  "context": "   - Lú lẫn từng đợt gần đây\n    - cảm giác chóng mặt\n    - khó khăn khi nhìn gần\n    - rối loạn thị giác, nhìn thấy con "
+ },
+ {
+  "file": "8",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Khó khăn về thị lực gần",
+  "context": " từ khi ly hôn\n    - Lú lẫn: từng đợt\n    - chóng mặt\n    - Khó khăn về thị lực gần\n    - rối loạn thị giác: nhìn thấy con "
+ },
+ {
+  "file": "8",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "iện tình cờ tại Cấp cứu; phát hiện bệnh lý chất trắng\n    - chọc dò dịch não tủy là không phát hiện bất thường\n    - đán"
+ },
+ {
+  "file": "8",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "an toàn\n\n3.  Đánh giá tại bệnh viện\n    Kết quả xét nghiệm: chọc dò dịch não tủy là âm tính\n    Kết quả chẩn đoán hình ả"
+ },
+ {
+  "file": "8",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chọc dò dịch não tủy",
+  "context": "ng (được phát hiện tình cờ)\n    Các thủ thuật đã thực hiện: chọc dò dịch não tủy (Đột sống thắt lưng)\n    Các phát hiện "
+ },
+ {
+  "file": "8",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Phình giãn động mạch vành",
+  "context": ", bệnh có thể gây:\nBiến chứng tim mạch (nguy hiểm nhất):\n • Phình giãn động mạch vành\n • Hẹp – tắc động mạch vành\n • Thiếu má"
+ },
+ {
+  "file": "8",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hẹp – tắc động mạch vành",
+  "context": " tim mạch (nguy hiểm nhất):\n • Phình giãn động mạch vành\n • Hẹp – tắc động mạch vành\n • Thiếu máu cơ tim\n • Nhồi máu cơ tim\n"
+ },
+ {
+  "file": "8",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Hạch cổ to ≥1,5 cm",
+  "context": " thương đầu chi (phù, đỏ, bong da)\n 4. Ban đỏ toàn thân\n 5. Hạch cổ to ≥1,5 cm\n\nCác xét nghiệm cần làm\n"
+ },
+ {
+  "file": "9",
+  "type": "CHẨN_ĐOÁN",
+  "text": "trào ngược dạ dày thực quản",
+  "context": "ợc cho phụ nữ mang thai để điều trị triệu chứng ợ nóng hoặc trào ngược dạ dày thực quản và cần sử dụng trong mức liều khuyến cá"
+ },
+ {
+  "file": "10",
+  "type": "TRIỆU_CHỨNG",
+  "text": "cảm giác thắt chặt ngực",
+  "context": "n tại\n    - đánh trống ngực\n    - Khó thở nhẹ khó thở\n    - cảm giác thắt chặt ngực vùng trước tim (khởi phát lúc 17 giờ)\n "
+ },
+ {
+  "file": "10",
+  "type": "TRIỆU_CHỨNG",
+  "text": "giảm dung nạp gắng sức",
+  "context": "ánh trống ngực, khởi phát lúc 17 giờ, kéo dài 20 giây\n    - giảm dung nạp gắng sức: \n    - Không  buồn nôn, hay nôn, đổ mồ"
+ },
+ {
+  "file": "10",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm tim qua thành ngực",
+  "context": "   - Lên lịch tái khám với bác sĩ tim mạch và được chỉ định siêu âm tim qua thành ngực vào tuần tới\n    - Ngày hôm nay khoảng "
+ },
+ {
+  "file": "10",
+  "type": "TRIỆU_CHỨNG",
+  "text": "cảm giác thắt chặt ngực",
+  "context": "oảng Lúc 17 giờ,  khi đang mang đồ tạp hóa ra xe, xuất hiện cảm giác thắt chặt ngực vùng trước tim, tăng đánh trống ngực, v"
+ },
+ {
+  "file": "10",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm gan cấp tính do virus B",
+  "context": "iện\n    Kết quả khám lâm sàng\n    - VS98.3 12987 56 18 99RA\nViêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng "
+ },
+ {
+  "file": "11",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "context": "1.  Tiền sử bệnh lý\n\nBệnh tim mạch do xơ vữa động mạch.\năng huyết áp.Rối loạn lipid máu.\nĐái t"
+ },
+ {
+  "file": "11",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Cơn rối loạn ý thức thoáng qua",
+  "context": " loạn lipid máu.\nĐái tháo đường.2. \nBệnh sử\nLý do vào viện: Cơn rối loạn ý thức thoáng qua, nghi ngờ cơn co giật.\nKhoảng 1 tháng t"
+ },
+ {
+  "file": "11",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp cắt lớp vi tính sọ não",
+  "context": "n, bệnh nhân bị ngã và được chẩn đoán xuất huyết dưới nhện. Chụp cắt lớp vi tính sọ não cho hình ảnh  xuất huyết dưới nhện vùng"
+ },
+ {
+  "file": "11",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "context": " thùy trán phải, nghĩ nhiều đến nang màng nhện hoặc tụ dịch/tụ máu dưới màng cứng mạn tính. \nCác lần chụp CT theo dõi sau đó ổn đị"
+ },
+ {
+  "file": "11",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu ngoài màng cứng",
+  "context": "ại khoa Cấp cứu vì đau đầu kéo dài. \nChụp kiểm tra ghi nhận tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn t"
+ },
+ {
+  "file": "11",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tê bì nửa mặt phải",
+  "context": " còn đau đầu vùng thái dương phải và đỉnh đầu, kèm cảm giác tê bì nửa mặt phải, đặc biệt vùng trán phải và da đầu phải"
+ },
+ {
+  "file": "11",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tiểu tiện không tự chủ",
+  "context": "ắt từng lúc.\nKhông ghi nhận co giật, cứng đờ, cắn lưỡi hoặc tiểu tiện không tự chủ.\nCận lâm sàng: CT sọ não trước đó ghi n"
+ },
+ {
+  "file": "11",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "context": "cứng mỏng vùng thùy trán phải, nghĩ đến nang màng nhện hoặc tụ máu dưới màng cứng mạn tính.Tụ máu ngoài màng cứng phải cấp tính tr"
+ },
+ {
+  "file": "11",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tụ máu ngoài màng cứng",
+  "context": "nghĩ đến nang màng nhện hoặc tụ máu dưới màng cứng mạn tính.Tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn t"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "context": "ụng corticoid liều cao kéo dài.\n    - Thở oxy tại nhà\n    - Hội chứng kháng enzym tổng hợp protein.\n    - béo phì\n    - Tăng huyết áp nguy"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng huyết áp nguyên phát",
+  "context": "Hội chứng kháng enzym tổng hợp protein.\n    - béo phì\n    - Tăng huyết áp nguyên phát.\n    Tiền sử phẫu thuật / thủ thuật: Si"
+ },
+ {
+  "file": "12",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Sinh thiết nội mạc tử cung",
+  "context": "g huyết áp nguyên phát.\n    Tiền sử phẫu thuật / thủ thuật: Sinh thiết nội mạc tử cung gần đây\n    Thuốc trước khi nhập viện\n "
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương vùng âm hộ và mông bên phải",
+  "context": "i\n2.  Tiền sử bệnh hiện tại\n    Lý do nhập viện: Tình trạng tổn thương vùng âm hộ và mông bên phải ngày càng nặng\n    Diễn biến bệnh\n- Bện"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương vùng âm hộ phải",
+  "context": " ngày càng nặng\n    Diễn biến bệnh\n- Bệnh nhân nhập viện vì tổn thương vùng âm hộ phải lan rộng sang mông phải, diễn biến tăng"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương đơn độc vùng âm hộ phải",
+  "context": "nhập viện.\n- Cách nhập viện 5 ngày, bệnh nhân phát hiện một tổn thương đơn độc vùng âm hộ phải. Sau đó được bác sĩ điều trị khám và tă"
+ },
+ {
+  "file": "12",
+  "type": "TRIỆU_CHỨNG",
+  "text": "rỉ dịch vàng đục giống mủ",
+  "context": "ọng nước, lan rộng sang mông phải, đau nhiều, một số vị trí rỉ dịch vàng đục giống mủ.\n    - Khám tại phòng khám vào ngày nhậ"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương vùng âm hộ và mông bên phải",
+  "context": "ể khám và điều trị tiếp\n    Triệu chứng khi nhập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực kỳ đau đớn\n    - T"
+ },
+ {
+  "file": "12",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Tổn thương cực kỳ đau đớn",
+  "context": "hập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng n"
+ },
+ {
+  "file": "12",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tổn thương dạng bóng nước",
+  "context": "g bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng nước ngày càng nặng\n    - Lan đến mông bên p"
+ },
+ {
+  "file": "12",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch giống mủ có màu vàng",
+  "context": "ng nước ngày càng nặng\n    - Lan đến mông bên phải\n    - có dịch giống mủ có màu vàng  chảy ra từ tổn thương\n    Đặc điểm của"
+ },
+ {
+  "file": "12",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "context": ", về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may mắn, cấu trúc tai trong đảm nh"
+ },
+ {
+  "file": "13",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau ngực trái cấp tính",
+  "context": " dạibao gồm:\n2.  Tiền sử bệnh hiện tại\n    Lý do nhập viện: đau ngực trái cấp tính và đau sau xương ức lan ra sau lưng\nMức"
+ },
+ {
+  "file": "14",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "không ạ. Em cảm ơn rất nhiều\n    Các bệnh lý mạn tính\n    - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec\n    - Tăng huyết áp\n "
+ },
+ {
+  "file": "14",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "context": " - Tăng huyết áp\n    - tăng lipid máu, không đặc hiệu\n    - Đái tháo đường típ 2\n    - hẹp ống sống\n    - Giả gout\n    -"
+ },
+ {
+  "file": "14",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng sản tuyến tiền liệt",
+  "context": " gout\n    - bệnh thận mạn, không đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ả"
+ },
+ {
+  "file": "14",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Nhiều lần ngã gần đây",
+  "context": "g đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ảo giác\n    Thuốc trước khi n"
+ },
+ {
+  "file": "15",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "context": "ụng corticoid liều cao kéo dài.\n    - Thở oxy tại nhà\n    - Hội chứng kháng enzym tổng hợp protein.\n    - béo phì\n    - Tăng huyết áp nguy"
+ },
+ {
+  "file": "15",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng huyết áp nguyên phát",
+  "context": "Hội chứng kháng enzym tổng hợp protein.\n    - béo phì\n    - Tăng huyết áp nguyên phát.\n    Tiền sử phẫu thuật / thủ thuật: Si"
+ },
+ {
+  "file": "15",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Sinh thiết nội mạc tử cung",
+  "context": "g huyết áp nguyên phát.\n    Tiền sử phẫu thuật / thủ thuật: Sinh thiết nội mạc tử cung gần đây\n    Thuốc trước khi nhập viện\n "
+ },
+ {
+  "file": "15",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương vùng âm hộ và mông bên phải",
+  "context": "i\n2.  Tiền sử bệnh hiện tại\n    Lý do nhập viện: Tình trạng tổn thương vùng âm hộ và mông bên phải ngày càng nặng\n    Diễn biến bệnh\n- Bện"
+ },
+ {
+  "file": "15",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương vùng âm hộ phải",
+  "context": " ngày càng nặng\n    Diễn biến bệnh\n- Bệnh nhân nhập viện vì tổn thương vùng âm hộ phải lan rộng sang mông phải, diễn biến tăng"
+ },
+ {
+  "file": "15",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tổn thương đơn độc vùng âm hộ phải",
+  "context": "nhập viện.\n- Cách nhập viện 5 ngày, bệnh nhân phát hiện một tổn thương đơn độc vùng âm hộ phải. Sau đó được bác sĩ điều trị khám và tă"
+ },
+ {
+  "file": "15",
+  "type": "TRIỆU_CHỨNG",
+  "text": "rỉ dịch vàng đục giống mủ",
+  "context": "ọng nước, lan rộng sang mông phải, đau nhiều, một số vị trí rỉ dịch vàng đục giống mủ.\n    - Khám tại phòng khám vào ngày nhậ"
+ },
+ {
+  "file": "15",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch tiết có vẻ như mủ",
+  "context": " tế bào\n    - Báo cáo có cải thiện một phần về ban đỏ\n    - dịch tiết có vẻ như mủ từ một số tổn thương vào ngày, nhưng tì"
+ },
+ {
+  "file": "17",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hơi thở mùi khó chịu",
+  "context": "ổi, dạo này em đánh răng hay chảy máu chân răng, miệng thấy hơi thở mùi khó chịu, kèm theo thấy nhiều mảng bám quanh răn"
+ },
+ {
+  "file": "17",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh mạch máu ngoại biên",
+  "context": " nhập, gây hôi miệng, chảy máu chân răng và mất răng.\n    - bệnh mạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    "
+ },
+ {
+  "file": "17",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "context": "chân răng và mất răng.\n    - bệnh mạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    - Ngưng thở khi ngủ do tắc nghẽn đa"
+ },
+ {
+  "file": "17",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "context": "ạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    - Ngưng thở khi ngủ do tắc nghẽn đang dùng BiPAP\n    - Ung thư biểu mô t"
+ },
+ {
+  "file": "17",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+  "context": "\n    - Ngưng thở khi ngủ do tắc nghẽn đang dùng BiPAP\n    - Ung thư biểu mô tế bào vảy xâm nhập của dương vậtbiệt hóa kém, sau cắt bao quy đầu với bờ"
+ },
+ {
+  "file": "18",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm vùng gan mật",
+  "context": "cơn đau đỡ hơn ở  lần nhập viện trước.\n    - Được thực hiện siêu âm vùng gan mật tại phòng cấp cứu cho thấy túi mật căng"
+ },
+ {
+  "file": "18",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm vùng gan mật",
+  "context": " khi tái khám với GPRs\n    Kết quả chẩn đoán hình ảnh\n    - siêu âm vùng gan mật cho thấy sỏi mật nhưng không có viêm tú"
+ },
+ {
+  "file": "18",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm vùng gan mật",
+  "context": "ậu là chưa phát hiện bất thường (lần nhập viện trước)\n    - siêu âm vùng gan mật hiện tại cho thấy túi mật căng to với d"
+ },
+ {
+  "file": "20",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Đau bụng hạ sườn phải",
+  "context": " các trung khu thần kinh trong đại não, \nDa niêm mạc hồngi\n Đau bụng hạ sườn phải\n Buồn nôn, nôn ra thức ăn và dịch dạ dà"
+ },
+ {
+  "file": "20",
+  "type": "TRIỆU_CHỨNG",
+  "text": "nôn ra thức ăn và dịch dạ dày",
+  "context": "i não, \nDa niêm mạc hồngi\n Đau bụng hạ sườn phải\n Buồn nôn, nôn ra thức ăn và dịch dạ dày, không có máu \nKhám thấy\nHuyết áp:130/7"
+ },
+ {
+  "file": "21",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn chuyển hóa tinh bột",
+  "context": "Câu hỏi từ người dùng:\nEm bị Rối loạn chuyển hóa tinh bột (amyloidosis) đã lâu. Có dùng thuốc tại"
+ },
+ {
+  "file": "21",
+  "type": "CHẨN_ĐOÁN",
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "context": "ỗi nhẹ\n•        Bệnh amyloidosis tự miễn dịch\n•        Bệnh amyloidosis di truyền hoặc gia đình\nBệnh thoái hóa tinh bột là một bệnh đa "
+ },
+ {
+  "file": "21",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "nội soi thực quản - dạ dày - tá tràng",
+  "context": "kéo dài \n    Các sự kiện trước khi nhập viện\nBệnh nhân được nội soi thực quản - dạ dày - tá tràng ngoại trú, kết quả ghi nhận viêm dạ dày"
+ },
+ {
+  "file": "21",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp cộng hưởng từ mật tụy",
+  "context": " ngừng sử dụng thuốc NSAIDs.\nĐược điều trị bằng omeprazole.\nChụp cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXé"
+ },
+ {
+  "file": "21",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "context": "u trị bằng omeprazole.\nChụp cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXét nghiệm chức năng gan cho thấy men "
+ },
+ {
+  "file": "21",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Xét nghiệm chức năng gan",
+  "context": " cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXét nghiệm chức năng gan cho thấy men gan tăng.\nSau đó bệnh nhân"
+ },
+ {
+  "file": "21",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Xét nghiệm chức năng gan",
+  "context": "ánh giá và điều trị tiếp\n.Đánh giá tại bệnh viện\nXét nghiệm:Xét nghiệm chức năng gan ghi nhận tăng men gan.\n"
+ },
+ {
+  "file": "22",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm bụng có doppler",
+  "context": " quả tại thời điểm chuyển viện\nKết quả chẩn đoán hình ảnh\n- siêu âm bụng có doppler âm tính âm tính\n- âm tính chụp hida\n- e"
+ },
+ {
+  "file": "23",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "\n    Các phát hiện chẩn đoán khác\n    - Tăng nhãn áp so với chụp cắt lớp vi tính (ct) đầu từ [Date] (từ lần nhập viện tr"
+ },
+ {
+  "file": "24",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm gan vàng da ứ mật",
+  "context": "       Anti HBc IgG (-); Anti HBc IgM (+)\n        Hội chứng viêm gan vàng da ứ mật:\n        Khởi phát bệnh từ từ, da niêm "
+ },
+ {
+  "file": "25",
+  "type": "CHẨN_ĐOÁN",
+  "text": "teo niêm mạc tử cung",
+  "context": "y ra tình trạng tắc ống dẫn trứng, lạm dụng thuốc còn khiến teo niêm mạc tử cung, không rụng trứng dẫn đến vô sinh. Nhiề"
+ },
+ {
+  "file": "25",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư cổ tử cung",
+  "context": "rứng dẫn đến vô sinh. Nhiều trường hợp nguy hiểm còn gây ra ung thư cổ tử cung do dùng thuốc quá nhiều.\n-        Sử dụ"
+ },
+ {
+  "file": "25",
+  "type": "CHẨN_ĐOÁN",
+  "text": "mang thai ngoài tử cung",
+  "context": "g nhiều ************************* khiến chị em tăng nguy cơ mang thai ngoài tử cung.\n-        Chị em sử dụng thuốc quá liều"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Xơ vữa động mạch vành",
+  "context": " .\n\n2. Nguyên nhân và cơ chế bệnh sinh \n\nNguyên nhân chính\n\nXơ vữa động mạch vành:\n • LDL-cholesterol tăng\n • Lắng đọng l"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đau thắt ngực ổn định",
+  "context": "hút\nGiảm khi nghỉ hoặc dùng nitroglycerin\nCác thể lâm sàng\n\nĐau thắt ngực ổn định\n • Xảy ra khi gắng sức\n • Giảm khi nghỉ"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhồi máu cơ tim ST chênh",
+  "context": " cấp\n • Đau dữ dội, kéo dài\n • Không đỡ khi nghỉ\n • Gồm:\n • Nhồi máu cơ tim ST chênh\n • Nhồi máu không ST chênh\n • Đau thắt "
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhồi máu không ST chênh",
+  "context": " • Không đỡ khi nghỉ\n • Gồm:\n • Nhồi máu cơ tim ST chênh\n • Nhồi máu không ST chênh\n • Đau thắt ngực không ổn định\n\nTriệu c"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đau thắt ngực không ổn định",
+  "context": ":\n • Nhồi máu cơ tim ST chênh\n • Nhồi máu không ST chênh\n • Đau thắt ngực không ổn định\n\nTriệu chứng không điển hình (hay gặp ở"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "context": "- tiền sử rung nhĩ\n    - phẫu thuật cắt bỏ tuyến tiền liệt (u ác của tuyến tiền liệt)\n    - rối loạn cảm xúc lưỡng cực khác\n"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "context": "uật cắt bỏ tuyến tiền liệt (u ác của tuyến tiền liệt)\n    - rối loạn cảm xúc lưỡng cực khác\n    Tiền sử phẫu thuật / thủ thuật"
+ },
+ {
+  "file": "26",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "context": " phẫu thuật / thủ thuật: phẫu thuật cắt bỏ tuyến tiền liệt (u ác của tuyến tiền liệt)\n    Thuốc trước khi nhập viện: đang dù"
+ },
+ {
+  "file": "27",
+  "type": "CHẨN_ĐOÁN",
+  "text": "hoại tử nhu mô phổi",
+  "context": "p ứng hay cơ thể có sức đề kháng yêu, suy giảm miễn dịch và hoại tử nhu mô phổi.\nViêm phổi hoại tử: là một thể nặng của"
+ },
+ {
+  "file": "27",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "\n    Các phát hiện chẩn đoán khác\n    - Tăng nhãn áp so với chụp cắt lớp vi tính (ct) đầu từ [Date] (từ lần nhập viện tr"
+ },
+ {
+  "file": "29",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "1. Tiền sử bệnh nội\nCác bệnh lý mạn tính\n- ho Bệnh bạch cầu dòng tủy mãn tính\n- Tăng huyết áp\n- Đái tháo đường típ 2\n"
+ },
+ {
+  "file": "29",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "context": "tính\n- ho Bệnh bạch cầu dòng tủy mãn tính\n- Tăng huyết áp\n- Đái tháo đường típ 2\n- ho Rung nhĩ kèm đáp ứng thất nhanh\n- "
+ },
+ {
+  "file": "29",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "context": "ng tủy mãn tính\n- Tăng huyết áp\n- Đái tháo đường típ 2\n- ho Rung nhĩ kèm đáp ứng thất nhanh\n- bệnh thận mạn, không đặc hiệu\n2. Bệnh"
+ },
+ {
+  "file": "29",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "context": "rở lại. \nTrong thời gian nằm viện, bệnh nhân được chẩn đoán nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin, nghi liên quan đến đường truyền tĩnh m"
+ },
+ {
+  "file": "29",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Siêu âm mạch máu chi trên",
+  "context": "quan đến đường truyền tĩnh mạch trung tâm ngoại vi (PICC). \nSiêu âm mạch máu chi trên không ghi nhận huyết khối, xạ hình thôn"
+ },
+ {
+  "file": "29",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "xạ hình thông khí - tưới máu phổi",
+  "context": "ICC). \nSiêu âm mạch máu chi trên không ghi nhận huyết khối, xạ hình thông khí - tưới máu phổi cho thấy xác suất thấp thuyên tắc phổi."
+ },
+ {
+  "file": "29",
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng bàn chân bẹt bẩm sinh",
+  "context": "hào bác sĩ! Cháu có 1 nhóc 3,5 tuổi. Cháu đang nghĩ cháu bị hội chứng bàn chân bẹt bẩm sinh, vì phần gót chân của con cháu khi nhìn"
+ },
+ {
+  "file": "29",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Siêu âm mạch máu chi trên",
+  "context": "n động, tiên lượng về tiến triển của bệnh một cách cụ thể. \nSiêu âm mạch máu chi trên không ghi nhận huyết khối.\nXạ hình thôn"
+ },
+ {
+  "file": "29",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Xạ hình thông khí – tưới máu phổi",
+  "context": " thể. \nSiêu âm mạch máu chi trên không ghi nhận huyết khối.\nXạ hình thông khí – tưới máu phổi cho thấy xác suất thấp thuyên tắc phổi."
+ },
+ {
+  "file": "31",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau bụng vùng hạ sườn phải",
+  "context": " Chúc bạn nhiều sức khoẻ.    Các triệu chứng hiện tại\n    - đau bụng vùng hạ sườn phải\n    - chướng bụng \n    - buồn nôn thoán"
+ },
+ {
+  "file": "31",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau bụng hạ sườn phải",
+  "context": "ân có  đau lưng âm ỉ\n    Đặc điểm triệu chứng\n    - Vị trí: đau bụng hạ sườn phải, đau lưng (khu trú vùng cạnh cột sống b"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "nội soi thực quản - dạ dày - tá tràng",
+  "context": "kéo dài \n    Các sự kiện trước khi nhập viện\nBệnh nhân được nội soi thực quản - dạ dày - tá tràng ngoại trú, kết quả ghi nhận viêm dạ dày"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp cộng hưởng từ mật tụy",
+  "context": " ngừng sử dụng thuốc NSAIDs.\nĐược điều trị bằng omeprazole.\nChụp cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXé"
+ },
+ {
+  "file": "31",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "context": "u trị bằng omeprazole.\nChụp cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXét nghiệm chức năng gan cho thấy men "
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Xét nghiệm chức năng gan",
+  "context": " cộng hưởng từ mật tụy  ghi nhận sỏi đoạn cuối ống mật chủ.\nXét nghiệm chức năng gan cho thấy men gan tăng.\nSau đó bệnh nhân"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Xét nghiệm chức năng gan",
+  "context": "ánh giá và điều trị tiếp\n.Đánh giá tại bệnh viện\nXét nghiệm:Xét nghiệm chức năng gan ghi nhận tăng men gan.\nChẩn đoán hình ả"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Nội soi thực quản - dạ dày - tá tràng",
+  "context": "ng gan ghi nhận tăng men gan.\nChẩn đoán hình ảnh và thăm dò:Nội soi thực quản - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : s"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Cộng hưởng từ mật tụy",
+  "context": "thăm dò:Nội soi thực quản - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật "
+ },
+ {
+  "file": "31",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "context": "n - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật được thực hiện   :Nội soi mậ"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Nội soi mật tụy ngược dòng",
+  "context": "ụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật được thực hiện   :Nội soi mật tụy ngược dòng (ERCP). Trong quá trình ERCP, lấy thành"
+ },
+ {
+  "file": "31",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi tại đoạn cuối ống mật chủ",
+  "context": "c dòng (ERCP). Trong quá trình ERCP, lấy thành công 02 viên sỏi tại đoạn cuối ống mật chủ (CBD).\n    - chụp cộng hưởng từ mật tụy"
+ },
+ {
+  "file": "31",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cộng hưởng từ mật tụy",
+  "context": "ành công 02 viên sỏi tại đoạn cuối ống mật chủ (CBD).\n    - chụp cộng hưởng từ mật tụy tụi mật được thực hiện cho thấy sỏi ống"
+ },
+ {
+  "file": "31",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "context": " chụp cộng hưởng từ mật tụy tụi mật được thực hiện cho thấy sỏi ống dẫn mật chung đoạn cuối\n"
+ },
+ {
+  "file": "32",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn chuyển hóa tinh bột",
+  "context": "Câu hỏi từ người dùng:\nEm bị Rối loạn chuyển hóa tinh bột (amyloidosis) đã lâu. Có dùng thuốc tại"
+ },
+ {
+  "file": "32",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "hứng và suy các cơ quan, thậm chí có thể gây tử vong.\n    - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec\n    - Tăng huyết áp\n "
+ },
+ {
+  "file": "32",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "context": " - Tăng huyết áp\n    - tăng lipid máu, không đặc hiệu\n    - Đái tháo đường típ 2\n    - hẹp ống sống\n    - Giả gout\n    -"
+ },
+ {
+  "file": "32",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng sản tuyến tiền liệt",
+  "context": " gout\n    - bệnh thận mạn, không đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ả"
+ },
+ {
+  "file": "32",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Nhiều lần ngã gần đây",
+  "context": "g đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ảo giác\n    Thuốc trước khi n"
+ },
+ {
+  "file": "32",
+  "type": "CHẨN_ĐOÁN",
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "context": "ỗi nhẹ\n•        Bệnh amyloidosis tự miễn dịch\n•        Bệnh amyloidosis di truyền hoặc gia đình\nBệnh thoái hóa tinh bột là một bệnh đa "
+ },
+ {
+  "file": "33",
+  "type": "TRIỆU_CHỨNG",
+  "text": "giảm khả năng quan hệ tình dục",
+  "context": " mỏi và weak\n- Thường xuyên ngủ quên hoặc có thể ngất xỉu\n- giảm khả năng quan hệ tình dục với bạn tình\n- Đau buốt khi đi tiểu\n- c"
+ },
+ {
+  "file": "33",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Đau buốt khi đi tiểu",
+  "context": "hể ngất xỉu\n- giảm khả năng quan hệ tình dục với bạn tình\n- Đau buốt khi đi tiểu\n- chán ăn\n- nôn từng đợt sau khi ăn\nĐặc"
+ },
+ {
+  "file": "33",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau ở cánh tay trái dưới và bàn tay",
+  "context": "uống cánh tay trái\n- kèm theo tê bì ở cánh tay trái trên và đau ở cánh tay trái dưới và bàn tay\n- liên tục\n- không nặng hơn/giảm khi là"
+ },
+ {
+  "file": "33",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau rát khi đi tiểu",
+  "context": "n trong vài tuần qua\n- yếu:\n- tăng dần trong vài tuần qua\n- đau rát khi đi tiểu:\n- từng đợt, khoảng 2 tuần\n- Ăn uống:\n-"
+ },
+ {
+  "file": "34",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh lý đau nửa đầu",
+  "context": " \n\nChào bạn\nNhững triệu chứng của bạn có vẻ giống Bệnh lý đau nửa đầu hay còn gọi là bệnh đau nửa đầu Migrain"
+ },
+ {
+  "file": "34",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "iácxuất hiện khoảng một tháng trước.\n    - Đã được điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định.\n    - Thuốc giả"
+ },
+ {
+  "file": "34",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "Không có thay đổi đáng kể về triệu chứng mặc dù đã điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định và ngừng thuốc g"
+ },
+ {
+  "file": "35",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "context": "\n- Không có đau tại phòng cấp cứu\n\nCâu trả lời của bác sĩ:\n\nViêm hang vị sung huyết là tình trạng niêm mạc vùng hang vị dạ "
+ },
+ {
+  "file": "35",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": "n bệnh đã được điều trị hiệu quả. Để điều trị dứt điểm bệnh viêm sung huyết hang vị dạ dày, trước hết, người bệnh cần được thăm kh"
+ },
+ {
+  "file": "35",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": " thuốc mà chưa có sự đồng ý của bác sĩ. Ngoài ra, người bị viêm sung huyết hang vị dạ dày có thể sử dụng sản phẩm từ thiên nhiên "
+ },
+ {
+  "file": "36",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tức nặng 2 chi dưới",
+  "context": "Bệnh nhân nam 17 tuổi, vào viện với lý do nặng mặt, tức nặng 2 chi dưới, tiểu ít, bệnh khởi phát cách đây 1 thá"
+ },
+ {
+  "file": "36",
+  "type": "TRIỆU_CHỨNG",
+  "text": "phù nhẹ 2 chi dưới",
+  "context": "ề chiều, khi ăn mặn phù tăng lên. Hiện tại hết phù mặt, còn phù nhẹ 2 chi dưới.\n       Protein niệu 24h:\n       Protei"
+ },
+ {
+  "file": "36",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tổn thương cầu thận mạn tính",
+  "context": "52 g/l; Albumin: 20 g/l.\n       Triglycerid:6,7 mmol/l\n     Tổn thương cầu thận mạn tính\n     Phù hợp  với các tính chất như trê"
+ },
+ {
+  "file": "36",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nốt sần tuyến giáp phải",
+  "context": "\n2.  Tiền sử bệnh hiện tại\n    Lý do nhập viện: FNA của một nốt sần tuyến giáp phải có cấu trúc vi nang\n    Triệu chứng hiệ"
+ },
+ {
+  "file": "36",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau vùng hạ sườn phải",
+  "context": "yến giáp phải có cấu trúc vi nang\n    Triệu chứng hiện tại: đau vùng hạ sườn phải\n    Các sự kiện trước khi nhập viện\n   "
+ },
+ {
+  "file": "37",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch tiết có vẻ như mủ",
+  "context": " tế bào\n    - Báo cáo có cải thiện một phần về ban đỏ\n    - dịch tiết có vẻ như mủ từ một số tổn thương vào ngày, nhưng tì"
+ },
+ {
+  "file": "38",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "1.  Tiền sử bệnh nội khoa\n    Các bệnh lý mạn tính\n    - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec\n    - Tăng huyết áp\n "
+ },
+ {
+  "file": "38",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "context": " - Tăng huyết áp\n    - tăng lipid máu, không đặc hiệu\n    - Đái tháo đường típ 2\n    - hẹp ống sống\n    - Giả gout\n    -"
+ },
+ {
+  "file": "38",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng sản tuyến tiền liệt",
+  "context": " gout\n    - bệnh thận mạn, không đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ả"
+ },
+ {
+  "file": "38",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Nhiều lần ngã gần đây",
+  "context": "g đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ảo giác\n    Thuốc trước khi n"
+ },
+ {
+  "file": "38",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": " 1.4\n    - Tăng men gan. với alt là 176 và ast là 287\n    - tổng phân tích nước tiểu có đái tháo đườngđái tháo đường\n    Kết"
+ },
+ {
+  "file": "39",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "context": "1. Tiền sử bệnh\nCác bệnh lý mạn tính\n- Ung thư biểu mô tuyến đại tràng\n- bệnh phổi tắc nghẽn mạn tính, không x"
+ },
+ {
+  "file": "39",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "context": "nh\nCác bệnh lý mạn tính\n- Ung thư biểu mô tuyến đại tràng\n- bệnh phổi tắc nghẽn mạn tính, không xác định\n- Đái tháo đường\n- xơ g"
+ },
+ {
+  "file": "39",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư tuyến đại tràng",
+  "context": " sung: \"Phẫu thuật mở cắt nối trực tràng/đại tràng sigma vì ung thư tuyến đại tràng\nCác yếu tố nguy cơ liên quan: xơ gan do"
+ },
+ {
+  "file": "39",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "động, tiên lượng về tiến triển của bệnh một cách cụ thể. \n- khó thở khi gắng sức\n- ho mạn tính có đờm vàng loãng\n- ran\n-"
+ },
+ {
+  "file": "39",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch thanh dịch lẫn máu từ vết mổ",
+  "context": " gắng sức\n- ho mạn tính có đờm vàng loãng\n- ran\n- phù phù\n- dịch thanh dịch lẫn máu từ vết mổ\n- phân nâu dương tính guaiac\nKết quả xé"
+ },
+ {
+  "file": "39",
+  "type": "CHẨN_ĐOÁN",
+  "text": "xẹp phổi thùy dưới phải",
+  "context": "uần trước.\nKết quả chẩn đoán hình ảnh: chụp x-quang ngực có xẹp phổi thùy dưới phải do chèn ép kèm tràn dịch màng phổi.\nCác"
+ },
+ {
+  "file": "40",
+  "type": "TRIỆU_CHỨNG",
+  "text": "nôn thức ăn lẫn máu",
+  "context": " sử: Cách vào viện 4 ngày \nBN xuất hiện đau bụng quanh rốn, nôn thức ăn lẫn máu kèm đi ngoài phân đen, khó thở liên tục"
+ },
+ {
+  "file": "40",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Van động mạch chủ cơ học",
+  "context": "*******, ********** => Chuyển viện\nTiền sử bệnh: \nBản thân: Van động mạch chủ cơ học điều trị thuốc không đều, thay khớp hán"
+ },
+ {
+  "file": "40",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Tổng phân tích tế bào máu ngoại vi",
+  "context": "máu: Khí máu động mạch (23 thông số).\nHuyết học & Đông máu:\nTổng phân tích tế bào máu ngoại vi (bằng máy đếm laser).\nThời gian Thrombo"
+ },
+ {
+  "file": "40",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Thời gian Thromboplastin một phần hoạt hóa",
+  "context": "u:\nTổng phân tích tế bào máu ngoại vi (bằng máy đếm laser).\nThời gian Thromboplastin một phần hoạt hóa (aPTT / TCK) bằng máy tự động.Thời gian"
+ },
+ {
+  "file": "40",
+  "type": "TRIỆU_CHỨNG",
+  "text": "tiểu tiện không tự chủ",
+  "context": "oán hình ảnh\nKhông ghi nhận co giật, cứng đờ, cắn lưỡi hoặc tiểu tiện không tự chủ.\n Sinh hóa & Miễn dịch: CRP: 227.0 mg/L"
+ },
+ {
+  "file": "40",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Chụp CT Bụng - Tiểu khung",
+  "context": "L Kali +: 3.6 mmol/L\n. Chẩn đoán hình ảnh (Ngày 03/07/2026)\nChụp CT Bụng - Tiểu khung (64–128 dãy, có thuốc cản quang, không "
+ },
+ {
+  "file": "40",
+  "type": "CHẨN_ĐOÁN",
+  "text": "dày thành một số quai ruột non",
+  "context": "8 dãy, có thuốc cản quang, không in phim):Kết quả: Hình ảnh dày thành một số quai ruột non.2. \nY lệnh Điều trị\nCeftriaxone 1g :Liề"
+ },
+ {
+  "file": "42",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "context": "- ho đái tháo đường\n    - tăng huyết áp\n    - béo phì\n    - ngưng thở khi ngủ do tắc nghẽn\n    Thuốc trước khi nhập viện\n    - tyl"
+ },
+ {
+  "file": "42",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau bụng vùng thượng vị",
+  "context": "i nhập viện\n    Triệu chứng hiện tại\n\nMột tuần nay em bị đau bụng vùng thượng vị, ợ hơi, ợ chua. Em đã đi nội soi dạ "
+ },
+ {
+  "file": "42",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đi tiểu nhiều lần vào ban đêm",
+  "context": "101\n    - thỉnh thoảng tiêu chảy các thuốc của ông ấy\n    - đi tiểu nhiều lần vào ban đêm, không có đau buốt khi đi tiểu\n    Đặc "
+ },
+ {
+  "file": "42",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau buốt khi đi tiểu",
+  "context": "ốc của ông ấy\n    - đi tiểu nhiều lần vào ban đêm, không có đau buốt khi đi tiểu\n    Đặc điểm triệu chứng\n    - khó thở "
+ },
+ {
+  "file": "42",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "hông có đau buốt khi đi tiểu\n    Đặc điểm triệu chứng\n    - khó thở khi gắng sức bao gồm cảm giác khó thở sau khi đi bộ "
+ },
+ {
+  "file": "42",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi nằm đột ngột",
+  "context": "đổ mồ hôi đêm\n    - Phủ nhận khó thở khi nằm\n    - Phủ nhận khó thở khi nằm đột ngột (paroxysmal nocturnal dyspnea)\n    Sự k"
+ },
+ {
+  "file": "42",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": "   Kết quả xét nghiệm\n    - số lượng bạch cầu là 12.5\n    - tổng phân tích nước tiểu đáng chú ý chỉ có vếtvết protein niệu. "
+ },
+ {
+  "file": "42",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phổi thùy dưới phải",
+  "context": "  Kết quả chẩn đoán hình ảnh: chụp x-quang ngực được cho là viêm phổi thùy dưới phải (RLL PNA)"
+ },
+ {
+  "file": "43",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "1.  Tiền sử bệnh nội khoa\n    Các bệnh lý mạn tính\n    - Bệnh bạch cầu dòng tủy mãn tính\n    - tăng cholesterol máu đơn thuần\n  "
+ },
+ {
+  "file": "43",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng cholesterol máu đơn thuần",
+  "context": "ệnh lý mạn tính\n    - Bệnh bạch cầu dòng tủy mãn tính\n    - tăng cholesterol máu đơn thuần\n    - tăng huyết áp\n    Thuốc trước khi"
+ },
+ {
+  "file": "43",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "iácxuất hiện khoảng một tháng trước.\n    - Đã được điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định.\n    - Thuốc giả"
+ },
+ {
+  "file": "43",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "Không có thay đổi đáng kể về triệu chứng mặc dù đã điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định và ngừng thuốc g"
+ },
+ {
+  "file": "44",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "siêu âm bụng có doppler",
+  "context": "st 421, alt 336, alp 185, bilirubin toàn phần 0.9\n- âm tính siêu âm bụng có doppler\n- âm tính chụp hida\n- Chưa từng xét ngh"
+ },
+ {
+  "file": "45",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "  - Nhập viện khoa Thần kinh từ [Date] với thông não so với chụp cắt lớp vi tính (ct) đầu từ [Date].\n    - Bị tăng đau đ"
+ },
+ {
+  "file": "45",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Tổng phân tích tế bào máu ngoại vi",
+  "context": " bên phải, tiến triển trong 2 tuần qua.\nXét nghiệm cần làm:\nTổng phân tích tế bào máu ngoại vi (bằng máy \nđếm laser); Thời gian prothr"
+ },
+ {
+  "file": "45",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Dị tật còn ống động mạch",
+  "context": "ượng Creatinin (máu); Điện giải đồ (Na, K, \nCl\nChẩn đoán :  Dị tật còn ống động mạch\nĐiều trị : \n***********************\n***"
+ },
+ {
+  "file": "45",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "***********************\n*********\n    - Tăng nhãn áp so với chụp cắt lớp vi tính (ct) đầu từ [Date] (từ lần nhập viện tr"
+ },
+ {
+  "file": "46",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng áp lực động mạch phổi",
+  "context": "thất trái bảo tồn\n(EF BP: 55%)\nHở hai lá nhiều.\nHở chủ vừa.\nTăng áp lực động mạch phổi nhẹ\n\nChẩn đoán: Phù phổi cấp - Suy tim "
+ },
+ {
+  "file": "46",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u dây thần kinh số VIII",
+  "context": "ch vành - Tăng huyết áp\n\nXử trí : \n\n    - Phẫu thuật cắt bỏ u dây thần kinh số VIII \n    - Đặt shunt động tĩnh mạch (AVF) ở"
+ },
+ {
+  "file": "46",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "ền liệt\n2.  Bệnh sử hiện tại\n    Lý do nhập viện:  mệt mỏi, mất trí nhớ chi tiết\nBệnh nhân kể cảm thấy khó chịu mệt mỏi "
+ },
+ {
+  "file": "46",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "mỏi nhiều, ăn không ngon miệng, ngứa da toàn thân nhiều, và mất trí nhớ chi tiết, khó thở khi gắng sức. Tuần qua có buồn"
+ },
+ {
+  "file": "46",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "on miệng, ngứa da toàn thân nhiều, và mất trí nhớ chi tiết, khó thở khi gắng sức. Tuần qua có buồn nôn, và nôn .\nKhám hi"
+ },
+ {
+  "file": "46",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "  - Ăn không ngon miệng\n    - Ngứa da toàn thân nhiều\n    - mất trí nhớ chi tiết\n    - khó thở khi gắng sức \n    - buồn "
+ },
+ {
+  "file": "46",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": " - Ngứa da toàn thân nhiều\n    - mất trí nhớ chi tiết\n    - khó thở khi gắng sức \n    - buồn nôn và nôn \nCận lâm sàng\n *"
+ },
+ {
+  "file": "47",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "context": "1. Tiền sử bệnh\nCác bệnh lý mạn tính\n- Ung thư biểu mô tuyến đại tràng\n- bệnh phổi tắc nghẽn mạn tính, không x"
+ },
+ {
+  "file": "47",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "context": "nh\nCác bệnh lý mạn tính\n- Ung thư biểu mô tuyến đại tràng\n- bệnh phổi tắc nghẽn mạn tính, không xác định\n- Đái tháo đường\n- xơ g"
+ },
+ {
+  "file": "47",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư tuyến đại tràng",
+  "context": " sung: \"Phẫu thuật mở cắt nối trực tràng/đại tràng sigma vì ung thư tuyến đại tràng\nCác yếu tố nguy cơ liên quan: xơ gan do"
+ },
+ {
+  "file": "47",
+  "type": "TRIỆU_CHỨNG",
+  "text": "phân nâu dương tính guaiac",
+  "context": "hám thấy ran nổ, phù phù, dịch rỉ huyết thanh từ vết mổ, và phân nâu dương tính guaiac.\n- dấu hiệu sinh tồn là: 98.8 65 9360 2"
+ },
+ {
+  "file": "47",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "âm sàng\n- hạ huyết áp, không đặc hiệu\n- mệt mỏi\n- mệt mỏi\n- khó thở khi gắng sức\n- ho mạn tính có đờm vàng loãng\n- ran\n-"
+ },
+ {
+  "file": "47",
+  "type": "TRIỆU_CHỨNG",
+  "text": "ho mạn tính có đờm vàng loãng",
+  "context": "không đặc hiệu\n- mệt mỏi\n- mệt mỏi\n- khó thở khi gắng sức\n- ho mạn tính có đờm vàng loãng\n- ran\n- phù phù\n- dịch thanh dịch lẫn m"
+ },
+ {
+  "file": "47",
+  "type": "TRIỆU_CHỨNG",
+  "text": "dịch thanh dịch lẫn máu từ vết mổ",
+  "context": " gắng sức\n- ho mạn tính có đờm vàng loãng\n- ran\n- phù phù\n- dịch thanh dịch lẫn máu từ vết mổ\n- phân nâu dương tính guaiac\nKết quả xé"
+ },
+ {
+  "file": "47",
+  "type": "TRIỆU_CHỨNG",
+  "text": "phân nâu dương tính guaiac",
+  "context": "loãng\n- ran\n- phù phù\n- dịch thanh dịch lẫn máu từ vết mổ\n- phân nâu dương tính guaiac\nKết quả xét nghiệm: huyết khối 26.3, gi"
+ },
+ {
+  "file": "47",
+  "type": "CHẨN_ĐOÁN",
+  "text": "xẹp phổi thùy dưới phải",
+  "context": "uần trước.\nKết quả chẩn đoán hình ảnh: chụp x-quang ngực có xẹp phổi thùy dưới phải do chèn ép kèm tràn dịch màng phổi.\nCác"
+ },
+ {
+  "file": "48",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "context": ", về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may mắn, cấu trúc tai trong đảm nh"
+ },
+ {
+  "file": "49",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư vú di căn",
+  "context": "à bệnh viện rùi mà đến nay vẫn không hết. Cảm ơn Bác sỹ ạ!\n\nUng thư vú di căn, tràn dịch màng phổi trái tái phát\n\n2. "
+ },
+ {
+  "file": "49",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng phổi trái",
+  "context": "đến nay vẫn không hết. Cảm ơn Bác sỹ ạ!\n\nUng thư vú di căn, tràn dịch màng phổi trái tái phát\n\n2. Bệnh sử hiện tại\nLý do vào"
+ },
+ {
+  "file": "49",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng ngoài tim",
+  "context": "ại\nLý do vào việni: khó thở\n3. Khám tại bệnh viện\nLâm sàng: tràn dịch màng ngoài tim mức độ trung bình\nKết quả chẩn đoán hìn"
+ },
+ {
+  "file": "49",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+  "context": "àng ngoài tim mức độ trung bình\nKết quả chẩn đoán hình ảnh: ung thư di căn theo đường bạch huyết ở hai phổi\nCác thủ thuật đã thực hiện\n- dẫn lưu dị"
+ },
+ {
+  "file": "49",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm da tiếp xúc dị ứng",
+  "context": "itrochlorobenzene được quét lên vùng rụng tóc, chúng sẽ gây viêm da tiếp xúc dị ứng ở vùng điều trị, có thể sử dụng 01 lần/"
+ },
+ {
+  "file": "50",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "  - Nhập viện khoa Thần kinh từ [Date] với thông não so với chụp cắt lớp vi tính (ct) đầu từ [Date].\n    - Bị tăng đau đ"
+ },
+ {
+  "file": "51",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó nằm vào ban đêm để ngủ vì thở",
+  "context": " ba ngày trước\n    Triệu chứng hiện tại\n    - khó thở\n    - khó nằm vào ban đêm để ngủ vì thở\n    - căng cứng vai trái (ngắt quãng, x"
+ },
+ {
+  "file": "54",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "\n\nVà e có nên làm xét nghiệm gì để sàng lọc không ah?\n    - Bệnh bạch cầu dòng tủy mãn tính đang dùng gleevec\n    - Tăng huyết áp\n "
+ },
+ {
+  "file": "54",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "context": " - Tăng huyết áp\n    - tăng lipid máu, không đặc hiệu\n    - Đái tháo đường típ 2\n    - hẹp ống sống\n    - Giả gout\n    -"
+ },
+ {
+  "file": "54",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng sản tuyến tiền liệt",
+  "context": " gout\n    - bệnh thận mạn, không đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ả"
+ },
+ {
+  "file": "54",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Nhiều lần ngã gần đây",
+  "context": "g đặc hiệu Giai đoạn 4\n    - tăng sản tuyến tiền liệt\n    - Nhiều lần ngã gần đây Ngã\n    - ảo giác\n    Thuốc trước khi n"
+ },
+ {
+  "file": "55",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy thận mạn giai đoạn V",
+  "context": "Em cảm ơn ạ\n1.  Tiền sử bệnh\n    Các bệnh lý mạn tính\n    - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp\n    "
+ },
+ {
+  "file": "55",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "context": "ận mạn giai đoạn V do đái tháo đường và tăng huyết áp\n    - u ác của tuyến tiền liệt điều trị bằng xạ trị cấy hạt \n    Tiền "
+ },
+ {
+  "file": "55",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u dây thần kinh số VIII",
+  "context": "\n    Tiền sử phẫu thuật / thủ thuật\n    - Phẫu thuật cắt bỏ u dây thần kinh số VIII \n    - Đặt shunt động tĩnh mạch (AVF) ở"
+ },
+ {
+  "file": "56",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+  "context": "từ người dùng :\n\nCận lâm sàng:\nKết quả chẩn đoán hình ảnh\n- Đo sức bền cơ tim bằng đồng vị phóng xạ kết quả có dị tật cố định vùng trước vá"
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "giảm chức năng tâm thu thất trái",
+  "context": "kết quả có dị tật cố định vùng trước vách và vách dưới với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năn"
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn chức năng thất trái",
+  "context": "với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năng thất trái.\n- Chụp động mạch vành cho thấy bệnh ba"
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh ba thân động mạch vành",
+  "context": "ối loạn chức năng thất trái.\n- Chụp động mạch vành cho thấy bệnh ba thân động mạch vành nghiêm trọng \nCác thủ thuật đã thực hiệ"
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "context": "n\n- Chụp động mạch vành can thiệp\nCâu trả lời của bác sĩ: \n\nViêm hang vị sung huyết là tình trạng niêm mạc vùng hang vị dạ "
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": "n bệnh đã được điều trị hiệu quả. Để điều trị dứt điểm bệnh viêm sung huyết hang vị dạ dày, trước hết, người bệnh cần được thăm kh"
+ },
+ {
+  "file": "56",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": " thuốc mà chưa có sự đồng ý của bác sĩ. Ngoài ra, người bị viêm sung huyết hang vị dạ dày có thể sử dụng sản phẩm từ thiên nhiên "
+ },
+ {
+  "file": "57",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "context": "bệnh nội khoa:\nTăng huyết áp.\nĐái tháo đường, có biến chứng bệnh lý thần kinh ngoại biên.\nSuy tim không do thiếu máu cơ tim (the"
+ },
+ {
+  "file": "57",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": " creatinine 5.7\n- hemoglobin 7.8\n- hba1c 6.5\n- bnp 21,000\n- tổng phân tích nước tiểu bình thường\n đồ uống có cồn, đồ chiên r"
+ },
+ {
+  "file": "58",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "context": "bệnh nội khoa:\nTăng huyết áp.\nĐái tháo đường, có biến chứng bệnh lý thần kinh ngoại biên.\nSuy tim không do thiếu máu cơ tim (the"
+ },
+ {
+  "file": "58",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường typ II",
+  "context": "iền sử gia đình: Chưa phát hiện gì bất thường\n2. Chẩn đoán: Đái tháo đường typ II/Tăng HA độ III đáp ứng với thuốc.\n3. Ti"
+ },
+ {
+  "file": "58",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": " creatinine 5.7\n- hemoglobin 7.8\n- hba1c 6.5\n- bnp 21,000\n- tổng phân tích nước tiểu bình thường\n- cúm âm tính\nKết quả chẩn "
+ },
+ {
+  "file": "58",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng phổi hai bên",
+  "context": " hình ảnh: chụp x-quang ngực: Tăng gánh nhẹ tuần hoàn phổi, tràn dịch màng phổi hai bên nhẹ, tim to\nCác thủ thuật đã thực hiện\n"
+ },
+ {
+  "file": "59",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "có cặn\nCận lâm sàng::\n- lactate 1.1-->0.8\n- Cấy nước tiểu : nhiễm khuẩn đường tiết niệu có các vi khuẩn hỗn hợp\n- cấy máu :âm t"
+ },
+ {
+  "file": "62",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau buốt khi đi tiểu",
+  "context": "ốc của ông ấy\n    - đi tiểu nhiều lần vào ban đêm, không có đau buốt khi đi tiểu\n    Đặc điểm triệu chứng\n    - khó thở "
+ },
+ {
+  "file": "62",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi nằm đột ngột",
+  "context": "đổ mồ hôi đêm\n    - Phủ nhận khó thở khi nằm\n    - Phủ nhận khó thở khi nằm đột ngột (paroxysmal nocturnal dyspnea)\n    Sự k"
+ },
+ {
+  "file": "62",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": "   Kết quả xét nghiệm\n    - số lượng bạch cầu là 12.5\n    - tổng phân tích nước tiểu đáng chú ý chỉ có vếtvết protein niệu. "
+ },
+ {
+  "file": "63",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "context": "1.  Tiền sử bệnh nội khoa\n    Các bệnh lý mạn tính\n    - Bệnh bạch cầu dòng tủy mãn tính\n    - tăng cholesterol máu đơn thuần\nE "
+ },
+ {
+  "file": "63",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "iácxuất hiện khoảng một tháng trước.\n    - Đã được điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định.\n    - Thuốc giả"
+ },
+ {
+  "file": "63",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "Không có thay đổi đáng kể về triệu chứng mặc dù đã điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định và ngừng thuốc g"
+ },
+ {
+  "file": "63",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "của mình.\n    Diễn biên  trước khi nhập viện\n    - Điều trị nhiễm khuẩn đường tiết niệu, vị trí không xác định\n    - Thuốc giảm"
+ },
+ {
+  "file": "66",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm teo niêm mạc dạ dày",
+  "context": " thiếu vitamin B12 bao gồm những người ăn chay trường diễn, viêm teo niêm mạc dạ dày, phẫu thuật cắt bỏ 1 phần hay toàn bộ d"
+ },
+ {
+  "file": "66",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hạ huyết áp tư thế đứng",
+  "context": "nh như dị cảm, \ngiảm cảm giác vị thế, khả năng trí óc giảm, hạ huyết áp tư thế đứng,.... Đối với bệnh nhân ung thư cũng đượ"
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh mạch máu ngoại biên",
+  "context": "Câu hỏi từ người dùng :\n    - suy tim\n    - bệnh mạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    "
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "context": "i dùng :\n    - suy tim\n    - bệnh mạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    - Ngưng thở khi ngủ do tắc nghẽn đa"
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "context": "ạch máu ngoại biên\n    - bệnh phổi tắc nghẽn mạn tính\n    - Ngưng thở khi ngủ do tắc nghẽn đang dùng BiPAP\n    - Ung thư biểu mô t"
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tế bào vảy",
+  "context": "\n    - Ngưng thở khi ngủ do tắc nghẽn đang dùng BiPAP\n    - Ung thư biểu mô tế bào vảy xâm nhập của dương vậtbiệt hóa kém, sau"
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "context": "  Tiền sử phẫu thuật / thủ thuật\n\nCâu trả lời của bác sĩ: \n\nViêm hang vị sung huyết là tình trạng niêm mạc vùng hang vị dạ "
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": "n bệnh đã được điều trị hiệu quả. Để điều trị dứt điểm bệnh viêm sung huyết hang vị dạ dày, trước hết, người bệnh cần được thăm kh"
+ },
+ {
+  "file": "67",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": " thuốc mà chưa có sự đồng ý của bác sĩ. Ngoài ra, người bị viêm sung huyết hang vị dạ dày có thể sử dụng sản phẩm từ thiên nhiên "
+ },
+ {
+  "file": "68",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "context": "1. Tiền sử bệnh\nBệnh lý mãn tính: bệnh động mạch vành, bệnh lý thần kinh ngoại biên\n\n2. Bệnh sử hiện tại\n Trong vòng một nă"
+ },
+ {
+  "file": "68",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "context": " khó khăn, cần dùng gậy hỗ trợ đi lại\n- Đau hai bàn chân do bệnh lý thần kinh ngoại biên \nCận lâm sàng:\nKết quả chẩn đoán hình ả"
+ },
+ {
+  "file": "68",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+  "context": "kinh ngoại biên \nCận lâm sàng:\nKết quả chẩn đoán hình ảnh\n- Đo sức bền cơ tim bằng đồng vị phóng xạ kết quả có dị tật cố định vùng trước vá"
+ },
+ {
+  "file": "68",
+  "type": "CHẨN_ĐOÁN",
+  "text": "giảm chức năng tâm thu thất trái",
+  "context": "kết quả có dị tật cố định vùng trước vách và vách dưới với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năn"
+ },
+ {
+  "file": "68",
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn chức năng thất trái",
+  "context": "với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năng thất trái.\n- Chụp động mạch vành cho thấy bệnh ba"
+ },
+ {
+  "file": "68",
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh ba thân động mạch vành",
+  "context": "ối loạn chức năng thất trái.\n- Chụp động mạch vành cho thấy bệnh ba thân động mạch vành nghiêm trọng \nCác thủ thuật đã thực hiệ"
+ },
+ {
+  "file": "70",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó nằm vào ban đêm để ngủ vì thở",
+  "context": " ba ngày trước\n    Triệu chứng hiện tại\n    - khó thở\n    - khó nằm vào ban đêm để ngủ vì thở\n    - căng cứng vai trái (ngắt quãng, x"
+ },
+ {
+  "file": "71",
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy giảm chức năng gan",
+  "context": "o một số bệnh lý, vấn đề liên quan đến sức khỏe. Cụ thể như suy giảm chức năng gan, nổi mề đay, bệnh vảy nến, tác dụng phụ"
+ },
+ {
+  "file": "72",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Lạm dụng chất kích thích",
+  "context": "ớc nhập viện 01 ngày\n    Các yếu tố nguy cơ liên quan\n    - Lạm dụng chất kích thích, chất gây nghiện opioid\n2.   Bệnh sử hi"
+ },
+ {
+  "file": "72",
+  "type": "TRIỆU_CHỨNG",
+  "text": "ý nghĩ tự bắn vào đầu",
+  "context": "2.   Bệnh sử hiện tại\n    Lý do nhập viện:i ý định tự tử và ý nghĩ tự bắn vào đầu\n   Theo lời kể bệnh nhân bị trầm cảm ng"
+ },
+ {
+  "file": "72",
+  "type": "TRIỆU_CHỨNG",
+  "text": "nghĩ tự bắn vào đầu",
+  "context": "hôm qua\n    Triệu chứng khi vào viện\n    - ý nghĩ tự tử, có nghĩ tự bắn vào đầu\n    - lo âu\nhoảng sợ\n    - hoang tưởng "
+ },
+ {
+  "file": "73",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh thoái hóa tinh bột",
+  "context": "iệu chứng\n•        Bệnh amyloidosis di truyền hoặc gia đình\nBệnh thoái hóa tinh bột là một bệnh đa hệ thống dẫn đến nhiều b"
+ },
+ {
+  "file": "77",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau vùng xương bánh chè",
+  "context": "ệnh\n    CGhi nhận triệu chứng tương tự trước đây: xuất hiện đau vùng xương bánh chè – đùi phải dữ dội, xảy ra cách đây vài "
+ },
+ {
+  "file": "77",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng áp lực động mạch phổi",
+  "context": "hất phải giãn, chức năng tâm thu thất phải giảm (FAC: 30%). Tăng áp lực động mạch phổi vừa. \n Chụp Xquang ngực thẳng: Hình ảnh"
+ },
+ {
+  "file": "77",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải\n    - chụp cắt lớp vi tính kể từ lần khám cuối cùng cho thấy góc t"
+ },
+ {
+  "file": "78",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau khi sờ nắn vùng mổ",
+  "context": "tại\n    -  ban đỏ xuất hiện nhiểu ở vị trí phẫu thuật\n    - đau khi sờ nắn vùng mổ\n    - chóng mặt\n    - không sốt\n    - h"
+ },
+ {
+  "file": "79",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn chuyển hóa tinh bột",
+  "context": "Câu hỏi từ người dùng:\nEm bị Rối loạn chuyển hóa tinh bột (amyloidosis) đã lâu. Có dùng thuốc tại"
+ },
+ {
+  "file": "80",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hạt nhỏ màu trắng trên da",
+  "context": "áng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón chân. Ch"
+ },
+ {
+  "file": "80",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hạt nhỏ ở vùng khớp",
+  "context": "ạo gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệ"
+ },
+ {
+  "file": "80",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng áp lực tĩnh mạch cửa",
+  "context": "ễm trùng máu, rất khó lành\n    - Bệnh nhân xơ gan mất bù có tăng áp lực tĩnh mạch cửa, cổ trướng và tràn dịch màng phổi.\n    "
+ },
+ {
+  "file": "82",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau vùng hạ sườn phải",
+  "context": "ệnh hiện tại\n2. Tiền sử bệnh hiện tạiBệnh nhân nhập viện vì đau vùng hạ sườn phải kéo dài vài tuần nay.\nKhởi phát bệnh cá"
+ },
+ {
+  "file": "82",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau vùng hạ sườn phải",
+  "context": "phát bệnh cách thời điểm nhập viện vài tuần với triệu chứng đau vùng hạ sườn phải, kèm chướng bụng và buồn nôn thoáng qua"
+ },
+ {
+  "file": "82",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau bụng vùng hạ sườn phải",
+  "context": "được thăm khám, chẩn đoán và điều trị.\n    Lý do nhập viện: đau bụng vùng hạ sườn phải\n    Thời điểm khởi phát triệu chứng: Và"
+ },
+ {
+  "file": "82",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Nội soi thực quản - dạ dày - tá tràng",
+  "context": "phương pháp điều trị phù hợp.\nChẩn đoán hình ảnh và thăm dò:Nội soi thực quản - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : s"
+ },
+ {
+  "file": "82",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Cộng hưởng từ mật tụy",
+  "context": "thăm dò:Nội soi thực quản - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật "
+ },
+ {
+  "file": "82",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "context": "n - dạ dày - tá tràng: viêm dạ dày.\nCộng hưởng từ mật tụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật được thực hiện   :Nội soi mậ"
+ },
+ {
+  "file": "82",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Nội soi mật tụy ngược dòng",
+  "context": "ụy : sỏi đoạn cuối ống mật chủ.\nThủ thuật được thực hiện   :Nội soi mật tụy ngược dòng (ERCP). Trong quá trình ERCP, lấy thành"
+ },
+ {
+  "file": "82",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi tại đoạn cuối ống mật chủ",
+  "context": "c dòng (ERCP). Trong quá trình ERCP, lấy thành công 02 viên sỏi tại đoạn cuối ống mật chủ (CBD).\n    - chụp cộng hưởng từ mật tụy"
+ },
+ {
+  "file": "82",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cộng hưởng từ mật tụy",
+  "context": "ành công 02 viên sỏi tại đoạn cuối ống mật chủ (CBD).\n    - chụp cộng hưởng từ mật tụy tụi mật được thực hiện cho thấy sỏi ống"
+ },
+ {
+  "file": "82",
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "context": " chụp cộng hưởng từ mật tụy tụi mật được thực hiện cho thấy sỏi ống dẫn mật chung đoạn cuối\n"
+ },
+ {
+  "file": "85",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhiễm trùng đường tiết niệu",
+  "context": "áp\n    - tăng lipid máu, không đặc hiệu\n    - béo phì\n    - Nhiễm trùng đường tiết niệu (UTIs) tái phát nhiễm khuẩn đường tiết "
+ },
+ {
+  "file": "85",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "- béo phì\n    - Nhiễm trùng đường tiết niệu (UTIs) tái phát nhiễm khuẩn đường tiết niệu, vị trí không xác định\n\n2.  Lịch sử bện"
+ },
+ {
+  "file": "85",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất thăng bằng khi đi lại",
+  "context": "\n    Các triệu chứng hiện tại\n    - đau bàn chân phải\n    - mất thăng bằng khi đi lại\n    Các sự kiện trước khi nhập viện\n   "
+ },
+ {
+  "file": "85",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": " - lactate (acid lactat) 1.3\n    - Kết quả ua (urinalysis - tổng phân tích nước tiểu): 12 bạch cầu, không vi khuẩn, 1 hồng c"
+ },
+ {
+  "file": "85",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp x-quang bàn chân phải",
+  "context": " đã đặt, không có quá trình bệnh lý tim phổi cấp tính\n    - chụp x-quang bàn chân phải không phát hiện gãy xương hoặc viêm xươ"
+ },
+ {
+  "file": "85",
+  "type": "CHẨN_ĐOÁN",
+  "text": "huyết khối tĩnh mạch sâu",
+  "context": "ện gãy xương hoặc viêm xương tủy\n    - Bên phải âm tính với huyết khối tĩnh mạch sâu (DVT)"
+ },
+ {
+  "file": "86",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "người dùng:\n    - ho\n    - nghẹt ngực\n    - khó thở nhẹ-vừa khó thở khi gắng sức\n    - mệt mỏi\n\nCâu trả lời của bác sĩ:\n"
+ },
+ {
+  "file": "86",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "context": "hó thở khi gắng sức\n    - mệt mỏi\n\nCâu trả lời của bác sĩ:\n\nViêm hang vị sung huyết là tình trạng niêm mạc vùng hang vị dạ "
+ },
+ {
+  "file": "86",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": "n bệnh đã được điều trị hiệu quả. Để điều trị dứt điểm bệnh viêm sung huyết hang vị dạ dày, trước hết, người bệnh cần được thăm kh"
+ },
+ {
+  "file": "86",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": " thuốc mà chưa có sự đồng ý của bác sĩ. Ngoài ra, người bị viêm sung huyết hang vị dạ dày có thể sử dụng sản phẩm từ thiên nhiên "
+ },
+ {
+  "file": "87",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đau \ntăng khi gắng sức",
+  "context": " âm ỉ. đau không lan \nđợt này tình trạng đau ngực tăng lên, đau \ntăng khi gắng sức vào viện: \nKhám lúc vào: \nBn tỉnh \nĐau "
+ },
+ {
+  "file": "87",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Tổng phân tích tế bào máu ngoại vi",
+  "context": "l); Định \nlượng Glucose; Định lượng NT - proBNP ( \nProBNP); Tổng phân tích tế bào máu ngoại vi \n(bằng máy đếm laser); \nSiêu âm: \nSiêu "
+ },
+ {
+  "file": "87",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "Ghi điện tim cấp cứu tại giường",
+  "context": "aser); \nSiêu âm: \nSiêu âm Doppler tim, van tim; \nThủ thuật: Ghi điện tim cấp cứu tại giường - \n\nChẩn đoán: Cơn đau thắt ngực không "
+ },
+ {
+  "file": "87",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Cơn đau thắt ngực không ổn định",
+  "context": " \nThủ thuật: Ghi điện tim cấp cứu tại giường - \n\nChẩn đoán: Cơn đau thắt ngực không ổn định-bệnh tăng HA vô căn(nguyên phát)\n\nThuốc"
+ },
+ {
+  "file": "88",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thiếu một số vi chất",
+  "context": " thể là 1. Do cơ địa người bé ra mồ hôi nhiều hơn trẻ khác. Thiếu một số vi chất cho cơ thể do mất cân đối trong chế độ "
+ },
+ {
+  "file": "89",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng huyết áp vô căn",
+  "context": "sử Đái tháo đường (tiền sử Đái tháo đường)\n- Tăng huyết áp (tăng huyết áp vô căn (nguyên phát))\n\n2. Tiền sử bệnh bệnh hi"
+ },
+ {
+  "file": "90",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng đường hô hấp trên",
+  "context": ". Bệnh nhân đã được bác sĩ gia đình khám vì các triệu chứng nhiễm trùng đường hô hấp trên.\n    - Tại phòng khám, bệnh nhân được g"
+ },
+ {
+  "file": "90",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "tổng phân tích nước tiểu",
+  "context": "\n    - kali 3.2\n    - troponin 0.01\n    - lactate 1.8\n    - tổng phân tích nước tiểu có kết quả dương tính  với 182bạch cầuv"
+ },
+ {
+  "file": "91",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": " thay đổi tính chất cơn đau khi thay đổi tư thế\n    - Không khó thở khi gắng sức\n    - Không đánh trống ngực\n    - Không"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tủy xương mãn tính",
+  "context": "1. Tiền sử bệnh\n- viêm tủy xương mãn tính và bàng quang thần kinh gây biến chứng "
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "loét tì đè giai đoạn IV",
+  "context": "và bàng quang thần kinh gây biến chứng liệt hai chi dưới và loét tì đè giai đoạn IV mãn tính\n- đặt lưu sonde tiểu    gây nh"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "oét tì đè giai đoạn IV mãn tính\n- đặt lưu sonde tiểu    gây nhiễm khuẩn đường tiết niệu tái phát\nThuốc đã dùng trước đây\n- Đã s"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "context": "khám chuyên khoa Truyền nhiễm đang dùng bactrim để điều trị nhiễm khuẩn đường tiết niệu\n\n2. Bệnh sử hiện tại\nLý do nhập viện: s"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tủy xương mãn tính",
+  "context": " đó dùng zosyn 8 ngày và dừng tất cả kháng sinh để điều trị viêm tủy xương mãn tính tại khoa Hồi sức tích cực. Ra viện và t"
+ },
+ {
+  "file": "92",
+  "type": "TRIỆU_CHỨNG",
+  "text": "nếp véo da mất chậm",
+  "context": "nh trạng lúc vào:\nBệnh nhân tỉnh\nCảm giác khát nước\nDa khô, nếp véo da mất chậm\nKhông ngực,  không khó thở\nĐau bụng, đa"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng huyết đường vào tiết niệu",
+  "context": "\nĐặt ống thông tĩnh mạch trung tâm : đo cvp là 6\nChẩn đoán: nhiễm trùng huyết đường vào tiết niệu- viêm tủy xương mãn tính,\n\nĐiều trị: \n-"
+ },
+ {
+  "file": "92",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tủy xương mãn tính",
+  "context": " cvp là 6\nChẩn đoán: nhiễm trùng huyết đường vào tiết niệu- viêm tủy xương mãn tính,\n\nĐiều trị: \n- Truyền dịch : 4000 ml NS"
+ },
+ {
+  "file": "94",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "context": "Cận lâm sàng\n   Siêu âm tim: chèn ép tim\n  Viêm hang vị sung huyết là tình trạng niêm mạc vùng hang vị dạ "
+ },
+ {
+  "file": "94",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": "n bệnh đã được điều trị hiệu quả. Để điều trị dứt điểm bệnh viêm sung huyết hang vị dạ dày, trước hết, người bệnh cần được thăm kh"
+ },
+ {
+  "file": "94",
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "context": " thuốc mà chưa có sự đồng ý của bác sĩ. Ngoài ra, người bị viêm sung huyết hang vị dạ dày có thể sử dụng sản phẩm từ thiên nhiên "
+ },
+ {
+  "file": "95",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hạt nhỏ màu trắng trên da",
+  "context": "áng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón chân. Ch"
+ },
+ {
+  "file": "95",
+  "type": "TRIỆU_CHỨNG",
+  "text": "hạt nhỏ ở vùng khớp",
+  "context": "ạo gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệ"
+ },
+ {
+  "file": "95",
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "context": "- ho đái tháo đường\n    - tăng huyết áp\n    - béo phì\n    - ngưng thở khi ngủ do tắc nghẽn\n    Thuốc trước khi nhập viện\n    - tyl"
+ },
+ {
+  "file": "96",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "Câu hỏi từ người dùng:\n\n    Sự kiện trước khi nhập viện: chụp cắt lớp vi tính (ct) được thực hiện cho thấy tắc hẹp 80"
+ },
+ {
+  "file": "96",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc hẹp 80% động mạch thận trái",
+  "context": "hập viện: chụp cắt lớp vi tính (ct) được thực hiện cho thấy tắc hẹp 80% động mạch thận trái L\n\n3.  Đánh giá tại bệnh viện\n    Kết q"
+ },
+ {
+  "file": "96",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "text": "chụp cắt lớp vi tính",
+  "context": "\n3.  Đánh giá tại bệnh viện\n    Kết quả chẩn đoán hình ảnh: chụp cắt lớp vi tính (ct) cho thấy tắc hẹp 80% động mạch thậ"
+ },
+ {
+  "file": "96",
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc hẹp 80% động mạch thận trái",
+  "context": " quả chẩn đoán hình ảnh: chụp cắt lớp vi tính (ct) cho thấy tắc hẹp 80% động mạch thận trái L\n    Thủ thuật thực hiện\nChào bạn!\nKhi"
+ },
+ {
+  "file": "97",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy thận mạn giai đoạn V",
+  "context": "1.  Tiền sử bệnh\n    Các bệnh lý mạn tính\n    - Suy thận mạn giai đoạn V do đái tháo đường và tăng huyết áp\n    "
+ },
+ {
+  "file": "97",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "context": "ận mạn giai đoạn V do đái tháo đường và tăng huyết áp\n    - u ác của tuyến tiền liệt điều trị bằng xạ trị cấy hạt \n    Tiền "
+ },
+ {
+  "file": "97",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u dây thần kinh số VIII",
+  "context": "\n    Tiền sử phẫu thuật / thủ thuật\n    - Phẫu thuật cắt bỏ u dây thần kinh số VIII \n    - Đặt shunt động tĩnh mạch (AVF) ở"
+ },
+ {
+  "file": "97",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "ền liệt\n2.  Bệnh sử hiện tại\n    Lý do nhập viện:  mệt mỏi, mất trí nhớ chi tiết\nBệnh nhân kể cảm thấy khó chịu mệt mỏi "
+ },
+ {
+  "file": "97",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "mỏi nhiều, ăn không ngon miệng, ngứa da toàn thân nhiều, và mất trí nhớ chi tiết, khó thở khi gắng sức. Tuần qua có buồn"
+ },
+ {
+  "file": "97",
+  "type": "TRIỆU_CHỨNG",
+  "text": "khó thở khi gắng sức",
+  "context": "on miệng, ngứa da toàn thân nhiều, và mất trí nhớ chi tiết, khó thở khi gắng sức. Tuần qua có buồn nôn, và nôn .\nKhám hi"
+ },
+ {
+  "file": "97",
+  "type": "TRIỆU_CHỨNG",
+  "text": "mất trí nhớ chi tiết",
+  "context": "  - Ăn không ngon miệng\n    - Ngứa da toàn thân nhiều\n    - mất trí nhớ chi tiết\nNhưng đợt này chỉ nồi to ra thôi ạ\nEm "
+ },
+ {
+  "file": "97",
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "context": "h giá trước ghép thận nhưng tạm hoãn ghép thận do chẩn đoán u ác của tuyến tiền liệtAnh ấy có một vài người hiến tiềm năng, "
+ },
+ {
+  "file": "98",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Lạm dụng chất kích thích",
+  "context": "ớc nhập viện 01 ngày\n    Các yếu tố nguy cơ liên quan\n    - Lạm dụng chất kích thích, chất gây nghiện opioid\n2.   Bệnh sử hi"
+ },
+ {
+  "file": "98",
+  "type": "TRIỆU_CHỨNG",
+  "text": "ý nghĩ tự bắn vào đầu",
+  "context": "2.   Bệnh sử hiện tại\n    Lý do nhập viện:i ý định tự tử và ý nghĩ tự bắn vào đầu\n   Theo lời kể bệnh nhân bị trầm cảm ng"
+ },
+ {
+  "file": "99",
+  "type": "TRIỆU_CHỨNG",
+  "text": "Khó thở khi nằm đầu bằng",
+  "context": "ệu chứng hiện tại\n    - biến đổi ý thức\n    - hạ thân nhiệt\nKhó thở khi nằm đầu bằng, SpO2 99% thở  khí 2L/ph \nTim nhịp khôn"
+ },
+ {
+  "file": "99",
+  "type": "TRIỆU_CHỨNG",
+  "text": "rì rào phế nang giảm",
+  "context": " rõ, không có tiếng tim bệnh lí\nHuyết áp 110/70  mmHg \nPhổi rì rào phế nang giảm, không có tiếng rales bệnh lí\nBụng mềm,"
+ },
+ {
+  "file": "99",
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhiễm khuẩn đường tiêu hóa",
+  "context": "n đoán : : Đợt cấp COPD - Tâm phế mạn - Cơn tim nhanh nhĩ - Nhiễm khuẩn đường tiêu hóa - Tăng huyết áp \n    Kết quả chẩn đoán "
+ },
+ {
+  "file": "100",
+  "type": "TRIỆU_CHỨNG",
+  "text": "đại tiện ra máu đỏ tươi",
+  "context": "g dùng thuốc. \n\n2. Bệnh sử hiện tại\nLý do nhập viện: 3 ngày đại tiện ra máu đỏ tươi gián đoạn\nThời điểm khởi phát triệu chứ"
+ }
+]

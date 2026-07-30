@@ -1,0 +1,32 @@
+[
+ {
+  "file": "4",
+  "text": "Loét loét thực quản",
+  "type": "CHẨN_ĐOÁN"
+ },
+ {
+  "file": "24",
+  "text": "Bilirubin  toàn phần",
+  "type": "TÊN_XÉT_NGHIỆM"
+ },
+ {
+  "file": "45",
+  "text": "Tỷ lệ \nProthrombin",
+  "type": "TÊN_XÉT_NGHIỆM"
+ },
+ {
+  "file": "47",
+  "text": "phù phù",
+  "type": "TRIỆU_CHỨNG"
+ },
+ {
+  "file": "47",
+  "text": "phù phù",
+  "type": "TRIỆU_CHỨNG"
+ },
+ {
+  "file": "87",
+  "text": "đau \ntăng khi gắng sức",
+  "type": "TRIỆU_CHỨNG"
+ }
+]
