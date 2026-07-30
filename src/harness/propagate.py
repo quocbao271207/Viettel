@@ -71,7 +71,10 @@ def harmonize(args) -> None:
                     if e2["type"] != e["type"]:
                         stats["chồng lấn nhưng KHÁC TYPE — bỏ"] += 1
                         continue
-                    if (bnd - a) >= (t - s):
+                    if args.prefer_longer:
+                        if (bnd - a) <= (t - s):
+                            continue                  # bản kia không dài hơn
+                    elif (bnd - a) >= (t - s):
                         continue                      # bản kia không ngắn hơn
                     # chiếu ranh giới ngắn của file kia về toạ độ file này
                     ms, mt = s + (a - ns), s + (bnd - ns)
@@ -79,7 +82,8 @@ def harmonize(args) -> None:
                         stats["chiếu ngược không khớp nguyên văn — bỏ"] += 1
                         continue
                     cur = better.get((fid, s, t))
-                    if cur is None or (mt - ms) < (cur[1] - cur[0]):
+                    if cur is None or ((mt - ms) > (cur[1] - cur[0]) if args.prefer_longer
+                                       else (mt - ms) < (cur[1] - cur[0])):
                         better[(fid, s, t)] = (ms, mt)
     cmap = code_map_from_base() if args.safe else {}
     out, changes = {}, []
@@ -138,6 +142,9 @@ def main() -> None:
                     help="ĐỒNG BỘ RANH GIỚI thay vì chỉ thêm: khi cùng một đoạn văn xuất hiện ở "
                          "2 file mà ta gán 2 ranh giới khác nhau, lấy bản NGẮN HƠN cho cả hai. "
                          "Đúng theo bằng chứng bản 23/36 (thu ngắn = +0.42, 85%% từ WER).")
+    ap.add_argument("--prefer-longer", action="store_true",
+                    help="ĐẢO HƯỚNG: lấy bản DÀI HƠN. Bằng chứng bản 48: đồng bộ về ngắn làm "
+                         "WER xấu đi 0.72 trong khi J phẳng -> gold giữ bản DÀI ở các span đó.")
     ap.add_argument("--safe", action="store_true",
                     help="với --harmonize: KHÔNG rút ngắn nếu kết quả rơi vào cụm bị cấm/1 âm tiết "
                          "hoặc làm MẤT MÃ. 'Ngắn hơn thắng' đúng cho cắt TỪ RÁC, không đúng cho "

@@ -1,28 +1,24 @@
 stt,ban,concept,them,bo,assert_doi,thu_nghiem_gi,diem,WER,J_assert,J_cand,ghi_chu
-0,14_repeat (NEN),2824,,,,ban tot nhat truoc do,36.4914,58.2207,48.3759,23.6121,
-x1,21_assert_consensus (DA NOP),2824,0,0,130,assertion voter,36.2479,58.2207,47.5642,23.6121,LO 0.24 nhung KIEM CHUNG METRIC
-x2,23_span_fix (DA NOP),2824,150,150,0,thu ngan 150 (k=2),36.7829,57.3953,48.3247,23.7601,"+0.2915, 85% tu WER"
-x3,36_span_fix_k1 (DA NOP),2824,276,276,0,thu ngan 276 (k=1),36.9103,57.0053,48.2650,23.8309,TOT NHAT +0.4189
-1,42_tighten,2824,316,316,0,nền 36 + 48 span thu ngắn từ lượt soi CÓ CHỦ ĐÍCH (4 agent soi 368 span dài),,,,,
-2,38_spank1_prune,2774,276,326,0,nền 36 + BỎ 49 concept không ai xác nhận,,,,,
-3,18_prune_uncorroborated,2775,0,49,0,"BỎ 49, ĐO RIÊNG trên nền bản 14 — cần để tách nhân quả",,,,,
-4,48_harmonize_safe,2824,352,352,0,"ĐỒNG BỘ 39 ranh giới qua ĐOẠN VĂN TRÙNG giữa các file (oracle nội bộ, có lọc)",,,,,
-5,45_tighten_mechclean,2818,315,321,0,nền 42 + bỏ 6 span hỏng cơ học,,,,,
-6,49_full_chain,2795,370,399,0,CHUỖI ĐẦY ĐỦ: thu ngắn + đồng bộ + lan truyền + bỏ,,,,,
+0,14_repeat (NEN),2824,,,,ban goc,36.4914,58.2207,48.3759,23.6121,
+x1,21_assert_consensus (DA NOP),2824,0,0,130,assertion voter,36.2479,58.2207,47.5642,23.6121,LO 0.24 - KIEM CHUNG METRIC
+x2,23_span_fix (DA NOP),2824,150,150,0,thu ngan 150 (k=2 voter),36.7829,57.3953,48.3247,23.7601,+0.2915
+x3,36_span_fix_k1 (DA NOP),2824,276,276,0,thu ngan 276 (k=1 voter),36.9103,57.0053,48.2650,23.8309,+0.4189
+x4,42_tighten (DA NOP),2824,316,316,0,48 thu ngan do AGENT,36.8179,57.1576,48.1095,23.8309,LO 0.09 - agent kem hon voter
+x5,38_spank1_prune (DA NOP),2774,276,326,0,nen 36 + BO 49,37.0865,56.9945,48.5007,24.0865,*** TOT NHAT +0.5951 so ban 14 ***
+x6,48_harmonize_safe (DA NOP),2824,352,352,0,dong bo ve NGAN hon,36.6490,57.7208,48.1095,23.8309,"LO 0.26 - SAI HUONG, gold DAI hon"
+1,50_spank1_prunek2,2750,273,347,0,LIỀU 2 của hướng ĐANG THẮNG: bỏ 74 thay vì 49,,,,,
+2,55_prune_hard,2700,276,400,0,LIỀU 3: bỏ 124 (gỡ lá chắn chồng lấn),,,,,
+3,56_prune_hardest,2592,233,465,0,LIỀU 4: bỏ 232 — tìm điểm gãy của đường liều-đáp,,,,,
+4,52_harmonize_longer,2824,291,291,0,ĐẢO HƯỚNG bản 48: đồng bộ về bản DÀI hơn (43 span),,,,,
+5,53_best_plus_onesyl,2682,276,418,0,nền 38 + bỏ 92 cụm 1 âm tiết (sốt/nôn/ho),,,,,
+6,51_best_plus_aug,3025,527,326,0,nền 38 + THÊM 251 concept đồng thuận 2/2,,,,,
 7,43_probe_nocode_dx,2824,276,276,0,PHÉP ĐO J_cand: bỏ SẠCH mã 878 CHẨN_ĐOÁN,,,,,
 8,44_probe_multicode,2824,276,276,0,PHÉP ĐO J_cand: thêm 1 mã anh em cho 804 CHẨN_ĐOÁN,,,,,
-9,46_propagate,2851,343,316,0,nền 42 + lan truyền 27 concept qua đoạn văn trùng,,,,,
-10,47_harmonize,2824,360,360,0,đồng bộ 47 ranh giới KHÔNG lọc — so với #4 để đo tác hại của việc cắt mã,,,,,
-11,39_spank1_prune_aug,3025,527,326,0,nền 36 + bỏ + thêm,,,,,
-12,41_spank1_type,2824,315,315,0,nền 36 + sửa 39 ca sai type,,,,,
-13,40_spank1_aug,3075,527,276,0,nền 36 + thêm 232 concept,,,,,
-14,24_span_fix_both,2824,267,267,0,ranh giới CẢ HAI hướng — DỰ ĐOÁN LỖ,,,,,
-15,19_augment_k2,3056,232,0,0,"THÊM 232, đo riêng",,,,,
-16,25_prune_k2,2750,0,74,0,BỎ mạnh hơn 74 vs 49,,,,,
-17,35_type_only,2824,39,39,0,"CHỈ sửa type, đo riêng",,,,,
-18,34_assert_addonly,2824,0,0,31,assertion CHỈ THÊM nhãn,,,,,
-19,26_augment_k1,3191,367,0,0,THÊM mạnh hơn 367,,,,,
-20,20_cleanroom_k2,2624,554,754,181,Track B k>=2,,,,,
-21,30_cleanroom_k1,3045,842,621,198,Track B k>=1,,,,,
-22,33_all_aggressive,3163,538,199,0,gộp mọi hướng liều mạnh,,,,,
-23,31_prune_onesyl,2732,0,92,0,bỏ cụm 1 âm tiết — canh bạc,,,,,
+9,18_prune_uncorroborated,2775,0,49,0,"BỎ 49 trên nền bản 14 — đo riêng, tách nhân quả",,,,,
+10,41_spank1_type,2824,315,315,0,nền 36 + sửa 39 ca sai type,,,,,
+11,35_type_only,2824,39,39,0,CHỈ sửa type trên nền bản 14,,,,,
+12,34_assert_addonly,2824,0,0,31,assertion CHỈ THÊM nhãn (31 ca),,,,,
+13,20_cleanroom_k2,2624,554,754,181,Track B k>=2,,,,,
+14,30_cleanroom_k1,3045,842,621,198,Track B k>=1,,,,,
+15,26_augment_k1,3191,367,0,0,THÊM mạnh 367,,,,,
+16,24_span_fix_both,2824,267,267,0,ranh giới 2 hướng - DU DOAN LO,,,,,

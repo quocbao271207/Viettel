@@ -94,6 +94,7 @@ def voter_surfaces() -> tuple[dict[tuple[str, str], set[str]], list[str], set[st
 
 # fid -> [(start, end, tên voter)] — dùng cho đối chiếu CHỒNG LẤN vị trí
 SPANS: dict[str, list[tuple[int, int, str]]] = defaultdict(list)
+NO_RESCUE = False
 
 
 def overlap_voters(fid: str, start: int, end: int) -> set[str]:
@@ -130,7 +131,8 @@ def rule_uncorroborated(base: dict, surf: dict, names: list[str], min_votes: int
             if spec.is_banned(e["text"], e["type"]) or spec.is_weak(e["text"], e["type"]):
                 continue
             seen[key] = True
-            if len(overlap_voters(fid, e["position"][0], e["position"][1])) >= min_votes:
+            if not NO_RESCUE and \
+                    len(overlap_voters(fid, e["position"][0], e["position"][1])) >= min_votes:
                 ok_overlap.add(key)
 
     out: dict[tuple[str, str], str] = {}
@@ -171,6 +173,10 @@ def main() -> None:
     ap.add_argument("--rule", default="spec", help="spec | uncorroborated | cả hai, ngăn bởi dấu phẩy")
     ap.add_argument("--min-votes", type=int, default=1,
                     help="cụm cần >= bấy nhiêu voter độc lập mới được GIỮ")
+    ap.add_argument("--no-overlap-rescue", action="store_true",
+                    help="LIỀU MẠNH: bỏ cả cụm mà voter có trích span CHỒNG LẤN. Lá chắn chồng lấn "
+                         "vốn để cứu `xo gan`/`gut` (voter viết `benh gut`), nhưng bản 38 đã chứng "
+                         "minh đãi bỏ có lời (+0.176/49 concept) nên liều mạnh đáng đo.")
     ap.add_argument("--types", default="",
                     help="chỉ đãi bỏ trong các type này (mặc định: tất cả)")
     ap.add_argument("--out", default="")
@@ -188,6 +194,7 @@ def main() -> None:
     if "onesyl" in rules:
         drop.update(rule_onesyl(base))
     if "uncorroborated" in rules:
+        globals()["NO_RESCUE"] = args.no_overlap_rescue
         if not list(VOTES.glob("*.json")):
             raise SystemExit(f"Chưa có phiếu trong {VOTES} — chạy voter + merge_parts trước.")
         surf, names, covered = voter_surfaces()
