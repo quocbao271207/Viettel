@@ -14,7 +14,7 @@ x11,64_prune_L4 (DA NOP),2605,254,473,0,ĐÃI BỎ LIỀU 4: bỏ thêm 145 — 
 x12,63_prune_L3 (DA NOP),2685,288,427,0,ĐÃI BỎ LIỀU 3: bỏ thêm 65,37.3972,56.5178,48.5986,24.4324,*** TOT NHAT *** bo 65 (mv1 no-rescue)
 x13,65_prune_onesyl (DA NOP),2667,288,445,0,bỏ 83 cụm 1 âm tiết trên nền tốt nhất,36.5947,58.0282,47.4930,24.3881,LO 0.71! Cum 1 am tiet (sot/non/ho) CO trong gold. WER vot len 58.03.
 x14,72_kcode_2 (DA NOP),2605,254,473,0,⚡ PHÉP ĐO QUYẾT ĐỊNH: 2 mã/chẩn đoán. Gold là DANH SÁCH hay 1 mã?,34.2754,56.8033,48.5167,16.9035,GIA THUYET DANH SACH MA BI BAC BO: J_cand tut 24.39->16.90
-1,76_best_aug_k2,2996,599,427,0,⚡ RECALL: nền 63 + THÊM 311 concept đồng thuận 2/2. Hướng DUY NHẤT còn lại,,,,,
+x15,76_best_aug_k2 (DA NOP),2996,599,427,0,⚡ RECALL: nền 63 + THÊM 311 concept đồng thuận 2/2. Hướng DUY NHẤT còn lại,38.2704,55.3011,49.8222,24.7851,*** TOT NHAT 38.2704 *** +0.8732 CA BA TRUC cung tang. THEM concept theo dong thuan LA HUONG DUNG.
 2,30_cleanroom_k1,3045,842,621,198,RECALL: Track B thuần 3045 concept — chưa đo lần nào,,,,,
 3,77_best_aug_k1,3159,749,414,0,RECALL liều mạnh: nền 63 + THÊM 474 (chỉ cần 1 voter),,,,,
 4,20_cleanroom_k2,2624,554,754,181,RECALL: Track B thuần 2624 concept,,,,,

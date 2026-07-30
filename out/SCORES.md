@@ -678,3 +678,39 @@ chẩn đoán/thuốc hiện tại. Không phải chuyện mã — phải TÌM T
 Bốn lần THÊM trước đây (bản 15/16/17 + trích lại) đều thất bại. Khác biệt lần này:
 **cơ chế đồng thuận 2 voter độc lập** đã chứng minh mạnh ở trục ranh giới (+0.42)
 nhưng ở trục THÊM thì **chưa đo lần nào**. `76_best_aug_k2` là phép đo đó.
+
+## 🏆🏆 BẢN 76 = 38.2704 — BƯỚC NHẢY LỚN NHẤT, LẬT NGƯỢC KẾT LUẬN CỦA CẢ DỰ ÁN
+
+| | điểm | WER | J_assert | J_cand |
+|---|---|---|---|---|
+| bản 63 (nền) | 37.3972 | 56.5178 | 48.5986 | 24.4324 |
+| **bản 76 (+311 concept đồng thuận 2/2)** | **38.2704** | **55.3011** | **49.8222** | **24.7851** |
+| Δ quy ra ĐIỂM | **+0.8732** | +0.3650 | +0.3671 | +0.1411 |
+
+**CẢ BA TRỤC cùng tăng.** Chưa lần thêm concept nào làm được điều đó ngoài bản 14.
+
+### 🔑 "THÊM CONCEPT LÀ LỖ" — SAI VỀ NGUYÊN NHÂN
+Không phải hướng THÊM sai, mà **PHƯƠNG PHÁP LẤY BẰNG CHỨNG** sai:
+
+| bản | cách lấy bằng chứng | concept | điểm/concept |
+|---|---|---|---|
+| 14 | nhân bản text ĐÃ được gold xác nhận | +313 | +0.00403 |
+| **76** | **đồng thuận 2 voter ĐỘC LẬP, khớp CHÍNH XÁC span** | **+311** | **+0.00281** |
+| 15 | một LLM tự nghĩ (cụm 1 âm tiết) | +147 | −0.00051 |
+| 16 | một LLM tự nghĩ (trích lại + sinh tồn) | +251 | −0.00244 |
+| 17 | một LLM tự nghĩ (concept "cụ thể") | +113 | −0.00499 |
+
+Ba lần lỗ đều là **phán đoán đơn lẻ**; hai lần lời đều có **bằng chứng độc lập bảo chứng**.
+Xếp hạng nguồn bằng chứng đã đo được trọn vẹn qua ngày hôm nay:
+
+```
+đồng thuận 2 voter độc lập          +0.42 (ranh giới) · +0.87 (thêm concept)
+oracle nội bộ, đúng hướng           +0.11
+một agent soi kỹ có tham chiếu      −0.09
+```
+
+### ⇒ HÀNH ĐỘNG: chạy voter thứ 3 và thứ 4
+Pool đồng thuận càng lớn thì càng nhiều concept đúng để thêm. Với 4 voter:
+- `k≥2` bắt được nhiều hơn hẳn (2 bất kỳ trong 4)
+- `k≥3` mở ra mức chính xác cao hơn cho liều mạnh
+- tín hiệu "không voter nào xác nhận" (dùng cho đãi bỏ) đáng tin hơn nhiều
