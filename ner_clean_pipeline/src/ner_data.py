@@ -26,8 +26,6 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-GT_DIR = ROOT / "data/gt_block"
-IN_DIR = ROOT / "input"
 OUT_DIR = ROOT / "data/ner"
 
 # Cửa sổ tính theo KÝ TỰ, không theo token. Ước lượng: XLM-R ~2.5 ký tự/token với
@@ -55,9 +53,11 @@ def is_noise_training_span(text: str, typ: str) -> bool:
     return False
 
 
-def load_file(fname: str) -> tuple[str, list[tuple[int, int, str, list[str], list[str]]]]:
-    raw = (IN_DIR / fname).read_text(encoding="utf-8")  # KHÔNG normalize
-    ents = json.loads((GT_DIR / fname.replace(".txt", ".json")).read_text(encoding="utf-8"))
+def load_file(
+    fname: str, input_dir: Path, gt_dir: Path
+) -> tuple[str, list[tuple[int, int, str, list[str], list[str]]]]:
+    raw = (input_dir / fname).read_text(encoding="utf-8")  # KHÔNG normalize
+    ents = json.loads((gt_dir / fname.replace(".txt", ".json")).read_text(encoding="utf-8"))
     out = []
     for e in ents:
         s, t = e["position"]
@@ -104,10 +104,10 @@ def cut_windows(raw: str, spans: list) -> list[tuple[int, int]]:
     return bounds
 
 
-def build(files: list[str]) -> list[dict]:
+def build(files: list[str], input_dir: Path, gt_dir: Path) -> list[dict]:
     rows = []
     for fname in files:
-        raw, spans = load_file(fname)
+        raw, spans = load_file(fname, input_dir, gt_dir)
         for a, b in cut_windows(raw, spans):
             inside = [
                 [s - a, t - a, typ, asrt, cand]
@@ -120,15 +120,19 @@ def build(files: list[str]) -> list[dict]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--gt", default=str(ROOT / "data/gt_block"))
+    ap.add_argument("--input", default=str(ROOT / "input"))
     ap.add_argument("--out", default=str(OUT_DIR))
     args = ap.parse_args()
+    gt_dir = Path(args.gt)
+    input_dir = Path(args.input)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
 
     sp = json.loads((ROOT / "data/blocks/split.json").read_text(encoding="utf-8"))
     total_ent = collections.Counter()
     for part in ("train", "val"):
-        rows = build(sp[part]["files"])
+        rows = build(sp[part]["files"], input_dir, gt_dir)
         p = out / f"{part}.jsonl"
         with p.open("w", encoding="utf-8") as fh:
             for r in rows:
@@ -145,7 +149,7 @@ def main() -> None:
     for part in ("train", "val"):
         want = 0
         for f in sp[part]["files"]:
-            _, spans = load_file(f)
+            _, spans = load_file(f, input_dir, gt_dir)
             want += len(spans)
         rows = [json.loads(l) for l in (out / f"{part}.jsonl").read_text("utf-8").splitlines()]
         got = {(r["file"], r["off"] + s[0], r["off"] + s[1]) for r in rows for s in r["spans"]}

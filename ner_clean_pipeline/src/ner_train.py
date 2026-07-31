@@ -30,7 +30,6 @@ import random
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data/ner"
 
 TYPES = (
     "TRIỆU_CHỨNG",
@@ -97,6 +96,7 @@ def encode(rows: list[dict], tok, max_len: int):
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default="xlm-roberta-large")
+    ap.add_argument("--data", default=str(ROOT / "data/ner"))
     ap.add_argument("--out", default=str(ROOT / "models/ner"))
     ap.add_argument("--epochs", type=float, default=20)
     ap.add_argument("--bs", type=int, default=4)
@@ -125,9 +125,11 @@ def main() -> None:
     )
 
     set_seed(args.seed)
+    data_dir = Path(args.data)
     tok = AutoTokenizer.from_pretrained(args.model)
 
-    tr_rows, va_rows = read_jsonl(DATA / "train.jsonl"), read_jsonl(DATA / "val.jsonl")
+    tr_rows = read_jsonl(data_dir / "train.jsonl")
+    va_rows = read_jsonl(data_dir / "val.jsonl")
     if args.all:
         tr_rows = tr_rows + va_rows  # val vẫn dùng làm eval, nhưng nó đã nằm trong train
         print("--all: train trên cả 100 file, số eval CHỈ còn để xem loss, KHÔNG tin được")

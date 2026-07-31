@@ -367,8 +367,10 @@ def main() -> None:
     ap.add_argument("--model", default=str(ROOT / "models/ner"))
     ap.add_argument("--input", default=str(ROOT / "input"))
     ap.add_argument("--out", default=str(ROOT / "submission_ner"))
+    ap.add_argument("--lexicon", default=str(ROOT / "data/kb/gt_lexicon.json"))
     ap.add_argument("--max-len", type=int, default=512)
     ap.add_argument("--device", default=None)
+    ap.add_argument("--use-assert", action="store_true")
     ap.add_argument(
         "--drop-vital-labs",
         action="store_true",
@@ -385,7 +387,7 @@ def main() -> None:
     drugs = load_drugs()
     icd, _, entries = load_icd()
     valid = set(entries)  # tập mã ICD thật tồn tại, cho collapse_group
-    lex = gt_lexicon.load()
+    lex = gt_lexicon.load(args.lexicon)
     print(f"lexicon: {len(drugs)} thuốc, {len(icd)} tên bệnh")
 
     in_dir, out_dir = Path(args.input), Path(args.out)
@@ -398,7 +400,16 @@ def main() -> None:
     total = ncand = 0
     for p in files:
         raw = p.read_text(encoding="utf-8")  # KHÔNG normalize
-        ents = predict_file(raw, pipe, drugs, icd, lex, valid, drop_vital_labs=args.drop_vital_labs)
+        ents = predict_file(
+            raw,
+            pipe,
+            drugs,
+            icd,
+            lex,
+            valid,
+            use_assert=args.use_assert,
+            drop_vital_labs=args.drop_vital_labs,
+        )
         (out_dir / f"{p.stem}.json").write_text(
             json.dumps(ents, ensure_ascii=False, indent=2), encoding="utf-8"
         )

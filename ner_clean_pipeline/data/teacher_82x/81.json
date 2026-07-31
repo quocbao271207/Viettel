@@ -1,0 +1,190 @@
+[
+  {
+    "text": "sảy thai",
+    "position": [
+      78,
+      86
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O03.9"
+    ]
+  },
+  {
+    "text": "hội chứng tăng đông",
+    "position": [
+      140,
+      160
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D68.69"
+    ]
+  },
+  {
+    "text": "thrombophilia",
+    "position": [
+      208,
+      221
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D68.69"
+    ]
+  },
+  {
+    "text": "thuốc chống đông máu",
+    "position": [
+      311,
+      334
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thrombophilia",
+    "position": [
+      364,
+      377
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D68.69"
+    ]
+  },
+  {
+    "text": "thuốc chống đông máu",
+    "position": [
+      517,
+      540
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thrombophilia",
+    "position": [
+      784,
+      797
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D68.69"
+    ]
+  },
+  {
+    "text": "tăng đông máu",
+    "position": [
+      881,
+      894
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sẩy thai",
+    "position": [
+      978,
+      986
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O03.9"
+    ]
+  },
+  {
+    "text": "sinh non",
+    "position": [
+      988,
+      996
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P07.30"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "position": [
+      998,
+      1011
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O14.90"
+    ]
+  },
+  {
+    "text": "thuốc chống đông",
+    "position": [
+      1036,
+      1052
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc chống đông",
+    "position": [
+      1062,
+      1078
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ra máu bất thường",
+    "position": [
+      1124,
+      1141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu khó cầm",
+    "position": [
+      1195,
+      1211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc mạch",
+    "position": [
+      1420,
+      1428
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cục máu đông",
+    "position": [
+      1432,
+      1444
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

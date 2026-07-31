@@ -19,6 +19,7 @@ CHỈ HỌC TỪ TRAIN. Học cả val thì con số val thành vô nghĩa (tự
 from __future__ import annotations
 
 import collections
+import argparse
 import json
 from pathlib import Path
 
@@ -41,13 +42,24 @@ DX, DRUG = "CHẨN_ĐOÁN", "THUỐC"
 MAX_KEY_WORDS = 12
 
 
-def build(split: str = "train") -> dict[str, dict[str, list[str]]]:
+def display_path(path: Path) -> str:
+    path = path.resolve()
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
+def build(
+    gt_dir: Path = ROOT / "data/gt_block", split: str = "train"
+) -> dict[str, dict[str, list[str]]]:
     sp = json.loads((ROOT / "data/blocks/split.json").read_text(encoding="utf-8"))
     votes: dict[tuple[str, str], collections.Counter] = collections.defaultdict(
         collections.Counter
     )
-    for f in sp[split]["files"]:
-        p = ROOT / "data/gt_block" / f.replace(".txt", ".json")
+    files = sp["train"]["files"] + sp["val"]["files"] if split == "all" else sp[split]["files"]
+    for f in files:
+        p = gt_dir / f.replace(".txt", ".json")
         for e in json.loads(p.read_text(encoding="utf-8")):
             if e["type"] in (DX, DRUG) and e["candidates"]:
                 key = e["text"].strip().lower()
@@ -64,19 +76,31 @@ def build(split: str = "train") -> dict[str, dict[str, list[str]]]:
     return out
 
 
-def load() -> dict[str, dict[str, list[str]]]:
-    if not OUT.exists():
+def load(path: str | Path | None = None) -> dict[str, dict[str, list[str]]]:
+    p = Path(path) if path else OUT
+    if not p.exists():
         return {DX: {}, DRUG: {}}
-    return json.loads(OUT.read_text(encoding="utf-8"))
+    return json.loads(p.read_text(encoding="utf-8"))
 
 
 def main() -> None:
-    tab = build()
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--gt", default=str(ROOT / "data/gt_block"))
+    ap.add_argument("--out", default=str(OUT))
+    ap.add_argument(
+        "--split",
+        choices=("train", "val", "all"),
+        default="train",
+        help="train mặc định để tránh rò rỉ khi chấm val; all dùng cho pseudo-label public",
+    )
+    args = ap.parse_args()
+    out = Path(args.out)
+    tab = build(Path(args.gt), args.split)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(
         json.dumps(tab, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8"
     )
-    print(f"{OUT.relative_to(ROOT)}: {len(tab[DX])} chẩn đoán, {len(tab[DRUG])} thuốc")
+    print(f"{display_path(out)}: {len(tab[DX])} chẩn đoán, {len(tab[DRUG])} thuốc")
 
 
 if __name__ == "__main__":

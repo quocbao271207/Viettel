@@ -12,6 +12,15 @@ python3 src/split.py >/dev/null
 python3 src/gt_lexicon.py
 python3 src/ner_data.py | tail -3
 
+TEACHER_ZIP="artifacts/teammate_latest_candidates/82x_cleanroom4_k2.zip"
+if [[ -f "$TEACHER_ZIP" ]]; then
+  python3 src/teacher_from_zip.py --zip "$TEACHER_ZIP" --out data/teacher_82x
+  python3 src/gt_lexicon.py --gt data/teacher_82x --out data/kb/gt_lexicon_teacher_82x.json --split all
+  python3 src/ner_data.py --gt data/teacher_82x --out data/ner_teacher_82x | tail -3
+else
+  echo "WARN: không thấy $TEACHER_ZIP, bỏ qua data teacher_82x"
+fi
+
 mkdir -p artifacts
 OUT="artifacts/viettel_colab_data.zip"
 python3 - <<'PY'
@@ -23,13 +32,17 @@ out = root / "artifacts" / "viettel_colab_data.zip"
 paths = [
     "src",
     "data/ner",
+    "data/ner_teacher_82x",
     "data/kb/icd10.json",
     "data/kb/rxnorm_drugs.json",
     "data/kb/gt_lexicon.json",
+    "data/kb/gt_lexicon_teacher_82x.json",
     "data/blocks/split.json",
     "data/gt_block",
+    "data/teacher_82x",
     "input",
     "requirements.txt",
+    "colab/viettel_distill_82x_colab.ipynb",
 ]
 
 def keep(p: Path) -> bool:
@@ -43,6 +56,8 @@ def keep(p: Path) -> bool:
 with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as zf:
     for rel in paths:
         p = root / rel
+        if not p.exists():
+            continue
         if p.is_dir():
             for f in sorted(p.rglob("*")):
                 if f.is_file() and keep(f.relative_to(root)):
