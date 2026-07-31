@@ -21,6 +21,13 @@ else
   echo "WARN: không thấy $TEACHER_ZIP, bỏ qua data teacher_82x"
 fi
 
+TEACHER85_ZIP="artifacts/teammate_latest_candidates/85_cleanroom_curated_assert.zip"
+if [[ -f "$TEACHER85_ZIP" ]]; then
+  python3 src/teacher_from_zip.py --zip "$TEACHER85_ZIP" --out data/teacher_85
+else
+  echo "WARN: không thấy $TEACHER85_ZIP, bỏ qua data teacher_85"
+fi
+
 mkdir -p artifacts
 OUT="artifacts/viettel_colab_data.zip"
 python3 - <<'PY'
@@ -40,6 +47,7 @@ paths = [
     "data/blocks/split.json",
     "data/gt_block",
     "data/teacher_82x",
+    "data/teacher_85",
     "input",
     "requirements.txt",
     "colab/viettel_distill_82x_colab.ipynb",
