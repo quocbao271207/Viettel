@@ -1,0 +1,536 @@
+[
+  {
+    "text": "THIẾU MEN G6PD",
+    "position": [
+      0,
+      14
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      27,
+      41
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      55,
+      69
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu hụt men G6PD",
+    "position": [
+      548,
+      566
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D75.A"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1019,
+      1033
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1137,
+      1151
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1229,
+      1243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1371,
+      1385
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1497,
+      1511
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Sốt cao",
+    "position": [
+      1632,
+      1639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tim đập nhanh",
+    "position": [
+      1669,
+      1682
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1684,
+      1691
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vàng da",
+    "position": [
+      1695,
+      1702
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      1704,
+      1712
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu do tan huyết",
+    "position": [
+      1758,
+      1780
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D59.9"
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      1821,
+      1830
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D64.9"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1832,
+      1839
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      1840,
+      1848
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thận cấp",
+    "position": [
+      1861,
+      1873
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N17.9"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1904,
+      1911
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương thần kinh",
+    "position": [
+      1945,
+      1965
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bại não",
+    "position": [
+      1995,
+      2002
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G80.9"
+    ]
+  },
+  {
+    "text": "chậm phát triển trí tuệ",
+    "position": [
+      2004,
+      2027
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F79"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      2126,
+      2135
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      2150,
+      2159
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D64.9"
+    ]
+  },
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      2276,
+      2290
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu máu tan huyết",
+    "position": [
+      2464,
+      2483
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D59.9"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      2501,
+      2508
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      2517,
+      2531
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Bại não",
+    "position": [
+      2581,
+      2588
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G80.9"
+    ]
+  },
+  {
+    "text": "Chậm phát triển trí tuệ",
+    "position": [
+      2592,
+      2615
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F79"
+    ]
+  },
+  {
+    "text": "Rối loạn vận động",
+    "position": [
+      2619,
+      2636
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G25.9"
+    ]
+  },
+  {
+    "text": "thiếu máu tan huyết",
+    "position": [
+      2696,
+      2715
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D59.9"
+    ]
+  },
+  {
+    "text": "vàng da sơ sinh",
+    "position": [
+      2728,
+      2743
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      2864,
+      2878
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      2983,
+      2992
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3079,
+      3093
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3268,
+      3282
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3317,
+      3331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Nhiễm khuẩn",
+    "position": [
+      3399,
+      3410
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A49.9"
+    ]
+  },
+  {
+    "text": "nhiễm virus",
+    "position": [
+      3412,
+      3423
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B34.9"
+    ]
+  },
+  {
+    "text": "Vitamin K",
+    "position": [
+      3583,
+      3592
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn tiết niệu",
+    "position": [
+      3613,
+      3634
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      3819,
+      3828
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3880,
+      3894
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      4186,
+      4200
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      4229,
+      4243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  }
+]

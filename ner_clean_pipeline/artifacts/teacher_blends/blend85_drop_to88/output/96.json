@@ -1,0 +1,56 @@
+[
+  {
+    "text": "tắc hẹp 80% động mạch thận trái",
+    "position": [
+      107,
+      138
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I70.1"
+    ]
+  },
+  {
+    "text": "tắc hẹp 80% động mạch thận trái",
+    "position": [
+      236,
+      267
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I70.1"
+    ]
+  },
+  {
+    "text": "Môi bong vẩy trắng",
+    "position": [
+      592,
+      610
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "môi khô",
+    "position": [
+      635,
+      642
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vitamin C",
+    "position": [
+      1301,
+      1310
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]
