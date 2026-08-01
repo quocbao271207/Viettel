@@ -1,0 +1,1161 @@
+{
+ "CHẨN_ĐOÁN": {
+  "amyloidosis": [
+   "E85.9"
+  ],
+  "biến dạng xương khớp": [
+   "M95.9"
+  ],
+  "bàn chân bẹt": [
+   "M21.40"
+  ],
+  "bàng quang thần kinh": [
+   "N31.9"
+  ],
+  "béo phì": [
+   "E66.9"
+  ],
+  "bạch biến": [
+   "L80"
+  ],
+  "bại não": [
+   "G80.9"
+  ],
+  "bất thường sắc tố": [
+   "L81.9"
+  ],
+  "bệnh amyloidosis": [
+   "E85.9"
+  ],
+  "bệnh ba thân động mạch vành": [
+   "I25.10"
+  ],
+  "bệnh bàn chân bẹt": [
+   "M21.40"
+  ],
+  "bệnh bạch cầu dòng tủy mãn tính": [
+   "C92.10"
+  ],
+  "bệnh dại": [
+   "A82.9"
+  ],
+  "bệnh gan do rượu": [
+   "K70.9"
+  ],
+  "bệnh gout mạn tính": [
+   "M1A.9XX0"
+  ],
+  "bệnh graves": [
+   "E05.00"
+  ],
+  "bệnh gút": [
+   "M10.9"
+  ],
+  "bệnh kawasaki": [
+   "M30.3"
+  ],
+  "bệnh lý chất trắng": [
+   "R90.82"
+  ],
+  "bệnh lý thần kinh ngoại biên": [
+   "G62.9"
+  ],
+  "bệnh lý đau nửa đầu": [
+   "G43.909"
+  ],
+  "bệnh mạch máu ngoại biên": [
+   "I73.9"
+  ],
+  "bệnh mạch vành": [
+   "I25.10"
+  ],
+  "bệnh phổi kẽ": [
+   "J84.9"
+  ],
+  "bệnh phổi tắc nghẽn mạn tính": [
+   "J44.9"
+  ],
+  "bệnh thoái hóa tinh bột": [
+   "E85.9"
+  ],
+  "bệnh thận mạn": [
+   "N18.9"
+  ],
+  "bệnh thận mạn tính": [
+   "N18.9"
+  ],
+  "bệnh tim mạch": [
+   "I51.9"
+  ],
+  "bệnh tim mạch do xơ vữa động mạch": [
+   "I25.10"
+  ],
+  "bệnh tiểu đường": [
+   "E11.9"
+  ],
+  "bệnh trĩ": [
+   "K64.9"
+  ],
+  "bệnh đa xơ cứng": [
+   "G35.D"
+  ],
+  "bệnh động mạch vành": [
+   "I25.10"
+  ],
+  "cad": [
+   "I25.10"
+  ],
+  "chèn ép tim": [
+   "I31.4"
+  ],
+  "chậm phát triển trí tuệ": [
+   "F79"
+  ],
+  "cml": [
+   "C92.10"
+  ],
+  "coronary artery disease": [
+   "I25.10"
+  ],
+  "cơn dại": [
+   "A82.9"
+  ],
+  "cơn gout cấp": [
+   "M10.00"
+  ],
+  "cơn tim nhanh nhĩ": [
+   "I47.10"
+  ],
+  "cơn đau thắt ngực không ổn định": [
+   "I20.0"
+  ],
+  "dvt": [
+   "I82.409"
+  ],
+  "dị tật bẩm sinh": [
+   "Q89.9"
+  ],
+  "dị tật còn ống động mạch": [
+   "Q25.0"
+  ],
+  "dị vật đường thở": [
+   "T17.900A"
+  ],
+  "dị ứng": [
+   "T78.40XA"
+  ],
+  "dị ứng thời tiết": [
+   "T78.40XA"
+  ],
+  "gen đông máu": [
+   "D68.69"
+  ],
+  "ghép thận thất bại": [
+   "T86.12"
+  ],
+  "giãn phế quản": [
+   "J47.9"
+  ],
+  "giãn thừng tinh": [
+   "I86.1"
+  ],
+  "giả gout": [
+   "M11.20"
+  ],
+  "giảm chức năng tâm thu thất trái": [
+   "I50.20"
+  ],
+  "gout": [
+   "M10.9"
+  ],
+  "gãy xương": [
+   "M89.50"
+  ],
+  "hohl": [
+   "I34.0"
+  ],
+  "hoại tử": [
+   "I96"
+  ],
+  "hoại tử nhu mô phổi": [
+   "J85.0"
+  ],
+  "huyết khối": [
+   "I82.90"
+  ],
+  "huyết khối tĩnh mạch sâu": [
+   "I82.409"
+  ],
+  "hưng cảm": [
+   "F30.9"
+  ],
+  "hẹp lỗ liên hợp": [
+   "M48.00"
+  ],
+  "hẹp tắc mạch vành": [
+   "I25.10"
+  ],
+  "hẹp ống sống": [
+   "M48.00"
+  ],
+  "hẹp – tắc động mạch vành": [
+   "I25.10"
+  ],
+  "hội chứng tăng đông": [
+   "D68.69"
+  ],
+  "hội chứng buồng trứng đa nang": [
+   "E28.2"
+  ],
+  "hội chứng bàn chân bẹt bẩm sinh": [
+   "Q66.50"
+  ],
+  "hội chứng kháng enzym tổng hợp protein": [
+   "D68.51"
+  ],
+  "hội chứng nghiện rượu": [
+   "F10.20"
+  ],
+  "hội chứng parkinson": [
+   "G20.C"
+  ],
+  "hội chứng ruột kích thích": [
+   "K58.9"
+  ],
+  "hội chứng thận hư": [
+   "N04.9"
+  ],
+  "hội chứng turner": [
+   "Q96.9"
+  ],
+  "hội chứng vành cấp": [
+   "I24.9"
+  ],
+  "hở ba lá": [
+   "I36.1"
+  ],
+  "hở chủ": [
+   "I35.1"
+  ],
+  "hở hai lá": [
+   "I34.0"
+  ],
+  "kawasaki": [
+   "M30.3"
+  ],
+  "không rụng trứng": [
+   "N97.0"
+  ],
+  "khối u lành tính": [
+   "D36.9"
+  ],
+  "khối u trực tràng": [
+   "D37.5"
+  ],
+  "liệt hai chi dưới": [
+   "G82.20"
+  ],
+  "loãng xương": [
+   "M81.0"
+  ],
+  "loét thực quản": [
+   "K22.10"
+  ],
+  "loét tá tràng": [
+   "K26.9"
+  ],
+  "loét tì đè giai đoạn iv mãn tính": [
+   "L89.894"
+  ],
+  "loạn thần": [
+   "F29"
+  ],
+  "lạm dụng chất kích thích": [
+   "F15.10"
+  ],
+  "mang thai ngoài tử cung": [
+   "O00.90"
+  ],
+  "mày đay": [
+   "L50.9"
+  ],
+  "mày đay mạn": [
+   "L50.8"
+  ],
+  "mày đay mạn tính": [
+   "L50.8"
+  ],
+  "mày đay vô căn": [
+   "L50.1"
+  ],
+  "mề đay": [
+   "L50.9"
+  ],
+  "mụn": [
+   "L70.9"
+  ],
+  "mụn trứng cá": [
+   "L70.9"
+  ],
+  "nang màng nhện": [
+   "G93.0"
+  ],
+  "ngoại tâm thu nhĩ": [
+   "I49.1"
+  ],
+  "ngoại tâm thu thất": [
+   "I49.3"
+  ],
+  "ngưng thở khi ngủ": [
+   "G47.30"
+  ],
+  "ngưng thở khi ngủ do tắc nghẽn": [
+   "G47.33"
+  ],
+  "ngừng thở khi ngủ": [
+   "G47.30"
+  ],
+  "nhiễm khuẩn": [
+   "A49.9"
+  ],
+  "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin": [
+   "A41.01"
+  ],
+  "nhiễm khuẩn tiết niệu": [
+   "N39.0"
+  ],
+  "nhiễm khuẩn đường tiêu hóa": [
+   "A09"
+  ],
+  "nhiễm khuẩn đường tiết niệu": [
+   "N39.0"
+  ],
+  "nhiễm khuẩn đường tiết niệu tái phát": [
+   "N39.0"
+  ],
+  "nhiễm nấm": [
+   "B49"
+  ],
+  "nhiễm trùng": [
+   "B99.9"
+  ],
+  "nhiễm trùng huyết": [
+   "A41.9"
+  ],
+  "nhiễm trùng huyết đường vào tiết niệu": [
+   "A41.9"
+  ],
+  "nhiễm trùng lợi": [
+   "K05.10"
+  ],
+  "nhiễm trùng máu": [
+   "A41.9"
+  ],
+  "nhiễm trùng răng miệng": [
+   "K12.2"
+  ],
+  "nhiễm trùng đường hô hấp trên": [
+   "J06.9"
+  ],
+  "nhiễm trùng đường tiết niệu": [
+   "N39.0"
+  ],
+  "nhiễm vi khuẩn nặng": [
+   "A49.9"
+  ],
+  "nhiễm virus": [
+   "B34.9"
+  ],
+  "nhiễm virus herpes simplex": [
+   "B00.9"
+  ],
+  "nhịp chậm xoang": [
+   "R00.1"
+  ],
+  "nhịp nhanh trên thất": [
+   "I47.10"
+  ],
+  "nhồi máu": [
+   "R04.2"
+  ],
+  "nhồi máu cơ tim": [
+   "I21.9"
+  ],
+  "nhồi máu cơ tim st chênh": [
+   "I21.3"
+  ],
+  "nhồi máu không st chênh": [
+   "I21.4"
+  ],
+  "não úng thuỷ": [
+   "G91.9"
+  ],
+  "não úng thủy": [
+   "G91.9"
+  ],
+  "não úng tuỷ": [
+   "G91.9"
+  ],
+  "nấm bẹn": [
+   "B35.6"
+  ],
+  "nốt sần tuyến giáp phải": [
+   "E04.1"
+  ],
+  "parkinson": [
+   "G20.C"
+  ],
+  "phình giãn động mạch vành": [
+   "I25.41"
+  ],
+  "phù phổi cấp": [
+   "J81.0"
+  ],
+  "rll pna": [
+   "J18.9"
+  ],
+  "rung nhĩ": [
+   "I48.91"
+  ],
+  "rung nhĩ kèm đáp ứng thất nhanh": [
+   "I48.91"
+  ],
+  "rối loạn chuyển hóa tinh bột": [
+   "E74.9"
+  ],
+  "rối loạn chức năng thất trái": [
+   "I50.1"
+  ],
+  "rối loạn cảm xúc": [
+   "F39"
+  ],
+  "rối loạn lipid máu": [
+   "E78.5"
+  ],
+  "rối loạn lo âu": [
+   "F41.9"
+  ],
+  "rối loạn lưỡng cực": [
+   "F31.9"
+  ],
+  "rối loạn tiêu hóa": [
+   "K92.9"
+  ],
+  "rối loạn vận động": [
+   "G25.9"
+  ],
+  "rụng tóc": [
+   "L65.9"
+  ],
+  "rụng tóc toàn bộ": [
+   "L63.0"
+  ],
+  "rụng tóc toàn thể": [
+   "L63.1"
+  ],
+  "rụng tóc từng mảng": [
+   "L63.9"
+  ],
+  "rụng tóc từng vùng": [
+   "L63.9"
+  ],
+  "sinh non": [
+   "P07.30"
+  ],
+  "suy giảm chức năng gan": [
+   "K72.90"
+  ],
+  "suy giảm miễn dịch": [
+   "D84.9"
+  ],
+  "suy hô hấp": [
+   "J96.90"
+  ],
+  "suy thoái võng mạc": [
+   "H35.9"
+  ],
+  "suy thận": [
+   "N19"
+  ],
+  "suy thận cấp": [
+   "N17.9"
+  ],
+  "suy thận mạn giai đoạn v": [
+   "N18.5"
+  ],
+  "suy tim": [
+   "I50.9"
+  ],
+  "suy vành mạn tính": [
+   "I25.9"
+  ],
+  "sâu răng": [
+   "K02.9"
+  ],
+  "sạm da": [
+   "L81.4"
+  ],
+  "sảy thai": [
+   "O03.9"
+  ],
+  "sẩy thai": [
+   "O03.9"
+  ],
+  "sỏi": [
+   "R06.83"
+  ],
+  "sỏi mật": [
+   "K80.20"
+  ],
+  "sỏi niệu quản": [
+   "N20.1"
+  ],
+  "sỏi thận": [
+   "N20.0"
+  ],
+  "sỏi tại đoạn cuối ống mật chủ": [
+   "K80.50"
+  ],
+  "sỏi đoạn cuối ống mật chủ": [
+   "K80.50"
+  ],
+  "sỏi đài bể thận": [
+   "N20.0"
+  ],
+  "sỏi ống dẫn mật chung đoạn cuối": [
+   "K80.50"
+  ],
+  "sỏi ống mật": [
+   "K80.50"
+  ],
+  "sốt phát ban": [
+   "B09"
+  ],
+  "sốt siêu vi": [
+   "B34.9"
+  ],
+  "sừng hóa nang lông bất thường": [
+   "L11.0"
+  ],
+  "tai biến mạch máu não": [
+   "I63.9"
+  ],
+  "teo niêm mạc tử cung": [
+   "N85.8"
+  ],
+  "thiếu hụt men g6pd": [
+   "D75.A"
+  ],
+  "thiếu hụt vitamin k": [
+   "E56.1"
+  ],
+  "thiếu men g6pd": [
+   "D55.0"
+  ],
+  "thiếu máu": [
+   "D64.9"
+  ],
+  "thiếu máu cơ tim": [
+   "I25.9"
+  ],
+  "thiếu máu do tan huyết": [
+   "D59.9"
+  ],
+  "thiếu máu tan huyết": [
+   "D59.9"
+  ],
+  "thiếu oxy cơ tim": [
+   "I25.9"
+  ],
+  "thiểu sản vành tai": [
+   "Q17.2"
+  ],
+  "thoái hóa tinh bột": [
+   "E85.9"
+  ],
+  "thrombophilia": [
+   "D68.69"
+  ],
+  "thuyên tắc phổi": [
+   "I26.99"
+  ],
+  "tim to": [
+   "I51.7"
+  ],
+  "tiền sản giật": [
+   "O14.90"
+  ],
+  "tiền sản giật": [
+   "O14.90"
+  ],
+  "tiểu đường": [
+   "E11.9"
+  ],
+  "tiểu đường loại 1": [
+   "E10.9"
+  ],
+  "tràn dịch màng ngoài tim": [
+   "I31.39"
+  ],
+  "tràn dịch màng phổi": [
+   "J90"
+  ],
+  "tràn dịch màng phổi trái": [
+   "J90"
+  ],
+  "tràn dịch màng tim": [
+   "I31.39"
+  ],
+  "trào ngược dạ dày thực quản": [
+   "K21.9"
+  ],
+  "trầm cảm": [
+   "F32.A"
+  ],
+  "trứng cá": [
+   "L70.9"
+  ],
+  "tàn nhang": [
+   "L81.2"
+  ],
+  "táo bón mãn tính": [
+   "K59.04"
+  ],
+  "tâm phế mạn": [
+   "I27.81"
+  ],
+  "tăng bilirubin máu": [
+   "E80.7"
+  ],
+  "tăng cholesterol máu đơn thuần": [
+   "E78.00"
+  ],
+  "tăng ha": [
+   "I10"
+  ],
+  "tăng ha vô căn": [
+   "I10"
+  ],
+  "tăng ha độ iii": [
+   "I10"
+  ],
+  "tăng huyết áp": [
+   "I10"
+  ],
+  "tăng huyết áp nguyên phát": [
+   "I10"
+  ],
+  "tăng huyết áp vô căn": [
+   "I10"
+  ],
+  "tăng kali máu": [
+   "E87.5"
+  ],
+  "tăng lipid máu": [
+   "E78.5"
+  ],
+  "tăng men gan": [
+   "R74.01"
+  ],
+  "tăng nhãn áp": [
+   "H40.059"
+  ],
+  "tăng sản tuyến bã nhờn": [
+   "L73.8"
+  ],
+  "tăng sản tuyến tiền liệt": [
+   "N40.0"
+  ],
+  "tăng áp lực tĩnh mạch cửa": [
+   "K76.6"
+  ],
+  "tăng áp lực động mạch phổi": [
+   "I27.20"
+  ],
+  "tăng đông máu": [
+   "D68.69"
+  ],
+  "tắc hẹp 80% động mạch thận trái": [
+   "I70.1"
+  ],
+  "tắc ống dẫn trứng": [
+   "N97.1"
+  ],
+  "tịt ống tai ngoài bẩm sinh": [
+   "Q16.1"
+  ],
+  "tổn thương chi dưới": [
+   "T70.1XXD"
+  ],
+  "tổn thương cầu thận mạn tính": [
+   "N03.9"
+  ],
+  "tổn thương màng phổi": [
+   "J94.9"
+  ],
+  "tổn thương sụn chêm": [
+   "M23.309"
+  ],
+  "tụ máu dưới màng cứng mạn tính": [
+   "I62.03"
+  ],
+  "tụ máu ngoài màng cứng phải cấp tính": [
+   "I62.1"
+  ],
+  "u dây thần kinh số viii": [
+   "D33.3"
+  ],
+  "u nang tuyến vú": [
+   "N60.09"
+  ],
+  "u tuyến": [
+   "D36.9"
+  ],
+  "u xơ tuyến vú": [
+   "D24.9"
+  ],
+  "u ác của tuyến tiền liệt": [
+   "C61"
+  ],
+  "u ác trực tràng": [
+   "C20"
+  ],
+  "ung thư": [
+   "C80.1"
+  ],
+  "ung thư biểu mô tuyến": [
+   "C80.1"
+  ],
+  "ung thư biểu mô tuyến đại tràng": [
+   "C18.9"
+  ],
+  "ung thư biểu mô tế bào mật": [
+   "C22.1"
+  ],
+  "ung thư biểu mô tế bào vảy xâm nhập của dương vật": [
+   "C60.9"
+  ],
+  "ung thư cổ tử cung": [
+   "C53.9"
+  ],
+  "ung thư di căn theo đường bạch huyết ở hai phổi": [
+   "C78.00"
+  ],
+  "ung thư máu": [
+   "C95.90"
+  ],
+  "ung thư tuyến giáp": [
+   "C73"
+  ],
+  "ung thư tuyến đại tràng": [
+   "C18.9"
+  ],
+  "ung thư vú di căn": [
+   "C50.919"
+  ],
+  "ung thư đường mật": [
+   "C24.9"
+  ],
+  "ung thư đại tràng": [
+   "C18.9"
+  ],
+  "utis": [
+   "N39.0"
+  ],
+  "van động mạch chủ cơ học": [
+   "Z95.2"
+  ],
+  "viêm bao tử": [
+   "K29.70"
+  ],
+  "viêm bể thận": [
+   "N12"
+  ],
+  "viêm cơ tim": [
+   "I51.4"
+  ],
+  "viêm cầu thận": [
+   "N05.9"
+  ],
+  "viêm cầu thận mạn": [
+   "N03.9"
+  ],
+  "viêm da tiếp xúc": [
+   "L25.9"
+  ],
+  "viêm da tiếp xúc dị ứng": [
+   "L23.9"
+  ],
+  "viêm dạ dày": [
+   "K29.70"
+  ],
+  "viêm dạ dày ruột do virus": [
+   "A08.4"
+  ],
+  "viêm gan b": [
+   "B19.10"
+  ],
+  "viêm gan cấp tính do virus b": [
+   "B16.9"
+  ],
+  "viêm hang vị sung huyết": [
+   "K29.70"
+  ],
+  "viêm họng cấp": [
+   "J02.9"
+  ],
+  "viêm khớp dạng thấp": [
+   "M06.9"
+  ],
+  "viêm loét đại tràng": [
+   "K51.90"
+  ],
+  "viêm mô tế bào": [
+   "L03.90"
+  ],
+  "viêm nang lông": [
+   "L73.9"
+  ],
+  "viêm nha chu": [
+   "K05.30"
+  ],
+  "viêm nhiễm ngoài da": [
+   "L08.9"
+  ],
+  "viêm phế quản": [
+   "J40"
+  ],
+  "viêm phổi": [
+   "J18.9"
+  ],
+  "viêm phổi bệnh viện": [
+   "J18.9"
+  ],
+  "viêm phổi hoại tử": [
+   "J85.0"
+  ],
+  "viêm phổi kẽ": [
+   "J84.9"
+  ],
+  "viêm phổi thùy dưới phải": [
+   "J18.1"
+  ],
+  "viêm quanh răng": [
+   "K05.30"
+  ],
+  "viêm sung huyết hang vị dạ dày": [
+   "K29.70"
+  ],
+  "viêm teo niêm mạc dạ dày": [
+   "K29.40"
+  ],
+  "viêm thực quản độ c": [
+   "K20.90"
+  ],
+  "viêm tim": [
+   "I51.4"
+  ],
+  "viêm tuyến mồ hôi": [
+   "L73.2"
+  ],
+  "viêm tuỷ xương": [
+   "M86.9"
+  ],
+  "viêm túi mật": [
+   "K81.9"
+  ],
+  "viêm túi mật cấp": [
+   "K81.0"
+  ],
+  "viêm tại chỗ": [
+   "L08.9"
+  ],
+  "viêm tụy": [
+   "K85.90"
+  ],
+  "viêm tủy xương": [
+   "M86.9"
+  ],
+  "viêm tủy xương mãn tính": [
+   "M86.60"
+  ],
+  "viêm xoang": [
+   "J32.9"
+  ],
+  "viêm xương tủy": [
+   "M86.9"
+  ],
+  "vp": [
+   "J18.9"
+  ],
+  "vpht": [
+   "D68.01"
+  ],
+  "vô sinh": [
+   "P95"
+  ],
+  "vô sinh thứ phát": [
+   "N97.9"
+  ],
+  "xhth": [
+   "K92.2"
+  ],
+  "xuất huyết dưới nhện": [
+   "I60.9"
+  ],
+  "xuất huyết tiêu hóa": [
+   "K92.2"
+  ],
+  "xơ gan do rượu": [
+   "K70.30"
+  ],
+  "xơ vữa động mạch": [
+   "I70.90"
+  ],
+  "xơ vữa động mạch vành": [
+   "I25.10"
+  ],
+  "xẹp phổi thùy dưới phải": [
+   "J98.11"
+  ],
+  "áp xe": [
+   "L02.91"
+  ],
+  "áp xe phổi": [
+   "J85.2"
+  ],
+  "áp-xe nhỏ": [
+   "L02.91"
+  ],
+  "áp-xe phổi": [
+   "J85.2"
+  ],
+  "ăng huyết áp": [
+   "I10"
+  ],
+  "đa u tủy": [
+   "C90.00"
+  ],
+  "đau thắt ngực không ổn định": [
+   "I20.0"
+  ],
+  "đau thắt ngực ổn định": [
+   "I20.9"
+  ],
+  "đay vô căn": [
+   "L50.1"
+  ],
+  "đtd typ ii": [
+   "E11.9"
+  ],
+  "đtđ": [
+   "E11.9"
+  ],
+  "đái tháo đường": [
+   "E11.9"
+  ],
+  "đái tháo đường typ ii": [
+   "E11.9"
+  ],
+  "đái tháo đường típ 2": [
+   "E11.9"
+  ],
+  "đại tràng giãn": [
+   "K59.39"
+  ],
+  "đột quỵ": [
+   "I63.9"
+  ],
+  "đột tử": [
+   "R57.9"
+  ],
+  "đợt cấp copd": [
+   "J44.1"
+  ],
+  "ổ loét trong bao tử": [
+   "K25.9"
+  ]
+ },
+ "THUỐC": {
+  "10mg iv diltiazem": [
+   "3443"
+  ],
+  "1mg dilaudid": [
+   "897771"
+  ],
+  "80mg lasix iv": [
+   "197732"
+  ],
+  "80mg po lasix": [
+   "197732"
+  ],
+  "8mg morphine": [
+   "7052"
+  ],
+  "acetaminophen 500mg": [
+   "161"
+  ],
+  "albuterol": [
+   "435"
+  ],
+  "aleve": [
+   "7258"
+  ],
+  "allopurinol": [
+   "519"
+  ],
+  "aspirin": [
+   "1191"
+  ],
+  "aspirin 325mg": [
+   "1191"
+  ],
+  "aspirin 325mg x 1": [
+   "1191"
+  ],
+  "atenolol": [
+   "1202"
+  ],
+  "augmentin": [
+   "723"
+  ],
+  "azithromycin": [
+   "18631"
+  ],
+  "bactrim": [
+   "10180"
+  ],
+  "bumetanide 2mg iv": [
+   "197419"
+  ],
+  "carvedilol": [
+   "20352"
+  ],
+  "ceftriaxone 1 gram": [
+   "2193"
+  ],
+  "ceftriaxone 1g": [
+   "2193"
+  ],
+  "cephalexin": [
+   "2231"
+  ],
+  "clonidine": [
+   "2599"
+  ],
+  "compazine": [
+   "8704"
+  ],
+  "coumadin": [
+   "11289"
+  ],
+  "crestor": [
+   "301542"
+  ],
+  "doxycycline": [
+   "3640"
+  ],
+  "eliquis": [
+   "1364430"
+  ],
+  "furosemide": [
+   "4603"
+  ],
+  "gleevec": [
+   "282388"
+  ],
+  "insulin glargine": [
+   "274783"
+  ],
+  "ipratropium": [
+   "7213"
+  ],
+  "isosorbide": [
+   "6057"
+  ],
+  "kháng vitamin k": [
+   "11258"
+  ],
+  "klonopin": [
+   "2598"
+  ],
+  "levofloxacin 750mg iv": [
+   "311296"
+  ],
+  "levothyroxine": [
+   "10582"
+  ],
+  "lorazepam": [
+   "6470"
+  ],
+  "medrol 16mg": [
+   "328161"
+  ],
+  "methadone": [
+   "6813"
+  ],
+  "methylprednisolone 125mg iv": [
+   "1743704"
+  ],
+  "metoclopramide": [
+   "6915"
+  ],
+  "metoclopramide 10mg": [
+   "6915"
+  ],
+  "metoprolol": [
+   "6918"
+  ],
+  "metoprolol 25mg po bid": [
+   "866924"
+  ],
+  "morphine": [
+   "7052"
+  ],
+  "mucinex d": [
+   "5032"
+  ],
+  "nitroglycerin": [
+   "4917"
+  ],
+  "omeprazole": [
+   "7646"
+  ],
+  "po metoprolol": [
+   "6918"
+  ],
+  "rosuvastatin": [
+   "301542"
+  ],
+  "seroquel": [
+   "51272"
+  ],
+  "suboxone": [
+   "1819"
+  ],
+  "thuốc kháng vitamin k": [
+   "11258"
+  ],
+  "torsemide": [
+   "38413"
+  ],
+  "tylenol": [
+   "161"
+  ],
+  "tylenol 1 gram": [
+   "161"
+  ],
+  "vancomycin": [
+   "11124"
+  ],
+  "vancomycin 1 gram": [
+   "11124"
+  ],
+  "zestril 10mg": [
+   "314076"
+  ],
+  "zosyn": [
+   "8339"
+  ]
+ }
+}
